@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="1978446f-16a6-4e34-b796-e59087ac9b09" totalScore="20" totalTime="20" name="89" resultTime="0" bShowAns="1" Diffcult="10" Type="自主选题">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="24d4532d-5e15-4481-9680-442053bdfd25" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;
+	hfg&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>bdfg</prompt>
+            <choices>
+              <choice id="A">fd</choice>
+              <choice id="B">fds</choice>
+              <choice id="C">fsd</choice>
+              <choice id="D">fs</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>df</Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="84f0d450-dd38-4bbf-a30e-0d10d8cf51eb" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="5" Course="" Unit="">
+        <soundFile>84f0d450-dd38-4bbf-a30e-0d10d8cf51eb</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">r</choice>
+              <choice id="B">r</choice>
+              <choice id="C">r</choice>
+              <choice id="D">r</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>fgd</Tip>
+            <Script>f</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fsdf&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

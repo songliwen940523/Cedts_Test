@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Paper UserID="751" UpdateUserID="751" PaperID="484c442e-1e91-42de-b554-b8f47bf63297" totalScore="4" totalTime="1" name="我" resultTime="0" bShowAns="1" Diffcult="4" Type="知识点弱项组卷">
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="4" Time="1">
+      <AssessmentItem ItemID="f2044ecf-af16-4b23-940d-b9049ef1d9ef" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="4" ReplyTime="1" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	An earthquake hit Kashmir on Oct. 8, 2005. it took some 75,000 lives,&amp;nbsp;(_&lt;span style='color:Red'&gt;injured &lt;/span&gt;_) 130,000 and left nearly 3.5 million without food, jobs or homes.&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;Almost&lt;/span&gt;_)overnight, scores of tent villages bloomed&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;across&lt;/span&gt;_)the region, tended by international aid organizations, military&amp;nbsp;(_4_) and aid groups working day and night to shelter the survivors before winter set&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;in&lt;/span&gt;_).&lt;br /&gt;&lt;br/&gt;	Mercifully, the season was mild. But with the&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;arrival&lt;/span&gt;_)of spring the refugees will be moved again. Camps that&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;provided&lt;/span&gt;_)&lt;br /&gt;&lt;br/&gt;	health care, food and shelter for 150,000 survivors have begun to close as they were (_&lt;span style='color:Red'&gt;never&lt;/span&gt;_)intended to be permanent.&lt;br /&gt;&lt;br/&gt;	For most of the refugees, the thought of going back brings&amp;nbsp;(_&lt;span style='color:Red'&gt;mixed&lt;/span&gt;_) emotions. The past six months have been difficult. Families of (_&lt;span style='color:Red'&gt;as&lt;/span&gt;_)many as 10 people have had to shelter&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;under&lt;/span&gt;_) a single tent and share cookstoves and bathing&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;facilities&lt;/span&gt;_)&lt;br /&gt;&lt;br/&gt;	with neighbors. &amp;ldquo;They are looking forward to the clean water of their rivers,&amp;rdquo; officials say. &amp;ldquo;They are&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;dreaming&lt;/span&gt;_)of free fresh fruit. They want to get back to their herds and start (_&lt;span style='color:Red'&gt;farming&lt;/span&gt;_)again.&amp;rdquo; But most will be returning to&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;nothing&lt;/span&gt;_)&lt;br /&gt;&lt;br/&gt;	but heaps of ruins. In many villages, electrical&amp;nbsp;(_&lt;span style='color:Red'&gt;lines&lt;/span&gt;_)have not been repaired, nor have roads. Aid workers&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;up&lt;/span&gt;_)&lt;br /&gt;&lt;br/&gt;	that it will take years to rebuild what the earthquake took&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;away&lt;/span&gt;_).And for the thousands of survivors, the&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;recovery&lt;/span&gt;_)&lt;br /&gt;&lt;br/&gt;	will never be complete.&lt;br /&gt;&lt;br/&gt;	Yet the survivors have to start somewhere. New homes can be built&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;from&lt;/span&gt;_) the stones, bricks and beams of old ones. Spring is coming and it is a good time to start again.&lt;/p&gt;&lt;br/&gt;</Content>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">ranks</choice>
+              <choice id="B">equipment</choice>
+              <choice id="C">personnel</choice>
+              <choice id="D">installations</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

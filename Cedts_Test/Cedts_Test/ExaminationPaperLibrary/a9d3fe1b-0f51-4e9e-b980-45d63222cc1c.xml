@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="a9d3fe1b-0f51-4e9e-b980-45d63222cc1c" totalScore="76" totalTime="10" name="f" resultTime="0" bShowAns="1" Diffcult="76" Type="按知识点组卷">
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="76" Time="10">
+      <AssessmentItem ItemID="90ca0437-0e94-466a-badf-d031f0312c0c" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="76" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	　&amp;nbsp;&amp;nbsp; The term e-commerce refers to all commercial transactions conducted over the Internet, including transactions by consumers and business-to-business transactions. Conceptually, e-commerce does not&amp;nbsp;&amp;nbsp;(_1_)from well-known commercial offerings such as banking by phone, &amp;quot;mail order&amp;quot; catalogs, or sending a purchase order to supplier&amp;nbsp;&amp;nbsp;(_2_) fax.E- commerce follows the same model&amp;nbsp;&amp;nbsp;(_3_) &amp;nbsp;in other business transactions; the difference&amp;nbsp;&amp;nbsp;(_4_) in the details.&lt;br /&gt;&lt;br/&gt;	　　To a consumer, the most visible form of e-commerce consists&amp;nbsp;&amp;nbsp;&amp;nbsp;(_&lt;span style='color:Red'&gt;of&lt;/span&gt;_) &amp;nbsp;online ordering. A customer begins with a catalog of possible items,&amp;nbsp;&amp;nbsp;&amp;nbsp;(_6_) &amp;nbsp;an item, arranges a form of payment, and&amp;nbsp;&amp;nbsp;&amp;nbsp;(_7_) an order. Instead of a physical catalog, e-commerce arranges for catalogs to be&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(_8_)on the Internet. Instead of sending an order on paper or by telephone, e-commerce arranges for orders to be sent&amp;nbsp;&amp;nbsp;&amp;nbsp;(_9_) &amp;nbsp;a computer network. Finally, instead of sending a paper representation of payment such as a check, e-commerce&amp;nbsp;&amp;nbsp;&amp;nbsp;(_10_)one to send payment information electronically.&lt;br /&gt;&lt;br/&gt;	　　In the decade&amp;nbsp;&amp;nbsp;(_11_) 1993, e-commerce grew from an&amp;nbsp;&amp;nbsp;&amp;nbsp;(_12_)&amp;nbsp;novelty (新奇事物) to a mainstream business influence. In 1993, few&amp;nbsp;&amp;nbsp;&amp;nbsp;(_13_) &amp;nbsp;had a web page, and&amp;nbsp;&amp;nbsp;(_14_) &amp;nbsp;a handful allowed one to order products or services online. Ten years &amp;nbsp;(_15_), both large and small businesses had web pages, and most (_16_) sers with the opportunity to place an order. &amp;nbsp;(_17_), many banks added online access,&amp;nbsp;&amp;nbsp;&amp;nbsp;(_18_) online banking and bill paying became .&amp;nbsp;(_19_) More importantly, the value of goods and services&amp;nbsp;&amp;nbsp;(_20_) over the Internet grew dramatically after 1997.&lt;/p&gt;&lt;br/&gt;</Content>
+        <Questions Count="19">
+          <question id="0">
+            <choices>
+              <choice id="A">distract </choice>
+              <choice id="B">descend </choice>
+              <choice id="C">differ</choice>
+              <choice id="D">derive</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">with</choice>
+              <choice id="B">via  </choice>
+              <choice id="C">from</choice>
+              <choice id="D">off</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">appeared</choice>
+              <choice id="B">used </choice>
+              <choice id="C">resorted</choice>
+              <choice id="D">served</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">situates </choice>
+              <choice id="B">lies</choice>
+              <choice id="C">roots</choice>
+              <choice id="D">locates</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">reflects</choice>
+              <choice id="B">detects </choice>
+              <choice id="C">protects</choice>
+              <choice id="D">selects</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">sends in </choice>
+              <choice id="B">puts out </choice>
+              <choice id="C">stands for </choice>
+              <choice id="D">carries away</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">visible</choice>
+              <choice id="B">responsible</choice>
+              <choice id="C">feasible</choice>
+              <choice id="D">sensible</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">beside</choice>
+              <choice id="B">over</choice>
+              <choice id="C">beyond</choice>
+              <choice id="D">up</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">appeals </choice>
+              <choice id="B">admits</choice>
+              <choice id="C">advocates</choice>
+              <choice id="D">allows</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">after</choice>
+              <choice id="B">behind</choice>
+              <choice id="C">until</choice>
+              <choice id="D">toward</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">optional</choice>
+              <choice id="B">invalid</choice>
+              <choice id="C">occasional</choice>
+              <choice id="D">insignificant</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">communities</choice>
+              <choice id="B">corps</choice>
+              <choice id="C">corporations</choice>
+              <choice id="D">compounds</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">largely </choice>
+              <choice id="B">slightly</choice>
+              <choice id="C">solely </choice>
+              <choice id="D">only</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">lately </choice>
+              <choice id="B">later</choice>
+              <choice id="C">late</choice>
+              <choice id="D">latter</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">offered </choice>
+              <choice id="B">convinced </choice>
+              <choice id="C">equipped  </choice>
+              <choice id="D">provided</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">Instead</choice>
+              <choice id="B">Nevertheless</choice>
+              <choice id="C">However</choice>
+              <choice id="D">Besides</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">and</choice>
+              <choice id="B">or</choice>
+              <choice id="C">but</choice>
+              <choice id="D">though</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="17">
+            <choices>
+              <choice id="A">different </choice>
+              <choice id="B">flexible</choice>
+              <choice id="C">widespread </choice>
+              <choice id="D">productive</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="18">
+            <choices>
+              <choice id="A">acquired </choice>
+              <choice id="B">adapted</choice>
+              <choice id="C">practiced</choice>
+              <choice id="D">proceeded</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

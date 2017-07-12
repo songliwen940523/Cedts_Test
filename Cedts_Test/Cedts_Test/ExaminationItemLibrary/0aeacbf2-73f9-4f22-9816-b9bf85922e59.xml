@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="0aeacbf2-73f9-4f22-9816-b9bf85922e59" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" Course="" Unit="">
+  <Content>&lt;p&gt;
+	htrytryre&lt;/p&gt;
+</Content>
+  <WordList>
+    <Word id="B">gdsfgds</Word>
+    <Word id="C">gdsfgfsd</Word>
+    <Word id="D">gsgvc</Word>
+    <Word id="E">vccv</Word>
+    <Word id="F">bxcgj</Word>
+    <Word id="G">gfg</Word>
+    <Word id="H">hfsh</Word>
+    <Word id="I">hs</Word>
+    <Word id="J">hg</Word>
+    <Word id="K">jgfj</Word>
+    <Word id="L">jghfg</Word>
+    <Word id="M">safa</Word>
+    <Word id="N">gfds</Word>
+    <Word id="O">hfgh</Word>
+  </WordList>
+  <Questions Count="10">
+    <question id="0">
+      <Answer>
+        <Value>tfr</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gdsg</Tip>
+    </question>
+    <question id="1">
+      <Answer>
+        <Value>hg</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>hfd</Tip>
+    </question>
+    <question id="2">
+      <Answer>
+        <Value>gdfsgs</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gsgs</Tip>
+    </question>
+    <question id="3">
+      <Answer>
+        <Value>gfdsgs</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gfds</Tip>
+    </question>
+    <question id="4">
+      <Answer>
+        <Value>fgdds</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gdsfgs</Tip>
+    </question>
+    <question id="5">
+      <Answer>
+        <Value>gdfgsd</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gsgs</Tip>
+    </question>
+    <question id="6">
+      <Answer>
+        <Value>gfdsg</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gsdgs</Tip>
+    </question>
+    <question id="7">
+      <Answer>
+        <Value>gsdg</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gfds</Tip>
+    </question>
+    <question id="8">
+      <Answer>
+        <Value>gsdg</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gsdgs</Tip>
+    </question>
+    <question id="9">
+      <Answer>
+        <Value>gdsf</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gsgsg</Tip>
+    </question>
+  </Questions>
+</AssessmentItem>

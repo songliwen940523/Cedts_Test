@@ -1,0 +1,856 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F22E2CBB-2375-4E23-9131-97D802232771}</ProjectGuid>
+    <ProjectTypeGuids>{F85E285D-A4E0-4152-9332-AB1D724D3325};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cedts_Test</RootNamespace>
+    <AssemblyName>Cedts_Test</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>false</UseIISExpress>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac">
+      <HintPath>..\packages\Autofac.2.4.5.724\lib\NET40\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac.Configuration">
+      <HintPath>..\packages\Autofac.2.4.5.724\lib\NET40\Autofac.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac.Integration.Web">
+      <HintPath>..\packages\Autofac.Mvc2.2.4.5.724\lib\NET40\Autofac.Integration.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac.Integration.Web.Mvc">
+      <HintPath>..\packages\Autofac.Mvc2.2.4.5.724\lib\NET40\Autofac.Integration.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MvcPager">
+      <HintPath>..\packages\MvcPager.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
+    <Compile Include="Areas\Admin\Controllers\AdminController.cs" />
+    <Compile Include="Areas\Admin\Controllers\AssignController.cs" />
+    <Compile Include="Areas\Admin\Controllers\AssignmentController.cs" />
+    <Compile Include="Areas\Admin\Controllers\CardController.cs" />
+    <Compile Include="Areas\Admin\Controllers\InsertItemsController.cs" />
+    <Compile Include="Areas\Admin\Controllers\LogController.cs" />
+    <Compile Include="Areas\Admin\Controllers\PaperController.cs" />
+    <Compile Include="Areas\Admin\Controllers\PartnerController.cs" />
+    <Compile Include="Areas\Admin\Controllers\RemarkController.cs" />
+    <Compile Include="Areas\Admin\Controllers\UserController.cs" />
+    <Compile Include="Areas\Admin\Controllers\ExaminationController.cs" />
+    <Compile Include="Areas\Admin\Controllers\KnowledgeController.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_AdminRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_AssignRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_CardRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_ExpansionRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_ItemXMLRepository.cs.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_PaperRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_PartnerRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_QuestionKnowledgeRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_QuestionRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_TemporaryExpansionRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_TemporaryItemRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_TemporaryPaperRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_TemporaryQuestionKnowledgeRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_TemporaryQuestionRepository.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_TestRepository.cs" />
+    <Compile Include="Areas\Admin\Models\Cedts_Model.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cedts_Model.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Areas\Admin\Models\Class.cs" />
+    <Compile Include="Areas\Admin\Models\ExaminationItem.cs" />
+    <Compile Include="Areas\Admin\Models\Grade.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_AssignRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_CardRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_ItemXMLRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_ExpansionRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_PaperRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_PartnerRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_QuestionKnowledgeRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_QuestionRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_TemporaryExpansionRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_TemporaryItemRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_TemporaryPaperRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_TemporaryQuestionKnowledgeRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_TemporaryQuestionRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_TestRepository.cs" />
+    <Compile Include="Areas\Admin\Models\Major.cs" />
+    <Compile Include="Areas\Admin\Models\PaperInfo.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_CardPartial.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_ExpansionPartial.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_ItemPartial.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_ItemRepository.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_ItemTypePartial.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_KnowledgePartial.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_KnowledgeRepository.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_PaperExpansionPartial.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_PaperPartial.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_PartnerPartial.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_PartTypePartial.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_UserRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_AdminRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_ItemRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_KnowledgeRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_UserRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ItemInfo.cs" />
+    <Compile Include="Areas\Admin\Models\KnowPoint.cs" />
+    <Compile Include="Areas\Admin\Models\KnowSide.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_QuestionKnowledgePartail.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_TestAnswerPartial.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_TestPartial.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\Cedts_UserPartial.cs" />
+    <Compile Include="Areas\Admin\Models\Partial\CEDTS_QuestionPartial.cs" />
+    <Compile Include="Areas\Admin\Models\TeacherInfo.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\InsertDataController.cs" />
+    <Compile Include="Controllers\PaperShowController.cs" />
+    <Compile Include="Filter\LogFilter.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Cedts.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cedts.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Cedts_Partial\Cedts_SampleKnowledgeInfomationPartial.cs" />
+    <Compile Include="Models\Cedts_Partial\Cedts_SmapleAnswerTypeInfoPartial.cs" />
+    <Compile Include="Models\Cedts_Partial\Cedts_TestAnswerKnowledgePointPartial.cs" />
+    <Compile Include="Models\Cedts_Partial\Cedts_AssessmentItemPartial.cs" />
+    <Compile Include="Models\Cedts_Partial\Cedts_LogPartial.cs" />
+    <Compile Include="Models\Cedts_Partial\Cedts_PaperPartial.cs" />
+    <Compile Include="Models\Cedts_Partial\Cedts_TestAnswerPartial.cs" />
+    <Compile Include="Models\Cedts_Partial\Cedts_TestAnswerTypeInfoPartial.cs" />
+    <Compile Include="Models\Cedts_Partial\Cedts_TestPartial.cs" />
+    <Compile Include="Models\Cedts_Partial\Cedts_UserPartial.cs" />
+    <Compile Include="Areas\Admin\Models\CedtsRepository\Cedts_LogRepository.cs" />
+    <Compile Include="Models\Cedts_Repository\Cedts_PaperRepository.cs" />
+    <Compile Include="Models\Cedts_Repository\Cedts_UserRepository.cs" />
+    <Compile Include="Areas\Admin\Models\ICedtsRepository\ICedts_LogRepository.cs" />
+    <Compile Include="Models\Cedts_Repository\Cedts_HomeRepository.cs" />
+    <Compile Include="Models\Cedts_Repository\InsertDataRepository.cs" />
+    <Compile Include="Models\CollectionHelper.cs" />
+    <Compile Include="Models\ICedts_Repository\ICedts_HomeRepository.cs" />
+    <Compile Include="Models\ICedts_Repository\ICedts_PaperRepository.cs" />
+    <Compile Include="Models\ICedts_Repository\ICedts_UserRepository.cs" />
+    <Compile Include="Models\ICedts_Repository\IInsertDataRepository.cs" />
+    <Compile Include="Models\ItemInfo.cs" />
+    <Compile Include="Models\KnowledgePointInfo.cs" />
+    <Compile Include="Models\MailHelper.cs" />
+    <Compile Include="Models\QuestionStatistics.cs" />
+    <Compile Include="Models\ToExcel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Upload.ashx.cs">
+      <DependentUpon>Upload.ashx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\Admin\Views\Admin\Create.aspx" />
+    <Content Include="Areas\Admin\Views\Admin\Edit.aspx" />
+    <Content Include="Areas\Admin\Views\Admin\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Assignment\EditBankedCloze.aspx" />
+    <Content Include="Areas\Admin\Views\Assignment\EditCloze.aspx" />
+    <Content Include="Areas\Admin\Views\Assignment\EditComplex.aspx" />
+    <Content Include="Areas\Admin\Views\Assignment\EditListen.aspx" />
+    <Content Include="Areas\Admin\Views\Assignment\EditMultipleChoice.aspx" />
+    <Content Include="Areas\Admin\Views\Assignment\EditSAS.aspx" />
+    <Content Include="Areas\Admin\Views\Assignment\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Assignment\ViewPage1.aspx" />
+    <Content Include="Areas\Admin\Views\Assign\BankedCloze.aspx" />
+    <Content Include="Areas\Admin\Views\Assign\Cloze.aspx" />
+    <Content Include="Areas\Admin\Views\Assign\Complex.aspx" />
+    <Content Include="Areas\Admin\Views\Assign\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Assign\Listen.aspx" />
+    <Content Include="Areas\Admin\Views\Assign\MultipleChoice.aspx" />
+    <Content Include="Areas\Admin\Views\Assign\SAS.aspx" />
+    <Content Include="Areas\Admin\Views\Card\Create.aspx" />
+    <Content Include="Areas\Admin\Views\Card\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Examination\EditBankedCloze.aspx" />
+    <Content Include="Areas\Admin\Views\Examination\EditCloze.aspx" />
+    <Content Include="Areas\Admin\Views\Examination\EditComplex.aspx" />
+    <Content Include="Areas\Admin\Views\Examination\EditListen.aspx" />
+    <Content Include="Areas\Admin\Views\Examination\EditMultipleChoice.aspx" />
+    <Content Include="Areas\Admin\Views\Examination\EditSkimmingAndScanning.aspx" />
+    <Content Include="Areas\Admin\Views\InsertItems\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Log\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\CreateBankedCloze.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\CreateCloze.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\CreateComplexListen.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\CreateComprehensionListen.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\CreateLongListen.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\CreateMultipleChoice.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\CreateSkimmingAndScanning.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\CreateShortListen.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\ItemTypeList.ascx" />
+    <Content Include="Areas\Admin\Views\Paper\PaperInfo.ascx" />
+    <Content Include="Areas\Admin\Views\Paper\PartTypeList.ascx" />
+    <Content Include="Areas\Admin\Views\Paper\TotalPaper.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\Class.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\Create.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\CreateClass.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\CreateMajor.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\CreateTeacher.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\CreateGrade.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\Edit.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\EditClass.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\EditGrade.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\EditMajor.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\EditTeacher.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\Grade.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\Major.aspx" />
+    <Content Include="Areas\Admin\Views\Partner\Major1.ascx" />
+    <Content Include="Areas\Admin\Views\Partner\Major2.ascx" />
+    <Content Include="Areas\Admin\Views\Partner\Major3.ascx" />
+    <Content Include="Areas\Admin\Views\Partner\Teacher.aspx" />
+    <Content Include="Areas\Admin\Views\Remark\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Remark\Remark.aspx" />
+    <Content Include="Areas\Admin\Views\Shared\LogOnUserControl.ascx" />
+    <Content Include="Areas\Admin\Views\Shared\LongConversations.ascx" />
+    <Content Include="Areas\Admin\Views\Shared\ShortConversations.ascx" />
+    <Content Include="Areas\Admin\Views\Shared\SkimmingAndScanning.ascx" />
+    <Content Include="Areas\Admin\Views\Paper\Create.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Paper\ItemType.ascx" />
+    <Content Include="Areas\Admin\Views\Paper\SetTopic.aspx" />
+    <Content Include="Areas\Admin\Views\Shared\Errmessage.aspx" />
+    <Content Include="Areas\Admin\Views\Shared\Cloze.ascx" />
+    <Content Include="Areas\Admin\Views\Shared\Complex.ascx" />
+    <Content Include="Areas\Admin\Views\Examination\Create.aspx" />
+    <Content Include="Areas\Admin\Views\Examination\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Shared\Listen.ascx" />
+    <Content Include="Areas\Admin\Views\Shared\MultipleChoiceReading.ascx" />
+    <Content Include="Areas\Admin\Views\Shared\BankedClozeReading.ascx" />
+    <Content Include="Areas\Admin\Views\Knowledge\CreatePoint.aspx" />
+    <Content Include="Areas\Admin\Views\Knowledge\CreateSide.aspx" />
+    <Content Include="Areas\Admin\Views\Knowledge\CreateSort.aspx" />
+    <Content Include="Areas\Admin\Views\Knowledge\EditPoint.aspx" />
+    <Content Include="Areas\Admin\Views\Knowledge\EditSide.aspx" />
+    <Content Include="Areas\Admin\Views\Knowledge\EditSort.aspx" />
+    <Content Include="Areas\Admin\Views\Knowledge\Index.aspx" />
+    <Content Include="Areas\Admin\Views\Knowledge\Point.ascx" />
+    <Content Include="Areas\Admin\Views\Knowledge\Side.ascx" />
+    <Content Include="Areas\Admin\Views\User\Create.aspx" />
+    <Content Include="Areas\Admin\Views\User\Index.aspx" />
+    <Content Include="BackUp.htm" />
+    <Content Include="ckeditor\adapters\jquery.js" />
+    <Content Include="ckeditor\ckeditor.asp" />
+    <Content Include="ckeditor\ckeditor.js" />
+    <Content Include="ckeditor\ckeditor_basic.js" />
+    <Content Include="ckeditor\ckeditor_basic_source.js" />
+    <Content Include="ckeditor\ckeditor_source.js" />
+    <Content Include="ckeditor\config.js" />
+    <Content Include="ckeditor\contents.css" />
+    <Content Include="ckeditor\images\spacer.gif" />
+    <Content Include="ckeditor\lang\en.js" />
+    <Content Include="ckeditor\lang\zh-cn.js" />
+    <Content Include="ckeditor\lang\zh.js" />
+    <Content Include="ckeditor\plugins\a11yhelp\dialogs\a11yhelp.js" />
+    <Content Include="ckeditor\plugins\a11yhelp\lang\en.js" />
+    <Content Include="ckeditor\plugins\a11yhelp\lang\he.js" />
+    <Content Include="ckeditor\plugins\about\dialogs\about.js" />
+    <Content Include="ckeditor\plugins\about\dialogs\logo_ckeditor.png" />
+    <Content Include="ckeditor\plugins\adobeair\plugin.js" />
+    <Content Include="ckeditor\plugins\ajax\plugin.js" />
+    <Content Include="ckeditor\plugins\autogrow\plugin.js" />
+    <Content Include="ckeditor\plugins\bbcode\plugin.js" />
+    <Content Include="ckeditor\plugins\clipboard\dialogs\paste.js" />
+    <Content Include="ckeditor\plugins\colordialog\dialogs\colordialog.js" />
+    <Content Include="ckeditor\plugins\devtools\lang\en.js" />
+    <Content Include="ckeditor\plugins\devtools\plugin.js" />
+    <Content Include="ckeditor\plugins\dialog\dialogDefinition.js" />
+    <Content Include="ckeditor\plugins\div\dialogs\div.js" />
+    <Content Include="ckeditor\plugins\docprops\dialogs\docprops.js" />
+    <Content Include="ckeditor\plugins\docprops\plugin.js" />
+    <Content Include="ckeditor\plugins\find\dialogs\find.js" />
+    <Content Include="ckeditor\plugins\flash\dialogs\flash.js" />
+    <Content Include="ckeditor\plugins\flash\images\placeholder.png" />
+    <Content Include="ckeditor\plugins\forms\dialogs\button.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\checkbox.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\form.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\hiddenfield.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\radio.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\select.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\textarea.js" />
+    <Content Include="ckeditor\plugins\forms\dialogs\textfield.js" />
+    <Content Include="ckeditor\plugins\forms\images\hiddenfield.gif" />
+    <Content Include="ckeditor\plugins\iframedialog\plugin.js" />
+    <Content Include="ckeditor\plugins\iframe\dialogs\iframe.js" />
+    <Content Include="ckeditor\plugins\iframe\images\placeholder.png" />
+    <Content Include="ckeditor\plugins\image\dialogs\image.js" />
+    <Content Include="ckeditor\plugins\link\dialogs\anchor.js" />
+    <Content Include="ckeditor\plugins\link\dialogs\link.js" />
+    <Content Include="ckeditor\plugins\link\images\anchor.gif" />
+    <Content Include="ckeditor\plugins\liststyle\dialogs\liststyle.js" />
+    <Content Include="ckeditor\plugins\pagebreak\images\pagebreak.gif" />
+    <Content Include="ckeditor\plugins\pastefromword\filter\default.js" />
+    <Content Include="ckeditor\plugins\pastetext\dialogs\pastetext.js" />
+    <Content Include="ckeditor\plugins\placeholder\dialogs\placeholder.js" />
+    <Content Include="ckeditor\plugins\placeholder\lang\en.js" />
+    <Content Include="ckeditor\plugins\placeholder\lang\he.js" />
+    <Content Include="ckeditor\plugins\placeholder\placeholder.gif" />
+    <Content Include="ckeditor\plugins\placeholder\plugin.js" />
+    <Content Include="ckeditor\plugins\scayt\dialogs\options.js" />
+    <Content Include="ckeditor\plugins\scayt\dialogs\toolbar.css" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_address.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_blockquote.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_div.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h1.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h2.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h3.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h4.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h5.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_h6.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_p.png" />
+    <Content Include="ckeditor\plugins\showblocks\images\block_pre.png" />
+    <Content Include="ckeditor\plugins\smiley\dialogs\smiley.js" />
+    <Content Include="ckeditor\plugins\smiley\images\angel_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\angry_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\broken_heart.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\confused_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\cry_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\devil_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\embaressed_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\envelope.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\heart.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\kiss.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\lightbulb.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\omg_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\regular_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\sad_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\shades_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\teeth_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\thumbs_down.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\thumbs_up.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\tounge_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\whatchutalkingabout_smile.gif" />
+    <Content Include="ckeditor\plugins\smiley\images\wink_smile.gif" />
+    <Content Include="ckeditor\plugins\specialchar\dialogs\specialchar.js" />
+    <Content Include="ckeditor\plugins\specialchar\lang\en.js" />
+    <Content Include="ckeditor\plugins\stylesheetparser\plugin.js" />
+    <Content Include="ckeditor\plugins\styles\styles\default.js" />
+    <Content Include="ckeditor\plugins\tableresize\plugin.js" />
+    <Content Include="ckeditor\plugins\tabletools\dialogs\tableCell.js" />
+    <Content Include="ckeditor\plugins\table\dialogs\table.js" />
+    <Content Include="ckeditor\plugins\templates\dialogs\templates.js" />
+    <Content Include="ckeditor\plugins\templates\templates\default.js" />
+    <Content Include="ckeditor\plugins\templates\templates\images\template1.gif" />
+    <Content Include="ckeditor\plugins\templates\templates\images\template2.gif" />
+    <Content Include="ckeditor\plugins\templates\templates\images\template3.gif" />
+    <Content Include="ckeditor\plugins\uicolor\dialogs\uicolor.js" />
+    <Content Include="ckeditor\plugins\uicolor\lang\en.js" />
+    <Content Include="ckeditor\plugins\uicolor\lang\he.js" />
+    <Content Include="ckeditor\plugins\uicolor\plugin.js" />
+    <Content Include="ckeditor\plugins\uicolor\uicolor.gif" />
+    <Content Include="ckeditor\plugins\uicolor\yui\assets\hue_bg.png" />
+    <Content Include="ckeditor\plugins\uicolor\yui\assets\hue_thumb.png" />
+    <Content Include="ckeditor\plugins\uicolor\yui\assets\picker_mask.png" />
+    <Content Include="ckeditor\plugins\uicolor\yui\assets\picker_thumb.png" />
+    <Content Include="ckeditor\plugins\uicolor\yui\assets\yui.css" />
+    <Content Include="ckeditor\plugins\uicolor\yui\yui.js" />
+    <Content Include="ckeditor\plugins\wsc\dialogs\ciframe.html" />
+    <Content Include="ckeditor\plugins\wsc\dialogs\tmpFrameset.html" />
+    <Content Include="ckeditor\plugins\wsc\dialogs\wsc.css" />
+    <Content Include="ckeditor\plugins\wsc\dialogs\wsc.js" />
+    <Content Include="ckeditor\plugins\xml\plugin.js" />
+    <Content Include="ckeditor\skins\kama\dialog.css" />
+    <Content Include="ckeditor\skins\kama\editor.css" />
+    <Content Include="ckeditor\skins\kama\icons.png" />
+    <Content Include="ckeditor\skins\kama\icons_rtl.png" />
+    <Content Include="ckeditor\skins\kama\images\dialog_sides.gif" />
+    <Content Include="ckeditor\skins\kama\images\dialog_sides.png" />
+    <Content Include="ckeditor\skins\kama\images\dialog_sides_rtl.png" />
+    <Content Include="ckeditor\skins\kama\images\mini.gif" />
+    <Content Include="ckeditor\skins\kama\images\noimage.png" />
+    <Content Include="ckeditor\skins\kama\images\sprites.png" />
+    <Content Include="ckeditor\skins\kama\images\sprites_ie6.png" />
+    <Content Include="ckeditor\skins\kama\images\toolbar_start.gif" />
+    <Content Include="ckeditor\skins\kama\skin.js" />
+    <Content Include="ckeditor\skins\kama\templates.css" />
+    <Content Include="ckeditor\skins\office2003\dialog.css" />
+    <Content Include="ckeditor\skins\office2003\editor.css" />
+    <Content Include="ckeditor\skins\office2003\icons.png" />
+    <Content Include="ckeditor\skins\office2003\icons_rtl.png" />
+    <Content Include="ckeditor\skins\office2003\images\dialog_sides.gif" />
+    <Content Include="ckeditor\skins\office2003\images\dialog_sides.png" />
+    <Content Include="ckeditor\skins\office2003\images\dialog_sides_rtl.png" />
+    <Content Include="ckeditor\skins\office2003\images\mini.gif" />
+    <Content Include="ckeditor\skins\office2003\images\noimage.png" />
+    <Content Include="ckeditor\skins\office2003\images\sprites.png" />
+    <Content Include="ckeditor\skins\office2003\images\sprites_ie6.png" />
+    <Content Include="ckeditor\skins\office2003\skin.js" />
+    <Content Include="ckeditor\skins\office2003\templates.css" />
+    <Content Include="ckeditor\skins\v2\dialog.css" />
+    <Content Include="ckeditor\skins\v2\editor.css" />
+    <Content Include="ckeditor\skins\v2\icons.png" />
+    <Content Include="ckeditor\skins\v2\icons_rtl.png" />
+    <Content Include="ckeditor\skins\v2\images\dialog_sides.gif" />
+    <Content Include="ckeditor\skins\v2\images\dialog_sides.png" />
+    <Content Include="ckeditor\skins\v2\images\dialog_sides_rtl.png" />
+    <Content Include="ckeditor\skins\v2\images\mini.gif" />
+    <Content Include="ckeditor\skins\v2\images\noimage.png" />
+    <Content Include="ckeditor\skins\v2\images\sprites.png" />
+    <Content Include="ckeditor\skins\v2\images\sprites_ie6.png" />
+    <Content Include="ckeditor\skins\v2\images\toolbar_start.gif" />
+    <Content Include="ckeditor\skins\v2\skin.js" />
+    <Content Include="ckeditor\skins\v2\templates.css" />
+    <Content Include="ckeditor\themes\default\theme.js" />
+    <Content Include="Content\default.css" />
+    <Content Include="Content\papershow.css" />
+    <Content Include="Content\themes\default\accordion.css" />
+    <Content Include="Content\themes\default\calendar.css" />
+    <Content Include="Content\themes\default\combo.css" />
+    <Content Include="Content\themes\default\combobox.css" />
+    <Content Include="Content\themes\default\datagrid.css" />
+    <Content Include="Content\themes\default\datebox.css" />
+    <Content Include="Content\themes\default\dialog.css" />
+    <Content Include="Content\themes\default\easyui.css" />
+    <Content Include="Content\themes\default\images\accordion_collapse.png" />
+    <Content Include="Content\themes\default\images\accordion_expand.png" />
+    <Content Include="Content\themes\default\images\button_a_bg.gif" />
+    <Content Include="Content\themes\default\images\button_plain_hover.png" />
+    <Content Include="Content\themes\default\images\button_span_bg.gif" />
+    <Content Include="Content\themes\default\images\calendar_nextmonth.gif" />
+    <Content Include="Content\themes\default\images\calendar_nextyear.gif" />
+    <Content Include="Content\themes\default\images\calendar_prevmonth.gif" />
+    <Content Include="Content\themes\default\images\calendar_prevyear.gif" />
+    <Content Include="Content\themes\default\images\combo_arrow.gif" />
+    <Content Include="Content\themes\default\images\datagrid_header_bg.gif" />
+    <Content Include="Content\themes\default\images\datagrid_row_collapse.gif" />
+    <Content Include="Content\themes\default\images\datagrid_row_expand.gif" />
+    <Content Include="Content\themes\default\images\datagrid_sort_asc.gif" />
+    <Content Include="Content\themes\default\images\datagrid_sort_desc.gif" />
+    <Content Include="Content\themes\default\images\datagrid_title_bg.png" />
+    <Content Include="Content\themes\default\images\layout_button_down.gif" />
+    <Content Include="Content\themes\default\images\layout_button_left.gif" />
+    <Content Include="Content\themes\default\images\layout_button_right.gif" />
+    <Content Include="Content\themes\default\images\layout_button_up.gif" />
+    <Content Include="Content\themes\default\images\menu.gif" />
+    <Content Include="Content\themes\default\images\menu_downarrow.png" />
+    <Content Include="Content\themes\default\images\menu_rightarrow.png" />
+    <Content Include="Content\themes\default\images\menu_sep.png" />
+    <Content Include="Content\themes\default\images\menu_split_downarrow.png" />
+    <Content Include="Content\themes\default\images\messager_error.gif" />
+    <Content Include="Content\themes\default\images\messager_info.gif" />
+    <Content Include="Content\themes\default\images\messager_question.gif" />
+    <Content Include="Content\themes\default\images\messager_warning.gif" />
+    <Content Include="Content\themes\default\images\pagination_first.gif" />
+    <Content Include="Content\themes\default\images\pagination_last.gif" />
+    <Content Include="Content\themes\default\images\pagination_load.png" />
+    <Content Include="Content\themes\default\images\pagination_loading.gif" />
+    <Content Include="Content\themes\default\images\pagination_next.gif" />
+    <Content Include="Content\themes\default\images\pagination_prev.gif" />
+    <Content Include="Content\themes\default\images\panel_loading.gif" />
+    <Content Include="Content\themes\default\images\panel_title.png" />
+    <Content Include="Content\themes\default\images\panel_tools.gif" />
+    <Content Include="Content\themes\default\images\panel_tool_collapse.gif" />
+    <Content Include="Content\themes\default\images\panel_tool_expand.gif" />
+    <Content Include="Content\themes\default\images\spinner_arrow_down.gif" />
+    <Content Include="Content\themes\default\images\spinner_arrow_up.gif" />
+    <Content Include="Content\themes\default\images\tabs_active.png" />
+    <Content Include="Content\themes\default\images\tabs_close.gif" />
+    <Content Include="Content\themes\default\images\tabs_enabled.png" />
+    <Content Include="Content\themes\default\images\tabs_leftarrow.png" />
+    <Content Include="Content\themes\default\images\tabs_rightarrow.png" />
+    <Content Include="Content\themes\default\images\tree_arrows.gif" />
+    <Content Include="Content\themes\default\images\tree_checkbox_0.gif" />
+    <Content Include="Content\themes\default\images\tree_checkbox_1.gif" />
+    <Content Include="Content\themes\default\images\tree_checkbox_2.gif" />
+    <Content Include="Content\themes\default\images\tree_dnd_no.png" />
+    <Content Include="Content\themes\default\images\tree_dnd_yes.png" />
+    <Content Include="Content\themes\default\images\tree_file.gif" />
+    <Content Include="Content\themes\default\images\tree_folder.gif" />
+    <Content Include="Content\themes\default\images\tree_folder_open.gif" />
+    <Content Include="Content\themes\default\images\tree_loading.gif" />
+    <Content Include="Content\themes\default\images\validatebox_pointer.gif" />
+    <Content Include="Content\themes\default\images\validatebox_warning.png" />
+    <Content Include="Content\themes\default\layout.css" />
+    <Content Include="Content\themes\default\linkbutton.css" />
+    <Content Include="Content\themes\default\menu.css" />
+    <Content Include="Content\themes\default\menubutton.css" />
+    <Content Include="Content\themes\default\messager.css" />
+    <Content Include="Content\themes\default\pagination.css" />
+    <Content Include="Content\themes\default\panel.css" />
+    <Content Include="Content\themes\default\spinner.css" />
+    <Content Include="Content\themes\default\splitbutton.css" />
+    <Content Include="Content\themes\default\tabs.css" />
+    <Content Include="Content\themes\default\tree.css" />
+    <Content Include="Content\themes\default\validatebox.css" />
+    <Content Include="Content\themes\default\window.css" />
+    <Content Include="Content\themes\gray\accordion.css" />
+    <Content Include="Content\themes\gray\calendar.css" />
+    <Content Include="Content\themes\gray\combo.css" />
+    <Content Include="Content\themes\gray\combobox.css" />
+    <Content Include="Content\themes\gray\datagrid.css" />
+    <Content Include="Content\themes\gray\datebox.css" />
+    <Content Include="Content\themes\gray\dialog.css" />
+    <Content Include="Content\themes\gray\easyui.css" />
+    <Content Include="Content\themes\gray\images\accordion_collapse.png" />
+    <Content Include="Content\themes\gray\images\accordion_expand.png" />
+    <Content Include="Content\themes\gray\images\button_a_bg.gif" />
+    <Content Include="Content\themes\gray\images\button_plain_hover.png" />
+    <Content Include="Content\themes\gray\images\button_span_bg.gif" />
+    <Content Include="Content\themes\gray\images\calendar_nextmonth.gif" />
+    <Content Include="Content\themes\gray\images\calendar_nextyear.gif" />
+    <Content Include="Content\themes\gray\images\calendar_prevmonth.gif" />
+    <Content Include="Content\themes\gray\images\calendar_prevyear.gif" />
+    <Content Include="Content\themes\gray\images\combo_arrow.gif" />
+    <Content Include="Content\themes\gray\images\datagrid_header_bg.gif" />
+    <Content Include="Content\themes\gray\images\datagrid_row_collapse.gif" />
+    <Content Include="Content\themes\gray\images\datagrid_row_expand.gif" />
+    <Content Include="Content\themes\gray\images\datagrid_sort_asc.gif" />
+    <Content Include="Content\themes\gray\images\datagrid_sort_desc.gif" />
+    <Content Include="Content\themes\gray\images\datagrid_title_bg.gif" />
+    <Content Include="Content\themes\gray\images\layout_button_down.gif" />
+    <Content Include="Content\themes\gray\images\layout_button_left.gif" />
+    <Content Include="Content\themes\gray\images\layout_button_right.gif" />
+    <Content Include="Content\themes\gray\images\layout_button_up.gif" />
+    <Content Include="Content\themes\gray\images\menu.gif" />
+    <Content Include="Content\themes\gray\images\menu_downarrow.png" />
+    <Content Include="Content\themes\gray\images\menu_rightarrow.png" />
+    <Content Include="Content\themes\gray\images\menu_sep.png" />
+    <Content Include="Content\themes\gray\images\menu_split_downarrow.png" />
+    <Content Include="Content\themes\gray\images\messager_error.gif" />
+    <Content Include="Content\themes\gray\images\messager_info.gif" />
+    <Content Include="Content\themes\gray\images\messager_question.gif" />
+    <Content Include="Content\themes\gray\images\messager_warning.gif" />
+    <Content Include="Content\themes\gray\images\pagination_first.gif" />
+    <Content Include="Content\themes\gray\images\pagination_last.gif" />
+    <Content Include="Content\themes\gray\images\pagination_load.png" />
+    <Content Include="Content\themes\gray\images\pagination_loading.gif" />
+    <Content Include="Content\themes\gray\images\pagination_next.gif" />
+    <Content Include="Content\themes\gray\images\pagination_prev.gif" />
+    <Content Include="Content\themes\gray\images\panel_loading.gif" />
+    <Content Include="Content\themes\gray\images\panel_title.gif" />
+    <Content Include="Content\themes\gray\images\panel_tools.gif" />
+    <Content Include="Content\themes\gray\images\panel_tool_collapse.gif" />
+    <Content Include="Content\themes\gray\images\panel_tool_expand.gif" />
+    <Content Include="Content\themes\gray\images\spinner_arrow_down.gif" />
+    <Content Include="Content\themes\gray\images\spinner_arrow_up.gif" />
+    <Content Include="Content\themes\gray\images\tabs_close.gif" />
+    <Content Include="Content\themes\gray\images\tabs_enabled.gif" />
+    <Content Include="Content\themes\gray\images\tabs_leftarrow.png" />
+    <Content Include="Content\themes\gray\images\tabs_rightarrow.png" />
+    <Content Include="Content\themes\gray\images\tree_arrows.gif" />
+    <Content Include="Content\themes\gray\images\tree_checkbox_0.gif" />
+    <Content Include="Content\themes\gray\images\tree_checkbox_1.gif" />
+    <Content Include="Content\themes\gray\images\tree_checkbox_2.gif" />
+    <Content Include="Content\themes\gray\images\tree_dnd_no.png" />
+    <Content Include="Content\themes\gray\images\tree_dnd_yes.png" />
+    <Content Include="Content\themes\gray\images\tree_file.gif" />
+    <Content Include="Content\themes\gray\images\tree_folder.gif" />
+    <Content Include="Content\themes\gray\images\tree_folder_open.gif" />
+    <Content Include="Content\themes\gray\images\tree_loading.gif" />
+    <Content Include="Content\themes\gray\images\validatebox_pointer.gif" />
+    <Content Include="Content\themes\gray\images\validatebox_warning.png" />
+    <Content Include="Content\themes\gray\layout.css" />
+    <Content Include="Content\themes\gray\linkbutton.css" />
+    <Content Include="Content\themes\gray\menu.css" />
+    <Content Include="Content\themes\gray\menubutton.css" />
+    <Content Include="Content\themes\gray\messager.css" />
+    <Content Include="Content\themes\gray\pagination.css" />
+    <Content Include="Content\themes\gray\panel.css" />
+    <Content Include="Content\themes\gray\spinner.css" />
+    <Content Include="Content\themes\gray\splitbutton.css" />
+    <Content Include="Content\themes\gray\tabs.css" />
+    <Content Include="Content\themes\gray\tree.css" />
+    <Content Include="Content\themes\gray\validatebox.css" />
+    <Content Include="Content\themes\gray\window.css" />
+    <Content Include="Content\themes\icon.css" />
+    <Content Include="Content\themes\icons\back.png" />
+    <Content Include="Content\themes\icons\cancel.png" />
+    <Content Include="Content\themes\icons\cut.png" />
+    <Content Include="Content\themes\icons\edit_add.png" />
+    <Content Include="Content\themes\icons\edit_remove.png" />
+    <Content Include="Content\themes\icons\filesave.png" />
+    <Content Include="Content\themes\icons\help.png" />
+    <Content Include="Content\themes\icons\no.png" />
+    <Content Include="Content\themes\icons\ok.png" />
+    <Content Include="Content\themes\icons\pencil.png" />
+    <Content Include="Content\themes\icons\print.png" />
+    <Content Include="Content\themes\icons\redo.png" />
+    <Content Include="Content\themes\icons\reload.png" />
+    <Content Include="Content\themes\icons\search.png" />
+    <Content Include="Content\themes\icons\undo.png" />
+    <Content Include="Global.asax" />
+    <Content Include="Images\06.gif" />
+    <Content Include="Images\bg.gif" />
+    <Content Include="Images\bg_papernav.png" />
+    <Content Include="Images\btn_nav.png" />
+    <Content Include="Images\btn_playaudio.gif" />
+    <Content Include="Images\cur_dragdrop.png" />
+    <Content Include="Images\cur_hold.png" />
+    <Content Include="Images\icon_direction.gif" />
+    <Content Include="Images\jt.gif" />
+    <Content Include="Images\logo.gif" />
+    <Content Include="Images\Logo.jpg" />
+    <Content Include="Images\mark_tick.png" />
+    <Content Include="Images\mask_papernavleft.png" />
+    <Content Include="Images\mask_papernavright.png" />
+    <Content Include="Images\Sound.GIF" />
+    <Content Include="Scripts\EditValidate.js" />
+    <Content Include="Scripts\exporting.js" />
+    <Content Include="Scripts\highcharts.js" />
+    <Content Include="Scripts\implant.js" />
+    <Content Include="Scripts\jquery-1.7.1.min.js" />
+    <Content Include="Scripts\jquery-ui-1.8.16.custom.min.js" />
+    <Content Include="Scripts\jquery.easyui.min.js" />
+    <Content Include="Scripts\jquery.form.min.js" />
+    <Content Include="Scripts\papershow.js" />
+    <Content Include="uploadify\cancel.png" />
+    <Content Include="uploadify\expressInstall.swf" />
+    <Content Include="uploadify\jquery-1.4.2.min.js" />
+    <Content Include="uploadify\jquery.uploadify.v2.1.4.js" />
+    <Content Include="uploadify\jquery.uploadify.v2.1.4.min.js" />
+    <Content Include="uploadify\swfobject.js" />
+    <Content Include="uploadify\uploadify.allglyphs.swf" />
+    <Content Include="uploadify\uploadify.css" />
+    <Content Include="uploadify\uploadify.swf" />
+    <Content Include="Views\Account\BuyCard.aspx" />
+    <Content Include="Views\Account\LogOn.aspx" />
+    <Content Include="Views\Account\MyCard.aspx" />
+    <Content Include="Views\Account\Register.aspx" />
+    <Content Include="Views\Account\RetrievePassword.aspx" />
+    <Content Include="Views\Account\UserInfo.aspx" />
+    <Content Include="Views\Home\Statistics.ascx" />
+    <Content Include="Views\Home\UserStatistics.ascx" />
+    <Content Include="Views\InsertData\Index.aspx" />
+    <Content Include="Views\PaperShow\Answer.aspx" />
+    <Content Include="Views\PaperShow\AnswerInfo.aspx" />
+    <Content Include="Views\PaperShow\ErrorQuestion.ascx" />
+    <Content Include="Views\PaperShow\Index.aspx" />
+    <Content Include="Views\PaperShow\ItemType.ascx" />
+    <Content Include="Views\PaperShow\PaperShow.aspx" />
+    <Content Include="Views\PaperShow\SelectHowtoCreat.aspx" />
+    <Content Include="Views\PaperShow\ShowPaperByBadKnowledge.aspx" />
+    <Content Include="Views\PaperShow\ShowPaperByItemType.aspx" />
+    <Content Include="Views\PaperShow\ShowPaperByKnowledge.aspx" />
+    <Content Include="Views\Account\ErrorTips.aspx" />
+    <Content Include="Views\PaperShow\TestRecord.ascx" />
+    <Content Include="Views\PaperShow\TestView.ascx" />
+    <Content Include="Views\PaperShow\UserTestInfo.aspx" />
+    <Content Include="Views\PaperShow\UserTestInfo1.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Content\Site.css" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\MicrosoftAjax.js" />
+    <Content Include="Scripts\MicrosoftAjax.debug.js" />
+    <Content Include="Scripts\MicrosoftMvcAjax.js" />
+    <Content Include="Scripts\MicrosoftMvcAjax.debug.js" />
+    <Content Include="Scripts\MicrosoftMvcValidation.js" />
+    <Content Include="Scripts\MicrosoftMvcValidation.debug.js" />
+    <Content Include="Views\Home\About.aspx" />
+    <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Shared\Error.aspx" />
+    <Content Include="Views\Shared\LogOnUserControl.ascx" />
+    <Content Include="Views\Shared\Site.Master" />
+    <Content Include="Views\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="ExaminationItemLibrary\" />
+    <Folder Include="ExaminationPaperLibrary\" />
+    <Folder Include="SoundFile\" />
+    <Folder Include="SoundsList\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\Admin\Views\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\Admin\Views\Shared\Admin.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="Areas\Admin\Models\Cedts_Model.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Cedts_Model.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="ckeditor\.htaccess" />
+    <None Include="ckeditor\ckeditor.pack" />
+    <None Include="ckeditor\ckeditor.php" />
+    <None Include="ckeditor\ckeditor_php4.php" />
+    <None Include="ckeditor\ckeditor_php5.php" />
+    <Content Include="Upload.ashx" />
+    <EntityDeploy Include="Models\Cedts.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Cedts.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="uploadify\check.php" />
+    <None Include="uploadify\com\adobe\air\logging\FileTarget.as" />
+    <None Include="uploadify\com\adobe\crypto\HMAC.as" />
+    <None Include="uploadify\com\adobe\crypto\MD5.as" />
+    <None Include="uploadify\com\adobe\crypto\MD5Stream.as" />
+    <None Include="uploadify\com\adobe\crypto\SHA1.as" />
+    <None Include="uploadify\com\adobe\crypto\SHA224.as" />
+    <None Include="uploadify\com\adobe\crypto\SHA256.as" />
+    <None Include="uploadify\com\adobe\crypto\WSSEUsernameToken.as" />
+    <None Include="uploadify\com\adobe\errors\IllegalStateError.as" />
+    <None Include="uploadify\com\adobe\fileformats\vcard\Address.as" />
+    <None Include="uploadify\com\adobe\fileformats\vcard\Email.as" />
+    <None Include="uploadify\com\adobe\fileformats\vcard\Phone.as" />
+    <None Include="uploadify\com\adobe\fileformats\vcard\VCard.as" />
+    <None Include="uploadify\com\adobe\fileformats\vcard\VCardParser.as" />
+    <None Include="uploadify\com\adobe\images\BitString.as" />
+    <None Include="uploadify\com\adobe\images\JPGEncoder.as" />
+    <None Include="uploadify\com\adobe\images\PNGEncoder.as" />
+    <None Include="uploadify\com\adobe\net\DynamicURLLoader.as" />
+    <None Include="uploadify\com\adobe\net\IURIResolver.as" />
+    <None Include="uploadify\com\adobe\net\MimeTypeMap.as" />
+    <None Include="uploadify\com\adobe\net\proxies\RFC2817Socket.as" />
+    <None Include="uploadify\com\adobe\net\URI.as" />
+    <None Include="uploadify\com\adobe\net\URIEncodingBitmap.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\Database.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\Definition.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\Dict.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\DictionaryServer.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\events\ConnectedEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\events\DatabaseEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\events\DefinitionEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\events\DefinitionHeaderEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\events\DictionaryServerEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\events\DisconnectedEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\events\ErrorEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\events\MatchEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\events\MatchStrategiesEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\events\NoMatchEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\MatchStrategy.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\Response.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\util\CompleteResponseEvent.as" />
+    <None Include="uploadify\com\adobe\protocols\dict\util\SocketHelper.as" />
+    <None Include="uploadify\com\adobe\serialization\json\JSON.as" />
+    <None Include="uploadify\com\adobe\serialization\json\JSONDecoder.as" />
+    <None Include="uploadify\com\adobe\serialization\json\JSONEncoder.as" />
+    <None Include="uploadify\com\adobe\serialization\json\JSONParseError.as" />
+    <None Include="uploadify\com\adobe\serialization\json\JSONToken.as" />
+    <None Include="uploadify\com\adobe\serialization\json\JSONTokenizer.as" />
+    <None Include="uploadify\com\adobe\serialization\json\JSONTokenType.as" />
+    <None Include="uploadify\com\adobe\utils\ArrayUtil.as" />
+    <None Include="uploadify\com\adobe\utils\DateUtil.as" />
+    <None Include="uploadify\com\adobe\utils\DictionaryUtil.as" />
+    <None Include="uploadify\com\adobe\utils\IntUtil.as" />
+    <None Include="uploadify\com\adobe\utils\NumberFormatter.as" />
+    <None Include="uploadify\com\adobe\utils\StringUtil.as" />
+    <None Include="uploadify\com\adobe\utils\XMLUtil.as" />
+    <None Include="uploadify\com\adobe\webapis\events\ServiceEvent.as" />
+    <None Include="uploadify\com\adobe\webapis\ServiceBase.as" />
+    <None Include="uploadify\com\adobe\webapis\URLLoaderBase.as" />
+    <None Include="uploadify\uploadify.fla" />
+    <None Include="uploadify\uploadify.php" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target> -->
+  <Target Name="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(ProjectDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>39781</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

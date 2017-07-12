@@ -1,0 +1,1627 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Cedts_Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="Cedts_ModelStoreContainer">
+    <EntitySet Name="CEDTS_AssessmentItem" EntityType="Cedts_Model.Store.CEDTS_AssessmentItem" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Assign" EntityType="Cedts_Model.Store.CEDTS_Assign" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_AssignAssessment" EntityType="Cedts_Model.Store.CEDTS_AssignAssessment" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_AssignQuestionKnowledge" EntityType="Cedts_Model.Store.CEDTS_AssignQuestionKnowledge" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Card" EntityType="Cedts_Model.Store.CEDTS_Card" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Class" EntityType="Cedts_Model.Store.CEDTS_Class" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Contact" EntityType="Cedts_Model.Store.CEDTS_Contact" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_CoreFeatures" EntityType="Cedts_Model.Store.CEDTS_CoreFeatures" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Expansion" EntityType="Cedts_Model.Store.CEDTS_Expansion" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Feedback" EntityType="Cedts_Model.Store.CEDTS_Feedback" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Grade" EntityType="Cedts_Model.Store.CEDTS_Grade" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Instructions" EntityType="Cedts_Model.Store.CEDTS_Instructions" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_ItemType" EntityType="Cedts_Model.Store.CEDTS_ItemType" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_KnowledgePoints" EntityType="Cedts_Model.Store.CEDTS_KnowledgePoints" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_KpToKp" EntityType="Cedts_Model.Store.CEDTS_KpToKp" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_LearnerStatus" EntityType="Cedts_Model.Store.CEDTS_LearnerStatus" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Log" EntityType="Cedts_Model.Store.CEDTS_Log" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Major" EntityType="Cedts_Model.Store.CEDTS_Major" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Paper" EntityType="Cedts_Model.Store.CEDTS_Paper" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_PaperAssessment" EntityType="Cedts_Model.Store.CEDTS_PaperAssessment" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_PaperAssignClass" EntityType="Cedts_Model.Store.CEDTS_PaperAssignClass" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_PaperExpansion" EntityType="Cedts_Model.Store.CEDTS_PaperExpansion" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Partner" EntityType="Cedts_Model.Store.CEDTS_Partner" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_PartType" EntityType="Cedts_Model.Store.CEDTS_PartType" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Question" EntityType="Cedts_Model.Store.CEDTS_Question" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_QuestionKnowledge" EntityType="Cedts_Model.Store.CEDTS_QuestionKnowledge" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_SampleKnowledgeInfomation" EntityType="Cedts_Model.Store.CEDTS_SampleKnowledgeInfomation" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Saying" EntityType="Cedts_Model.Store.CEDTS_Saying" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_SmapleAnswerTypeInfo" EntityType="Cedts_Model.Store.CEDTS_SmapleAnswerTypeInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_SystemOverview" EntityType="Cedts_Model.Store.CEDTS_SystemOverview" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_TClass" EntityType="Cedts_Model.Store.CEDTS_TClass" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_tempAssessmentItemTime" EntityType="Cedts_Model.Store.CEDTS_tempAssessmentItemTime" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_TemporaryAssessmentItem" EntityType="Cedts_Model.Store.CEDTS_TemporaryAssessmentItem" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_TemporaryExpansion" EntityType="Cedts_Model.Store.CEDTS_TemporaryExpansion" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_TemporaryPaperAssessment" EntityType="Cedts_Model.Store.CEDTS_TemporaryPaperAssessment" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_TemporaryQuestion" EntityType="Cedts_Model.Store.CEDTS_TemporaryQuestion" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_TemporaryQuestionKnowledge" EntityType="Cedts_Model.Store.CEDTS_TemporaryQuestionKnowledge" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_tempTestAnswer" EntityType="Cedts_Model.Store.CEDTS_tempTestAnswer" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Test" EntityType="Cedts_Model.Store.CEDTS_Test" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_TestAnswer" EntityType="Cedts_Model.Store.CEDTS_TestAnswer" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_TestAnswerKnowledgePoint" EntityType="Cedts_Model.Store.CEDTS_TestAnswerKnowledgePoint" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_TestAnswerTypeInfo" EntityType="Cedts_Model.Store.CEDTS_TestAnswerTypeInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_TestAssessment" EntityType="Cedts_Model.Store.CEDTS_TestAssessment" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_Testing" EntityType="Cedts_Model.Store.CEDTS_Testing" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_User" EntityType="Cedts_Model.Store.CEDTS_User" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_UserAnswerInfo" EntityType="Cedts_Model.Store.CEDTS_UserAnswerInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_UserAssessmentCount" EntityType="Cedts_Model.Store.CEDTS_UserAssessmentCount" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_UserCard" EntityType="Cedts_Model.Store.CEDTS_UserCard" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CEDTS_UserKnowledgeInfomation" EntityType="Cedts_Model.Store.CEDTS_UserKnowledgeInfomation" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ItemBank" EntityType="Cedts_Model.Store.ItemBank" store:Type="Tables" store:Schema="dbo" store:Name="ItemBank">
+      <DefiningQuery>SELECT 
+      [ItemBank].[ItemID] AS [ItemID], 
+      [ItemBank].[ItemGUID] AS [ItemGUID], 
+      [ItemBank].[ItemTypeID] AS [ItemTypeID], 
+      [ItemBank].[BankID] AS [BankID], 
+      [ItemBank].[Content] AS [Content], 
+      [ItemBank].[UserID] AS [UserID], 
+      [ItemBank].[CreateTime] AS [CreateTime], 
+      [ItemBank].[Status] AS [Status], 
+      [ItemBank].[AdminID] AS [AdminID], 
+      [ItemBank].[Attribute] AS [Attribute], 
+      [ItemBank].[UserTimes] AS [UserTimes], 
+      [ItemBank].[Hard] AS [Hard], 
+      [ItemBank].[Level] AS [Level], 
+      [ItemBank].[Differ] AS [Differ], 
+      [ItemBank].[IsTrain] AS [IsTrain], 
+      [ItemBank].[Identifier] AS [Identifier], 
+      [ItemBank].[ForBook] AS [ForBook], 
+      [ItemBank].[ForUnit] AS [ForUnit], 
+      [ItemBank].[OldID] AS [OldID], 
+      [ItemBank].[EstimatedTime] AS [EstimatedTime], 
+      [ItemBank].[IsOriginal] AS [IsOriginal], 
+      [ItemBank].[ReplaceItemId] AS [ReplaceItemId], 
+      [ItemBank].[TopicId] AS [TopicId], 
+      [ItemBank].[OldItemTypeId] AS [OldItemTypeId], 
+      [ItemBank].[OldTopicId] AS [OldTopicId], 
+      [ItemBank].[OldBankId] AS [OldBankId], 
+      [ItemBank].[OldForBookId] AS [OldForBookId], 
+      [ItemBank].[OldReplaceItemId] AS [OldReplaceItemId], 
+      [ItemBank].[ForBookID] AS [ForBookID], 
+      [ItemBank].[DataSource] AS [DataSource], 
+      [ItemBank].[ItemSeries] AS [ItemSeries], 
+      [ItemBank].[QCount] AS [QCount], 
+      [ItemBank].[PaperNo] AS [PaperNo], 
+      [ItemBank].[ItemNo] AS [ItemNo], 
+      [ItemBank].[TestPoint] AS [TestPoint], 
+      [ItemBank].[ForUnitTo] AS [ForUnitTo], 
+      [ItemBank].[DataSourseNote] AS [DataSourseNote], 
+      [ItemBank].[bakContent] AS [bakContent]
+      FROM [dbo].[ItemBank] AS [ItemBank]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="AQK" EntityType="Cedts_Model.Store.AQK" store:Type="Views" store:Schema="dbo" store:Name="AQK">
+      <DefiningQuery>SELECT 
+      [AQK].[AssessmentItemID] AS [AssessmentItemID], 
+      [AQK].[ItemTypeID] AS [ItemTypeID], 
+      [AQK].[Expr1] AS [Expr1], 
+      [AQK].[QuestionID] AS [QuestionID], 
+      [AQK].[Expr2] AS [Expr2], 
+      [AQK].[KnowledgePointID] AS [KnowledgePointID]
+      FROM [dbo].[AQK] AS [AQK]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="ExaminationView" EntityType="Cedts_Model.Store.ExaminationView" store:Type="Views" store:Schema="dbo" store:Name="ExaminationView">
+      <DefiningQuery>SELECT 
+      [ExaminationView].[AssessmentItemID] AS [AssessmentItemID], 
+      [ExaminationView].[TypeName_CN] AS [TypeName_CN], 
+      [ExaminationView].[SaveTime] AS [SaveTime], 
+      [ExaminationView].[UpdateUserID] AS [UpdateUserID], 
+      [ExaminationView].[Duration] AS [Duration], 
+      [ExaminationView].[Difficult] AS [Difficult], 
+      [ExaminationView].[Score] AS [Score], 
+      [ExaminationView].[Count] AS [Count], 
+      [ExaminationView].[UpdateTime] AS [UpdateTime], 
+      [ExaminationView].[Description] AS [Description], 
+      [ExaminationView].[UserNickname] AS [UserNickname]
+      FROM [dbo].[ExaminationView] AS [ExaminationView]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="UserAssessmentCount" EntityType="Cedts_Model.Store.UserAssessmentCount" store:Type="Views" store:Schema="dbo" store:Name="UserAssessmentCount">
+      <DefiningQuery>SELECT 
+      [UserAssessmentCount].[UserID] AS [UserID], 
+      [UserAssessmentCount].[Count] AS [Count], 
+      [UserAssessmentCount].[AssessmentItemID] AS [AssessmentItemID]
+      FROM [dbo].[UserAssessmentCount] AS [UserAssessmentCount]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_CEDTS_AS_REFERENCE_CEDTS_IT" Association="Cedts_Model.Store.FK_CEDTS_AS_REFERENCE_CEDTS_IT">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_AS_REFERENCE_CEDTS_US" Association="Cedts_Model.Store.FK_CEDTS_AS_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_Grade_CEDTS_Major" Association="Cedts_Model.Store.FK_CEDTS_Grade_CEDTS_Major">
+      <End Role="CEDTS_Major" EntitySet="CEDTS_Major" />
+      <End Role="CEDTS_Grade" EntitySet="CEDTS_Grade" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_IT_REFERENCE_CEDTS_PA" Association="Cedts_Model.Store.FK_CEDTS_IT_REFERENCE_CEDTS_PA">
+      <End Role="CEDTS_PartType" EntitySet="CEDTS_PartType" />
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_LearnerStatus_CEDTS_User" Association="Cedts_Model.Store.FK_CEDTS_LearnerStatus_CEDTS_User">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_LearnerStatus" EntitySet="CEDTS_LearnerStatus" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_LO_REFERENCE_CEDTS_US" Association="Cedts_Model.Store.FK_CEDTS_LO_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_Log" EntitySet="CEDTS_Log" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_Major_CEDTS_Partner" Association="Cedts_Model.Store.FK_CEDTS_Major_CEDTS_Partner">
+      <End Role="CEDTS_Partner" EntitySet="CEDTS_Partner" />
+      <End Role="CEDTS_Major" EntitySet="CEDTS_Major" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PA_REFERENCE_CEDTS_US" Association="Cedts_Model.Store.FK_CEDTS_PA_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PAA_REFERENCE_CEDTS_AS" Association="Cedts_Model.Store.FK_CEDTS_PAA_REFERENCE_CEDTS_AS">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_PaperAssessment" EntitySet="CEDTS_PaperAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PAA_REFERENCE_CEDTS_PA" Association="Cedts_Model.Store.FK_CEDTS_PAA_REFERENCE_CEDTS_PA">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_PaperAssessment" EntitySet="CEDTS_PaperAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_Paper_CEDTS_Paper" Association="Cedts_Model.Store.FK_CEDTS_Paper_CEDTS_Paper">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_Paper1" EntitySet="CEDTS_Paper" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PaperAssessment_CEDTS_ItemType" Association="Cedts_Model.Store.FK_CEDTS_PaperAssessment_CEDTS_ItemType">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_PaperAssessment" EntitySet="CEDTS_PaperAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PaperAssessment_CEDTS_PartType" Association="Cedts_Model.Store.FK_CEDTS_PaperAssessment_CEDTS_PartType">
+      <End Role="CEDTS_PartType" EntitySet="CEDTS_PartType" />
+      <End Role="CEDTS_PaperAssessment" EntitySet="CEDTS_PaperAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PaperExpansion_CEDTS_Paper" Association="Cedts_Model.Store.FK_CEDTS_PaperExpansion_CEDTS_Paper">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_PaperExpansion" EntitySet="CEDTS_PaperExpansion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_QU_REFERENCE_CEDTS_AS" Association="Cedts_Model.Store.FK_CEDTS_QU_REFERENCE_CEDTS_AS">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_Question" EntitySet="CEDTS_Question" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_QUK_REFERENCE_CEDTS_QU" Association="Cedts_Model.Store.FK_CEDTS_QUK_REFERENCE_CEDTS_QU">
+      <End Role="CEDTS_Question" EntitySet="CEDTS_Question" />
+      <End Role="CEDTS_QuestionKnowledge" EntitySet="CEDTS_QuestionKnowledge" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_SmapleAnswerTypeInfo_CEDTS_ItemType" Association="Cedts_Model.Store.FK_CEDTS_SmapleAnswerTypeInfo_CEDTS_ItemType">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_SmapleAnswerTypeInfo" EntitySet="CEDTS_SmapleAnswerTypeInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TE_REFERENCE_CEDTS_PA" Association="Cedts_Model.Store.FK_CEDTS_TE_REFERENCE_CEDTS_PA">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TE_REFERENCE_CEDTS_TE" Association="Cedts_Model.Store.FK_CEDTS_TE_REFERENCE_CEDTS_TE">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_TestAssessment" EntitySet="CEDTS_TestAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TE_REFERENCE_CEDTS_US" Association="Cedts_Model.Store.FK_CEDTS_TE_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TEA_REFERENCE_CEDTS_AS" Association="Cedts_Model.Store.FK_CEDTS_TEA_REFERENCE_CEDTS_AS">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_TestAssessment" EntitySet="CEDTS_TestAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TEA_REFERENCE_CEDTS_US" Association="Cedts_Model.Store.FK_CEDTS_TEA_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_TestAssessment" EntitySet="CEDTS_TestAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_QU" Association="Cedts_Model.Store.FK_CEDTS_TEAN_REFERENCE_CEDTS_QU">
+      <End Role="CEDTS_Question" EntitySet="CEDTS_Question" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_TE" Association="Cedts_Model.Store.FK_CEDTS_TEAN_REFERENCE_CEDTS_TE">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_US" Association="Cedts_Model.Store.FK_CEDTS_TEAN_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_tempAssessmentItemTime1_CEDTS_Test" Association="Cedts_Model.Store.FK_CEDTS_tempAssessmentItemTime1_CEDTS_Test">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_tempAssessmentItemTime" EntitySet="CEDTS_tempAssessmentItemTime" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_tempTestAnswer1_CEDTS_AssessmentItem" Association="Cedts_Model.Store.FK_CEDTS_tempTestAnswer1_CEDTS_AssessmentItem">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_tempTestAnswer" EntitySet="CEDTS_tempTestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_tempTestAnswer1_CEDTS_Question" Association="Cedts_Model.Store.FK_CEDTS_tempTestAnswer1_CEDTS_Question">
+      <End Role="CEDTS_Question" EntitySet="CEDTS_Question" />
+      <End Role="CEDTS_tempTestAnswer" EntitySet="CEDTS_tempTestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_tempTestAnswer1_CEDTS_Test" Association="Cedts_Model.Store.FK_CEDTS_tempTestAnswer1_CEDTS_Test">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_tempTestAnswer" EntitySet="CEDTS_tempTestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswer_CEDTS_AssessmentItem" Association="Cedts_Model.Store.FK_CEDTS_TestAnswer_CEDTS_AssessmentItem">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswer_CEDTS_ItemType" Association="Cedts_Model.Store.FK_CEDTS_TestAnswer_CEDTS_ItemType">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswer_CEDTS_Test" Association="Cedts_Model.Store.FK_CEDTS_TestAnswer_CEDTS_Test">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Paper" Association="Cedts_Model.Store.FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Paper">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_TestAnswerKnowledgePoint" EntitySet="CEDTS_TestAnswerKnowledgePoint" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Test" Association="Cedts_Model.Store.FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Test">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_TestAnswerKnowledgePoint" EntitySet="CEDTS_TestAnswerKnowledgePoint" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_ItemType" Association="Cedts_Model.Store.FK_CEDTS_TestAnswerTypeInfo_CEDTS_ItemType">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_TestAnswerTypeInfo" EntitySet="CEDTS_TestAnswerTypeInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_Paper" Association="Cedts_Model.Store.FK_CEDTS_TestAnswerTypeInfo_CEDTS_Paper">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_TestAnswerTypeInfo" EntitySet="CEDTS_TestAnswerTypeInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_Test" Association="Cedts_Model.Store.FK_CEDTS_TestAnswerTypeInfo_CEDTS_Test">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_TestAnswerTypeInfo" EntitySet="CEDTS_TestAnswerTypeInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_User_CEDTS_Class" Association="Cedts_Model.Store.FK_CEDTS_User_CEDTS_Class">
+      <End Role="CEDTS_Class" EntitySet="CEDTS_Class" />
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_User_CEDTS_Grade" Association="Cedts_Model.Store.FK_CEDTS_User_CEDTS_Grade">
+      <End Role="CEDTS_Grade" EntitySet="CEDTS_Grade" />
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_User_CEDTS_Major" Association="Cedts_Model.Store.FK_CEDTS_User_CEDTS_Major">
+      <End Role="CEDTS_Major" EntitySet="CEDTS_Major" />
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_User_CEDTS_Partner" Association="Cedts_Model.Store.FK_CEDTS_User_CEDTS_Partner">
+      <End Role="CEDTS_Partner" EntitySet="CEDTS_Partner" />
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_UserAnswerInfo_CEDTS_ItemType" Association="Cedts_Model.Store.FK_CEDTS_UserAnswerInfo_CEDTS_ItemType">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_UserAnswerInfo" EntitySet="CEDTS_UserAnswerInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_UserAnswerInfo_CEDTS_User" Association="Cedts_Model.Store.FK_CEDTS_UserAnswerInfo_CEDTS_User">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_UserAnswerInfo" EntitySet="CEDTS_UserAnswerInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_UserAssessmentCount_CEDTS_AssessmentItem" Association="Cedts_Model.Store.FK_CEDTS_UserAssessmentCount_CEDTS_AssessmentItem">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_UserAssessmentCount" EntitySet="CEDTS_UserAssessmentCount" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_UserAssessmentCount_CEDTS_User" Association="Cedts_Model.Store.FK_CEDTS_UserAssessmentCount_CEDTS_User">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_UserAssessmentCount" EntitySet="CEDTS_UserAssessmentCount" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_UserKnowledgeInfomation_CEDTS_User" Association="Cedts_Model.Store.FK_CEDTS_UserKnowledgeInfomation_CEDTS_User">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_UserKnowledgeInfomation" EntitySet="CEDTS_UserKnowledgeInfomation" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CEDTS_Expansion_CEDTS_AssessmentItem" Association="Cedts_Model.Store.FK_dbo_CEDTS_Expansion_CEDTS_AssessmentItem">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_Expansion" EntitySet="CEDTS_Expansion" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CEDTS_AssessmentItem">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+    </Key>
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="UpdateUserID" Type="int" />
+    <Property Name="SaveTime" Type="datetime" />
+    <Property Name="Duration" Type="float" />
+    <Property Name="Difficult" Type="float" />
+    <Property Name="Score" Type="float" />
+    <Property Name="Count" Type="int" />
+    <Property Name="Content" Type="nvarchar(max)" />
+    <Property Name="QuestionCount" Type="int" />
+    <Property Name="UpdateTime" Type="datetime" />
+    <Property Name="Original" Type="nvarchar(max)" />
+    <Property Name="Course" Type="nvarchar(max)" />
+    <Property Name="Unit" Type="nvarchar(max)" />
+    <Property Name="Interval" Type="int" />
+    <Property Name="SoundFile" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_Assign">
+    <Key>
+      <PropertyRef Name="AssignID" />
+    </Key>
+    <Property Name="AssignID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" />
+    <Property Name="Time" Type="datetime" />
+    <Property Name="QuestionID" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_AssignAssessment">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+    </Key>
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="UpdateUserID" Type="int" />
+    <Property Name="SaveTime" Type="datetime" />
+    <Property Name="Duration" Type="float" />
+    <Property Name="Difficult" Type="float" />
+    <Property Name="Score" Type="float" />
+    <Property Name="Count" Type="int" />
+    <Property Name="Content" Type="nvarchar(max)" />
+    <Property Name="QuestionCount" Type="int" />
+    <Property Name="UpdateTime" Type="datetime" />
+    <Property Name="Original" Type="nvarchar(max)" />
+    <Property Name="Course" Type="nvarchar(max)" />
+    <Property Name="Unit" Type="nvarchar(max)" />
+    <Property Name="Interval" Type="int" />
+    <Property Name="State" Type="bit" />
+  </EntityType>
+  <EntityType Name="CEDTS_AssignQuestionKnowledge">
+    <Key>
+      <PropertyRef Name="QuestionKnowledgeID" />
+    </Key>
+    <Property Name="QuestionKnowledgeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionID" Type="uniqueidentifier" />
+    <Property Name="KnowledgePointID" Type="uniqueidentifier" />
+    <Property Name="Weight" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_Card">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SerialNumber" Type="nvarchar(max)" />
+    <Property Name="PassWord" Type="nvarchar(max)" />
+    <Property Name="CardKind" Type="int" />
+    <Property Name="CardType" Type="int" />
+    <Property Name="CreateTime" Type="datetime" />
+    <Property Name="ActivationTime" Type="datetime" />
+    <Property Name="ActivationState" Type="int" />
+    <Property Name="EffectiveTime" Type="nvarchar(max)" />
+    <Property Name="OverdueTime" Type="datetime" />
+    <Property Name="CreateUser" Type="int" />
+    <Property Name="ActivationUser" Type="int" />
+    <Property Name="Discount" Type="float" />
+    <Property Name="PartnerID" Type="uniqueidentifier" />
+    <Property Name="Money" Type="float" />
+  </EntityType>
+  <EntityType Name="CEDTS_Class">
+    <Key>
+      <PropertyRef Name="ClassID" />
+    </Key>
+    <Property Name="ClassID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="GradeID" Type="uniqueidentifier" />
+    <Property Name="PartnerID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ClassName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CreateTime" Type="datetime" Nullable="false" />
+    <Property Name="UserID" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_Contact">
+    <Key>
+      <PropertyRef Name="ContactID" />
+    </Key>
+    <Property Name="ContactID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="Tel" Type="nvarchar(max)" />
+    <Property Name="ZipCode" Type="nvarchar(max)" />
+    <Property Name="Address" Type="nvarchar(max)" />
+    <Property Name="Url" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_CoreFeatures">
+    <Key>
+      <PropertyRef Name="CoreFeatures ID" />
+    </Key>
+    <Property Name="CoreFeatures ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Content" Type="nvarchar(max)" />
+    <Property Name="Order" Type="int" />
+    <Property Name="Intro" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_Expansion">
+    <Key>
+      <PropertyRef Name="ExpansionID" />
+    </Key>
+    <Property Name="ExpansionID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" />
+    <Property Name="ChoiceA" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceB" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceC" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceD" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceE" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceF" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceG" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceH" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceI" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceJ" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceK" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceL" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceM" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceN" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceO" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="CEDTS_Feedback">
+    <Key>
+      <PropertyRef Name="FeedbackID" />
+    </Key>
+    <Property Name="FeedbackID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Content" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Tel" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Time" Type="datetime" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_Grade">
+    <Key>
+      <PropertyRef Name="GradeID" />
+    </Key>
+    <Property Name="GradeID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="MajorID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PartnerID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="GradeName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CreateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_Instructions">
+    <Key>
+      <PropertyRef Name="InstructionsID" />
+    </Key>
+    <Property Name="InstructionsID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Content" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_ItemType">
+    <Key>
+      <PropertyRef Name="ItemTypeID" />
+    </Key>
+    <Property Name="ItemTypeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TypeName" Type="nvarchar(max)" />
+    <Property Name="TypeName_CN" Type="nvarchar(max)" />
+    <Property Name="Describe" Type="nvarchar(max)" />
+    <Property Name="PartTypeID" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_KnowledgePoints">
+    <Key>
+      <PropertyRef Name="KnowledgePointID" />
+    </Key>
+    <Property Name="KnowledgePointID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Title" Type="nvarchar(max)" />
+    <Property Name="Describe" Type="nvarchar(max)" />
+    <Property Name="UperKnowledgeID" Type="uniqueidentifier" />
+    <Property Name="Level" Type="int" />
+    <Property Name="ConstantC" Type="float" />
+  </EntityType>
+  <EntityType Name="CEDTS_KpToKp">
+    <Key>
+      <PropertyRef Name="KpToKpID" />
+    </Key>
+    <Property Name="KpToKpID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NewKpID" Type="uniqueidentifier" />
+    <Property Name="OldKpID" Type="uniqueidentifier" />
+  </EntityType>
+  <EntityType Name="CEDTS_LearnerStatus">
+    <Key>
+      <PropertyRef Name="statusId" />
+    </Key>
+    <Property Name="statusId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="userId" Type="int" Nullable="false" />
+    <Property Name="status" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_Log">
+    <Key>
+      <PropertyRef Name="LogID" />
+    </Key>
+    <Property Name="LogID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="Content" Type="nvarchar(max)" />
+    <Property Name="LogTime" Type="datetime" />
+    <Property Name="ClientIP" Type="nvarchar" MaxLength="50" />
+    <Property Name="Action" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="CEDTS_Major">
+    <Key>
+      <PropertyRef Name="MajorID" />
+    </Key>
+    <Property Name="MajorID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="MajorName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MajorMark" Type="nvarchar(max)" />
+    <Property Name="UpMajorID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="MajorLevel" Type="int" Nullable="false" />
+    <Property Name="PartnerID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CreateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_Paper">
+    <Key>
+      <PropertyRef Name="PaperID" />
+    </Key>
+    <Property Name="PaperID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="50" />
+    <Property Name="Type" Type="nvarchar" MaxLength="50" />
+    <Property Name="PaperContent" Type="nvarchar(max)" />
+    <Property Name="Duration" Type="float" />
+    <Property Name="Difficult" Type="float" />
+    <Property Name="Score" Type="float" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="CreateTime" Type="datetime" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="UpdateUserID" Type="int" />
+    <Property Name="UpdateTime" Type="datetime" />
+    <Property Name="State" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_PaperAssessment">
+    <Key>
+      <PropertyRef Name="PaperAssessmentID" />
+    </Key>
+    <Property Name="PaperAssessmentID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="uniqueidentifier" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" />
+    <Property Name="PartTypeID" Type="int" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="Weight" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_PaperAssignClass">
+    <Key>
+      <PropertyRef Name="PaperClassID" />
+    </Key>
+    <Property Name="PaperClassID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="uniqueidentifier" />
+    <Property Name="ClassID" Type="uniqueidentifier" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="CreateTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CEDTS_PaperExpansion">
+    <Key>
+      <PropertyRef Name="PaperExpansionID" />
+    </Key>
+    <Property Name="PaperExpansionID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="uniqueidentifier" />
+    <Property Name="SkimmingAndScanningNum" Type="int" />
+    <Property Name="ShortListenNum" Type="int" />
+    <Property Name="LongListenNum" Type="int" />
+    <Property Name="ComprehensionListenNum" Type="int" />
+    <Property Name="ComplexListenNum" Type="int" />
+    <Property Name="BankedClozeNum" Type="int" />
+    <Property Name="MultipleChoiceNum" Type="int" />
+    <Property Name="InfoMatchingNum" Type="int" />
+    <Property Name="ClozeNum" Type="int" />
+    <Property Name="State" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_Partner">
+    <Key>
+      <PropertyRef Name="PartnerID" />
+    </Key>
+    <Property Name="PartnerID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PartnerName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Province" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="City" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Address" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Principal" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Telphone" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Mobilephone" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" />
+    <Property Name="Src" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="AdminAccount" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CreateTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_PartType">
+    <Key>
+      <PropertyRef Name="PartTypeID" />
+    </Key>
+    <Property Name="PartTypeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TypeName" Type="nvarchar" MaxLength="50" />
+    <Property Name="TypeName_CN" Type="nvarchar" MaxLength="50" />
+    <Property Name="Describe" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_Question">
+    <Key>
+      <PropertyRef Name="QuestionID" />
+    </Key>
+    <Property Name="QuestionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Score" Type="float" />
+    <Property Name="Difficult" Type="float" />
+    <Property Name="Duration" Type="float" />
+    <Property Name="QuestionContent" Type="nvarchar(max)" />
+    <Property Name="ChooseA" Type="nvarchar(max)" />
+    <Property Name="ChooseB" Type="nvarchar(max)" />
+    <Property Name="ChooseC" Type="nvarchar(max)" />
+    <Property Name="ChooseD" Type="nvarchar(max)" />
+    <Property Name="Answer" Type="nvarchar(max)" />
+    <Property Name="Analyze" Type="nvarchar(max)" />
+    <Property Name="Order" Type="int" />
+    <Property Name="Sound" Type="nvarchar(max)" />
+    <Property Name="Interval" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_QuestionKnowledge">
+    <Key>
+      <PropertyRef Name="QuestionKnowledgeID" />
+    </Key>
+    <Property Name="QuestionKnowledgeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="KnowledgePointID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Weight" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_SampleKnowledgeInfomation">
+    <Key>
+      <PropertyRef Name="SKII_ID" />
+    </Key>
+    <Property Name="SKII_ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="KnowledgePointID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CorrectRate" Type="float" />
+    <Property Name="AverageTime" Type="float" />
+    <Property Name="KP_MasterRate" Type="float" />
+    <Property Name="TotalCount" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_Saying">
+    <Key>
+      <PropertyRef Name="SayingID" />
+    </Key>
+    <Property Name="SayingID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Content" Type="nvarchar(max)" />
+    <Property Name="Note" Type="nvarchar(max)" />
+    <Property Name="Time" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CEDTS_SmapleAnswerTypeInfo">
+    <Key>
+      <PropertyRef Name="SATI_ID" />
+    </Key>
+    <Property Name="SATI_ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="CorrectRate" Type="float" />
+    <Property Name="TotalCount" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_SystemOverview">
+    <Key>
+      <PropertyRef Name="SystemOverviewID" />
+    </Key>
+    <Property Name="SystemOverviewID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Content" Type="nvarchar(max)" />
+    <Property Name="Time" Type="datetime" />
+    <Property Name="Intro" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_TClass">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="ClassID" Type="uniqueidentifier" />
+  </EntityType>
+  <EntityType Name="CEDTS_tempAssessmentItemTime">
+    <Key>
+      <PropertyRef Name="TimeID" />
+    </Key>
+    <Property Name="TimeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TestID" Type="uniqueidentifier" />
+    <Property Name="Time" Type="int" />
+    <Property Name="Number" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_TemporaryAssessmentItem">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+    </Key>
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="UpdateUserID" Type="int" />
+    <Property Name="SaveTime" Type="datetime" />
+    <Property Name="Duration" Type="float" />
+    <Property Name="Difficult" Type="float" />
+    <Property Name="Score" Type="float" />
+    <Property Name="Count" Type="int" />
+    <Property Name="Content" Type="nvarchar(max)" />
+    <Property Name="QuestionCount" Type="int" />
+    <Property Name="UpdateTime" Type="datetime" />
+    <Property Name="Original" Type="nvarchar(max)" />
+    <Property Name="Course" Type="nvarchar(max)" />
+    <Property Name="Unit" Type="nvarchar(max)" />
+    <Property Name="Interval" Type="int" />
+    <Property Name="SoundFile" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_TemporaryExpansion">
+    <Key>
+      <PropertyRef Name="ExpansionID" />
+    </Key>
+    <Property Name="ExpansionID" Type="int" Nullable="false" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" />
+    <Property Name="ChoiceA" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceB" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceC" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceD" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceE" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceF" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceG" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceH" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceI" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceJ" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceK" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceL" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceM" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceN" Type="nvarchar" MaxLength="50" />
+    <Property Name="ChoiceO" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="CEDTS_TemporaryPaperAssessment">
+    <Key>
+      <PropertyRef Name="PaperAssessmentID" />
+    </Key>
+    <Property Name="PaperAssessmentID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="uniqueidentifier" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" />
+    <Property Name="PartTypeID" Type="int" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="Weight" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_TemporaryQuestion">
+    <Key>
+      <PropertyRef Name="QuestionID" />
+    </Key>
+    <Property Name="QuestionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" />
+    <Property Name="Score" Type="float" />
+    <Property Name="Difficult" Type="float" />
+    <Property Name="Duration" Type="float" />
+    <Property Name="QuestionContent" Type="nvarchar(max)" />
+    <Property Name="ChooseA" Type="nvarchar(max)" />
+    <Property Name="ChooseB" Type="nvarchar(max)" />
+    <Property Name="ChooseC" Type="nvarchar(max)" />
+    <Property Name="ChooseD" Type="nvarchar(max)" />
+    <Property Name="Answer" Type="nvarchar(max)" />
+    <Property Name="Analyze" Type="nvarchar(max)" />
+    <Property Name="Order" Type="int" />
+    <Property Name="Sound" Type="nvarchar(max)" />
+    <Property Name="Interval" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_TemporaryQuestionKnowledge">
+    <Key>
+      <PropertyRef Name="QuestionKnowledgeID" />
+    </Key>
+    <Property Name="QuestionKnowledgeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionID" Type="uniqueidentifier" />
+    <Property Name="KnowledgePointID" Type="uniqueidentifier" />
+    <Property Name="Weight" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_tempTestAnswer">
+    <Key>
+      <PropertyRef Name="tempTestAnswe" />
+    </Key>
+    <Property Name="tempTestAnswe" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TestID" Type="uniqueidentifier" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" />
+    <Property Name="QuestionID" Type="uniqueidentifier" />
+    <Property Name="UserAnswer" Type="nvarchar(max)" />
+    <Property Name="Number" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_Test">
+    <Key>
+      <PropertyRef Name="TestID" />
+    </Key>
+    <Property Name="TestID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="IsFinished" Type="bit" />
+    <Property Name="FinishDate" Type="datetime" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="PaperID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="TotalScore" Type="float" />
+    <Property Name="TotalTime" Type="float" />
+    <Property Name="IsChecked" Type="int" />
+    <Property Name="Remark" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CEDTS_TestAnswer">
+    <Key>
+      <PropertyRef Name="TestAnswerID" />
+    </Key>
+    <Property Name="TestAnswerID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="TestID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Answer" Type="nvarchar(max)" />
+    <Property Name="UserAnswer" Type="nvarchar(max)" />
+    <Property Name="AnswerContent" Type="nvarchar(max)" />
+    <Property Name="IsRight" Type="bit" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="ItemAnswerTime" Type="float" />
+    <Property Name="Number" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_TestAnswerKnowledgePoint">
+    <Key>
+      <PropertyRef Name="TKPID" />
+    </Key>
+    <Property Name="TKPID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TestID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="KnowledgePointID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CorrectItemNumber" Type="int" />
+    <Property Name="TotalItemNumber" Type="int" />
+    <Property Name="CorrectRate" Type="float" />
+    <Property Name="AverageTime" Type="float" />
+    <Property Name="KP_MasterRate" Type="float" />
+    <Property Name="Time" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CEDTS_TestAnswerTypeInfo">
+    <Key>
+      <PropertyRef Name="TATI_ID" />
+    </Key>
+    <Property Name="TATI_ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TestID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="CorrectItemNumber" Type="int" />
+    <Property Name="TotalItemNumber" Type="int" />
+    <Property Name="CorrectRate" Type="float" />
+    <Property Name="Time" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CEDTS_TestAssessment">
+    <Key>
+      <PropertyRef Name="TestAssessmentID" />
+    </Key>
+    <Property Name="TestAssessmentID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" />
+    <Property Name="FinishTime" Type="datetime" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="TestID" Type="uniqueidentifier" />
+  </EntityType>
+  <EntityType Name="CEDTS_Testing">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="UserAccount" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PaperID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PaperTitle" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Time" Type="date" Nullable="false" />
+    <Property Name="PaperType" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserAccount" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserPassword" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Role" Type="nvarchar" MaxLength="50" />
+    <Property Name="RegisterTime" Type="datetime" />
+    <Property Name="Sex" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserNickname" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" />
+    <Property Name="Partner" Type="uniqueidentifier" />
+    <Property Name="StudentNumber" Type="nvarchar(max)" />
+    <Property Name="MajorID" Type="uniqueidentifier" />
+    <Property Name="GradeID" Type="uniqueidentifier" />
+    <Property Name="ClassID" Type="uniqueidentifier" />
+    <Property Name="State" Type="bit" />
+    <Property Name="PartnerID" Type="uniqueidentifier" />
+    <Property Name="BindCard" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_UserAnswerInfo">
+    <Key>
+      <PropertyRef Name="UATI_ID" />
+    </Key>
+    <Property Name="UATI_ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="CorrectRate" Type="float" />
+    <Property Name="TotalCount" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_UserAssessmentCount">
+    <Key>
+      <PropertyRef Name="UserAssessmentCountID" />
+    </Key>
+    <Property Name="UserAssessmentCountID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Count" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_UserCard">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="CardID" Type="int" />
+  </EntityType>
+  <EntityType Name="CEDTS_UserKnowledgeInfomation">
+    <Key>
+      <PropertyRef Name="UKII_ID" />
+    </Key>
+    <Property Name="UKII_ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="KnowledgePointID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CorrectRate" Type="float" />
+    <Property Name="AverageTime" Type="float" />
+    <Property Name="KP_MasterRate" Type="float" />
+    <Property Name="TotalCount" Type="int" />
+  </EntityType>
+  <!--生成过程中发现错误:
+      警告 6002: 表/视图“CedtsOffical.dbo.ItemBank”未定义主键。已推断出该键，并将定义创建为只读的表/视图。
+      -->
+  <EntityType Name="ItemBank">
+    <Key>
+      <PropertyRef Name="ItemID" />
+    </Key>
+    <Property Name="ItemID" Type="int" Nullable="false" />
+    <Property Name="ItemGUID" Type="varchar" MaxLength="50" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="BankID" Type="int" />
+    <Property Name="Content" Type="ntext" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="CreateTime" Type="datetime" />
+    <Property Name="Status" Type="int" />
+    <Property Name="AdminID" Type="int" />
+    <Property Name="Attribute" Type="varchar" MaxLength="100" />
+    <Property Name="UserTimes" Type="int" />
+    <Property Name="Hard" Type="numeric" />
+    <Property Name="Level" Type="varchar" MaxLength="10" />
+    <Property Name="Differ" Type="numeric" />
+    <Property Name="IsTrain" Type="bit" />
+    <Property Name="Identifier" Type="varchar" MaxLength="32" />
+    <Property Name="ForBook" Type="varchar" MaxLength="32" />
+    <Property Name="ForUnit" Type="int" />
+    <Property Name="OldID" Type="varchar" MaxLength="50" />
+    <Property Name="EstimatedTime" Type="numeric" />
+    <Property Name="IsOriginal" Type="bit" />
+    <Property Name="ReplaceItemId" Type="int" />
+    <Property Name="TopicId" Type="int" />
+    <Property Name="OldItemTypeId" Type="varchar" MaxLength="50" />
+    <Property Name="OldTopicId" Type="varchar" MaxLength="32" />
+    <Property Name="OldBankId" Type="varchar" MaxLength="50" />
+    <Property Name="OldForBookId" Type="varchar" MaxLength="32" />
+    <Property Name="OldReplaceItemId" Type="varchar" MaxLength="32" />
+    <Property Name="ForBookID" Type="int" />
+    <Property Name="DataSource" Type="nvarchar" MaxLength="100" />
+    <Property Name="ItemSeries" Type="nvarchar" MaxLength="100" />
+    <Property Name="QCount" Type="int" />
+    <Property Name="PaperNo" Type="int" />
+    <Property Name="ItemNo" Type="int" />
+    <Property Name="TestPoint" Type="nvarchar" MaxLength="100" />
+    <Property Name="ForUnitTo" Type="int" />
+    <Property Name="DataSourseNote" Type="nvarchar" MaxLength="200" />
+    <Property Name="bakContent" Type="ntext" />
+  </EntityType>
+  <!--生成过程中发现错误:
+      警告 6002: 表/视图“CedtsOffical.dbo.AQK”未定义主键。已推断出该键，并将定义创建为只读的表/视图。
+      -->
+  <EntityType Name="AQK">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+      <PropertyRef Name="Expr1" />
+      <PropertyRef Name="QuestionID" />
+      <PropertyRef Name="Expr2" />
+      <PropertyRef Name="KnowledgePointID" />
+    </Key>
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ItemTypeID" Type="int" />
+    <Property Name="Expr1" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="QuestionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Expr2" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="KnowledgePointID" Type="uniqueidentifier" Nullable="false" />
+  </EntityType>
+  <!--生成过程中发现错误:
+      警告 6002: 表/视图“CedtsOffical.dbo.ExaminationView”未定义主键。已推断出该键，并将定义创建为只读的表/视图。
+      -->
+  <EntityType Name="ExaminationView">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+    </Key>
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="TypeName_CN" Type="nvarchar(max)" />
+    <Property Name="SaveTime" Type="datetime" />
+    <Property Name="UpdateUserID" Type="int" />
+    <Property Name="Duration" Type="int" />
+    <Property Name="Difficult" Type="float" />
+    <Property Name="Score" Type="int" />
+    <Property Name="Count" Type="int" />
+    <Property Name="UpdateTime" Type="datetime" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="UserNickname" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--生成过程中发现错误:
+      警告 6002: 表/视图“CedtsOffical.dbo.UserAssessmentCount”未定义主键。已推断出该键，并将定义创建为只读的表/视图。
+      -->
+  <EntityType Name="UserAssessmentCount">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+    </Key>
+    <Property Name="UserID" Type="int" />
+    <Property Name="Count" Type="int" />
+    <Property Name="AssessmentItemID" Type="uniqueidentifier" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_CEDTS_AS_REFERENCE_CEDTS_IT">
+    <End Role="CEDTS_ItemType" Type="Cedts_Model.Store.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_AssessmentItem" Type="Cedts_Model.Store.CEDTS_AssessmentItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_AS_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_AssessmentItem" Type="Cedts_Model.Store.CEDTS_AssessmentItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_Grade_CEDTS_Major">
+    <End Role="CEDTS_Major" Type="Cedts_Model.Store.CEDTS_Major" Multiplicity="1" />
+    <End Role="CEDTS_Grade" Type="Cedts_Model.Store.CEDTS_Grade" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Major">
+        <PropertyRef Name="MajorID" />
+      </Principal>
+      <Dependent Role="CEDTS_Grade">
+        <PropertyRef Name="MajorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_IT_REFERENCE_CEDTS_PA">
+    <End Role="CEDTS_PartType" Type="Cedts_Model.Store.CEDTS_PartType" Multiplicity="0..1" />
+    <End Role="CEDTS_ItemType" Type="Cedts_Model.Store.CEDTS_ItemType" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_PartType">
+        <PropertyRef Name="PartTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_ItemType">
+        <PropertyRef Name="PartTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_LearnerStatus_CEDTS_User">
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="1" />
+    <End Role="CEDTS_LearnerStatus" Type="Cedts_Model.Store.CEDTS_LearnerStatus" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_LearnerStatus">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_LO_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_Log" Type="Cedts_Model.Store.CEDTS_Log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_Log">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_Major_CEDTS_Partner">
+    <End Role="CEDTS_Partner" Type="Cedts_Model.Store.CEDTS_Partner" Multiplicity="1" />
+    <End Role="CEDTS_Major" Type="Cedts_Model.Store.CEDTS_Major" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Partner">
+        <PropertyRef Name="PartnerID" />
+      </Principal>
+      <Dependent Role="CEDTS_Major">
+        <PropertyRef Name="PartnerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PA_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_Paper" Type="Cedts_Model.Store.CEDTS_Paper" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_Paper">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PAA_REFERENCE_CEDTS_AS">
+    <End Role="CEDTS_AssessmentItem" Type="Cedts_Model.Store.CEDTS_AssessmentItem" Multiplicity="0..1" />
+    <End Role="CEDTS_PaperAssessment" Type="Cedts_Model.Store.CEDTS_PaperAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_PaperAssessment">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PAA_REFERENCE_CEDTS_PA">
+    <End Role="CEDTS_Paper" Type="Cedts_Model.Store.CEDTS_Paper" Multiplicity="0..1" />
+    <End Role="CEDTS_PaperAssessment" Type="Cedts_Model.Store.CEDTS_PaperAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_PaperAssessment">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_Paper_CEDTS_Paper">
+    <End Role="CEDTS_Paper" Type="Cedts_Model.Store.CEDTS_Paper" Multiplicity="1" />
+    <End Role="CEDTS_Paper1" Type="Cedts_Model.Store.CEDTS_Paper" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_Paper1">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PaperAssessment_CEDTS_ItemType">
+    <End Role="CEDTS_ItemType" Type="Cedts_Model.Store.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_PaperAssessment" Type="Cedts_Model.Store.CEDTS_PaperAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_PaperAssessment">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PaperAssessment_CEDTS_PartType">
+    <End Role="CEDTS_PartType" Type="Cedts_Model.Store.CEDTS_PartType" Multiplicity="0..1" />
+    <End Role="CEDTS_PaperAssessment" Type="Cedts_Model.Store.CEDTS_PaperAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_PartType">
+        <PropertyRef Name="PartTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_PaperAssessment">
+        <PropertyRef Name="PartTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PaperExpansion_CEDTS_Paper">
+    <End Role="CEDTS_Paper" Type="Cedts_Model.Store.CEDTS_Paper" Multiplicity="0..1" />
+    <End Role="CEDTS_PaperExpansion" Type="Cedts_Model.Store.CEDTS_PaperExpansion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_PaperExpansion">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_QU_REFERENCE_CEDTS_AS">
+    <End Role="CEDTS_AssessmentItem" Type="Cedts_Model.Store.CEDTS_AssessmentItem" Multiplicity="1" />
+    <End Role="CEDTS_Question" Type="Cedts_Model.Store.CEDTS_Question" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_Question">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_QUK_REFERENCE_CEDTS_QU">
+    <End Role="CEDTS_Question" Type="Cedts_Model.Store.CEDTS_Question" Multiplicity="1" />
+    <End Role="CEDTS_QuestionKnowledge" Type="Cedts_Model.Store.CEDTS_QuestionKnowledge" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Question">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="CEDTS_QuestionKnowledge">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_SmapleAnswerTypeInfo_CEDTS_ItemType">
+    <End Role="CEDTS_ItemType" Type="Cedts_Model.Store.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_SmapleAnswerTypeInfo" Type="Cedts_Model.Store.CEDTS_SmapleAnswerTypeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_SmapleAnswerTypeInfo">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TE_REFERENCE_CEDTS_PA">
+    <End Role="CEDTS_Paper" Type="Cedts_Model.Store.CEDTS_Paper" Multiplicity="1" />
+    <End Role="CEDTS_Test" Type="Cedts_Model.Store.CEDTS_Test" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_Test">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TE_REFERENCE_CEDTS_TE">
+    <End Role="CEDTS_Test" Type="Cedts_Model.Store.CEDTS_Test" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAssessment" Type="Cedts_Model.Store.CEDTS_TestAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAssessment">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TE_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_Test" Type="Cedts_Model.Store.CEDTS_Test" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_Test">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TEA_REFERENCE_CEDTS_AS">
+    <End Role="CEDTS_AssessmentItem" Type="Cedts_Model.Store.CEDTS_AssessmentItem" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAssessment" Type="Cedts_Model.Store.CEDTS_TestAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAssessment">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TEA_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAssessment" Type="Cedts_Model.Store.CEDTS_TestAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAssessment">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_QU">
+    <End Role="CEDTS_Question" Type="Cedts_Model.Store.CEDTS_Question" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswer" Type="Cedts_Model.Store.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Question">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_TE">
+    <End Role="CEDTS_Test" Type="Cedts_Model.Store.CEDTS_Test" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswer" Type="Cedts_Model.Store.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAnswer" Type="Cedts_Model.Store.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_tempAssessmentItemTime1_CEDTS_Test">
+    <End Role="CEDTS_Test" Type="Cedts_Model.Store.CEDTS_Test" Multiplicity="0..1" />
+    <End Role="CEDTS_tempAssessmentItemTime" Type="Cedts_Model.Store.CEDTS_tempAssessmentItemTime" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_tempAssessmentItemTime">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_tempTestAnswer1_CEDTS_AssessmentItem">
+    <End Role="CEDTS_AssessmentItem" Type="Cedts_Model.Store.CEDTS_AssessmentItem" Multiplicity="0..1" />
+    <End Role="CEDTS_tempTestAnswer" Type="Cedts_Model.Store.CEDTS_tempTestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_tempTestAnswer">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_tempTestAnswer1_CEDTS_Question">
+    <End Role="CEDTS_Question" Type="Cedts_Model.Store.CEDTS_Question" Multiplicity="0..1" />
+    <End Role="CEDTS_tempTestAnswer" Type="Cedts_Model.Store.CEDTS_tempTestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Question">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="CEDTS_tempTestAnswer">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_tempTestAnswer1_CEDTS_Test">
+    <End Role="CEDTS_Test" Type="Cedts_Model.Store.CEDTS_Test" Multiplicity="0..1" />
+    <End Role="CEDTS_tempTestAnswer" Type="Cedts_Model.Store.CEDTS_tempTestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_tempTestAnswer">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswer_CEDTS_AssessmentItem">
+    <End Role="CEDTS_AssessmentItem" Type="Cedts_Model.Store.CEDTS_AssessmentItem" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAnswer" Type="Cedts_Model.Store.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswer_CEDTS_ItemType">
+    <End Role="CEDTS_ItemType" Type="Cedts_Model.Store.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAnswer" Type="Cedts_Model.Store.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswer_CEDTS_Test">
+    <End Role="CEDTS_Test" Type="Cedts_Model.Store.CEDTS_Test" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswer" Type="Cedts_Model.Store.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Paper">
+    <End Role="CEDTS_Paper" Type="Cedts_Model.Store.CEDTS_Paper" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswerKnowledgePoint" Type="Cedts_Model.Store.CEDTS_TestAnswerKnowledgePoint" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswerKnowledgePoint">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Test">
+    <End Role="CEDTS_Test" Type="Cedts_Model.Store.CEDTS_Test" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswerKnowledgePoint" Type="Cedts_Model.Store.CEDTS_TestAnswerKnowledgePoint" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswerKnowledgePoint">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_ItemType">
+    <End Role="CEDTS_ItemType" Type="Cedts_Model.Store.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAnswerTypeInfo" Type="Cedts_Model.Store.CEDTS_TestAnswerTypeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswerTypeInfo">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_Paper">
+    <End Role="CEDTS_Paper" Type="Cedts_Model.Store.CEDTS_Paper" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswerTypeInfo" Type="Cedts_Model.Store.CEDTS_TestAnswerTypeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswerTypeInfo">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_Test">
+    <End Role="CEDTS_Test" Type="Cedts_Model.Store.CEDTS_Test" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswerTypeInfo" Type="Cedts_Model.Store.CEDTS_TestAnswerTypeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswerTypeInfo">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_User_CEDTS_Class">
+    <End Role="CEDTS_Class" Type="Cedts_Model.Store.CEDTS_Class" Multiplicity="0..1" />
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Class">
+        <PropertyRef Name="ClassID" />
+      </Principal>
+      <Dependent Role="CEDTS_User">
+        <PropertyRef Name="ClassID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_User_CEDTS_Grade">
+    <End Role="CEDTS_Grade" Type="Cedts_Model.Store.CEDTS_Grade" Multiplicity="0..1" />
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Grade">
+        <PropertyRef Name="GradeID" />
+      </Principal>
+      <Dependent Role="CEDTS_User">
+        <PropertyRef Name="GradeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_User_CEDTS_Major">
+    <End Role="CEDTS_Major" Type="Cedts_Model.Store.CEDTS_Major" Multiplicity="0..1" />
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Major">
+        <PropertyRef Name="MajorID" />
+      </Principal>
+      <Dependent Role="CEDTS_User">
+        <PropertyRef Name="MajorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_User_CEDTS_Partner">
+    <End Role="CEDTS_Partner" Type="Cedts_Model.Store.CEDTS_Partner" Multiplicity="0..1" />
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Partner">
+        <PropertyRef Name="PartnerID" />
+      </Principal>
+      <Dependent Role="CEDTS_User">
+        <PropertyRef Name="PartnerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_UserAnswerInfo_CEDTS_ItemType">
+    <End Role="CEDTS_ItemType" Type="Cedts_Model.Store.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_UserAnswerInfo" Type="Cedts_Model.Store.CEDTS_UserAnswerInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_UserAnswerInfo">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_UserAnswerInfo_CEDTS_User">
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_UserAnswerInfo" Type="Cedts_Model.Store.CEDTS_UserAnswerInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_UserAnswerInfo">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_UserAssessmentCount_CEDTS_AssessmentItem">
+    <End Role="CEDTS_AssessmentItem" Type="Cedts_Model.Store.CEDTS_AssessmentItem" Multiplicity="1" />
+    <End Role="CEDTS_UserAssessmentCount" Type="Cedts_Model.Store.CEDTS_UserAssessmentCount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_UserAssessmentCount">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_UserAssessmentCount_CEDTS_User">
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_UserAssessmentCount" Type="Cedts_Model.Store.CEDTS_UserAssessmentCount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_UserAssessmentCount">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_UserKnowledgeInfomation_CEDTS_User">
+    <End Role="CEDTS_User" Type="Cedts_Model.Store.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_UserKnowledgeInfomation" Type="Cedts_Model.Store.CEDTS_UserKnowledgeInfomation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_UserKnowledgeInfomation">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CEDTS_Expansion_CEDTS_AssessmentItem">
+    <End Role="CEDTS_AssessmentItem" Type="Cedts_Model.Store.CEDTS_AssessmentItem" Multiplicity="0..1" />
+    <End Role="CEDTS_Expansion" Type="Cedts_Model.Store.CEDTS_Expansion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_Expansion">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="clear" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PaperID" Type="uniqueidentifier" Mode="In" />
+  </Function>
+  <Function Name="ClearAll" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="DeleteAssessmentItem" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="AssessmentItemID" Type="uniqueidentifier" Mode="In" />
+  </Function>
+  <Function Name="SP_DeletePaper" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PaperID" Type="uniqueidentifier" Mode="In" />
+  </Function>
+  <Function Name="SP_DeletePaper2" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PaperID" Type="uniqueidentifier" Mode="In" />
+  </Function>
+  <Function Name="Update" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="AssessmentItemID" Type="uniqueidentifier" Mode="In" />
+    <Parameter Name="UpdateUserID" Type="int" Mode="In" />
+    <Parameter Name="UpdateTime" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="UpdateState" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="AssessmentItemID" Type="uniqueidentifier" Mode="In" />
+  </Function>
+</Schema>

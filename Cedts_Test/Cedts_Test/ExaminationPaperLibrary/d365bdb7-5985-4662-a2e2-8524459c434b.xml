@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="d365bdb7-5985-4662-a2e2-8524459c434b" totalScore="76" totalTime="9" name="f" resultTime="0" bShowAns="1" Diffcult="76" Type="按知识点组卷">
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="76" Time="9">
+      <AssessmentItem ItemID="3a95d1f2-b325-4df0-83f3-60a0b24053bb" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="76" ReplyTime="9" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	Older people must be given more chances to learn if they are to contribute to society rather than be a financial burden, according to a new study on population plublished recently.&lt;br /&gt;&lt;br/&gt;	The current approach which&amp;nbsp;&amp;nbsp;(_1_) on younger people and on skills for employment is not&amp;nbsp;&amp;nbsp;(_2_)&amp;nbsp;to meet the challenges of demograghic (人口结构的) change, it says. Only 1% of the education budget is&amp;nbsp;&amp;nbsp;(_3_)&amp;nbsp;spent on the oldest third of the population.&lt;br /&gt;&lt;br/&gt;	The&amp;nbsp;&amp;nbsp;(_4_)&amp;nbsp;include the fact that most people can expect to spend a third of their lives in&amp;nbsp;&amp;nbsp;(_5_)&amp;nbsp;, that there are now more people over 59 than under 16 and that 11.3 million people are&amp;nbsp;&amp;nbsp;&amp;nbsp;(_6_)state pension age.&lt;br /&gt;&lt;br/&gt;	&amp;ldquo;&amp;nbsp;&amp;nbsp;(_7_) needs to continue throughout life. Our historic concentration of policy attention and resources&amp;nbsp;(_&lt;span style='color:Red'&gt;on&lt;/span&gt;_) young people cannot meet the new&amp;nbsp;&amp;nbsp;(_9_).&amp;rdquo; says the report&amp;rsquo;s author, Professor Stephten McNair.&lt;br /&gt;&lt;br/&gt;	The major&amp;nbsp;&amp;nbsp;(_10_) of our education budget is spent on people below the age of 25.&amp;nbsp;&amp;nbsp;(_11_) people are changing their jobs,&amp;nbsp;&amp;nbsp;&amp;nbsp;(_12_) , partners and lifestyles more often than&amp;nbsp;&amp;nbsp;(_13_), they need opportunities to learn at every age.&amp;nbsp;&amp;nbsp;&amp;nbsp;(_14_) , some people are starting new careers in their 50s and later.&lt;br /&gt;&lt;br/&gt;	People need opportunities to make a &amp;ldquo;midlife review&amp;rdquo; to&amp;nbsp;&amp;nbsp;(_15_) to the later stages fo employed life, and to plan for the transition (过渡)&amp;nbsp;&amp;nbsp;(_16_) retirement, which may now happen&amp;nbsp;&amp;nbsp;(_17_)&amp;nbsp;at any point from 50 to over 90, says McNair.&lt;br /&gt;&lt;br/&gt;	And there should be more money&amp;nbsp;&amp;nbsp;(_18_) to support people in establishing a&amp;nbsp;&amp;nbsp;&amp;nbsp;(_19_) of identity and finding constructive&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;(_20_) for the &amp;ldquo;third age&amp;rdquo;,&amp;nbsp; the 20 or more years they will spend in healthy retired life.&lt;/p&gt;&lt;br/&gt;</Content>
+        <Questions Count="19">
+          <question id="0">
+            <choices>
+              <choice id="A">operates</choice>
+              <choice id="B">focuses</choice>
+              <choice id="C">counts</choice>
+              <choice id="D">depends</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">superior</choice>
+              <choice id="B">regular</choice>
+              <choice id="C">essential</choice>
+              <choice id="D">adequate</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">currently</choice>
+              <choice id="B">barely</choice>
+              <choice id="C">anxiously</choice>
+              <choice id="D">heavily</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">regulations</choice>
+              <choice id="B">obstacles</choice>
+              <choice id="C">challenges</choice>
+              <choice id="D">guidelines</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">enjoyment</choice>
+              <choice id="B">retirement</choice>
+              <choice id="C">stability</choice>
+              <choice id="D">inability</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">over</choice>
+              <choice id="B">after</choice>
+              <choice id="C">across</choice>
+              <choice id="D">beside</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">Identifying</choice>
+              <choice id="B">Learning</choice>
+              <choice id="C">Instructing</choice>
+              <choice id="D">Practicing</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">desires</choice>
+              <choice id="B">realms</choice>
+              <choice id="C">needs</choice>
+              <choice id="D">intentions</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">measure</choice>
+              <choice id="B">ratio</choice>
+              <choice id="C">area</choice>
+              <choice id="D">portion</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">When</choice>
+              <choice id="B">Until</choice>
+              <choice id="C">Whether</choice>
+              <choice id="D">Before</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">neighbors</choice>
+              <choice id="B">moods</choice>
+              <choice id="C">homes</choice>
+              <choice id="D">minds</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">ago</choice>
+              <choice id="B">ever</choice>
+              <choice id="C">previously</choice>
+              <choice id="D">formerly</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">For example</choice>
+              <choice id="B">By contrast</choice>
+              <choice id="C">In particular</choice>
+              <choice id="D">On average</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">transform</choice>
+              <choice id="B">yield</choice>
+              <choice id="C">adjust</choice>
+              <choice id="D">suit</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">within</choice>
+              <choice id="B">from</choice>
+              <choice id="C">beyong</choice>
+              <choice id="D">to</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">unfairly</choice>
+              <choice id="B">unpredictably</choice>
+              <choice id="C">instantly</choice>
+              <choice id="D">indirectly</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">reliable</choice>
+              <choice id="B">considerable</choice>
+              <choice id="C">available</choice>
+              <choice id="D">feasible</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="17">
+            <choices>
+              <choice id="A">sense</choice>
+              <choice id="B">conscience</choice>
+              <choice id="C">project</choice>
+              <choice id="D">definition</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="18">
+            <choices>
+              <choice id="A">ranks</choice>
+              <choice id="B">assets</choice>
+              <choice id="C">ideals</choice>
+              <choice id="D">roles</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

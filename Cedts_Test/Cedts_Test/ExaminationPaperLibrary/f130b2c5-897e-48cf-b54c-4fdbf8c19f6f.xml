@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Paper UserID="1" UpdateUserID="1" PaperID="f130b2c5-897e-48cf-b54c-4fdbf8c19f6f" totalScore="100" totalTime="20" name="测试20161031" resultTime="0" bShowAns="1" Diffcult="0.1" Type="大学四级试题">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="50" Time="10">
+      <AssessmentItem ItemID="014cedc3-f420-4e1c-95f9-5c41eaf512c6" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="50" ReplyTime="10" Diffcult="0.1" QustionInterval="">
+        <Content>&lt;p&gt;
+	aaa&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>a</prompt>
+            <choices>
+              <choice id="A">a</choice>
+              <choice id="B">a</choice>
+              <choice id="C">a</choice>
+              <choice id="D">a</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>aa</Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="50" Time="10">
+      <AssessmentItem ItemID="4112cc57-dadb-41d3-a43a-aa1b29370388" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="">
+        <soundFile>4112cc57-dadb-41d3-a43a-aa1b29370388</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">a</choice>
+              <choice id="B">a</choice>
+              <choice id="C">a</choice>
+              <choice id="D">a</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>aa　</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	aaa&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

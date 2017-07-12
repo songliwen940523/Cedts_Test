@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="44ce5f28-43f6-4db7-a831-b8a3ff4a86bf" totalScore="10" totalTime="10" name="gdfsdf" resultTime="0" bShowAns="1" Diffcult="10" Type="自主选题">
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="8678c7fa-f176-4df4-a5a3-225b4a9c8d6a" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="5" Course="" Unit="">
+        <soundFile>8678c7fa-f176-4df4-a5a3-225b4a9c8d6a</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">gf</choice>
+              <choice id="B">gd</choice>
+              <choice id="C">gd</choice>
+              <choice id="D">gds</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gdfs</Tip>
+            <Script>gf</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fsdfdg&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

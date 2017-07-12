@@ -1,0 +1,750 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="f6dba475-2968-46df-8aba-45b9e9d73ca1" totalScore="273" totalTime="42" name="fff" resultTime="0" bShowAns="1" Diffcult="21" Type="四级真题">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="70" Time="15">
+      <AssessmentItem ItemID="f50bf898-d506-4c74-8f22-fddebe3df776" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="70" ReplyTime="15" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	A Grassroots Remedy&lt;br/&gt;	　　Most of us spend our lives seeking the natural world. To this end, we walk the dog, play golf, go fishing, sit in the garden, drink outside rather than inside the pub, have a picnic, live in the suburbs, go to the seaside, buy a weekend place in the country. The most popular leisure activity in Britain is going for a walk. And when joggers (慢跑者) jog, they don&amp;rsquo;t run the streets. Every one of them instinctively heads to the park or the river. It is my profound belief that not only do we all need nature, but we all seek nature, whether we know we are doing so or not.&lt;br/&gt;	　　But despite this, our children are growing up nature-deprived (丧失). I spent my boyhood climbing trees on Streatham Common, South London. These days, children are robbed of these ancient freedoms, due to problems like crime, traffic, the loss of the open spaces and odd new perceptions about what is best for children, that is to say, things that can be bought, rather than things that can be found.&lt;br/&gt;	　　The truth is to be found elsewhere. A study in the US: families had moved to better housing and the children were assessed for ADHD&amp;mdash;attention deficit hyperactivity disorder (多动症). Those whose accommodation had more natural views showed an improvement of 19%; those who had the same improvement in material surroundings but no nice view improved just 4%.&lt;br/&gt;	　　A study in Sweden indicated that kindergarten children who could play in a natural environment had less illness and greater physical ability than children used only to a normal playground. A US study suggested that when a school gave children access to a natural environment, academic levels were raised across the entire school.&lt;br/&gt;	　　Another study found that children play differently in a natural environment. In playgrounds, children create a hierarchy (等级) based on physical abilities, with the tough ones taking the lead. But when a grassy area was planted with bushes, the children got much more into fantasy play, and the social hierarchy was now based on imagination and creativity.&lt;br/&gt;	　　Most bullying (恃强凌弱) is found in schools where there is a tarmac (柏油碎石) playground; the least bullying is in a natural area that the children are encouraged to explore. This reminds me unpleasantly of Sunnyhill School in Streatham, with its harsh tarmac, where I used to hang about in corners fantasising about wildlife.&lt;br/&gt;	　　But children are frequently discouraged from involvement with natural spaces, for health and safety reasons, for fear that they might get dirty or that they might cause damage. So, instead, the damage is done to the children themselves: not to their bodies but to their souls.&lt;br/&gt;	　　One of the great problems of modern childhood is ADHD, now increasingly and expensively treated with drugs. Yet one study after another indicates that contact with nature gives huge benefits to ADHD children. However, we spend money on drugs rather than on green places.&lt;br/&gt;	　　The life of old people is measurably better when they have access to nature. The increasing emphasis for the growing population of old people is in quality rather than quantity of years. And study after study finds that a garden is the single most important thing in finding that quality.&lt;br/&gt;	　　In wider and more difficult areas of life, there is evidence to indicate that natural surroundings improve all kinds of things. Even problems with crime and aggressive behaviour are reduced when there is contact with the natural world.&lt;br/&gt;	　　Dr William Bird, researcher from the Royal Society for the Protection of Birds, states in his study, &amp;ldquo;A natural environment can reduce violent behaviour because its restorative process helps reduce anger and impulsive behaviour.&amp;rdquo; Wild places need encouraging for this reason, no matter how small their contribution.&lt;br/&gt;	　　We tend to look on nature conservation as some kind of favour that human beings are granting to the natural world. The error here is far too deep: not only do humans need nature for themselves, but the very idea that humanity and the natural world are separable things is profoundly damaging.&lt;br/&gt;	　　Human beings are a species of mammals (哺乳动物). For seven million years they lived on the planet as part of nature. Our ancestral selves miss the natural world and long for contact with non-human life. Anyone who has patted a dog, stroked a cat, sat under a tree with a pint of beer, given or received a bunch of flowers or chosen to walk through the park on a nice day, understands that.&lt;br/&gt;	　　We need the wild world. It is essential to our well-being, our health, our happiness. Without the wild world we are not more but less civilised. Without other living things around us we are less than human.&lt;br/&gt;	　　Five ways to find harmony with the natural world&lt;br/&gt;	　　Walk: Break the rhythm of permanently being under a roof. Get off a stop earlier, make a circuit of the park at lunchtime, walk the child to and from school, get a dog, feel yourself moving in moving air, look, listen, absorb.&lt;br/&gt;	　　Sit: Take a moment, every now and then, to be still in an open space. In the garden, anywhere that&amp;rsquo;s not in the office, anywhere out of the house, away from the routine. Sit under a tree, look at water, feel refreshed, ever so slightly renewed.&lt;br/&gt;	　　Drink: The best way to enjoy the natural world is by yourself; the second best way is in company. Take a drink outside with a good person, a good gathering: talk with the sun and the wind with birdsong for background.&lt;br/&gt;	　　Learn: Expand your boundaries. Learn five species of bird, five butterflies, five trees, five bird songs. That way, you see and hear more: and your mind responds gratefully to the greater amount of wildness in your life.&lt;br/&gt;	　　Travel: The places you always wanted to visit: by the seaside, in the country, in the hills. Take a weekend break, a day-trip, get out there and do it: for the scenery, for the way through the woods, for the birds, for the bees. Go somewhere special and bring specialness home. It lasts forever, after all.&lt;/p&gt;&lt;br/&gt;</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>What is the author’s profound belief?</prompt>
+            <choices>
+              <choice id="A">People instinctively seek nature in different ways.</choice>
+              <choice id="B">People should spend most of their lives in the wild.</choice>
+              <choice id="C">People have quite different perceptions of nature.</choice>
+              <choice id="D">People must make more efforts to study nature.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>What does the author say people prefer for their children nowadays?</prompt>
+            <choices>
+              <choice id="A">Personal freedom.</choice>
+              <choice id="B">Things that are natural.</choice>
+              <choice id="C">Urban surroundings.</choice>
+              <choice id="D">Things that are purchased.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>What does a study in Sweden show?</prompt>
+            <choices>
+              <choice id="A">The natural environment can help children learn better.</choice>
+              <choice id="B">More access to nature makes children less likely to fall ill.</choice>
+              <choice id="C">A good playground helps kids develop their physical abilities.</choice>
+              <choice id="D">Natural views can prevent children from developing ADHD.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>Children who have chances to explore natural areas ________.</prompt>
+            <choices>
+              <choice id="A">tend to develop a strong love for science</choice>
+              <choice id="B">are more likely to fantasise about wildlife</choice>
+              <choice id="C">tend to be physically tougher in adulthood</choice>
+              <choice id="D">are less likely to be involved in bullying</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>What does the author suggest we do to help children with ADHD?</prompt>
+            <choices>
+              <choice id="A">Find more effective drugs for them.</choice>
+              <choice id="B">Provide more green spaces for them.</choice>
+              <choice id="C">Place them under more personal care.</choice>
+              <choice id="D">Engage them in more meaningful activities.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>In what way do elderly people benefit from their contact with nature?</prompt>
+            <choices>
+              <choice id="A">They look on life optimistically.</choice>
+              <choice id="B">They enjoy a life of better quality.</choice>
+              <choice id="C">They are able to live longer.</choice>
+              <choice id="D">They become good-humoured.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>Dr William Bird suggests in his study that ________.</prompt>
+            <choices>
+              <choice id="A">humanity and nature are complementary to each other</choice>
+              <choice id="B">wild places may induce impulsive behaviour in people</choice>
+              <choice id="C">access to nature contributes to the reduction of violence</choice>
+              <choice id="D">it takes a long time to restore nature once damaged</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>It is extremely harmful to think that humanity and the natural world can be________________________.</Prompt>
+            <Answer>
+              <Value>separated</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>The author believes that we would not be so civilised without ________________________.</Prompt>
+            <Answer>
+              <Value>the wild world</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>The five suggestions the author gives at the end of the passage are meant to encourage people to seek _________________ with the natural world.</Prompt>
+            <Answer>
+              <Value>harmony</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="56" Time="6">
+      <AssessmentItem ItemID="d0129fcb-dbc7-4378-8db0-3a15db689b43" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="0" Diffcult="0" QustionInterval="1" Course="" Unit="">
+        <soundFile>d0129fcb-dbc7-4378-8db0-3a15db689b43</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The man should visit the museums.</choice>
+              <choice id="B">She can’t stand the hot weather.</choice>
+              <choice id="C">The beach resort is a good choice.</choice>
+              <choice id="D">She enjoys staying in Washington.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the woman mean?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: Oh my god! The heat is simply unbearable here. I wish we&amp;rsquo;ve gone to the beach instead.&lt;br /&gt;
+	W: Well, with the museums and restaurants in Washington I&amp;rsquo;ll be happy here no matter what the temperature.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>039dc62f-0f98-4532-bc54-423ffb3277d0</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Her new responsibilities in the company.</choice>
+              <choice id="B">What her job prospects are.</choice>
+              <choice id="C">What the customers’ feedback is.</choice>
+              <choice id="D">The director’s opinion of her work.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the woman want to know?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: How&amp;rsquo;s the new job going?&lt;br /&gt;
+	W: Well, I&amp;rsquo;m learning a lot of new things, but I wish the director would give me some feedback.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>ad3046ed-e5d7-4d56-bb61-fe8f9f438220</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Combine her training with dieting.</choice>
+              <choice id="B">Repeat the training every three days.</choice>
+              <choice id="C">Avoid excessive physical training.</choice>
+              <choice id="D">Include weightlifting in the program.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the man suggest the woman do?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: Can you help me work out a physical training program John?&lt;br /&gt;
+	W: Sure, but whatever you do be careful not to overdo it. Last time I had two weeks&amp;rsquo; worth of weight-lifting in three days and I hurt myself.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>68bbc7f7-81d2-4c70-8f89-8b35e9de27cc</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">When she will return home.</choice>
+              <choice id="B">Whether she can go by herself.</choice>
+              <choice id="C">Whether she can travel by air.</choice>
+              <choice id="D">When she will completely recover.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the man want to know about his mother?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: I have an elderly mother and I&amp;rsquo;m worried about her going on a plane. Is there any risk?&lt;br /&gt;
+	W: Not if her heart is all right. If she has a heart condition, I&amp;rsquo;d recommend against it.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>88e54aa1-0ae4-4049-9cea-5232bdb751eb</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The woman knows how to deal with the police.</choice>
+              <choice id="B">The woman had been fined many times before.</choice>
+              <choice id="C">The woman had violated traffic regulations.</choice>
+              <choice id="D">The woman is good at finding excuses.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>what do we learn from the conversation?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: Why didn&amp;rsquo;t you stop when we first signaled you at the crossroads?&lt;br /&gt;
+	W: Sorry, I was just a bit absent-minded. Anyway, do I have to pay a fine?&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>d8c04033-0eb5-4acf-aceb-bb36b20d33a9</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Switch off the refrigerator for a while.</choice>
+              <choice id="B">Have someone repair the refrigerator.</choice>
+              <choice id="C">Ask the man to fix the refrigerator.</choice>
+              <choice id="D">Buy a refrigerator of better quality.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What will the woman probably do?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: I&amp;rsquo;m no expert, but that noise in your refrigerator doesn&amp;rsquo;t sound right. Maybe you should have it fixed.&lt;br /&gt;
+	W: You&amp;rsquo;re right. And I suppose I&amp;rsquo;ve put it off long enough.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>f9931363-19ae-4de1-9590-b2f5f59758f6</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He owns a piece of land in the downtown area.</choice>
+              <choice id="B">He has got enough money to buy a house.</choice>
+              <choice id="C">He can finally do what he has dreamed of.</choice>
+              <choice id="D">He is moving into a bigger apartment.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do we learn about the man from the conversation?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: I did extremely well on the sale of my downtown apartment. Now, I have enough money to buy that piece of land I&amp;rsquo;ve had my eye on and build a house on it.&lt;br /&gt;
+	W: Congratulations！Does that mean you&amp;rsquo;ll be moving soon?&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>4d49b0f8-4c9f-4e87-a03f-4fad8e6742a1</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">She is black and blue all over.</choice>
+              <choice id="B">She has to go to see a doctor.</choice>
+              <choice id="C">She stayed away from work for a few days.</choice>
+              <choice id="D">She got hurt in an accident yesterday.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>what do we learn about the woman from the conversation?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	W: My hand still hurts from the fall on the ice yesterday. I wonder if I broke something.&lt;br /&gt;
+	M: I&amp;rsquo;m no doctor, but it&amp;rsquo;s not black and blue or anything. Maybe you just need to rest it for a few days.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="039dc62f-0f98-4532-bc54-423ffb3277d0" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="0" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="ad3046ed-e5d7-4d56-bb61-fe8f9f438220" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="68bbc7f7-81d2-4c70-8f89-8b35e9de27cc" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="88e54aa1-0ae4-4049-9cea-5232bdb751eb" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="d8c04033-0eb5-4acf-aceb-bb36b20d33a9" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="f9931363-19ae-4de1-9590-b2f5f59758f6" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="4d49b0f8-4c9f-4e87-a03f-4fad8e6742a1" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="49" Time="7">
+      <AssessmentItem ItemID="68b7c3d1-3fac-4f91-8cd5-32938672a5a5" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="21" ReplyTime="3" Diffcult="0" QustionInterval="1" Course="" Unit="">
+        <soundFile>68b7c3d1-3fac-4f91-8cd5-32938672a5a5</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">She was a bank manager.</choice>
+              <choice id="B">She was a victim of the robbery.</choice>
+              <choice id="C">She was a defence lawyer.</choice>
+              <choice id="D">She was a witness to the crime.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do we learn about the woman?</Script>
+            <Sound duration="1">be865a07-f36e-4f79-8542-aaa7f59248c9</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">A tall man with dark hair and a moustache.</choice>
+              <choice id="B">A youth with a distinguishing mark on his face.</choice>
+              <choice id="C">A thirty-year-old guy wearing a light sweater.</choice>
+              <choice id="D">A medium-sized young man carrying a gun.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What did the suspect look like?</Script>
+            <Sound duration="1">d7b1db77-07b6-4248-b0b7-9e75143bb4e1</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Identify the suspect from pictures.</choice>
+              <choice id="B">Go upstairs to sign some document.</choice>
+              <choice id="C">Have her photo taken for their files.</choice>
+              <choice id="D">Verify the record of what she had said.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What did the man finally asked the woman to do?</Script>
+            <Sound duration="1">def50d45-28d8-4e4f-b5e1-70b65af21922</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: Mrs. Dawson, thanks very much for coming down to the station. I just like to go over some of the things that you told police officer Parmer at the bank.&lt;br /&gt;
+	W: All right.&lt;br /&gt;
+	M: Well, could you describe the man who robbed the bank for this report that we&amp;rsquo;re filling out here? Now, anything at all that you can remember would be extremely helpful to us.&lt;br /&gt;
+	W: Well, just, I can only remember basically what I said before.&lt;br /&gt;
+	M: That&amp;rsquo;s all right.&lt;br /&gt;
+	W: The man was tall, six foot, and he had dark hair, and he had moustache.&lt;br /&gt;
+	M: Very good. All right, did he have any other distinguishing marks?&lt;br /&gt;
+	W: Um, no, none that I can remember.&lt;br /&gt;
+	M: Do you remember how old he was by any chance?&lt;br /&gt;
+	W: Well, I guess around 30, maybe younger, give or take a few years.&lt;br /&gt;
+	M: Mm, all right. Do you remember anything about what he was wearing?&lt;br /&gt;
+	W: Yes, yes, he had on a dark sweater, a solid color.&lt;br /&gt;
+	M: OK. Um, anything else that strikes you at the moment?&lt;br /&gt;
+	W: I remember he was wearing a light shirt under the sweater. Yes, yes.&lt;br /&gt;
+	M: All right. Mrs. Dawson, I really appreciate what you&amp;rsquo;ve been through today. I&amp;rsquo;m just going to ask you to look at some photographs before you leave if you don&amp;rsquo;t mind. It won&amp;rsquo;t take very long. Can you do that for me?&lt;br /&gt;
+	W: Oh, of course.&lt;br /&gt;
+	M: Would you like to step this way with me, please?&lt;br /&gt;
+	W: OK, sure.&lt;br /&gt;
+	M: Thank you.&lt;br /&gt;
+	Questions 19 to 21 are based on the conversation you have just heard.&lt;/p&gt;
+</Script>
+        <soundFile>969b5cd8-e82d-49c6-ba6e-7a04dc65cd9c</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">By reading a newspaper ad.</choice>
+              <choice id="B">By seeing a commercial on TV.</choice>
+              <choice id="C">By listening to the morning news.</choice>
+              <choice id="D">By calling an employment service.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How did the woman get to know about the job vacancy?</Script>
+            <Sound duration="1">0509feaf-a14d-4d95-a9b9-9901b8e0b60d</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">She could improve her foreign languages.</choice>
+              <choice id="B">She could work close to her family.</choice>
+              <choice id="C">She could travel overseas frequently.</choice>
+              <choice id="D">She could use her previous experiences.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why did the woman find the job appealing?</Script>
+            <Sound duration="1">760cbad2-9777-4a84-9c21-bf710e00d2c2</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Taking management courses.</choice>
+              <choice id="B">Teaching English at a university.</choice>
+              <choice id="C">Working as a secretary.</choice>
+              <choice id="D">Studying for a degree in French.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script> What had the woman been doing in Geneva?</Script>
+            <Sound duration="1">ba245664-fa94-43c8-ad91-c055e3049fc0</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Prepare for an interview in a couple of days.</choice>
+              <choice id="B">Read the advertisement again for more details.</choice>
+              <choice id="C">Send in a written application as soon as possible.</choice>
+              <choice id="D">Get to know the candidates on the short list.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What was the woman asked to do in the end?</Script>
+            <Sound duration="1">09d6ec85-1ba7-482f-8d20-c32969edd32b</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	W: Good morning, I&amp;rsquo;m calling about the job that was in the paper last night.&lt;br /&gt;
+	M: Well, could you tell me your name?&lt;br /&gt;
+	W: Candidate Foreset.&lt;br /&gt;
+	M: Oh yes. What exactly is it that interests you about the job?&lt;br /&gt;
+	W: Well, I thought it was just right for me.&lt;br /&gt;
+	M: Really? Um&amp;hellip; Could you tell me a little about yourself?&lt;br /&gt;
+	W: Yes. I&amp;rsquo;m 23. I&amp;rsquo;ve been working abroad.&lt;br /&gt;
+	M: Where exactly have you been working?&lt;br /&gt;
+	W: In Geneva.&lt;br /&gt;
+	M: Oh, Geneva. And what were you doing there?&lt;br /&gt;
+	W: Secretarial work. Previous to that, I was at university.&lt;br /&gt;
+	M: Which university was that?&lt;br /&gt;
+	W: The University of Manchester. I&amp;rsquo;ve got a degree in English.&lt;br /&gt;
+	M: You said you&amp;rsquo;ve been working in Geneva. Do you have any special reason for wanting to come back?&lt;br /&gt;
+	W: I thought it would be nice to be near to the family.&lt;br /&gt;
+	M: I see, and how do you see yourself developing in this job?&lt;br /&gt;
+	W: Well, I&amp;rsquo;m ambitious. I do hope that my career as a secretary will lead me eventually into management.&lt;br /&gt;
+	M: I see. You have foreign languages?&lt;br /&gt;
+	W: French and Italian.&lt;br /&gt;
+	M: Well, I think the best thing for you to do is do reply a writing to the advertisement.&lt;br /&gt;
+	W: Can&amp;rsquo;t I arrange for an interview now?&lt;br /&gt;
+	M: Well, I&amp;rsquo;m afraid we must wait until all the applications are in, in writing, and then decide on the short list. If you are on the short list, of course we should see you.&lt;br /&gt;
+	W: Oh, I see.&lt;br /&gt;
+	M: I look forward to receiving your application in writing in a day or two.&lt;br /&gt;
+	W: Oh, yes, yes, certainly.&lt;br /&gt;
+	M: Ok, thank you very much. Goodbye.&lt;br /&gt;
+	W: Thank you. Goodbye.&lt;br /&gt;
+	Questions 22 to 25 are based on the conversation you have just heard.&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="969b5cd8-e82d-49c6-ba6e-7a04dc65cd9c" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="28" ReplyTime="4" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="28" Time="4">
+      <AssessmentItem ItemID="49991b77-1c2f-438c-9d95-4d47aab6104c" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="28" ReplyTime="4" Diffcult="0" QustionInterval="1" Course="" Unit="">
+        <soundFile>49991b77-1c2f-438c-9d95-4d47aab6104c</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">They cannot see the firefighters because of the smoke.</choice>
+              <choice id="B">They do not realize the danger they are in.</choice>
+              <choice id="C">They cannot hear the firefighters for the noise.</choice>
+              <choice id="D">They mistake the firefighters for monsters.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why do some children trapped in a burning building hide from masked fire fighters?</Script>
+            <Sound duration="1">ebe26eec-942f-4f27-be2c-416ca8a26b8a</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">He travels all over America to help put out fires.</choice>
+              <choice id="B">He often teaches children what to do during a fire.</choice>
+              <choice id="C">He teaches Spanish in a San Francisco community.</choice>
+              <choice id="D">He provides oxygen masks to children free of charge.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the passage tell us about fire fighter Eric Velez?</Script>
+            <Sound duration="1">c72e4163-90cc-4a41-94bc-31f4794fbbc8</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">He saved the life of his brother choking on food.</choice>
+              <choice id="B">He rescued a student from a big fire.</choice>
+              <choice id="C">He is very good at public speaking.</choice>
+              <choice id="D">He gives informative talks to young children.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do we learn about Pete Gentry?</Script>
+            <Sound duration="1">7f39fe6a-1d1e-4dc0-bdb2-b16d44167aa2</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Firefighters play an important role in America.Firefighters play an important role in America.</choice>
+              <choice id="B">Kids should learn not to be afraid of monsters.</choice>
+              <choice id="C">Carelessness can result in tragedies.</choice>
+              <choice id="D">Informative speeches can save lives.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What message is the speaker trying to convey?</Script>
+            <Sound duration="1">3664fe46-472f-4d2f-be87-83d67fa33627</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	One of the greatest heartbreaks for fire fighters occurs when they fail to rescue a child from a burning building because the child, frightened by smoke and noise, hides under a bed or in a closet and is later found dead. Saddest of all is when children catch a glimpse of the masked the fire fighter but hide because they think they have seen a monster. To prevent such tragedies, fire fighter Eric Velez gives talks to children in his community, explaining that they should never hide during a fire. He displays fire fighters&amp;rsquo; equipment, including the oxygen mask, which he encourages his listeners to play with and put on. &amp;ldquo;If you see us,&amp;rdquo; Velez tells them, &amp;ldquo;don&amp;rsquo;t hide! We are not monsters. We have come to rescue you.&amp;rdquo; Velez gives his presentations in English and Spanish. Growing up in San Francisco, he learnt Spanish from his immigrant parents. Velez and other fire fighters throughout North America, who give similar presentations, will never know how many lives they save through their talks. But it&amp;rsquo;s a fact that informative speaking saves lives. For example, several months after listening to an informative speech, Pete Gentry in North Carolina rescued his brother who is choking on food, by using the method taught by student speaker, Julie Paris. In addition to saving lives, informative speakers help people learn new skills, solve problems and acquire fascinating facts about the exciting world in which they live.&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="70" Time="10">
+      <AssessmentItem ItemID="8d96198a-d16c-4c11-b288-a6a48d86db43" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="70" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	What determines the kind of person you are? What factors make you more or less bold, intelligent, or able to read a map? All of these are influenced by the interaction of your genes and the environment in which you were (_1_) . The study of how genes and environment interact to influence (_2_) activity is known as behavioral genetics. Behavioral genetics has made important (_3_) to the biological revolution, providing information about the extent to which biology influences mind, brain and behavior.&lt;br /&gt;&lt;br/&gt;	　　Any research that suggests that (_4_) to perform certain behaviors are based in biology is controversial. Who wants to be told that there are limitations to what you can (_5_) based on something that is beyond your control, such as your genes? It is easy to accept that genes control physical characteristics such as sex, race and eye color. But can genes also determine whether people will get divorced, how (_6_) they are, or what career they are likely to choose? A concern of psychological scientists is the (_7_) to which all of these characteristics are influenced by nature and nurture(养育), by genetic makeup and the environment. Increasingly, science (_8_) that genes lay the groundwork for many human traits. From this perspective, people are born (_9_) like undeveloped photographs: The image is already captured, but the way it (_10_) appears can vary based on the development process. However, the basic picture is there from the beginning.&lt;/p&gt;&lt;br/&gt;</Content>
+        <WordList>
+          <Word id="B">achieve </Word>
+          <Word id="C">appeal</Word>
+          <Word id="D">complaints</Word>
+          <Word id="E">contributions</Word>
+          <Word id="F">displayed </Word>
+          <Word id="G">essentially </Word>
+          <Word id="H">eventually</Word>
+          <Word id="I">extent</Word>
+          <Word id="J">indicates</Word>
+          <Word id="K">proceeds</Word>
+          <Word id="L">psychological</Word>
+          <Word id="M">smart</Word>
+          <Word id="N">raised</Word>
+          <Word id="O">standard</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>M</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>L</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>I</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>J</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

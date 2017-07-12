@@ -1,0 +1,1160 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a img
+{
+    border: 0;
+    text-decoration: none;
+}
+img
+{
+    vertical-align: middle;
+}
+a
+{
+    color: #465B52;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+body
+{
+    background: #EEECDE;
+    color: #000;
+    font: 14px/1.4 Cambria,Palatino linotype,Times New Roman,Times,serif;
+    color: #000;
+}
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 100%;
+}
+.wrp
+{
+    position: relative;
+    clear: both;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.wrp:after
+{
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+.header
+{
+    position: relative; z-index: 20;
+    padding: 5px 0;
+    margin-bottom: 10px;
+    border-bottom: 4px solid #465B52;
+}
+.header h1 a
+{
+    display: block;
+    height: 54px;
+    width: 300px;
+    outline: none;
+    text-indent: -9527px;
+    background: url(../../Images/logo.gif) no-repeat 5px 0;
+}
+.header .userinfo
+{
+    position: absolute;
+    right: 0;
+    bottom: 5px;
+    font-size: 12px;
+}
+.header .userinfo a
+{
+    padding: 2px 15px;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #F3F2E7 #CECBB6 #CECBB6 #F3F2E7;
+    background: #E3E0C9;
+    color: #465B52;
+}
+.header .userinfo a:hover
+{
+    text-decoration: none;
+    background: #FFF;
+}
+.header .loginForm
+{
+    position: absolute; z-index: 20;
+    right: 10px;
+    bottom: 25px;
+    font-size: 12px;
+}
+.header .loginForm h4
+{
+    display: none;
+    position: relative; zoom: 1;
+    padding: 1px 30px 1px 10px;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #CECBB6 #F3F2E7 #F3F2E7 #CECBB6;
+    background: #E3E0C9 url(../../Images/icon_dropdown.gif) no-repeat 48px 3px;
+    font-size: 12px;
+    text-align: left;
+    color: #465B52;
+	width: 26px; height: 17px;
+    cursor: pointer;
+}
+.header .loginForm h4:hover
+{
+    top: -1px;
+    left: -1px;
+    border-color: #F3F2E7 #CECBB6 #CECBB6 #F3F2E7;
+    background-color: #F4F3EA;
+}
+.header .loginForm h4:active
+{
+    position: relative;
+    top: 0;
+    left: 0;
+    border-color: #CECBB6 #F3F2E7 #F3F2E7 #CECBB6;
+    background-color: #E3E0C9;
+}
+.header .loginForm form
+{
+    display: none;
+    position: absolute;
+    top: 226px;
+    right: 0;
+    z-index: 100;
+    padding: 15px;
+    border: 3px solid #FFF; /* border-color: #FFF #CECBB6 #CECBB6 #FFF; */
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+    border-radius: 5px;
+    background: #F4F3EA;
+	*width: 212px;
+}
+.header .loginForm p
+{
+    margin-bottom: 15px;
+}
+.header .loginForm p label
+{
+    display: block;
+    margin-bottom: 5px;
+}
+.header .loginForm .txt
+{
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #CECBB6 #F3F2E7 #F3F2E7 #CECBB6;
+    background: #E3E0C9;
+    width: 200px;
+}
+.header .loginForm .txt:focus
+{
+    background: #FFF;
+    border-color: #FFD623;
+    box-shadow: 0 0 5px rgba(255,214,35,1);
+}
+.header .loginForm .submit
+{
+    position: relative;
+    height: 45px;
+    padding: 0 10px;
+    line-height: 45px;
+    background: #465B52;
+    margin: 20px -15px -15px;
+	cursor: pointer;
+}
+.header .loginForm .submit a
+{
+    color: #B6BFBB;
+}
+.header .loginForm .submit a:hover
+{
+    color: #FFF;
+}
+.header .loginForm .submit .btnLogon
+{
+    width: 76px;
+    height: 35px;
+    overflow: hidden;
+    position: absolute;
+    top: 6px;
+    right: 5px;
+    outline: none;
+    border: 0;
+    padding-right: 10px;
+    line-height: 35px;
+    text-align: center;
+    text-decoration: none;
+    color: #FFF;
+    background: url(../../Images/btn_nav.png) no-repeat 0 0;
+    font-size: 14px;
+    vertical-align: middle;
+}
+.header .loginForm .submit .btnLogon:focus
+{
+    background-position: 0 -105px;
+}
+.header .loginForm .submit .btnLogon:hover
+{
+    background-position: 0 -140px;
+    color: #FFF;
+    outline: none;
+}
+.header .loginForm .submit .btnLogon:active
+{
+    background-position: 0 -175px;
+    color: #FFF;
+    line-height: 38px;
+}
+
+
+
+
+.index .header
+{
+    border: 0;
+}
+.foot
+{
+    padding: 10px 0;
+    margin-top: 20px;
+    border-top: 10px solid #465B52;
+    font-size: 12px;
+    text-align: center;
+    color: #999;
+}
+.foot a
+{
+    color: #666;
+}
+
+.body
+{
+    position: relative;
+    zoom: 1;
+}
+
+.body h2
+{
+    font: bold 18px/2 微软雅黑,黑体,sans-serif;
+    color: #4D6A5E;
+}
+
+.sitePromotion
+{
+    position: relative; z-index: 10;
+    width: 968px;
+    margin: -34px auto 30px;
+    height: 404px;
+    background: url(../../Images/bg_index.gif) no-repeat 0 0;
+}
+.sitePromotion .slides
+{
+    position: absolute;
+    top: 34px;
+    left: 10px;
+    width: 554px;
+    height: 233px;
+	overflow: hidden;
+}
+.sitePromotion .slides div
+{
+    width: 554px; height: 233px;
+}
+.sitePromotion .textOnScreen
+{
+    position: absolute;
+    top: 20px;
+    right: 33px;
+    width: 354px;
+    height: 259px;
+    background: url(../../Images/screentext.gif) no-repeat 0 0;
+}
+.sitePromotion .textOnScreen ol
+{
+    display: none;
+}
+.sitePromotion .quotes
+{
+    position: absolute;
+    top: 300px;
+    left: 10px;
+    width: 710px;
+    padding: 10px;
+    background: url(../../Images/bg_quote.png) no-repeat 0 0;
+}
+.sitePromotion .quotes blockquote
+{
+    text-indent: 2em;
+    font: 20px/1.5 'Adobe 仿宋 Std R' , '华文仿宋' , '仿宋_GB2312' , '仿宋' ,serif;
+}
+.sitePromotion .quotes blockquote cite
+{
+    font-size: 16px;
+    display: block;
+    text-align: right;
+}
+.sitePromotion .quickButtons
+{
+    position: absolute;
+    right: 60px;
+    bottom: 10px;
+}
+.sitePromotion .quickButtons h2:before{
+    content: '\BB';
+    font-size: 1.3em;
+    }
+.sitePromotion .quickButtons h2 a{
+    font-size: 1.3em;
+    }
+.btnQuickExp, .btnRegNow, .btnQuickLogin
+{
+    display: block;
+    width: 123px;
+    height: 47px;
+    background: no-repeat 0 0;
+    text-indent: -9527px;
+    overflow: hidden;
+}
+.btnRegNow{display:none;}
+.btnQuickExp
+{
+    background-image: url(../../Images/btn_qx.gif);
+}
+.btnRegNow
+{
+    background-image: url(../../Images/btn_reg.gif);
+}
+.btnQuickLogin
+{
+    background-image: url(../../Images/btn_login.gif);
+}
+.btnQuickExp:hover, .btnRegNow:hover, .btnQuickLogin:hover
+{
+    background-position: 0 -47px;
+}
+
+
+.siteHighlights
+{
+    margin: 0 0 30px;
+    overflow: hidden;
+    zoom: 1;
+    border-radius: 10px;
+    background: #F7F5EE;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3) inset;
+}
+.siteHighlights .highlight
+{
+    float: left;
+    padding: 20px 10px 20px 100px;
+    width: 210px;
+    font-size: 12px;
+    color: #666;
+}
+.siteHighlights .highlight h2
+{
+    font: 18px 方正大黑简体,方正大黑_GBK,微软雅黑,黑体,sans-serif;
+    color: #465B52;
+    margin-bottom: 15px;
+}
+.siteHighlights .highlight h2 .en
+{
+    display: block;
+    font: 11px "Segoe UI" ,Tahoma,sans-serif;
+    color: #879385;
+}
+.siteHighlights .highlight ul li
+{
+    margin-bottom: 8px;
+}
+.siteHighlights .overview
+{
+    background: url(../../Images/icon_overview.png) no-repeat 10px 15px;
+}
+.siteHighlights .features
+{
+    background: url(../../Images/icon_features.png) no-repeat 20px 14px;
+}
+.siteHighlights .activities
+{
+    background: url(../../Images/icon_activities.png) no-repeat 15px 15px;
+}
+.siteHighlights .featureList h3
+{
+    color: #333;
+}
+
+
+.sysGraph
+{
+    float: left;
+    display: inline;
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+    margin: 0 20px 20px 10px;
+    background: #FFF;
+}
+.sysAdvices
+{
+    float: left;
+    display: inline;
+    position: relative;
+    width: 320px;
+    height: 400px;
+    margin: 0 10px 20px 0;
+}
+.sysAdvices h2
+{
+    border-bottom: 1px dashed #BBB37C;
+}
+.sysAdvices ul
+{
+    height: 300px;
+    overflow-y: auto;
+}
+.sysAdvices p
+{
+    margin: 10px;
+}
+.btnQuickExercise, .btnCustomizeExercise
+{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 145px;
+    height: 41px;
+    text-indent: -9527px;
+    background: url(../../Images/btn_qe.gif) no-repeat 0 0;
+}
+.btnCustomizeExercise
+{
+    left: auto;
+    right: 10px;
+    background: url(../../Images/btn_ce.gif) no-repeat 0 0;
+}
+.btnQuickExercise:focus, .btnCustomizeExercise:focus
+{
+    background-position: 0 -123px;
+    outline: none;
+}
+.btnQuickExercise:hover, .btnCustomizeExercise:hover
+{
+    background-position: 0 -41px;
+}
+.btnQuickExercise:active, .btnCustomizeExercise:active
+{
+    background-position: 0 -82px;
+}
+.sysRecords
+{
+    clear: both;
+    padding-top: 10px;
+    border-top: 1px dashed #BBB37C;
+}
+
+
+
+
+.tbRecords
+{
+    /* 练习记录表 */
+    width: 960px;
+    table-layout: fixed;
+    margin: 10px 0;
+    border-spacing: 0;
+}
+
+.tbRecords th
+{
+    text-align: left;
+    background: #465B52;
+    color: #FFF;
+    padding: 5px;
+    border: 1px solid;
+    border-color: #69897b #1d2522 #1d2522 #69897b;
+    font-size: 14px;
+}
+.tbRecords th.sortable
+{
+    padding-right: 10px;
+    background: #465B52 no-repeat 95% center;
+}
+.tbRecords th.sortable:hover
+{
+    background-color: #4d6a5e;
+    cursor: default;
+}
+.tbRecords th.sortbydes
+{
+    background-image: url(../../Images/sort_des.gif);
+}
+.tbRecords th.sortbyasc
+{
+    background-image: url(../../Images/sort_asc.gif);
+}
+.tbRecords .pname
+{
+    text-align: center;
+}
+.tbRecords .ptime
+{
+    width: 120px;
+    white-space: nowrap;
+    text-align: center;
+}
+.tbRecords .pstat
+{
+    width: 80px;
+    text-align: center;
+}
+.tbRecords .pscore
+{
+    width: 160px;
+    text-align: center;
+}
+.tbRecords .paction
+{
+    width: 280px;
+    text-align: center;
+}
+.tbRecords .sname
+{
+    text-align: center;
+}
+.tbRecords .saction
+{
+    width: 80px;
+    text-align: center;
+}
+
+.tbRecords td
+{
+    padding: 5px;
+    border: 1px solid;
+    border-color: #F8F7F1 #d0cba4 #d0cba4 #F8F7F1;
+}
+.tbRecords tfoot td
+{
+    border: 0;
+}
+.tbRecords td.pname
+{
+    font-weight: bold;
+}
+.tbRecords td.more
+{
+    text-align: right;
+}
+.tbRecords .pstat.paused
+{
+    color: #54861c;
+}
+.tbRecords .pstat.finished
+{
+    color: #999;
+}
+.tbRecords .paused a
+{
+    display: none;
+}
+
+.tbRecords tbody tr:hover td
+{
+    background: #f8f7f1;
+}
+.tbRecords a
+{
+    color: #C35900;
+}
+.tbRecords a:hover
+{
+    color: #465B52;
+}
+.tbRecords tfoot a
+{
+    color: #666;
+}
+
+.tbRecords tbody a
+{
+    font-size: 12px;
+    border-radius: 10px;
+    border: 1px solid #d0cba4;
+    border-width: 0 1px 1px 0;
+    padding: 2px 10px;
+    background: #f7f5ee;
+    text-decoration: none;
+}
+.tbRecords tbody a:hover
+{
+    color: #465B52;
+    background: #FFF;
+}
+
+
+
+.jqmOverlay
+{
+    background: black;
+}
+.chooseExercise
+{
+    display: none;
+    position: fixed;
+    z-index: 3000;
+    top: 50%;
+    left: 50%;
+    margin-left: -400px;
+    margin-top: -270px;
+    width: 800px;
+    border: 3px solid #FFF;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background: #D8D5C0;
+}
+.chooseExercise .ceHead
+{
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+.chooseExercise .ceHead h2
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+.chooseExercise .ceMenu
+{
+    float: left;
+    position: relative;
+    z-index: 10;
+    margin: 40px -15px 0 0;
+    width: 220px;
+}
+.chooseExercise .ceMenu li
+{
+    height: 32px;
+    padding-left: 10px;
+    margin-right: 15px;
+    border: solid #D8D5C0;
+    border-width: 0 1px 1px 0;
+    line-height: 32px;
+    background: #F7F5EE;
+}
+.chooseExercise .ceMenu li:hover, .chooseExercise .ceMenu li.current
+{
+    background: url(../../Images/bg_papernav.png) no-repeat right 0;
+    margin-right: 0;
+    border: 0;
+    color: #eba601;
+    font-weight: bold;
+    margin-bottom: 1px;
+    cursor: pointer;
+}
+.chooseExercise .close
+{
+    position: relative;
+    background: #465B52;
+    height: 20px;
+}
+.chooseExercise .jqmClose
+{
+    position: absolute; z-index: 10;
+    top: 0; right: 0;
+    width: 20px; height: 20px;
+    background: url(../../Images/close.png) no-repeat center center;
+    cursor: pointer;
+    text-indent: -9527px;
+    overflow: hidden;
+}
+.chooseExercise .jqmClose:hover{
+    background-color: #4D6A5E;
+    }
+.chooseExercise .ceBody
+{
+    position: relative;
+    z-index: 5;
+    overflow: auto;
+    zoom: 1;
+    padding: 10px;
+    background: #EEECDE;
+}
+.chooseExercise .ceBody .ceTab
+{
+    padding: 10px;
+    height: 450px;
+    overflow: auto;
+}
+.chooseExercise .ceBody .ceInfo
+{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #CCC;
+    color: #465B52;
+}
+.chooseExercise .ceFoot
+{
+    clear: both;
+    position: relative;
+    height: 45px;
+    background: #465B52;
+}
+.chooseExercise .btnStart
+{
+    width: 76px;
+    height: 35px;
+    overflow: hidden;
+    position: absolute;
+    top: 6px;
+    right: 10px;
+    outline: none;
+    padding-right: 10px;
+    line-height: 35px;
+    text-align: center;
+    text-decoration: none;
+    color: #ADB4B1;
+    background: url(../../Images/btn_nav.png) no-repeat 0 0;
+}
+.chooseExercise .btnStart:focus
+{
+    background-position: 0 -105px;
+}
+.chooseExercise .btnStart:hover
+{
+    background-position: 0 -140px;
+    color: #FFF;
+}
+.chooseExercise .btnStart:active
+{
+    background-position: 0 -175px;
+    color: #FFF;
+    line-height: 38px;
+}
+
+.chooseTask .ceInfo
+{
+    color: #465B52;     
+}
+.chooseTask .ceBody
+{
+    position: relative;
+    z-index: 5;
+    overflow: auto;
+    zoom: 1;
+    padding: 10px;
+    background: #EEECDE;
+}
+.chooseTask .ceFoot
+{
+    clear: both;
+    position: fixed;
+    height: 45px;
+    background: #465B52;
+    left: 170px;
+    width: auto;
+    right: 0;
+    bottom: 0;
+    z-index: 200;
+    border-top-color: #eba601;
+    border-top-style: solid;
+    border-top-width: 2px;
+}
+.chooseTask .btnAssign
+{
+    width: 76px;
+    height: 35px;
+    overflow: hidden;
+    position: absolute;
+    top: 6px;
+    right: 20px;
+    outline: none;
+    padding-right: 10px;
+    line-height: 35px;
+    text-align: center;
+    text-decoration: none;
+    color: #ADB4B1;
+    background: url(../../../../Images/btn_nav.png) no-repeat 0 0;
+}
+.chooseTask .btnAssign:focus
+{
+    background-position: 0 -105px;
+}
+.chooseTask .btnAssign:hover
+{
+    background-position: 0 -140px;
+    color: #FFF;
+}
+.chooseTask .btnAssign:active
+{
+    background-position: 0 -175px;
+    color: #FFF;
+    line-height: 38px;
+}
+.cetList
+{
+    margin: 10px 0;
+}
+.cetList li
+{
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.cetList li.hover
+{
+    background: #F7F5EE;
+}
+.cetList li.chosen
+{
+    background: #465B52;
+    color: #FFF;
+}
+.cetList .meta
+{
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 5px;
+}
+.cetList li.chosen .meta
+{
+    color: #CCC;
+}
+.cetList .meta strong
+{
+    margin-right: 15px;
+}
+.cetList .info
+{
+    font-size: 12px;
+}
+
+#chooseClass
+{
+    background-color: #465B52;
+    color: #fff;
+    display: none;
+    width: 150px;
+    height: 60px;
+    border-width: 2px;
+    border-color: #465B52;
+    border-radius: 5px;
+    z-index: 3000;
+    padding: 10px;
+    position: absolute;
+}
+#chooseClass center
+{
+    margin: 10px 0;
+}
+#chooseClass .changeclassbtn
+{
+    cursor: pointer;
+}
+
+
+.itemTypeCustomize
+{
+}
+.itemTypeCustomize .partType
+{
+    margin-bottom: 15px;
+}
+.itemTypeCustomize select
+{
+    border: 1px solid #CCC;
+    padding: 2px;
+}
+.itemTypeCustomize .itemList li
+{
+    padding-left: 20px;
+    line-height: 28px;
+    width: 400px;
+    border-radius: 10px;
+}
+.itemTypeCustomize .itemList li:hover
+{
+    background: #F7F5EE;
+}
+.itemTypeCustomize .itemList label
+{
+    float: left;
+    width: 300px;
+}
+
+.form1
+{
+    line-height: 2;
+    padding: 20px;
+    overflow: hidden;
+    zoom: 1;
+    border-radius: 10px;
+    background: #F7F5EE;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3) inset;
+}
+.form1 fieldset
+{
+    border: 0;
+}
+.form1 fieldset legend
+{
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.form1 .editor-label
+{
+    margin: 0 0 10px 10px;
+}
+.form1 input[type="text"], .form1 input[type="password"]
+{
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #CECBB6 #F3F2E7 #F3F2E7 #CECBB6;
+    background: #E3E0C9;
+    width: 200px;
+}
+.form1 input[type="text"]:focus, .form1 input[type="password"]:focus
+{
+    background: #FFF;
+    border-color: #FFD623;
+    box-shadow: 0 0 5px rgba(255,214,35,1);
+}
+.form1 .buttons input
+{
+    padding: 2px 20px;
+}
+
+.tasklist
+{
+    margin: 20px 20px 15px 20px;
+    height: 400px;
+    clear:both;
+    padding: 0 20px 0 20px;
+}
+.tasklist .tbRecords
+{
+    width: auto;
+    margin: 0 auto;
+}
+.tasktitle 
+{
+    text-align: center;
+    font-size: 16px;
+    color: #465B52;
+    font-weight:bold;
+    line-height: 2;
+    margin: 20px 20px 0 20px;
+}
+.taskinfo
+{
+    text-align: center;
+    line-height: 2;
+    font-size: 14px;
+    color: Black;
+    margin-top: 30px;
+}
+
+input#Back
+{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.infoItem
+{
+    margin: 10px 10px 40px;
+}
+.infoItem h2
+{
+    border-bottom: 1px dashed #BBB37C;
+    margin-bottom: 10px;
+}
+.generalRemark
+{
+    float: left;
+    width: 450px;
+    margin-right: 20px;
+}
+.learningProposal
+{
+    float: left;
+    width: 450px;
+}
+.userStatistic
+{
+    clear: both;
+    border-top: 1px dashed #BBB37C;
+}
+.userStatistic h2
+{
+    border: 0;
+}
+.statisticItem
+{
+    overflow: hidden;
+    zoom: 1;
+    margin-bottom: 10px;
+}
+.statisticItem .graph
+{
+    float: left;
+    width: 600px;
+	height: 400px;
+}
+.statisticItem .info
+{
+    float: left;
+    width: 320px;
+    margin-left: 20px;
+}
+
+.statisticTable
+{
+    table-layout: fixed;
+    border-spacing: 0;
+}
+.statisticTable th
+{
+    text-align: left;
+    background: #465B52;
+    color: #FFF;
+    padding: 5px;
+    border: 1px solid;
+    border-color: #69897b #1d2522 #1d2522 #69897b;
+}
+.statisticTable th.sortable
+{
+    padding-right: 10px;
+    background: #465B52 no-repeat 95% center;
+}
+.statisticTable th.sortable:hover
+{
+    background-color: #4d6a5e;
+    cursor: default;
+}
+.statisticTable th.sortbydes
+{
+    background-image: url(../../Images/sort_des.gif);
+}
+.statisticTable th.sortbyasc
+{
+    background-image: url(../../Images/sort_asc.gif);
+}
+
+.statisticTable td
+{
+    padding: 5px;
+    border: 1px solid;
+    border-color: #F8F7F1 #d0cba4 #d0cba4 #F8F7F1;
+}
+.statisticTable tfoot td
+{
+    border: 0;
+}
+.statisticTable td.pname
+{
+    font-weight: bold;
+}
+.statisticTable td.more
+{
+    text-align: right;
+}
+
+.statisticTable tbody tr:hover td
+{
+    background: #f8f7f1;
+}
+.statisticTable a
+{
+    color: #C35900;
+}
+.statisticTable a:hover
+{
+    color: #465B52;
+}
+.statisticTable tbody a
+{
+    font-size: 12px;
+    border-radius: 10px;
+    border: 1px solid #d0cba4;
+    border-width: 0 1px 1px 0;
+    padding: 2px 10px;
+    background: #f7f5ee;
+    text-decoration: none;
+}
+.statisticTable tbody a:hover
+{
+    color: #465B52;
+    background: #FFF;
+}
+
+.globalMask
+{
+    position: absolute;
+    z-index: 4000;
+    top: 0;
+    left: 0;
+}
+
+
+input[type=button],input[type=submit]{
+    font-size: 12px;
+    border-radius: 10px;
+    border: 1px solid #d0cba4;
+    border-width: 0 1px 1px 0;
+    padding: 2px 10px;
+    background: #f7f5ee;
+    text-decoration: none;
+    color: #C35900
+    cursor: pointer;
+}
+input[type=button]:hover,input[type=submit]:hover
+{
+    color: #465B52;
+    background: #FFF;
+}
+
+.tableinfo
+{
+    text-align: center;
+    font-size: 16px;
+    color: #465B52;
+    font-weight:bold;
+    line-height: 2;
+    margin: 20px 20px 0 20px;
+}
+.tbRecords .ptitle
+{
+    text-align: center;
+    background: #465B52;
+    color: #fff;
+    padding:5px;
+    border: 1px solid;
+    border-color: #69897b #69897b #1d2522 #69897b;
+    font-size: 14px;
+}
+.scorecenter .tbRecords
+{
+	margin: 20px 20px;
+	table-layout: auto;
+	width: auto;
+	margin-left: 50px;
+	float: left;
+}
+.scorecenter
+{
+    width: 600px;
+    margin: 0 auto;
+}

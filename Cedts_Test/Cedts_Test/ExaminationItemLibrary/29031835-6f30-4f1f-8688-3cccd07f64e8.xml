@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="29031835-6f30-4f1f-8688-3cccd07f64e8" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0.1" Course="" Unit="" QustionInterval="5">
+  <Content>&lt;p&gt;
+	gfgdgfdgdsgsgfgsd&lt;/p&gt;
+</Content>
+  <SoundFile>29031835-6f30-4f1f-8688-3cccd07f64e8</SoundFile>
+  <Questions Count="1">
+    <question id="0">
+      <Answer>
+        <Value>tryfdhgf</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>hg</Tip>
+    </question>
+  </Questions>
+</AssessmentItem>

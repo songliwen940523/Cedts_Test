@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="7333988b-303e-4526-b50d-53e08170ea23" totalScore="10" totalTime="10" name="tree" resultTime="0" bShowAns="1" Diffcult="0.1" Type="大学四级试题">
+  <Part Type="Listen">
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="0c2bfbf9-d492-4cdc-9efa-9246fd256b8f" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="5" Course="" Unit="">
+        <Content>&lt;p&gt;
+	More and more of the world&amp;rsquo;s population are living in towns or cities. The speed at which cities are growing in the less developed countries is ____(&lt;strong class="qNum"&gt;36&lt;/strong&gt;) . Between 1920 and 1960 big cities in developed countries ____(&lt;strong class="qNum"&gt;37&lt;/strong&gt;) two and a half times in size, but in other parts of the world the growth was eight times their size.&lt;br /&gt;
+	　　The ____(&lt;strong class="qNum"&gt;38&lt;/strong&gt;) size of growth is bad enough, but there are now also very ____(&lt;strong class="qNum"&gt;39&lt;/strong&gt;) signs of trouble in the ____(&lt;strong class="qNum"&gt;40&lt;/strong&gt;) of percentages of people living in towns and percentages of people working in industry. During the nineteenth century cities grew as a result of the growth of industry. In Europe the ____(&lt;strong class="qNum"&gt;41&lt;/strong&gt;) of people living in cities was always smaller than that of the ____(&lt;strong class="qNum"&gt;42&lt;/strong&gt;) working in factories. Now, however, the ____(&lt;strong class="qNum"&gt;43&lt;/strong&gt;) is almost always true in the newly industrialised world: ____(&lt;strong class="qNum"&gt;44&lt;/strong&gt;) .Without a base of people working in industry, these cities cannot pay for their growth; ____(&lt;strong&gt;45&lt;/strong&gt;)&lt;/p&gt;
+</Content>
+        <SoundFile>0c2bfbf9-d492-4cdc-9efa-9246fd256b8f</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>gfdsg</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gfds</Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>fdfafd</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>fgsfdfda</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>fdafafds</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>fdafda</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>fdafafd</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>fdsaf</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>fsafa</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>fsaa</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>dsfsa</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

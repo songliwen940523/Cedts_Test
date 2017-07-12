@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="acad917c-3c77-41c5-a68c-f36a3f84d5fc" totalScore="10" totalTime="10" name="gfgf" resultTime="0" bShowAns="1" Diffcult="0.1" Type="大学四级试题">
+  <Part Type="Listen">
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="53f72c03-36aa-40ff-a598-f037b86e012d" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="5" Course="" Unit="">
+        <Content>&lt;p&gt;
+	More and more of the world&amp;rsquo;s population are living in towns or cities. The speed at which cities are growing in the less developed countries is&amp;nbsp;(_1_) . Between 1920 and 1960 big cities in developed countries (_2_) two and a half times in size, but in other parts of the world the growth was eight times their size.&lt;br /&gt;
+	　　The&amp;nbsp; (_3_) size of growth is bad enough, but there are now also very (_4_) signs of trouble in the&amp;nbsp;(_5_) of percentages of people living in towns and percentages of people working in industry.&lt;/p&gt;
+</Content>
+        <SoundFile>53f72c03-36aa-40ff-a598-f037b86e012d</SoundFile>
+        <Questions Count="5">
+          <question id="0">
+            <Answer>
+              <Value>fdsfd</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>dfsf</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>gfdg</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>fdfa</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>gffg</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

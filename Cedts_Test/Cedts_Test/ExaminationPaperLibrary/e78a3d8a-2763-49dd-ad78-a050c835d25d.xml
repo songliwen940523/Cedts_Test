@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="e78a3d8a-2763-49dd-ad78-a050c835d25d" totalScore="80" totalTime="10" name="f" resultTime="0" bShowAns="1" Diffcult="80" Type="按知识点组卷">
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="80" Time="10">
+      <AssessmentItem ItemID="f1d8ec9c-338f-4943-bc62-0352141613cb" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="80" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	Playing organized sports is such a common experience in the United States that many children and teenagers that them for granted. This is especially true&amp;nbsp;&amp;nbsp;(_1_) children from families and communities that have the resources needed to organize and&amp;nbsp;&amp;nbsp;(_2_)sports programs and make sure that there is easy&amp;nbsp;&amp;nbsp;(_3_) to participation opportunities. Children in low-income families and poor communities are&amp;nbsp;&amp;nbsp;(_4_)&amp;nbsp;likely to take organized youth sports for granted because they often&amp;nbsp;&amp;nbsp;(_5_)&amp;nbsp;the resources needed to pay for participation&amp;nbsp;&amp;nbsp;(_6_) , equipment, and transportation to practices and games&amp;nbsp;(_7_) their communities do not have resources to build and&amp;nbsp;&amp;nbsp;(_8_)&amp;nbsp;sports fields and facilities.&lt;br /&gt;&lt;br/&gt;	Organized youth sports&amp;nbsp;(_9_) appeared during the early 20th century in the United States and other wealthy nations. They were originally developed&amp;nbsp;&amp;nbsp;(_10_) some educators and developmental experts&amp;nbsp;(_11_) that the behavior and character of children were&amp;nbsp;&amp;nbsp;(_12_) influenced by their social surrounding and everyday experiences. This&amp;nbsp;(_13_) many people to believe that if you could organize the experiences of children in&amp;nbsp;&amp;nbsp;(_14_) ways, you could influence the kinds of adults that those children would become.&lt;br /&gt;&lt;br/&gt;	This belief that the social&amp;nbsp;&amp;nbsp;(_15_) influenced a person&amp;rsquo;s overall development was very&amp;nbsp;(_16_) to people interested in progress and reform in the United States&amp;nbsp;&amp;nbsp;(_17_) the beginning of the 20th century. It caused them to think about&amp;nbsp;(_18_) they might control the experiences of children to&amp;nbsp;&amp;nbsp;(_19_) responsible and productive adults. They believed strongly that democracy depended on responsibility and that a&amp;nbsp;(_20_) capitalist economy depended on the productivity of worker.&lt;/p&gt;&lt;br/&gt;</Content>
+        <Questions Count="20">
+          <question id="0">
+            <choices>
+              <choice id="A">among </choice>
+              <choice id="B">within</choice>
+              <choice id="C">on </choice>
+              <choice id="D">towards</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">spread</choice>
+              <choice id="B">speed </choice>
+              <choice id="C">spur </choice>
+              <choice id="D">sponsor</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">access</choice>
+              <choice id="B">entrance </choice>
+              <choice id="C">chance</choice>
+              <choice id="D">route</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">little</choice>
+              <choice id="B">less </choice>
+              <choice id="C">more </choice>
+              <choice id="D">much</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">shrink </choice>
+              <choice id="B">tighten</choice>
+              <choice id="C">limit </choice>
+              <choice id="D">lack</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">bill</choice>
+              <choice id="B">accounts</choice>
+              <choice id="C">fees</choice>
+              <choice id="D">fare</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">so</choice>
+              <choice id="B">as </choice>
+              <choice id="C">and </choice>
+              <choice id="D">but</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">maintain</choice>
+              <choice id="B">sustain </choice>
+              <choice id="C">contain</choice>
+              <choice id="D">entertain</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">last</choice>
+              <choice id="B">first </choice>
+              <choice id="C">later</choice>
+              <choice id="D">finally</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">before</choice>
+              <choice id="B">while</choice>
+              <choice id="C">until </choice>
+              <choice id="D">when</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">realized</choice>
+              <choice id="B">recalled</choice>
+              <choice id="C">expected </choice>
+              <choice id="D">exhibited</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">specifically</choice>
+              <choice id="B">excessively </choice>
+              <choice id="C">strongly </choice>
+              <choice id="D">exactly</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">moved</choice>
+              <choice id="B">conducted </choice>
+              <choice id="C">put </choice>
+              <choice id="D">led</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">precise </choice>
+              <choice id="B">precious</choice>
+              <choice id="C">particular</choice>
+              <choice id="D">peculiar</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">engagement</choice>
+              <choice id="B">environment</choice>
+              <choice id="C">state </choice>
+              <choice id="D">status</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">encouraging</choice>
+              <choice id="B">disappointing</choice>
+              <choice id="C">upsetting</choice>
+              <choice id="D">surprising</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">for</choice>
+              <choice id="B">with</choice>
+              <choice id="C">over</choice>
+              <choice id="D">at</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="17">
+            <choices>
+              <choice id="A">what</choice>
+              <choice id="B">how</choice>
+              <choice id="C">whatever </choice>
+              <choice id="D">however</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="18">
+            <choices>
+              <choice id="A">multiply</choice>
+              <choice id="B">manufacture </choice>
+              <choice id="C">produce</choice>
+              <choice id="D">provide</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="19">
+            <choices>
+              <choice id="A">growing </choice>
+              <choice id="B">breeding</choice>
+              <choice id="C">raising</choice>
+              <choice id="D">flying</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

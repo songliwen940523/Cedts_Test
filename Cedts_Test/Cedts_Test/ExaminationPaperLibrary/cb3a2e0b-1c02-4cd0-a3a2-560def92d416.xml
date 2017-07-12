@@ -1,0 +1,1313 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="cb3a2e0b-1c02-4cd0-a3a2-560def92d416" totalScore="71" totalTime="46" name="aabbcc" resultTime="0" bShowAns="1" Diffcult="3" Type="按题型组卷">
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="8" Time="8">
+      <AssessmentItem ItemID="6ec11cf5-04af-447c-a301-03d03d25dce7" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="19" Course="" Unit="">
+        <soundFile>7BE2E09BC9EF2D499289D237A4AABA45</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">She planned to stay at home.</choice>
+              <choice id="B">She planned to do some errands.</choice>
+              <choice id="C">She planned to pay a visit to her sister.</choice>
+              <choice id="D">She did not have a plan in fact.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Where did you spend your last weekend? I thought you were at your sister's.
+W: I intended to, but at the last minute she called and said that they need do some urgent errands, so I stayed home altogether.
+Q: What did the woman plan to do?
+</Script>
+        <soundFile>56F1CD1A1766454D9428343CB64A28BC</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The noise is indeed unbearable.</choice>
+              <choice id="B">She is also annoyed by the noise.</choice>
+              <choice id="C">She has got used to the noise.</choice>
+              <choice id="D">She thinks the man should move to somewhere else.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: I can't stand the noise on the street anymore. I want to get out of here.
+W: Just take it easy and you will get used to that. It's no bother to me at all.
+Q: What does the woman mean?</Script>
+        <soundFile>37426E3A4966624580BA5D1D5200AFEB</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">A bus station.</choice>
+              <choice id="B">An airport.</choice>
+              <choice id="C">A expressway.</choice>
+              <choice id="D">A train station.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M:How do Jane and Bill like their new home?
+W:It's really comfortable, but they are tired of having to hear the jets go over their house at all hours.
+Q:What is located close to Jane and Bill's new home?</Script>
+        <soundFile>BAACE326B766A842B11F8835E510EFDE</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">A railway porter.</choice>
+              <choice id="B">A taxi driver.</choice>
+              <choice id="C">A bus conductor.</choice>
+              <choice id="D">A postal clerk.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Excuse me, sir. I'm going to send this parcel to London. What's the postage for it?
+M: Let me see. It's one pound fifty.
+Q: Who is the woman most probably speaking to?</Script>
+        <soundFile>B4A60DE0C10EB940ABFA59A81F22EA98</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">It was a long lecture, but easy to understand.</choice>
+              <choice id="B">It was not as easy as she had thought.</choice>
+              <choice id="C">It was as difficult as she had expected.</choice>
+              <choice id="D">It was interesting and easy to follow.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: What do you think of Professor Brown's lecture?
+W: The topic was interesting, but the lecture was much more difficult to follow than I had expected.
+Q: What does the woman say about the lecture?</Script>
+        <soundFile>11BB8E3871782447A8A0EDD5B7E4828C</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">In a school library.</choice>
+              <choice id="B">In a bookstore.</choice>
+              <choice id="C">In a grocery store.</choice>
+              <choice id="D">In a gift shop.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Can I help you in any way?
+M: Well, I'm trying to find two books, as Christmas gifts, one for my aunt and one
+for my nephew.
+Q: Where does this conversation most probably take place?</Script>
+        <soundFile>3E6A41023AA66845A7CAA5D97E27CDC4</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">They are faster.</choice>
+              <choice id="B">It is the only thing available.</choice>
+              <choice id="C">Buses are not safe.</choice>
+              <choice id="D">Buses are too crowded.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: In this city there are many kinds of transportation available. Which do you use, Fred?
+M: The buses are so crowded that I usually take the street car.
+Q: Why does Fred prefer to use the street car?</Script>
+        <soundFile>9938554CE6CB5341A7664FAE3232EB0B</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">A math teacher and his colleague.</choice>
+              <choice id="B">A teacher and his student.</choice>
+              <choice id="C">A student and his classmate.</choice>
+              <choice id="D">A librarian and a student.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: I heard you got a full mark in math exams. Congratulations!
+M: Thanks. I'm sure you also did a good job.
+Q: What's the probable relationship between the two speakers?</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="d3f37655-37bd-48c5-a2fb-03d27387bcdc" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="19" Course="" Unit="" />
+      <AssessmentItem ItemID="696ec1f3-934e-4dd0-aded-03ddccf3e0a8" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="15" Course="" Unit="" />
+      <AssessmentItem ItemID="c8079922-59fe-42ec-ad87-03e0e931b4f5" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="15" Course="" Unit="" />
+      <AssessmentItem ItemID="cfcf1487-b233-4057-8db8-04165c748d51" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="17" Course="" Unit="" />
+      <AssessmentItem ItemID="daab8eb0-bffc-4654-b70f-0427b4457611" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="18" Course="" Unit="" />
+      <AssessmentItem ItemID="68d17d79-6459-4e01-8697-044c2a826bba" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="15" Course="" Unit="" />
+      <AssessmentItem ItemID="0a4ae1d1-106f-41b3-86e2-044cbc2bf395" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="17" Course="" Unit="" />
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="7" Time="7">
+      <AssessmentItem ItemID="58c0d196-69b7-462a-a0f5-0424e78eacb2" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="93" Course="" Unit="">
+        <soundFile>5C53BC816D7B214FBCA5E389A9E477A6</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">DVDs.</choice>
+              <choice id="B">DVD player.</choice>
+              <choice id="C">Stereo.</choice>
+              <choice id="D">Widescreen screen TV.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According to the conversation, which item did the woman not purchase with her credit card?</Script>
+            <Sound duration="7">F9D8E89BC2AE5543A6A5AAFC06C0D903</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">From her parents.</choice>
+              <choice id="B">From internet.</choice>
+              <choice id="C">In the mail.</choice>
+              <choice id="D">From school.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How did the woman get her credit card?</Script>
+            <Sound duration="4">E6940E571365484DAAA71BB9FDBD16D2</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Build a credit rating.</choice>
+              <choice id="B">Control spending.</choice>
+              <choice id="C">Buy things through mails.</choice>
+              <choice id="D">Buy things that you can't pay with cash.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following didn't explain the reason why the woman obtained a credit card?</Script>
+            <Sound duration="7">BA0D7EB4DE1A2D43A6535813DA7A71EE</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Students often apply for more credit cards than they need.</choice>
+              <choice id="B">People generally have a difficult time getting out of debt.</choice>
+              <choice id="C">It is not safe to use credit card.</choice>
+              <choice id="D">The interest rates on student cards are very high.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According to the man, what is one reason for not having a credit card?</Script>
+            <Sound duration="7">DB0D95E3C430C949ABC02102DB20316C</Sound>
+          </question>
+        </Questions>
+        <Script>M: Hi, Sis. I just came over to drop of the DVDs you wanted, and . . . Hey, wow!? Where did you get all of this stuff? 
+W: I bought it. So, what do you think of my new entertainment center? And the widescreen screen TV . . . 
+M: Bought it? 
+W: . . . and my new DVD player. Here, let me show you my stereo. You can really rock the house with this one. 
+M: But where did you get the money to buy all this? You didn't borrow money from mom and dad again, did you? 
+W: Of course not. I got it with this! 
+M: This? Let me see that . . . Have you been using Dad's credit card again? 
+W: No, silly. It's mine. It's a student credit card. 
+M: A student credit card? How in the world did you get one of these? 
+W: I got an application in the mail. 
+M: Well, why did you get one in the first place? 
+W: Listen. Times are changing, and having a credit card helps you build a credit rating, control spending, and even buy things that you can't pay with cash.
+M: I don't want to hear it. Anyway, student credit cards just lead to impulse spending . . . as I can see here. And the interest rates of student credit cards are usually sky high, and if you miss a payment, the rates, well, just jump!</Script>
+        <soundFile>A885F46E17F0A74EADC16F8F76ECD11C</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">Surfing.</choice>
+              <choice id="B">Swimming.</choice>
+              <choice id="C">Cooking.</choice>
+              <choice id="D">Camping.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is the woman planning to do?</Script>
+            <Sound duration="3">9934C7185D98A04BA3E22A6EA308892E</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">New Zealand.</choice>
+              <choice id="B">England.</choice>
+              <choice id="C">Scotland.</choice>
+              <choice id="D">She does not say.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Where was the woman born?</Script>
+            <Sound duration="3">7F7EC6E39F4BF243A4BCBF06E59E3D9B</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Goldfish.</choice>
+              <choice id="B">Horse.</choice>
+              <choice id="C">Dog.</choice>
+              <choice id="D">Cat.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What pets does she not have?</Script>
+            <Sound duration="4">2E6010B184E72A499970557F70D2EEEC</Sound>
+          </question>
+        </Questions>
+        <Script>M: How are you doing today?
+W: Good, thanks.
+M: Now, I hear that you are going back home to New Zealand.
+W: That's right. I'm going home for summer.
+M: OK. What are your plans?
+W: Probably a week relaxing, going camping, and then I'm going back to work.
+M: OK. Where do you work?
+W: I teach as an English teacher in Christchurch, in New Zealand.
+M: And that's where you're from, naturally.
+W: That's right.
+M: Were you born there?
+W: I was, yeah!
+M: Well, you are going to have this short little break, or vacation, are you going to the beach or the mountains?
+W: Probably to the beach and camping for about a week with friends, yeah!
+M: Actually, how warm is it in the summer?
+W: Probably a maximum of about 30 degrees. A nice dry heat! Very comfortable.
+M: So when you go to the beach, is the water warm enough to swim in?
+W: No, no, no! We swim but it is not warm. Yeah! It's pretty chilly actually.
+M: OK. Any other plans when you go home?
+W: Yeah, I'm looking forward to catching up with friends and family and animals.
+M: Animals? 
+W: Well, I miss my pets. 
+M: OK, well, what pets do you have?
+W: Well, I have a cat and a dog and a sheep called Sydney and two goldfish. 
+M: Wow!
+W: Yeah! And I really miss them. 
+M: I'm sure they're really excited to see you, too.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="41f27bf5-1f8f-4b2d-a985-0438c231d829" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="102" Course="" Unit="" />
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="11" Time="11">
+      <AssessmentItem ItemID="cb6a6554-ba06-4ea8-ad48-02b624091d1d" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="64" Course="" Unit="">
+        <soundFile>EC6BFF8B797FA244BEF13CBAE6AFE34F</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">The origin of the word okay.</choice>
+              <choice id="B">The meaning of the word okay.</choice>
+              <choice id="C">People who first used the word okay.</choice>
+              <choice id="D">Persons connected with the word okay</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What's the main idea of this passage?</Script>
+            <Sound duration="3">BA64AA070E563F4B9213EA19F6203D34</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">"Okay" most likely came from the American Indians.</choice>
+              <choice id="B">"Okay Club" was formed in the late 1700s.</choice>
+              <choice id="C">"Okay Club" was to support the president.</choice>
+              <choice id="D">There is disagreement on the origin of okay.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following is true according to the passage?</Script>
+            <Sound duration="3">778CE03A10E63A4CB6C2F3B721663137</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Four.</choice>
+              <choice id="B">Three.</choice>
+              <choice id="C">Five.</choice>
+              <choice id="D">Six.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How many kinds of origins are mentioned in the passage?</Script>
+            <Sound duration="4">C410445FC4FC5543924A289A7CB8AA41</Sound>
+          </question>
+        </Questions>
+        <Script>The word OKAY is known and used by millions of people all over the world. Still, language experts do not agree on where it came from.
+Some say it came from the American Indians. Some say that President Andrew Jackson first used the word. Others claim the word was invented by John Jacob Astor, a fur trader of the late 1700s who became one of the world's richest men. Still others say a poor railroad clerk made up this word. His name was Obadiah Kelly and put his initials, O.K., on each package people gave him to ship by train.
+But perhaps the most believable explanation is that the word okay was invented by a political organization in the 1800s. Martin Van Buren was running for president. A group of people organized a club to support him. They called it the "Okay Club". The letter "O" and "K" were taken from the name of Van Buren's home town, Old Kinderhook, New York.</Script>
+        <soundFile>AC537BC96794394AADD13DADBD1C8EC7</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">It interferes with listening comprehension.</choice>
+              <choice id="B">It helps the listener to remember what has been said.</choice>
+              <choice id="C">It has no effect whatsoever on listening comprehension.</choice>
+              <choice id="D">It helps the comparatively bright students only.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According to the speaker, what effect does note-taking have
+on listening comprehension?</Script>
+            <Sound duration="6">6B0E02E30C46134A82571808EDF04930</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">80%.</choice>
+              <choice id="B">90%.</choice>
+              <choice id="C">100%.</choice>
+              <choice id="D">Twice as much as those who take notes.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How much does one forget in two weeks' time after the lecture
+if he does not take any notes?</Script>
+            <Sound duration="6">72FB0A97C162DF4F82430C8AB9507F59</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">They should review their notes from time to time.</choice>
+              <choice id="B">They should read their notes every morning.</choice>
+              <choice id="C">They should keep their notes as long as possible.</choice>
+              <choice id="D">They should check their notes with other students before an examination.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is the speaker's advice to those who take notes?</Script>
+            <Sound duration="3">CEC89432ACE9CC40B9E6289574CF8E0C</Sound>
+          </question>
+        </Questions>
+        <Script>There are three important findings from studies concerned with note-taking. First, note-taking does not interfere with listening and comprehension; in fact, it helps you listen. Second, students who study their lecture notes remember one and a half times more after six weeks than students who do not review. Third, students who take no notes, or do not study their notes, forget approximately 80% of the lecture by the end of two weeks. From these findings we can conclude that students, who take enough notes and then study them both directly after the lecture and several additional times before an examination, stand a good chance of remembering between 90% and 100% of the material. In other words, if you don't take notes, then you will put yourself at a disadvantage.</Script>
+        <soundFile>3F43254B6CF7E8459DF4165D5A2171C9</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">On a Tuesday.</choice>
+              <choice id="B">On a Saturday.</choice>
+              <choice id="C">On a Thursday.</choice>
+              <choice id="D">On a Friday.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>When will the exam take place?</Script>
+            <Sound duration="4">33CDAD15BED8F04EB636628F465E1B1F</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">A final copy of research project.</choice>
+              <choice id="B">The textbook and class notes.</choice>
+              <choice id="C">Copies of mid-term.</choice>
+              <choice id="D">A few pens.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What should the students bring with them to the exam?</Script>
+            <Sound duration="5">C79748FFC686454FAAAAACC58C3A5A43</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">There will be only multiple-choice questions.</choice>
+              <choice id="B">There will be only essay questions.</choice>
+              <choice id="C">The exam will include an oral and written section.</choice>
+              <choice id="D">The exam will include both multiple-choice and essay questions.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What will be the format of the exam?</Script>
+            <Sound duration="5">679A281849AC674E868B81DC8C316EC1</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Students will be tested on all the materials discussed in class.</choice>
+              <choice id="B">It will be easy to understand.</choice>
+              <choice id="C">It will cover topics from a wide variety of academic fields.</choice>
+              <choice id="D">Students must complete all parts of the exam.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why does the teacher call the exam comprehensive?</Script>
+            <Sound duration="5">2C112F7CD50D9D4EB3E03C6366D1A31D</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">Thirty per cent.</choice>
+              <choice id="B">Sixty per cent.</choice>
+              <choice id="C">Twenty per cent.</choice>
+              <choice id="D">Fifty per cent.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How much will the final exam account for the students' course grade?</Script>
+            <Sound duration="7">EF760BAD1527CD47A2EB9F52B9DD7665</Sound>
+          </question>
+        </Questions>
+        <Script>Now I'd like to talk to you about the final exam. The exam will be held next Thursday, the last day of exam week. Remember to bring along two or three pens in case you run out of ink. Unlike the mid-term this test will not include multiple choice questions. It will consist entirely of essays. You'll have to answer three of the five essay questions. The exam will be comprehensive, which means you will be responsible for all of the subject material we've covered in class. I would suggest you review your mid-term's as well as the textbook and your class notes. The final will count for 50% of your grade in the course; the research project will count for 20% percent; and the mid-term 30%. I'll be in my office almost all day on Tuesday of next week. If you run into any problems, please feel free to stop in. Good luck with your studying and I'll see you on Thursday.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="b534a849-8da7-48ab-be31-0373cabfe047" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="57" Course="" Unit="" />
+      <AssessmentItem ItemID="d010321f-ed3b-4231-bf34-03a2f949bc1f" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="66" Course="" Unit="" />
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="26a05be1-cc71-4ab0-81b3-10a98e3cab4e" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="198" Course="" Unit="">
+        <Content>        For long distance public transport of passengers, the traffic is now divided between airplane and bus. (_1_) it is possible to travel right across the United States by bus, and the Greyhound Bus Company even (_2_) all over the nation for a three months' period (_3_) of a hundred dollars or so. Bus travel is cheap, and (_4_) to allow buses to travel fast, the time spent on bus journeys is (_5_). With their tip-back seats and toilets (_6_), the air-conditioned buses are built to (_7_) as tolerable as possible. (_8_) has made great progress, and (_9_) and much private travel it seems (_10_) .</Content>
+        <SoundFile>BF3FA6B2F4D8834E8CD736D6AA4531F0</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>Although distances are so great</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>provides tickets for unlimited travel</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>at the amazingly low cost</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>as the roads are good enough</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>less than one might expect</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>on the vehicles</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>make all-night journeys</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>Evidently the airplane</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>for business travel</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>the obvious means to use</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="222b5331-c962-4388-a376-0d104425c7b9" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        While you can retrieve（取回） cash from your bank account anywhere in the world and maintain your bank records online, the Americans seldom maintain their health records by using software, hardware and Internet connections.&lt;br/&gt;        This is because the (_1_) system has lagged（滞后） in using information technology. Only an (_2_) 10 percent to 20 percent of the U.S. hospitals and (_3_) offices maintain fully computerized patient records.&lt;br/&gt;        But with many of us taking a greater interest in our health care — partly by researching health information online — some experts believe the time is (_4_) for patients to create their own electronic personal health record, also (_5_) a PHR.&lt;br/&gt;        A PHR is a (_6_) record that you own, control and maintain over time. You decide when to share its contents — in response to a doctor's (_7_) or because you think there is something more a doctor needs to know about your health history.&lt;br/&gt;        Your personal health record should be (_8_), easily portable, private and secure. The contents will (_9_) such essentials as your current medications and dosages（配药）, health-insurance info, living will, immunizations（使免疫） with dates, allergies（ [医]敏感症）, important recent medical test results, (_10_), family medical-history highlights and so on.&lt;br/&gt;        Proponents say a personal health record can help health providers work more quickly, avoid errors and duplication of tests, and save lives.</Content>
+        <WordList>
+          <Word id="B">elementary</Word>
+          <Word id="C">called</Word>
+          <Word id="D">inquiry</Word>
+          <Word id="E">estimated</Word>
+          <Word id="F">right</Word>
+          <Word id="G">include</Word>
+          <Word id="H">physician</Word>
+          <Word id="I">fatigue</Word>
+          <Word id="J">comprehensive</Word>
+          <Word id="K">ripe</Word>
+          <Word id="L">amount</Word>
+          <Word id="M">surgeries</Word>
+          <Word id="N">dosage</Word>
+          <Word id="O">electronic</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>J</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="15" Time="10">
+      <AssessmentItem ItemID="a69f9276-bbfd-4ee6-af7e-02473058e8d4" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="">
+        <Content>        By using power-driven machines in factories and by developing efficient mass production methods, Americans have greatly increased the ability of the individual worker to produce goods. Because the production of each worker has increased from year to year, Americans have been able to buy and use an increasing number of things to make their lives more pleasant and comfortable than those of their forefathers. It is hard to believe that automobiles, radios, motion pictures, frozen foods, electric refrigerators, to mention only a few items, have come into common use within the last thirty years.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>The best title for this passage is ______.</prompt>
+            <choices>
+              <choice id="A">More Comforts for Modern Americans</choice>
+              <choice id="B">The Benefit of Increased Productivity</choice>
+              <choice id="C">Mass Production Methods</choice>
+              <choice id="D">The Rising Productivity of the American Worker</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>According to the author, which is NOT a reason why American workers are turning out more goods every year?</prompt>
+            <choices>
+              <choice id="A">The use of power-driven machines.</choice>
+              <choice id="B">The introduction of mass production methods.</choice>
+              <choice id="C">The rising productivity of the individual worker.</choice>
+              <choice id="D">The increasing need for industrial products in the market.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>The average American's life is more pleasant and comfortable than that of his forefathers because ______.</prompt>
+            <choices>
+              <choice id="A">he has more leisure time than his forefathers</choice>
+              <choice id="B">he does not work as hard as his forefathers</choice>
+              <choice id="C">he finds life easier now than it was during the time of his forefathers</choice>
+              <choice id="D">he has more useful commodities</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>The author mentions automobiles, radios, motion pictures, etc. to show ____.</prompt>
+            <choices>
+              <choice id="A">that these items are now popular with most people</choice>
+              <choice id="B">that these things have been invented in the last thirty years</choice>
+              <choice id="C">that these things are the results of increased productivity</choice>
+              <choice id="D">how many items factories are now producing</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>The tone of the author in this passage is _____.</prompt>
+            <choices>
+              <choice id="A">humorous</choice>
+              <choice id="B">satirical</choice>
+              <choice id="C">approving</choice>
+              <choice id="D">disapproving</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        Some psychologists maintain that mental acts such as thinking are not performed in the brain alone, but that one's muscles also participate. It may be said that we think with our muscles in somewhat the same way that we listen to music with our bodies.&lt;br/&gt;        You surely are not surprised to be told that you usually listen to music not only with your ears but with your whole body. Few people can listen to music that is more or less familiar without moving their body or, more specifically, some part of their body. Often when one listens to a symphonic (交响乐) concert on the radio, he is tempted to direct the orchestra even though he knows there is a competent conductor on the job.&lt;br/&gt;        Strange as this behavior may be, there is a very good reason for it. One cannot derive all possible enjoyment from music unless he participates, so to speak, in its performance. The listener "feels" himself into the music with more or less pronounced motions of his body.&lt;br/&gt;        The muscles of the body actually participate in the mental process of thinking in the same way, but this participation is less obvious because it is less pronounced.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>Some psychologists maintain that thinking is ________.</prompt>
+            <choices>
+              <choice id="A">not a mental process</choice>
+              <choice id="B">more of a physical process than a mental action</choice>
+              <choice id="C">a process that involves our entire bodies</choice>
+              <choice id="D">a process that involves the muscles as well as the brain</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>The process of thinking and that of listening are similar in
+that ________.</prompt>
+            <choices>
+              <choice id="A">both are mental acts</choice>
+              <choice id="B">muscles participate in both processes</choice>
+              <choice id="C">both processes are performed by the entire body</choice>
+              <choice id="D">we derive equal enjoyment from them</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>The pronounced body motions are a listener's way of ________.</prompt>
+            <choices>
+              <choice id="A">"feeling" the music</choice>
+              <choice id="B">participating in the performance</choice>
+              <choice id="C">deriving enjoyment from the music</choice>
+              <choice id="D">all of the above</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>Body movements are necessary in order for the listener to
+________.</prompt>
+            <choices>
+              <choice id="A">hear the music</choice>
+              <choice id="B">appreciate the music</choice>
+              <choice id="C">enjoy the music fully</choice>
+              <choice id="D">completely understand the music</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>According to selection, muscle participation in the process of
+thinking is ________.</prompt>
+            <choices>
+              <choice id="A">deliberate</choice>
+              <choice id="B">obvious</choice>
+              <choice id="C">not readily apparent</choice>
+              <choice id="D">very pronounced</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="52d966a5-fa43-4d90-9176-02bd48316218" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="" />
+    </Section>
+  </Part>
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="e79d178d-fc45-47bf-8cf6-130ce92001fd" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        One day a police officer managed to get some fresh mushrooms. He was so (_1_) what he had bought that he offered to (_2_) the mushrooms with his brother officers. When their breakfast arrived the next day, each officer found some mushrooms on his plate.&lt;br/&gt;        "Let the dog (_3_) a piece first," suggested one (_4_) officer who was afraid that the mushrooms might be poisonous. The dog seemed to (_5_) his mushrooms, and the officers then began to eat their meal saying that the mushrooms had a very strong (_6_) quite pleasant taste.&lt;br/&gt;        An hour (_7_), however, they were all astonished when the gardener rushed on and said (_8_) the dog was dead. (_9_), the officers jumped into their cars and rushed into the nearest hospital. Pumps （泵） were used and the officers had a very (_10_) time getting rid of the mushrooms that (_11_) in their stomachs. When they (_12_) to the police station, they sat down and started to (_13_) the mushroom poisoning. Each man explained the pains that he had felt and they agreed that (_14_) had grown worse on their (_15_) to the hospital. The gardener was called to tell the way (_16_) the poor dog had died. "Did it (_17_) much before death?" asked one of the officers, (_18_) very pleased that he had escaped a (_19_) death himself. "No," answered the gardener looking rather (_20_). "It was killed the moment a car hit it."</Content>
+        <Questions Count="20">
+          <question id="0">
+            <choices>
+              <choice id="A">sure of</choice>
+              <choice id="B">careless about</choice>
+              <choice id="C">pleased with</choice>
+              <choice id="D">disappointed at</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">share</choice>
+              <choice id="B">grow</choice>
+              <choice id="C">wash</choice>
+              <choice id="D">cook</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">check</choice>
+              <choice id="B">smell</choice>
+              <choice id="C">try</choice>
+              <choice id="D">examine</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">frightened</choice>
+              <choice id="B">shy</choice>
+              <choice id="C">cheerful</choice>
+              <choice id="D">careful</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">refuse</choice>
+              <choice id="B">hate</choice>
+              <choice id="C">want</choice>
+              <choice id="D">enjoy</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">besides</choice>
+              <choice id="B">but</choice>
+              <choice id="C">and</choice>
+              <choice id="D">or</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">later</choice>
+              <choice id="B">after</choice>
+              <choice id="C">past</choice>
+              <choice id="D">over</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">cruelly</choice>
+              <choice id="B">curiously</choice>
+              <choice id="C">seriously</choice>
+              <choice id="D">finally</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">Immediately</choice>
+              <choice id="B">Carefully</choice>
+              <choice id="C">Suddenly</choice>
+              <choice id="D">Slowly</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">hard</choice>
+              <choice id="B">busy</choice>
+              <choice id="C">exciting</choice>
+              <choice id="D">unforgettable</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">stopped</choice>
+              <choice id="B">dropped</choice>
+              <choice id="C">settled</choice>
+              <choice id="D">remained</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">hurried</choice>
+              <choice id="B">drove</choice>
+              <choice id="C">went</choice>
+              <choice id="D">returned</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">study</choice>
+              <choice id="B">discuss</choice>
+              <choice id="C">record</choice>
+              <choice id="D">remember</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">this</choice>
+              <choice id="B">these</choice>
+              <choice id="C">it</choice>
+              <choice id="D">they</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">road</choice>
+              <choice id="B">street</choice>
+              <choice id="C">way</choice>
+              <choice id="D">direction</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">how</choice>
+              <choice id="B">in that</choice>
+              <choice id="C">which</choice>
+              <choice id="D">in which</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">suffer</choice>
+              <choice id="B">eat</choice>
+              <choice id="C">harm</choice>
+              <choice id="D">spit</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="17">
+            <choices>
+              <choice id="A">to feel</choice>
+              <choice id="B">feeling</choice>
+              <choice id="C">felt</choice>
+              <choice id="D">having felt</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="18">
+            <choices>
+              <choice id="A">strange</choice>
+              <choice id="B">painful</choice>
+              <choice id="C">peaceful</choice>
+              <choice id="D">natural</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="19">
+            <choices>
+              <choice id="A">happy</choice>
+              <choice id="B">interested</choice>
+              <choice id="C">surprised</choice>
+              <choice id="D">excited</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

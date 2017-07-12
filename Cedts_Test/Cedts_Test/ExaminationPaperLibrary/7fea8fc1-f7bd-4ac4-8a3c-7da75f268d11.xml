@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="7fea8fc1-f7bd-4ac4-8a3c-7da75f268d11" totalScore="10" totalTime="10" name="vvvvvvvvvv" resultTime="0" bShowAns="1" Diffcult="10" Type="选择试卷">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="ec803246-0ece-48be-8afa-2042e16823f8" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;
+	ggggggggg&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <Prompt>aaa</Prompt>
+            <Answer>
+              <Value>bbb</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>ccc</Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

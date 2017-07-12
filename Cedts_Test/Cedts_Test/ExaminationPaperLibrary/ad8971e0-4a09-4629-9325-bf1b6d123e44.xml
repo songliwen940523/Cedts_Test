@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="ad8971e0-4a09-4629-9325-bf1b6d123e44" totalScore="100" totalTime="100" name="a" resultTime="0" bShowAns="1" Diffcult="0.1" Type="大学四级试题">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="50" Time="50">
+      <AssessmentItem ItemID="3da0650a-d901-41f2-acc4-0cfb52ef6a69" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="">
+        <Content>&lt;p&gt;
+	fsfdf&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>1</prompt>
+            <choices>
+              <choice id="A">a</choice>
+              <choice id="B">b</choice>
+              <choice id="C">c</choice>
+              <choice id="D">d</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>fgd</Tip>
+          </question>
+        </Questions>
+        <Content>&lt;p&gt;
+	htfgg&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>gf</prompt>
+            <choices>
+              <choice id="A">fdg</choice>
+              <choice id="B">gdsg</choice>
+              <choice id="C">sg</choice>
+              <choice id="D">gd</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>sd</Tip>
+          </question>
+        </Questions>
+        <Content>&lt;p&gt;
+	hfghf&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>gfds</prompt>
+            <choices>
+              <choice id="A">gfds</choice>
+              <choice id="B">gdsg</choice>
+              <choice id="C">gdsg</choice>
+              <choice id="D">gdsfg</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>ff</Tip>
+          </question>
+        </Questions>
+        <Content>&lt;p&gt;
+	hfg&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>bdfg</prompt>
+            <choices>
+              <choice id="A">fd</choice>
+              <choice id="B">fds</choice>
+              <choice id="C">fsd</choice>
+              <choice id="D">fs</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>df</Tip>
+          </question>
+        </Questions>
+        <Content>&lt;p&gt;
+	jhgj&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>jhfg</prompt>
+            <choices>
+              <choice id="A">fff</choice>
+              <choice id="B">fff</choice>
+              <choice id="C">fff</choice>
+              <choice id="D">fff</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gdfg</Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="ce3e7143-99d0-405b-961f-5526a56897ac" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" />
+      <AssessmentItem ItemID="adcffb82-8f6a-4826-a6bf-643d5316c705" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" />
+      <AssessmentItem ItemID="24d4532d-5e15-4481-9680-442053bdfd25" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" />
+      <AssessmentItem ItemID="29a4d8a2-468e-43f2-9a22-d3f94eee4647" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" />
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="50" Time="50">
+      <AssessmentItem ItemID="de7cfb67-9499-462a-b889-bf015141c47d" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="">
+        <soundFile>de7cfb67-9499-462a-b889-bf015141c47d</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">ff</choice>
+              <choice id="B">ff</choice>
+              <choice id="C">ff</choice>
+              <choice id="D">ff</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>tre</Tip>
+            <Script>fgd</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fsdf&lt;/p&gt;
+</Script>
+        <soundFile>c910ef9c-99b7-46ef-9587-046f7b1d6d61</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">ww</choice>
+              <choice id="B">ww</choice>
+              <choice id="C">ww</choice>
+              <choice id="D">ww</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>d</Tip>
+            <Script>fdsf</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fsadf&lt;/p&gt;
+</Script>
+        <soundFile>883ef4bc-2118-4311-9f9d-5f692d1e7eae</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">ss</choice>
+              <choice id="B">ss</choice>
+              <choice id="C">ss</choice>
+              <choice id="D">ss</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>fsd</Tip>
+            <Script>fd</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fsda&lt;/p&gt;
+</Script>
+        <soundFile>84f0d450-dd38-4bbf-a30e-0d10d8cf51eb</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">r</choice>
+              <choice id="B">r</choice>
+              <choice id="C">r</choice>
+              <choice id="D">r</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>fgd</Tip>
+            <Script>f</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fsdf&lt;/p&gt;
+</Script>
+        <soundFile>df245e3e-c2e1-48ab-a282-bfb8fead1dd4</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">d</choice>
+              <choice id="B">d</choice>
+              <choice id="C">d</choice>
+              <choice id="D">d</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>dfss</Tip>
+            <Script>fdsaf</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fasfa&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="c910ef9c-99b7-46ef-9587-046f7b1d6d61" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="" />
+      <AssessmentItem ItemID="883ef4bc-2118-4311-9f9d-5f692d1e7eae" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="" />
+      <AssessmentItem ItemID="84f0d450-dd38-4bbf-a30e-0d10d8cf51eb" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="" />
+      <AssessmentItem ItemID="df245e3e-c2e1-48ab-a282-bfb8fead1dd4" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="" />
+    </Section>
+  </Part>
+</Paper>

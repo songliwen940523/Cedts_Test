@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="df245e3e-c2e1-48ab-a282-bfb8fead1dd4" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="">
+  <soundFile>df245e3e-c2e1-48ab-a282-bfb8fead1dd4</soundFile>
+  <Questions Count="1">
+    <question id="0">
+      <choices>
+        <choice id="A">d</choice>
+        <choice id="B">d</choice>
+        <choice id="C">d</choice>
+        <choice id="D">d</choice>
+      </choices>
+      <Answer>
+        <Value>D</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>dfss</Tip>
+      <Script>fdsaf</Script>
+      <Sound duration="0">
+      </Sound>
+    </question>
+  </Questions>
+  <Script>&lt;p&gt;
+	fasfa&lt;/p&gt;
+</Script>
+</AssessmentItem>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="1d457fb3-7ec5-434f-a50b-c51ee2000177" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="5" Course="" Unit="">
+  <soundFile>1d457fb3-7ec5-434f-a50b-c51ee2000177</soundFile>
+  <Questions Count="1">
+    <question id="0">
+      <choices>
+        <choice id="A">111</choice>
+        <choice id="B">111</choice>
+        <choice id="C">111</choice>
+        <choice id="D">111</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>s</Tip>
+      <Script>1</Script>
+      <Sound duration="5">ea738da1-5c5f-494d-9ffd-9306b416b2ca</Sound>
+    </question>
+  </Questions>
+  <Script>
+  </Script>
+</AssessmentItem>

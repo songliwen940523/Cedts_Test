@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Paper UserID="1" UpdateUserID="1" PaperID="d3d3d5c9-4284-4b4e-9b71-7b8e031236cd" totalScore="10" totalTime="10" name="测试20161031" resultTime="0" bShowAns="1" Diffcult="0.1" Type="大学四级试题">
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="f9e5b532-7ed2-4e49-bfa9-8573db58716f" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="">
+        <soundFile>f9e5b532-7ed2-4e49-bfa9-8573db58716f</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">a</choice>
+              <choice id="B">a</choice>
+              <choice id="C">a</choice>
+              <choice id="D">a</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>a</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	aa&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

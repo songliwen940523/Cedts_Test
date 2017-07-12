@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="120a8cda-7cf9-4b41-b3f2-dba3889620a0" totalScore="80" totalTime="10" name="f" resultTime="0" bShowAns="1" Diffcult="80" Type="按知识点组卷">
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="80" Time="10">
+      <AssessmentItem ItemID="1af9b7f9-2e01-4702-9379-06746526259e" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="80" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	Kimiyuki Suda should be a perfect customer for Japan&amp;rsquo;s car-makers. He&amp;rsquo;s a young, successful executive at an Internet-services company in Tokyo and has plenty of disposable&amp;nbsp;&amp;nbsp;(_1_). He used to own Toyota&amp;rsquo;s Hilux Surf, a sport utility vehicle. But now he uses&amp;nbsp;&amp;nbsp;(_2_)&lt;br /&gt;&lt;br/&gt;	subways and grains . &amp;ldquo;It&amp;rsquo;s not inconvenient at all ,&amp;rdquo; he says&amp;nbsp;&amp;nbsp;(_3_), &amp;ldquo;having a car is so 20th century.&amp;rdquo;&lt;br /&gt;&lt;br/&gt;	Suda reflects a worrisome&amp;nbsp;&amp;nbsp;(_4_)&amp;nbsp; in Japan; the automobile is losing its emotional appeal,&amp;nbsp;&amp;nbsp;(_5_) among the young ,who prefer to spend their money on the latest electronic devices.&amp;nbsp;(_6_) mini-cars and luxury foreign brands are still popular ,everything in between is&amp;nbsp;&amp;nbsp;(_7_) .Last years sales fell 6.7 percent, 7.6 percent&amp;nbsp;(_8_) you don&amp;rsquo;t count the mini-car market . There have been&amp;nbsp;(_9_) one-year drops in other nations :sales in Germany fell 9 percent in 2007&amp;nbsp;(_10_) a tax increase . But experts say Japan is&amp;nbsp;&amp;nbsp;(_11_) in that sales have been decreasing steadily&amp;nbsp;&amp;nbsp;(_12_) time. Since 1990, yearly new-car sales have fallen from 7.8 million to 5.4 million units in 2007.&lt;br /&gt;&lt;br/&gt;	Alarmed by this state of&amp;nbsp;&amp;nbsp;(_13_), the Japan Automobile Manufacturers Association (JAMA)&amp;nbsp;(_14_)&amp;nbsp; a comprehensive study of the market in 2006. It found that a&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(_15_)&amp;nbsp; wealth gap, demographic(人口结构的) changes and&amp;nbsp;&amp;nbsp;&amp;nbsp;(_16_) lack of interest in cars led Japanese to hold their&amp;nbsp;&amp;nbsp;&amp;nbsp;(_17_) longer , replace their cars with smaller ones&amp;nbsp;&amp;nbsp;&amp;nbsp;(_18_) give up car ownership altogether .JAMA&amp;nbsp;&amp;nbsp;(_19_) a further sales decline of 1.2 percent this year. Some experts believe that if the trend continues for much longer , further consolidation (合并) in the automotive sector is&amp;nbsp;&amp;nbsp;(_20_).&lt;/p&gt;&lt;br/&gt;</Content>
+        <Questions Count="20">
+          <question id="0">
+            <choices>
+              <choice id="A">profit </choice>
+              <choice id="B">payment </choice>
+              <choice id="C">income</choice>
+              <choice id="D">budget</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">mostly </choice>
+              <choice id="B">partially </choice>
+              <choice id="C">occasionally</choice>
+              <choice id="D">rarely</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Therefore</choice>
+              <choice id="B">Besides</choice>
+              <choice id="C">Otherwise</choice>
+              <choice id="D">Consequently</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">drift </choice>
+              <choice id="B">tide</choice>
+              <choice id="C">current</choice>
+              <choice id="D">trend</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">remarkably </choice>
+              <choice id="B">essentially</choice>
+              <choice id="C">specially</choice>
+              <choice id="D">particularly</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">While</choice>
+              <choice id="B">Because </choice>
+              <choice id="C">When </choice>
+              <choice id="D">Since</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">surging</choice>
+              <choice id="B">stretching </choice>
+              <choice id="C">slipping</choice>
+              <choice id="D">shaking</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">unless</choice>
+              <choice id="B">if </choice>
+              <choice id="C">as</choice>
+              <choice id="D">after</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">lower </choice>
+              <choice id="B">slighter  </choice>
+              <choice id="C">broader</choice>
+              <choice id="D">larger</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">liable to</choice>
+              <choice id="B">in terms of </choice>
+              <choice id="C">thanks to</choice>
+              <choice id="D">in view of</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">unique</choice>
+              <choice id="B">similar</choice>
+              <choice id="C">mysterious</choice>
+              <choice id="D">strange</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">over </choice>
+              <choice id="B">against </choice>
+              <choice id="C">on</choice>
+              <choice id="D">behind</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">mess</choice>
+              <choice id="B">boom</choice>
+              <choice id="C">growth</choice>
+              <choice id="D">decay</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">proceeded</choice>
+              <choice id="B">relieved </choice>
+              <choice id="C">launched</choice>
+              <choice id="D">revised</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">quickening </choice>
+              <choice id="B">widening</choice>
+              <choice id="C">strengthening</choice>
+              <choice id="D">lengthening</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">average</choice>
+              <choice id="B">massive </choice>
+              <choice id="C">abundant</choice>
+              <choice id="D">general</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">labels</choice>
+              <choice id="B">cycles </choice>
+              <choice id="C">vehicles</choice>
+              <choice id="D">devices</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="17">
+            <choices>
+              <choice id="A">or </choice>
+              <choice id="B">until</choice>
+              <choice id="C">but </choice>
+              <choice id="D">then</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="18">
+            <choices>
+              <choice id="A">concludes </choice>
+              <choice id="B">predicts </choice>
+              <choice id="C">reckons</choice>
+              <choice id="D">prescribes</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="19">
+            <choices>
+              <choice id="A">distant</choice>
+              <choice id="B">likely  </choice>
+              <choice id="C">temporary</choice>
+              <choice id="D">immediate</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

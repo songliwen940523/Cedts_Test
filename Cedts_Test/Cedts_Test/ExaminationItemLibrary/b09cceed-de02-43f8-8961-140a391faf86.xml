@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="b09cceed-de02-43f8-8961-140a391faf86" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="">
+  <soundFile>b09cceed-de02-43f8-8961-140a391faf86</soundFile>
+  <Questions Count="1">
+    <question id="0">
+      <choices>
+        <choice id="A">222</choice>
+        <choice id="B">222</choice>
+        <choice id="C">222</choice>
+        <choice id="D">222</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>gh</Tip>
+      <Script>2</Script>
+      <Sound duration="0">
+      </Sound>
+    </question>
+  </Questions>
+  <Script>
+  </Script>
+</AssessmentItem>

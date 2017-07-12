@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="7cc6c0ea-94de-400c-ba9f-437ac35ea55b" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="5" Course="" Unit="">
+  <soundFile>7cc6c0ea-94de-400c-ba9f-437ac35ea55b</soundFile>
+  <Questions Count="1">
+    <question id="0">
+      <choices>
+        <choice id="A">gfdsg</choice>
+        <choice id="B">dsgs</choice>
+        <choice id="C">gsg</choice>
+        <choice id="D">gsgs</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gfsdgsd</Tip>
+      <Script>gdfgrsg</Script>
+      <Sound duration="5">e62436a4-f5d8-4655-981a-f18e06fa7d66</Sound>
+    </question>
+  </Questions>
+  <Script>&lt;p&gt;
+	gfgsgfdsfgfdgdfgfsd&lt;/p&gt;
+</Script>
+</AssessmentItem>

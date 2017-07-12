@@ -1,0 +1,1483 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="9682bb96-a91c-4098-a468-7de4b7d27094" totalScore="568" totalTime="90" name="uuuuuuuu" resultTime="0" bShowAns="1" Diffcult="29" Type="四级真题">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="70" Time="14">
+      <AssessmentItem ItemID="fda50f06-9354-413f-b320-aef795e4e50d" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="70" ReplyTime="14" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	Directions: In this part, you will have 15 minute to go over the passage quickly and answer the questions on Answer Sheet 1.&lt;br/&gt;	For questions 1-7, mark&lt;br/&gt;	Y (for YES) if the statement agrees with the information given in the passage;&lt;br/&gt;	N (for NO) if statement contradicts the information given in the passage;&lt;br/&gt;	NG (for NOT GIVEN) if the information is not given in the passage.&lt;br/&gt;	For question 8-10, complete the sentences with the information given in the passage.&lt;br/&gt;	Highways&lt;br/&gt;	Early in the 20th century, most of the streets and roads in the U.S. were made of dirt, brick, and cedar wood blocks. Built for horse, carriage, and foot traffic, they were usually poorly cared for and too narrow to accommodate (容纳) automobiles.&lt;br/&gt;	With the increase in auto production, private turnpike (收费公路) companies under local authorities began to spring up, and by 1921 there were 387,000 miles of paved roads. Many were built using specifications of 19th century Scottish engineers Thomas Telford and John MacAdam (for whom the macadam surface is named), whose specifications stressed the importance of adequate drainage. Beyond that, there were no national standards for size, weight restrictions, or commercial signs. During World War I, roads throughout the country were nearly destroyed by the weight of trucks. When General Eisenhower returned from Germany in 1919, after serving in the U.S. army&amp;rsquo;s first transcontinental motor convoy (车队), he noted: &amp;ldquo;The old convoy had started me thinking about good, two-lane highways, but Germany&amp;rsquo;s Autobahn or motorway had made me see the wisdom of broader ribbons across the land.&amp;rdquo;&lt;br/&gt;	It would take another war before the federal government would act on a national highway system. During World War II, a tremendous increase in trucks and new roads were required. The war demonstrated how critical highways were to the defense effort. Thirteen per cent of defense plants received all their supplies by truck, and almost all other plants shipped more than half of their products by vehicle. The war also revealed that local control of highways had led to a confusing variety of design standards. Even federal and state highways did not follow basic standards. Some states allowed trucks up to 36,000 pounds, while others restricted anything over 7,000 pounds.&lt;br/&gt;	A government study recommended a national highway system of 33,920 miles, and congress soon passed the Federal-Aid Highway Act of 1944, which called for strict, centrally controlled design criteria.&lt;br/&gt;	The interstate highway system was finally launched in 1956 and has been hailed as one of the greatest public works projects of the century. To build its 44,000-mile web of highways, bridge, and tunnels, hundreds of unique engineering designs and solutions had to be worked out. Consider the many geographic features of the country: mountains, steep grades, wetlands, rivers, deserts and plains. Variables included the slope of the land, the ability of the pavement to support the load, the intensity of road use, and the nature of the underlying soil. Urban areas were another problem. Innovative designs of roadways, tunnels, bridges, overpasses, and interchanges that could run through or bypass urban areas soon began to weave their way across the country, forever altering the face of America.&lt;br/&gt;	Today, the interstate system links every major city in the U.S., and the U.S. with Canada and Mexico. Built with safety in mind, the highways have wide lanes and shoulders, dividing medians, or barriers, long entry and exit lanes, curves engineered for safe turns, and limited access. The death rate on highways is half that of all other U.S. roads (0.86 deaths per 100 million passenger miles compared to 1.99 deaths per 100 million on all other roads).&lt;br/&gt;	By opening the North American continent, highways have enabled consumer goods and services to reach people in remote and rural areas of the country, spurred the growth of suburbs, and provided people with greater options in term of jobs, access to cultural programs, health care, and other benefits. Above all, the interstate system provides individuals with what they cherish most: personal freedom of mobility.&lt;br/&gt;	The interstate system has been an essential element of the nation&amp;rsquo;s economic growth in terms of shipping and job creation: more than 75 percent of the nation&amp;rsquo;s freight deliveries arrive by truck; and most products that arrive by rail or air use interstates for the last leg of the journey by vehicle. Not only has the highway system affected the American economy by providing shipping routes, it has led to the growth of spin-off industries like service stations, motels, restaurants, and shopping centers. It has allowed the relocation of manufacturing plants and other industries from urban areas to rural.&lt;br/&gt;	By the end of the century there was an immense network of paved roads, residential streets, expressways, and freeways built to support millions of vehicles. The highway system was officially renamed for Eisenhower to honor his vision and leadership. The year construction began he said: &amp;ldquo;Together, the united forces of our communication and transportation systems are dynamic elements in the very name we bear&amp;mdash;United States. Without them, we would be a mere alliance of many separate parts.&amp;rdquo;&lt;/p&gt;&lt;br/&gt;</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>National standards for paved roads were in place by 1921.</prompt>
+            <choices>
+              <choice id="A">N</choice>
+              <choice id="B">Y</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>General Eisenhower felt that the broad German motorways made more sense than the two-lane highways of America.</prompt>
+            <choices>
+              <choice id="A">N</choice>
+              <choice id="B">Y</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>It was in the 1950s that the American government finally took action to build a national highway system.</prompt>
+            <choices>
+              <choice id="A">N</choice>
+              <choice id="B">Y</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>Many of the problems presented by the country’s geographical features found solutions in innovative engineering projects.</prompt>
+            <choices>
+              <choice id="A">N</choice>
+              <choice id="B">Y</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>In spite of safety considerations, the death rate on interstate highways is still higher than that of other American roads.</prompt>
+            <choices>
+              <choice id="A">N</choice>
+              <choice id="B">Y</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>The interstate highway system provides access between major military installations in America.</prompt>
+            <choices>
+              <choice id="A">N</choice>
+              <choice id="B">Y</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>Service stations, motels and restaurants promoted the development of the interstate highway system.</prompt>
+            <choices>
+              <choice id="A">N</choice>
+              <choice id="B">Y</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt> The greatest benefit brought about by the interstate system was ________.</Prompt>
+            <Answer>
+              <Value>The greatest benefit brought about by the interstate system was personal freedom of mobility</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>Trucks using the interstate highways deliver more than ________.</Prompt>
+            <Answer>
+              <Value>Trucks using the interstate highways deliver more than 75 percent</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt> The interstate system was renamed after Eisenhower in recognition of ________.</Prompt>
+            <Answer>
+              <Value>The interstate system was renamed after Eisenhower in recognition his vision and leadership</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="56" Time="8">
+      <AssessmentItem ItemID="98912cbe-95f7-43e4-917e-f1e6461bc845" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="">
+        <soundFile>98912cbe-95f7-43e4-917e-f1e6461bc845</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The girls got on well with each other.</choice>
+              <choice id="B">It’s understandable that girls don’t get along.</choice>
+              <choice id="C">She was angry with the other young stars.</choice>
+              <choice id="D">The girls lacked the courage to fight.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the woman mean?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: What was it like working with those young stars?&lt;br /&gt;
+	W: It was a great group, I always got mad when people said that we didn&amp;rsquo;t get along, just because we&amp;rsquo;re girls, there was never a fight. We had a great time.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>a69b37f2-d7c4-41ff-b440-d3f2969fb02d</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The woman does her own housework.</choice>
+              <choice id="B">The woman needs a housekeeper.</choice>
+              <choice id="C">The woman’s house is in a mess.</choice>
+              <choice id="D">The woman works as a housekeeper.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do we learn from this conversation?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: Are you telling me you don&amp;rsquo;t have a housekeeper?&lt;br /&gt;
+	W: No, we don&amp;rsquo;t. if you make a mess, you clean up yourself.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>da156f7f-4526-4625-b783-1da0daf687e5</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The Edwards are quite well-off.</choice>
+              <choice id="B">The Edwards should cut down on their living expenses.</choice>
+              <choice id="C">It’ll be unwise for the Edwards to buy another house.</choice>
+              <choice id="D">It’s too expensive for the Edwards to live in their present house.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the man imply?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: I hear that the Edwards are thinking of buying another house.&lt;br /&gt;
+	W: Should they be doing that with all the other expenses they have o pay? Anyhow, they are over 70 now, their present house is not too bad.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>09f18177-2a06-4dad-886d-fd693ddd1623</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The woman didn’t expect it to be so warm at noon.</choice>
+              <choice id="B">The woman is sensitive to weather changes.</choice>
+              <choice id="C">The weather forecast was unreliable.</choice>
+              <choice id="D">The weather turned cold all of a sudden.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do we learn from the conversation?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	W: You look like you are freezing to death. Why don&amp;rsquo;t you put this on?&lt;br /&gt;
+	M: Thank you, it was so warm at noon, I didn&amp;rsquo;t expect the weather to change so quickly.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>18ccc4fd-163c-4422-842e-ff864fa878df</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">At a clinic.</choice>
+              <choice id="B">In a supermarket.</choice>
+              <choice id="C">At a restaurant.</choice>
+              <choice id="D">In an ice cream shop.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Where does the conversation most probably take place?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	W: I&amp;rsquo;ll have the steak, French fries, and let&amp;rsquo;s see, chocolate ice cream for dissert.&lt;br /&gt;
+	M: Oh, oh, you know these things will ruin your health, too much fat and sugar, how about ordering some vegetables and fruit instead?&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>b1967e76-bfdf-4c1a-9c94-c9ba611dd0f8</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The woman did not feel any danger growing up in the Bronx.</choice>
+              <choice id="B">The man thinks it was quite safe living in the Bronx district.</choice>
+              <choice id="C">The woman started working at an early age to support her family.</choice>
+              <choice id="D">The man doesn’t think it safe to send an 8-year-old to buy things.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do we learn from the conversation?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	W: What was it like growing up in New York&amp;rsquo;s Bronx District? Was it safe?&lt;br /&gt;
+	M: To me it was, it was all I knew. My mom would send me to the shop and I&amp;rsquo;d go and buy things when I was about 8 years old.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>2adb85e1-58ec-40ad-aef4-c8a2c1c0af08</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The man has never seen the woman before.</choice>
+              <choice id="B">The two speakers work for the same company.</choice>
+              <choice id="C">The two speakers work on the same floor.</choice>
+              <choice id="D">The woman is interested in market research.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What can we infer from the conversation?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	W: Nice weather, isn&amp;rsquo;t it? Oh, I&amp;rsquo;ve seen you around the office, but I don&amp;rsquo;t think we&amp;rsquo;ve met, I am Henry Smith, I work in the Market Research Section.&lt;br /&gt;
+	M: Nice to meet you, Henry, I am Helen Grant, I am in the Advertising Section on the ninth floor.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>bcb91ce5-e3ed-4b45-8a0b-d3563f3dcd46</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The woman can’t tolerate any noise.</choice>
+              <choice id="B">The man is looking for an apartment.</choice>
+              <choice id="C">The man has missed his appointment.</choice>
+              <choice id="D">The woman is going to take a train trip.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do we learn from the conversation?</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	M: Ma&amp;rsquo;am, I hear you have an apartment for rent, can I take a look at it?&lt;br /&gt;
+	W: Sure, you&amp;rsquo;re welcome any time by appointment, but I have to tell you the building is close to a railways. And if you can&amp;rsquo;t put up with the noise you might as well save the trip.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="a69b37f2-d7c4-41ff-b440-d3f2969fb02d" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="da156f7f-4526-4625-b783-1da0daf687e5" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="09f18177-2a06-4dad-886d-fd693ddd1623" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="18ccc4fd-163c-4422-842e-ff864fa878df" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="b1967e76-bfdf-4c1a-9c94-c9ba611dd0f8" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="2adb85e1-58ec-40ad-aef4-c8a2c1c0af08" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="bcb91ce5-e3ed-4b45-8a0b-d3563f3dcd46" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="7" ReplyTime="1" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="49" Time="7">
+      <AssessmentItem ItemID="97a7cfef-ca5f-4ca6-84ce-bf3bfd8f43c4" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="21" ReplyTime="3" Diffcult="0" QustionInterval="1" Course="" Unit="">
+        <soundFile>97a7cfef-ca5f-4ca6-84ce-bf3bfd8f43c4</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">To make a business report to the woman.</choice>
+              <choice id="B">To be interviewed for a job in the woman’s company.</choice>
+              <choice id="C">To resign from his position in the woman’s company.</choice>
+              <choice id="D">To exchange stock market information with the woman.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What’s the purpose of Mr. Saunders’ visit?</Script>
+            <Sound duration="1">3961c182-e81c-4bdc-aad8-a344f7d0dc99</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">He is head of a small trading company.</choice>
+              <choice id="B">He works in an international insurance company.</choice>
+              <choice id="C">He leads a team of brokers in a big company.</choice>
+              <choice id="D">He is a public relations officer in a small company.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is Mr. Saunders’ current job?</Script>
+            <Sound duration="1">83c83fd4-9ee6-407b-a393-db2d29f8147b</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">The woman thinks Mr.Saunders is asking for more than they can offer.</choice>
+              <choice id="B">Mr. Saunders will share one third of the woman’s responsibilities.</choice>
+              <choice id="C">Mr. Saunders believes that he deserves more paid vacations.</choice>
+              <choice id="D">The woman seems to be satisfied with Mr. Saunders’ past experience.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What can we conclude from the conversation?</Script>
+            <Sound duration="1">995f10a7-a128-4adc-aa54-7b241802d746</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;div&gt;
+	&lt;p align="left"&gt;
+		Conversation 1&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+	W: Please have a seat, Mr. Saunders. I received your job resume last week, and it was very impressed.&lt;br /&gt;
+	M: Thank you!&lt;br /&gt;
+	W: We are a small financial company trading mostly stocks and bonds may I ask why you are so interested in working for us?&lt;br /&gt;
+	M: Your company has an impressive reputation and I&amp;rsquo;ve always wanted to work for a smaller company.&lt;br /&gt;
+	W: That&amp;rsquo;s good to hear. Would you mind telling me a little bit about your present job?&lt;br /&gt;
+	M: I&amp;rsquo;m currently working in a large international company in charge of a team of 8 brokers. We buy and sell stocks for major clients worldwide.&lt;br /&gt;
+	W: Why do you think you are the right candidate for this position?&lt;br /&gt;
+	M: As a head broker, I have a lot of experiences in the stock market, I deal with the clients on the daily bases, and I enjoy working with people.&lt;br /&gt;
+	W: Well, you might just be the person we&amp;rsquo;ve been looking for. Do you have any questions?&lt;br /&gt;
+	M: Aha, if I were hired, how many accounts would I be handling?&lt;br /&gt;
+	W: you will be working with two other head brokers, in another words, you will be handling about a third of our clients.&lt;br /&gt;
+	M: And who would I report to?&lt;br /&gt;
+	W: Directly to me.&lt;br /&gt;
+	M: I see. What kind of benefits package do you offer?&lt;br /&gt;
+	W: Two weeks of paid vacation in your first year employment, you are also been entitled to medical and dental insurance, but this is something you should discuss with our Personnel Department. Do you have any other questions?&lt;br /&gt;
+	M: No not at the moment.&lt;br /&gt;
+	W: Well, I have to discuss you application with my colleagues and we&amp;rsquo;ll get back to you early next week.&lt;br /&gt;
+	M: OK, thanks, it&amp;rsquo;s been nice meeting you!&lt;br /&gt;
+	W: Nice meeting you too! And thanks for coming in today.&lt;/p&gt;
+</Script>
+        <soundFile>3a2d666b-2243-4a31-a21f-559e7a2c7ea5</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">She’s worried about the seminar.</choice>
+              <choice id="B">The man keeps interrupting her.</choice>
+              <choice id="C">She finds it too hard.</choice>
+              <choice id="D">She lacks interest in it.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why can’t Karen concentrate on the book?</Script>
+            <Sound duration="1">716fea09-a1e7-4351-91ad-9e23efd0553f</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">The lecturers are boring.</choice>
+              <choice id="B">The course is poorly designed.</choice>
+              <choice id="C">She prefers Philosophy to English.</choice>
+              <choice id="D">She enjoys literature more.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why is Karen starting to like the course less and less?</Script>
+            <Sound duration="1">dc47c500-0827-4fa1-a1c4-9a400af21c36</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Karen’s friend.</choice>
+              <choice id="B">Karen’s parents.</choice>
+              <choice id="C">Karen’s lecturers.</choice>
+              <choice id="D">Karen’s herself.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Who thinks Philosophy graduates have limited job opportunities?</Script>
+            <Sound duration="1">f31bbf23-8b35-4485-8f1c-130a83279108</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Changing her major.</choice>
+              <choice id="B">Spending less of her parents’ money.</choice>
+              <choice id="C">Getting transferred to the English Department.</choice>
+              <choice id="D">Leaving the university.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is Karen thinking of doing?</Script>
+            <Sound duration="1">b25cd802-cb98-4e06-942b-014189f2ef48</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	Conversation 2&lt;br /&gt;
+	M: Hey, Karen, you are not really reading it, are you?&lt;br /&gt;
+	W: Pardon?&lt;br /&gt;
+	M: The book! You haven&amp;rsquo;t turned the page in the last ten minutes.&lt;br /&gt;
+	W: No, Jim, I suppose I haven&amp;rsquo;t. I need to get through it, though, but I keep drifting away.&lt;br /&gt;
+	M: So it doesn&amp;rsquo;t really hold your interest?&lt;br /&gt;
+	W: No, not really. I wouldn&amp;rsquo;t bother with it, to be honest, but I have to read it for a seminar. I&amp;rsquo;m at a university.&lt;br /&gt;
+	M: It&amp;rsquo;s a labor of labor then rather than a labor of love.&lt;br /&gt;
+	W: I should say, I don&amp;rsquo;t like Dickens at all really, the author, indeed, I am starting to like the whole course less and less.&lt;br /&gt;
+	M: It&amp;rsquo;s not just the book,, it&amp;rsquo;s the curse as well?&lt;br /&gt;
+	W: Yeah, in a way, although the curse itself isn&amp;rsquo;t really that bad, a lot of it is pretty good, in fact, and the lecturer is fine, as to me, I suppose, you see, I want to do philosophy rather than English, but my parents took me out of it.&lt;br /&gt;
+	M: So the courses are OK as such, it&amp;rsquo;s just that had if been left to you, you would choose a different one.&lt;br /&gt;
+	W: Oh, they had my best interest and heart of course, my parents, they always do, don&amp;rsquo;t they? They believe that my job prospect would be pretty limited with the degree of philosophy. Plus, they give me a really generous allowance, but I am beginning to feel that I&amp;rsquo;m wasting my time and their money. They would be so disappointed though if I told them I was quitting.&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="3a2d666b-2243-4a31-a21f-559e7a2c7ea5" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="28" ReplyTime="4" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="70" Time="10">
+      <AssessmentItem ItemID="a645adf1-0394-4036-b528-5baae4d6023b" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="28" ReplyTime="4" Diffcult="0" QustionInterval="1" Course="" Unit="">
+        <soundFile>a645adf1-0394-4036-b528-5baae4d6023b</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">Rent a grave.</choice>
+              <choice id="B">Burn the body.</choice>
+              <choice id="C">Bury the dead near a church.</choice>
+              <choice id="D">Buy a piece of land for a grave.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What must Greeks do to keep the dead resting in ever-lasting peace?</Script>
+            <Sound duration="1">b7730cc8-a38b-4920-a48b-1ceb22a2c2a5</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">To solve the problem of lack of land.</choice>
+              <choice id="B">To see whether they have decayed.</choice>
+              <choice id="C">To follow the Greek religious practice.</choice>
+              <choice id="D">To move them to a multi-storey graveyard.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why are most dead bodies in Athens dug up after three years?</Script>
+            <Sound duration="1">f3a93ba0-fcd5-433f-b5af-f59aad93579c</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">They should be buried lying down.</choice>
+              <choice id="B">They should be buried standing up.</choice>
+              <choice id="C">They should be buried after being washed.</choice>
+              <choice id="D">They should be buried when partially decayed.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What suggestions does the church give about the burying of dead bodies?</Script>
+            <Sound duration="1">a8cdf41c-a8f3-4ca9-86da-32a6985778f0</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Burning dead bodies to ashes.</choice>
+              <choice id="B">Storing dead bodies in a remote place.</choice>
+              <choice id="C">Placing dead bodies in a bone room.</choice>
+              <choice id="D">Digging up dead bodies after three years.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What practice does the Greek church object to?</Script>
+            <Sound duration="1">a35b50cf-7bcc-464d-90c1-4ef7a91d8d19</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	Passage One&lt;br /&gt;
+	In Greece, only rich people will rest in peace for ever when they die. Most of the population, however, will be undisturbed for only three years, then they will be dug up, washed, compressed into a small tin box, and placed in a bone room. If the body has only partially decayed, it is reburied in a smaller cheaper grave, but not for long, the body will be dug up again some time later when it has fully decayed. Buying a piece of land for a grave is the only way to avoid this process. The cost of the grave is so great that most p0eople choose to rent the grave for three years and even after it has been dug up, lasting peace is still not guaranteed. If no one pays for renting space in the bone room, the skeleton is removed and stored in a building in a poor part of the town. Lack of space in Athens is the main reason why the dead are dug up after the three years. The city is so overcrowded that sometimes dead bodies are kept in the hospitals for over a week until a grave is found. Athens&amp;rsquo; city council wants to introduce cremation, that is burning dead bodies as a means of dealing with the problems. But the Greek church resists this practice, they believe the only place where people burn is hell, so burning dead bodies is against the Greek concept of life after death. To save space, the church suggested burying the bodies standing up instead of lying down. Some people proposed building multi-storey underground grave yards.&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>634ddd64-8f72-400f-9913-8446d949698b</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">Many foreign tourist visit the Unite States every year.</choice>
+              <choice id="B">Americans enjoy eating out with their friends.</choice>
+              <choice id="C">The United States is a country of immigrants.</choice>
+              <choice id="D">Americans prefer foreign foods to their own food.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why are there so many international restaurants in the United States?</Script>
+            <Sound duration="1">360c78a5-fff6-4f69-95ae-d9a8b4d4c317</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">They can make friends with people from other countries.</choice>
+              <choice id="B">They can get to know people of other cultures and their lifestyles.</choice>
+              <choice id="C">They can practise speaking foreign languages there.</choice>
+              <choice id="D">They can meet with businessmen from all over the world.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why do Americans like to go to international restaurants apart from enjoying the foods there?</Script>
+            <Sound duration="1">c7e6a2d7-ec49-4784-80c1-d8bd663ddcac</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">The couple cook the dishes and the children help them.</choice>
+              <choice id="B">The husband does the cooking and the wife serves as the waitress.</choice>
+              <choice id="C">The mother does the cooking while the father and children serving the guests.</choice>
+              <choice id="D">A hired cook prepares the dishes and the family members serve the guests.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How is a typical Italian family restaurant run in the United States?</Script>
+            <Sound duration="1">108fe4f0-0244-4865-b0f1-91d63f978d05</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	Passage Two&lt;br /&gt;
+	If you visit a big city anywhere in the world, you will probably find a restaurant would serve the food of your own native country. Most large cities in the United States offer international sample of foods. Many people enjoy eating the food of other nations. This is probably one reason why there are so many different kinds of restaurants in the United States. A second reason is that many Americans come from other part of the world. They enjoy tasting the foods of their native lands. In the city of Detroit, for example, there are many people from western Europe, Greece, Latin America, and the Far East. There are many restaurants in Detroit which serve the foods of these areas. There are many other international restaurants too. Americans enjoy the foods in these restaurants as well as the opportunity to better understand the people and their way of life. One of the most common international restaurants to be found in the United States is the Italian restaurant. The restaurant may be a small business run by a single family. The mother of the family cooks all of the dishes, and the father and children serve the people who come to eat there. Or it may be a large restaurant owned by several different people who worked together in the business. Many Italian dishes that Americans enjoy are made with meats, tomatoes and cheese, they are very delicious and tasty.&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+        <soundFile>aed15f8f-6b0e-4361-a170-e91071999675</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">He took them to watch a basketball game.</choice>
+              <choice id="B">He trained them to play European football.</choice>
+              <choice id="C">He let them compete in getting balls out of a basket.</choice>
+              <choice id="D">He taught them to play an exciting new game.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What did Nasmith do to entertain his students one winter day?</Script>
+            <Sound duration="1">da2977b3-31f9-4d0e-972c-e9bfe6c312fd</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">The players found the basket too high to reach.</choice>
+              <choice id="B">The players had trouble getting the ball out of the basket.</choice>
+              <choice id="C">The players had difficulty understanding the complex rules.</choice>
+              <choice id="D">The players soon found the game boring.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According the speaker, what was the problem with the new game?</Script>
+            <Sound duration="1">ba310b47-a939-4629-a7d3-b2ed53e64cb3</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">By removing the bottom of the basket.</choice>
+              <choice id="B">By lowering the position of the basket.</choice>
+              <choice id="C">By simplifying the complex rules.</choice>
+              <choice id="D">By altering the size of the basket.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How was the problem with the new game solved?</Script>
+            <Sound duration="1">809f2b4b-eda8-4a98-9362-379807a7840e</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	Passage Three&lt;br /&gt;
+	One winter day in 1891, a class at a training school in Massachusetts, U.S.A, went into the gym for their daily exercises. Since the football season had ended, most of the young man felt they were in for a boring time.&lt;br /&gt;
+	But their teacher, James Nasmith had other ideas. He had been working for a long time on a new game that would have the excitement of the American football. Nasmith showed the men a basket he had hung at the each end of the gym, and explained that they were going to sue a round European football, at first everybody tried to throw the ball into the basket no matter where he was standing. &amp;ldquo;Pass! Pass!&amp;rdquo; Nasmith kept shouting, blowing his whistle to stop the excited players. Slowly, they began to understand what was wanted of them. The problem with the new game, which was soon called &amp;ldquo;basketball&amp;rdquo;, was getting the ball out of the basket. They used ordinary food baskets with bottoms and the ball, of course, stayed inside. At first, someone had to climb up every time a basket was scored. It was several years before someone came up with the idea of removing the bottom of the basket and letting the ball fall through. There have been many changes in the rules since then, and basketball has become one of the world&amp;rsquo;s most popular sports.&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="634ddd64-8f72-400f-9913-8446d949698b" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="21" ReplyTime="3" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+      <AssessmentItem ItemID="aed15f8f-6b0e-4361-a170-e91071999675" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="21" ReplyTime="3" Diffcult="0" QustionInterval="1" Course="" Unit="" />
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="73" Time="11">
+      <AssessmentItem ItemID="767f4ea4-3a2f-4c33-be3b-d1a808074063" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="73" ReplyTime="11" Diffcult="0" QustionInterval="1" Course="" Unit="">
+        <Content>&lt;p&gt;
+	For Americans, time is money. They say, &amp;ldquo;you only get so much time in this life; you&amp;rsquo;d better use it wisely.&amp;rdquo; The (_1_) will not be better than the past or present, as American are&amp;nbsp;&amp;nbsp;(_2_) to see things, unless people use their time for constructive activity. Thus Americans&amp;nbsp;&amp;nbsp;(_3_)&amp;nbsp;&amp;nbsp;a &amp;ldquo;well-organized&amp;rdquo; person, one who has a written list of thins to do and a&amp;nbsp;&amp;nbsp;(_4_)&amp;nbsp;&amp;nbsp;for doing them. The ideal person is punctual and is (_5_) of other people&amp;rsquo;s time. They do not&amp;nbsp;&amp;nbsp;(_6_)&amp;nbsp;&amp;nbsp;people&amp;rsquo;s time with conversation or other activity that has no&amp;nbsp;&amp;nbsp;(_7_)&amp;nbsp;&amp;nbsp;beneficial outcome.&lt;br /&gt;
+	The American attitude toward time is not&amp;nbsp;&amp;nbsp;(_8_)&amp;nbsp;&amp;nbsp;shared by others, especially non-Europeans. They are more likely to regard time as&amp;nbsp;&amp;nbsp;(_9_) . One of the more difficult things many students must adjust to in the states is the notion that time must be saved whenever possible and used wisely every day.In the contest&amp;nbsp;&amp;nbsp;(_10_) , McDonald&amp;rsquo;s, KFC, and other fast food establishments are successful in a country where many people want to spend the least amount of time preparing and eating meals. As McDonald&amp;rsquo;s restaurants&amp;nbsp;&amp;nbsp;(_11_) , bringing not just hamburgers but an emphasis on speed, efficiency, and shiny cleanliness.&lt;/p&gt;
+</Content>
+        <SoundFile>767f4ea4-3a2f-4c33-be3b-d1a808074063</SoundFile>
+        <Questions Count="11">
+          <question id="0">
+            <Answer>
+              <Value>future</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>trained</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>admire</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>schedule</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>considerate</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>waste</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>visible</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>necessarily</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>something that is simply there around them, not something they can use</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>the fast food industry can be seen as a clear example of American cultural product</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="10">
+            <Answer>
+              <Value>spread around the world, they have been viewed as symbols of American society and culture</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="70" Time="10">
+      <AssessmentItem ItemID="8a0f35a7-97ef-454a-9328-89a96894f8a2" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="70" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	El Nino is name given to the mysterious and often unpredictable change in the climate of the world. This strange (_1_) happens every five to eight years. It starts in the Pacific Ocean and is thought to be caused by a failure in the trade winds (信风)，which affects the ocean currents driven by these winds. As the trade winds lessen in (_2_) , the ocean temperatures rise, causing the Peru current flowing in from the east to warm up by as much as 5℃.&lt;br /&gt;&lt;br/&gt;	The warming of the ocean has far-reaching effects. The hot, humid (潮湿的) air over the ocean causes severe (_3_) thunderstorms. The rainfall is increased across South America. (_4_) floods to Peru. In the West pacific, there are droughts affecting Australia and Indonesia. So while some parts of the world prepare for heavy rains and floods, other parts face drought, poor crops and (_5_) .&lt;br /&gt;&lt;br/&gt;	El Nino usually lasts for about 18 months. The 1982-83 El Nino brought the most (_6_) weather in modern history. Its effect was worldwide and it left more than 2,000 people dead and caused over eight billion pounds (_7_) of damage. The 1990 El Nino lasted until June 1995. Scientists (_8_) this to be the longest El Nino for 2,000 years.&lt;br /&gt;&lt;br/&gt;	Nowadays, weather experts are able to forecast when an El Nino will (_9_) , but they are still not (_10_)&amp;nbsp;sure what leads to it or what affects how strong it will be.&lt;/p&gt;&lt;br/&gt;</Content>
+        <WordList>
+          <Word id="B">strength</Word>
+          <Word id="C">deliberately</Word>
+          <Word id="D">notify</Word>
+          <Word id="E">tropical</Word>
+          <Word id="F">phenomenon</Word>
+          <Word id="G">stable</Word>
+          <Word id="H">attraction Section B</Word>
+          <Word id="I">completely</Word>
+          <Word id="J">destructive</Word>
+          <Word id="K">starvation</Word>
+          <Word id="L">bringing</Word>
+          <Word id="M">worth</Word>
+          <Word id="N">exhaustion</Word>
+          <Word id="O">strike</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>L</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>J</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>I</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="100" Time="10">
+      <AssessmentItem ItemID="6c334d8f-4ad8-4cc2-9e08-cd9636104ed6" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="50" ReplyTime="5" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	Communications technologies are far from equal when it comes to conveying the truth. The first study to compare honesty across a range of communication media has fund that people are twice as likely to tell lies in phone conversations as they are in emails. The fact that emails are automatically recorded&amp;mdash;and can come back to haunt (困扰) you&amp;mdash;appears to be the key to the finding.&lt;br /&gt;&lt;br/&gt;	Jeff Hancock of Cornell University in Ithaca, New York, asked 30 students to keep a communications diary for a week. In it they noted the number of conversations or email exchanges they had lasting more than 10 minutes, and confessed to how many lies they told. Hancock then worked out the number of lies per conversation for each medium. He found that lies made up 14 per cent of emails, 21 per cent of instant messages, 27 per cent of face-to-face interactions and an astonishing 37 per cent of phone calls.&lt;br /&gt;&lt;br/&gt;	His results to be presented at the conference on human-computer interaction in Vienna, Austria, in April, have surprised psychologists. Some expected emailers to be the biggest liars, reasoning that because deception makes people uncomfortable, the detachment (非直接接触) of emailing would make it easier to lie. Others expected people to lie more in face-to-face exchanges because we are most practised at that form of communication.&lt;br /&gt;&lt;br/&gt;	But Hancock says it is also crucial whether a conversation is being recorded and could be reread, and whether it occurs in real time. People appear to be afraid to lie when they know the communication could later be used to hold them to account, he says. This is why fewer lies appear in email than on the phone.&lt;br /&gt;&lt;br/&gt;	People are also more likely to lie in real time&amp;mdash;in a instant message or phone call, say&amp;mdash;than if they have time to think of a response, says Hancock. He found many lies are spontaneous (脱口而出的) responses to an unexpected demand, such as: &amp;ldquo;Do you like my dress?&amp;rdquo;&lt;br /&gt;&lt;br/&gt;	Hancock hopes his research will help companies work our the best ways for their employees to communicate. For instance, the phone might be the best medium foe sales where employees are encouraged to stretch the truth. But, given his result, work assessment where honesty is a priority, might be best done using email.&lt;/p&gt;&lt;br/&gt;</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>Hancock’s study focuses on ________.</prompt>
+            <choices>
+              <choice id="A">the consequences of lying in various communications media</choice>
+              <choice id="B">the success of communications technologies in conveying ideas</choice>
+              <choice id="C">people are less likely to lie in instant messages</choice>
+              <choice id="D">people’s honesty levels across a range of communications media</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Hancock’s research finding surprised those who believed that ________.</prompt>
+            <choices>
+              <choice id="A">people are less likely to lie in instant messages</choice>
+              <choice id="B">people are unlikely to lie in face-to-face interactions</choice>
+              <choice id="C">people are most likely to lie in email communication</choice>
+              <choice id="D">people are twice as likely to lie in phone conversations</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>According to the passage, why are people more likely to tell the truth through certain media of communication?</prompt>
+            <choices>
+              <choice id="A">They are afraid of leaving behind traces of their lies.</choice>
+              <choice id="B">They believe that honesty is the best policy.</choice>
+              <choice id="C">They tend to be relaxed when using those media.</choice>
+              <choice id="D">They are most practised at those forms of communication.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>According to Hancock the telephone is a preferable medium for promoting sales because ________.</prompt>
+            <choices>
+              <choice id="A">salesmen can talk directly to their customers</choice>
+              <choice id="B">salesmen may feel less restrained to exaggerate</choice>
+              <choice id="C">salesmen can impress customers as being trustworthy</choice>
+              <choice id="D">salesmen may pass on instant messages effectively</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>It can be inferred from the passage that ________.</prompt>
+            <choices>
+              <choice id="A">honesty should be encouraged in interpersonal communications</choice>
+              <choice id="B">more employers will use emails to communicate with their employees</choice>
+              <choice id="C">suitable media should be chosen for different communication purposes</choice>
+              <choice id="D">email is now the dominant medium of communication within a company</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>&lt;p&gt;&lt;br/&gt;	In a country that defines itself by ideals, not by shared blood, who should be allowed to come work and live here? In the wake of the Sept. 11 attacks these questions have never seemed more pressing.&lt;br /&gt;&lt;br/&gt;	On Dec. 11, 2001, as part of the effort to increase homeland security, federal and local authorities in 14 states staged &amp;ldquo;Operation Safe Travel&amp;rdquo;&amp;mdash;raids on airports to arrest employees with false identification (身份证明). In Salt Lake City there were 69 arrests. But those captured were anything but terrorists, most of them illegal immigrants from Central or South America. Authorities said the undocumented workers&amp;rsquo; illegal status made them open to blackmail (讹诈) by terrorists.&lt;br /&gt;&lt;br/&gt;	Many immigrants in Salt Lake City were angered by the arrests and said they felt as if they were being treated like disposable goods.&lt;br /&gt;&lt;br/&gt;	Mayor Anderson said those feelings were justified to a certain extent. &amp;ldquo;We&amp;rsquo;re saying we want you to work in these places, we&amp;rsquo;re going to look the other way in terms of what our laws are, and then when it&amp;rsquo;s convenient for us, or when we can try to make a point in terms of national security, especially after Sept. 11, then you&amp;rsquo;re disposable. There are whole families being uprooted for all of the wrong reasons,&amp;rdquo; Anderson said.&lt;br /&gt;&lt;br/&gt;	If Sept. 11 had never happened, the airport workers would not have been arrested and could have gone on quietly living in America, probably indefinitely. Ana Castro, a manager at a Ben &amp;amp; Jerry&amp;rsquo;s ice cream shop at the airport had been working 10 years with the same false Social Security card when she was arrested in the December airport raid. Now she and her family are living under the threat of deportation (驱逐出境). Castro&amp;rsquo;s case is currently waiting to be settled. While she awaits the outcome, the government has granted her permission to work here and she has returned to her job at Ben &amp;amp; Jerry&amp;rsquo;s.&lt;/p&gt;&lt;br/&gt;</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>According to the author, the United States claims to be a nation ________.</prompt>
+            <choices>
+              <choice id="A">composed of people having different values</choice>
+              <choice id="B">encouraging individual pursuits</choice>
+              <choice id="C">sharing common interests</choice>
+              <choice id="D">founded on shared ideals</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>How did the immigrants in Salt Lake City feel about “Operation Safe Travel”?</prompt>
+            <choices>
+              <choice id="A">Guilty.</choice>
+              <choice id="B">Offended.</choice>
+              <choice id="C">Disappointed.</choice>
+              <choice id="D">Discouraged.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Undocumented workers became the target of “Operation Safe Travel” because ________.</prompt>
+            <choices>
+              <choice id="A">evidence was found that they were potential terrorists</choice>
+              <choice id="B">most of them worked at airports under threat of terrorists</choice>
+              <choice id="C">terrorists might take advantage of their illegal status</choice>
+              <choice id="D">they were reportedly helping hide terrorists around the airport</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>By saying “... we’re going to look the other way in terms of what our laws are” (Line 2, Para. 4), Mayor Anderson means “________”.</prompt>
+            <choices>
+              <choice id="A">we will turn a blind eye to your illegal status</choice>
+              <choice id="B">we will examine the laws in a different way</choice>
+              <choice id="C">there are other ways of enforcing the law</choice>
+              <choice id="D">the existing laws must not be ignored</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>What do we learn about Ana Castro from the last paragraph?</prompt>
+            <choices>
+              <choice id="A">She will be deported sooner or later.</choice>
+              <choice id="B">She is allowed to stay permanently.</choice>
+              <choice id="C">Her case has been dropped.</choice>
+              <choice id="D">Her fate remains uncertain.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="e53b1866-4eb2-461c-b378-0ec29895003d" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="50" ReplyTime="5" Diffcult="0" QustionInterval="" />
+    </Section>
+  </Part>
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="80" Time="20">
+      <AssessmentItem ItemID="006dc3ce-831a-448e-8619-f027828a9348" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="80" ReplyTime="20" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;&lt;br/&gt;	Do you wake up every day feeling too tired, or even upset? If so, then a new alarm clock could be just for you.&lt;br /&gt;&lt;br/&gt;	The clock, called SleepSmart, measures your sleep cycle, and waits&amp;nbsp;&amp;nbsp;(_1_) you to be in your lightest phase of sleep&amp;nbsp;&amp;nbsp;(_2_) rousing you. Its makers say that should&amp;nbsp;&amp;nbsp;(_3_) &amp;nbsp;you wake up feeling refreshed every morning.&lt;br /&gt;&lt;br/&gt;	As you sleep you pass&amp;nbsp;&amp;nbsp;(_4_)a sequence of sleep states&amp;mdash;light sleep, deep sleep and REM (rapid eye movement) sleep&amp;mdash;that&amp;nbsp; (_5_)approximately every 90 minutes. The point in that cycle at which you wake can (_6_) how you feel later, and may&amp;nbsp;&amp;nbsp;(_7_) have a greater impact than how much or little you have slept. Being roused during a light phase&amp;nbsp;&amp;nbsp;(_8_)you are more likely to wake up energetic.&lt;br /&gt;&lt;br/&gt;	SleepSmart&amp;nbsp;&amp;nbsp;(_9_) the distinct pattern of brain waves&amp;nbsp;&amp;nbsp;(_10_) during each phase of sleep, via a headband equipped&amp;nbsp;&amp;nbsp;(_11_) electrodes (电极) and a microprocessor. This measures the electrical activity of the wearer&amp;rsquo;s brain, in much the&amp;nbsp;&amp;nbsp;(_12_) way as some machines used for medical and research&amp;nbsp;&amp;nbsp;(_13_), and communicates wirelessly with a clock unit near the bed. You&amp;nbsp;&amp;nbsp;(_14_) the clock with the latest time at&amp;nbsp;&amp;nbsp;(_15_) you want to be wakened, and it&amp;nbsp;&amp;nbsp;(_16_) duly (适时地) wakes you during the last light sleep phase before that.&lt;br /&gt;&lt;br/&gt;	The&amp;nbsp;(_17_)was invented by a group of students at Brown University in Rhode Island&amp;nbsp;&amp;nbsp;(_18_)a friend complained of waking up tired and performing poorly on a test.&amp;nbsp;&amp;quot;&amp;nbsp;&amp;nbsp;(_19_) sleep-deprived people ourselves, we started thinking of (_20_)to do about it,&amp;rdquo; says Eric Shashoua, a recent college graduate and now chief executive officer of Axon Sleep Research Laboratories, a company created by the students to develop their idea. &amp;nbsp;&lt;/p&gt;&lt;br/&gt;</Content>
+        <Questions Count="20">
+          <question id="0">
+            <choices>
+              <choice id="A">beside</choice>
+              <choice id="B">near </choice>
+              <choice id="C">for</choice>
+              <choice id="D">around</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">upon </choice>
+              <choice id="B">before  </choice>
+              <choice id="C">towards</choice>
+              <choice id="D">till</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">ensure</choice>
+              <choice id="B">assure </choice>
+              <choice id="C">require</choice>
+              <choice id="D">request</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">through</choice>
+              <choice id="B">into</choice>
+              <choice id="C">about</choice>
+              <choice id="D">on</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">reveals </choice>
+              <choice id="B">reverses </choice>
+              <choice id="C">resumes</choice>
+              <choice id="D">repeats</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">effect</choice>
+              <choice id="B">affect</choice>
+              <choice id="C">reflect</choice>
+              <choice id="D">perfect</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">already</choice>
+              <choice id="B">ever</choice>
+              <choice id="C">never</choice>
+              <choice id="D">even</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">means</choice>
+              <choice id="B">marks</choice>
+              <choice id="C">says</choice>
+              <choice id="D">dictates</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">removes</choice>
+              <choice id="B">relieves</choice>
+              <choice id="C">records</choice>
+              <choice id="D">recalls</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">proceeded</choice>
+              <choice id="B">produced</choice>
+              <choice id="C">pronounced</choice>
+              <choice id="D">progressed</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">by</choice>
+              <choice id="B">of</choice>
+              <choice id="C">with</choice>
+              <choice id="D">over</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">familiar</choice>
+              <choice id="B">similar</choice>
+              <choice id="C">identical</choice>
+              <choice id="D">same</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">findings</choice>
+              <choice id="B">prospects</choice>
+              <choice id="C">proposals</choice>
+              <choice id="D">purposes</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">prompt</choice>
+              <choice id="B">program</choice>
+              <choice id="C">plug</choice>
+              <choice id="D">plan</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">where</choice>
+              <choice id="B">this</choice>
+              <choice id="C">which</choice>
+              <choice id="D">that</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">then</choice>
+              <choice id="B">also</choice>
+              <choice id="C">almost</choice>
+              <choice id="D">yet</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">claim</choice>
+              <choice id="B">conclusion</choice>
+              <choice id="C">concept</choice>
+              <choice id="D">explanation</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="17">
+            <choices>
+              <choice id="A">once </choice>
+              <choice id="B">after</choice>
+              <choice id="C">since</choice>
+              <choice id="D">while</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="18">
+            <choices>
+              <choice id="A">Besides</choice>
+              <choice id="B">Despite</choice>
+              <choice id="C">To</choice>
+              <choice id="D">As</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="19">
+            <choices>
+              <choice id="A">what</choice>
+              <choice id="B">how</choice>
+              <choice id="C">whether</choice>
+              <choice id="D">when</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

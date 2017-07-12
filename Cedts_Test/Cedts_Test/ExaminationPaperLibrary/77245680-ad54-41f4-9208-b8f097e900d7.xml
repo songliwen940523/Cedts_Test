@@ -1,0 +1,1525 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="77245680-ad54-41f4-9208-b8f097e900d7" totalScore="84" totalTime="59" name="ggggggggg" resultTime="0" bShowAns="1" Diffcult="4" Type="按题型组卷">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="286bbfe7-fedd-4dd1-a8cf-0295766ebfc8" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;b&gt;Brainstorming in Three Easy Steps&lt;/b&gt;&lt;br/&gt;        Sometimes, it's the easiest writing assignments that send us for a loop. Coming up with something to write about can often be harder than the actual writing. Luckily, there is an easy solution to that-brainstorming. Brainstorming comes in many different forms. Choosing the right method of brainstorming is a fun and easy task! &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;1. Freewriting&lt;/b&gt; &lt;br/&gt;        Freewriting is the easiest form of brainstorming. The method is very simple: write! Freewriting is most often a timed exercise. The best way to freewrite is to choose your method of writing (either on the computer or with pen and paper) and simply write whatever comes to mind for approximately five minutes. Don't worry about spelling, grammar or clarity-none of those issues matter in freewriting. Keeping your words flowing is the most important part. Even if you have to write, "I can't think of anything to write," you're still doing the exercise correctly. What's great about freewriting is that it allows ideas that might be buried to come to the surface. Sometimes you have several possible topics in your head but nerves or fear keep them buried. Freewriting takes away any stumbling blocks and leaves you with only words. You'll be amazed at how many potential topics you come up with! &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;2. Clustering&lt;/b&gt; &lt;br/&gt;        The clustering method works best when you have a general idea of a topic you're interested in writing about but that seems to be a bit too broad. For example, if you wanted to write about education, you would need to pick a more specified topic. Clustering works by allowing your mind to make connections visually. To brainstorm using the clustering method, simply write your broad topic in the middle of a sheet of paper and circle it. Then, create subtopics by drawing lines from your main topic to your new point, which you have also circled. As you find more subtopics, create new lines and circles. You'll also want to create subtopics for your subtopics. Creating this web of ideas will help you narrow your focus and also find new topics that you weren't aware of. &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;3. Question Method&lt;/b&gt; &lt;br/&gt;        My favorite form of brainstorming comes a little later in the writing process. Once you have chosen a topic to write about, it is important to get feedback. Sometimes a chosen topic is good but could be more precise. The best way to get feedback is to create a question group. To do this, you should form a group of several people. Each person should write his or her topic down on the top of a sheet of paper. Once this is completed, pass around the sheets of paper with topics. Each time you receive a topic sheet, ask a question about that topic that hasn't been asked yet. This will require you to think about new topics you haven't seen, but it will also give the writer new ideas to consider about the topic. I've used this method several times in English courses and always had great success. &lt;br/&gt;        As you can see, brainstorming doesn't need to be a complicated process. Take advantage of the ease of brainstorming and also the fun you can have with it! You'll have better topics to write about and more exciting ideas to focus on!</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>The article mainly discusses about the three forms of brainstorming.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>The best way to freewrite is to simply write whatever comes to mind for about half an hour.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>When you don't have a chosen topic, freewriting is an effective way for you to come up with topics to write.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>In freewriting, you should try to make sure about spelling, grammar and clarity.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>The clustering method can help you create subtopics under a general topic so that you can narrow your focus of writing.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>The question method requires cooperation of other people.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>The writer's favorite forms of brainstorming are freewriting and clustering.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>&lt;tag type="text" /&gt;  is the most important part in freewriting.</Prompt>
+            <Answer>
+              <Value>Keeping your words flowing</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>When you have a general idea of a topic you're interested in writing about but that seems to be a bit too broad, the ____  method works best.</Prompt>
+            <Answer>
+              <Value>clustering</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>In the question method, ____  will not only require you to think about new topics you haven't seen, but also give the writer new ideas to consider about the topic.</Prompt>
+            <Answer>
+              <Value>asking a question about a topic that hasn't been asked</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="8" Time="8">
+      <AssessmentItem ItemID="e0a120ed-362e-4be2-aa2d-0086ef135812" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="22" Course="" Unit="">
+        <soundFile>FFA53712C9E6D543938CB27BF5B1E90D</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Miserable.</choice>
+              <choice id="B">Cold.</choice>
+              <choice id="C">Fine.</choice>
+              <choice id="D">Worse.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W:	Hello, Bill, How are you getting along with your math exam? Have you got through it?
+M:	Oh yes, fortunately. I couldn't have survived any exams! It makes you feel so concerned, doesn't it?
+Q:	How is the man feeling now?
+</Script>
+        <soundFile>C2E86FB6EB16B74DAC008CAC3F8B8B41</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Ask him to give advice.</choice>
+              <choice id="B">Go to visit her tutor.</choice>
+              <choice id="C">Ask other experts to give advice.</choice>
+              <choice id="D">Stay home and complete her paper.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: I am going to visit my tutor. I have a paper to complete. And I need his advice.
+M: Why don't you ask me? I am an expert in this field too.
+Q: What does the man suggest the woman do?
+</Script>
+        <soundFile>5873EC6481E47A4284D4866E3519B81A</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He can't live with his father.</choice>
+              <choice id="B">His father has no friends.</choice>
+              <choice id="C">His mother passed away three years ago.</choice>
+              <choice id="D">His father is lonely.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: David, you don't look happy. Anything wrong?
+M: Well, you know, my mother died three years ago. And since then my father has lived in an apartment on his own and has very few friends.
+Q: What is David worrying about?</Script>
+        <soundFile>FE339BFF4DBE784280F4FD9E89888737</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He doesn't think it is so easy based on his experience.</choice>
+              <choice id="B">He agrees that it is easy.</choice>
+              <choice id="C">He would like to try it.</choice>
+              <choice id="D">He has been horse-riding and would like to try again.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: You ought to try horse riding. It isn't as hard as it seems.
+M: Actually I have and I have still got the bruises to show for it.
+Q: What does the man imply?
+</Script>
+        <soundFile>1276C04C58C66646B8D02062F87DB2C6</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Caller and operator.</choice>
+              <choice id="B">Customer and shop assistant.</choice>
+              <choice id="C">A woman looking for the place and a passer-by.</choice>
+              <choice id="D">A woman looking for the place and a taxi-driver.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: I am going to the Lincoln Park Apartments. They are on the 44th street.
+M: I know where they are. Get in.
+Q: What's the probable relationship between the two speakers?</Script>
+        <soundFile>B05EB3EA9E24924EBFCD122FB00C9B09</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Amusing.</choice>
+              <choice id="B">Uninteresting.</choice>
+              <choice id="C">Too long.</choice>
+              <choice id="D">Out of his expectation.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: The history lecture this afternoon is so boring, isn't it?
+M: Actually, I had an eye on my watch the whole time.
+Q: How does the second speaker think of the lecture?</Script>
+        <soundFile>B9558E47DAE1DE4B83BBCBE257F28A30</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">She often writes to her bother first.</choice>
+              <choice id="B">She never writes to her bother first.</choice>
+              <choice id="C">The man should write to his bother first.</choice>
+              <choice id="D">The woman is complaining about her brother.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: I haven't heard from my brother in six months.
+W: Really? If I were you, I would write to him first.
+Q: What does the woman imply?
+</Script>
+        <soundFile>2434C1ED71D8EB4C86518E7D0BCB0290</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He's going to find an apartment for himself.</choice>
+              <choice id="B">He's already found an apartment.</choice>
+              <choice id="C">He's going downtown with his brother.</choice>
+              <choice id="D">He's helping his brother look for an apartment.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Has your brother found an apartment yet?
+M: No, he's still living in a room downtown, but I'm helping him look.
+Q: What is the man doing?</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="49ef262c-caad-41dc-9a31-008c8f5615c5" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="13" Course="" Unit="" />
+      <AssessmentItem ItemID="0a8c4068-ec23-43db-9658-009d9e7d4f55" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="15" Course="" Unit="" />
+      <AssessmentItem ItemID="1af2bb12-feac-48da-a6e8-010ebd42b330" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="12" Course="" Unit="" />
+      <AssessmentItem ItemID="50eddd69-47ce-4147-a387-0138ec625786" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="16" Course="" Unit="" />
+      <AssessmentItem ItemID="bf7d6f4f-8535-460d-8669-015458efe195" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="12" Course="" Unit="" />
+      <AssessmentItem ItemID="6920ccb4-6ac5-41b6-a4ea-017a867366ba" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="13" Course="" Unit="" />
+      <AssessmentItem ItemID="da740248-6980-41be-9974-018cc0bcd40d" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="15" Course="" Unit="" />
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="8" Time="8">
+      <AssessmentItem ItemID="eb7d1f29-4838-41ab-9717-004f7a4ee510" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="65" Course="" Unit="">
+        <soundFile>890CA0FFABDEA84A991041F0BF9F6215</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">He has put off doing her science requirement for three years.</choice>
+              <choice id="B">He has got to take a science course.</choice>
+              <choice id="C">He has no idea which science course to take.</choice>
+              <choice id="D">He doesn't want to take a science course.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What's the man's problem?</Script>
+            <Sound duration="3">C7D547DFDB773C41B3E7617118BA7187</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">2.</choice>
+              <choice id="B">3.</choice>
+              <choice id="C">4.</choice>
+              <choice id="D">5.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How many science courses does the woman take?</Script>
+            <Sound duration="4">6A3CBF74A2396B4A974590A03C7DABD9</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Biology.</choice>
+              <choice id="B">Maths.</choice>
+              <choice id="C">Medicine.</choice>
+              <choice id="D">Chemistry.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the woman major in?</Script>
+            <Sound duration="3">229462108A18FC4F9DE39C2386FE4588</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Maths.</choice>
+              <choice id="B">Physics.</choice>
+              <choice id="C">Astronomy.</choice>
+              <choice id="D">Geology.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following science courses will the man take?</Script>
+            <Sound duration="4">C18290EF7C18E1479899BE9ACCD7E7F7</Sound>
+          </question>
+        </Questions>
+        <Script>M: Could I have your advice?
+W: What about, David?
+M: Well, I've put off doing my science requirement for three years.
+W: And if you want to graduate this year, you've got to take a science course.
+M: Right. I suppose since you are doing pre-medical, you know about the different courses.
+W: Well, I have to take biology, chemistry, maths and physics. What you need is a good introductory course for non-science majors.
+M: Yeah, I'm really weak in math. I did poorly in it in high school.
+W: Then you'd better avoid chemistry and physics. How about astronomy? Everybody says Dr. Hanson is great. I'd take that course myself if I had the time.
+M: That's what I thought I'd take. But it meets at the same time with my modern music course.
+W: Geology is pretty interesting, then.
+M: That's a good idea. It even fits in with my hobby of mountain climbing. Thanks a lot!</Script>
+        <soundFile>16F2C0AF00301743BFA6880C5A9497C5</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">She is busy at work.</choice>
+              <choice id="B">She had to run some errands.</choice>
+              <choice id="C">She is resting in bed.</choice>
+              <choice id="D">She is not at home.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the conversation imply about the mother?</Script>
+            <Sound duration="5">39D5793B19540047AB39B27ACF79EFB2</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">He is not following the recipe.</choice>
+              <choice id="B">He is missing the right pan to cook the pizza.</choice>
+              <choice id="C">He is using the directions for a different food.</choice>
+              <choice id="D">He puts too much salt in the food.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is the first problem the girl notices about her father's cooking?</Script>
+            <Sound duration="6">876FF0068FFB6540B35254F5579E9615</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">He tells her honestly what he thinks about it.</choice>
+              <choice id="B">She can tell by his non-verbal expressions.</choice>
+              <choice id="C">He throws it away after making it.</choice>
+              <choice id="D">He didn't say anything.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How does the girl know her father doesn't like the pizza he prepared?</Script>
+            <Sound duration="6">65711BA9EB68A84BABB44216F835AE7D</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">They decide to go out to eat.</choice>
+              <choice id="B">They eat something different at home.</choice>
+              <choice id="C">They eat at friend's house.</choice>
+              <choice id="D">They decide to call for some takeaway food.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do they end up doing for lunch?</Script>
+            <Sound duration="5">03B1C4B79ECDA9449AC753EC531F3503</Sound>
+          </question>
+        </Questions>
+        <Script>M: Time to eat!
+W: Coming. Oh, I'm starving.
+M: Good, good.
+W: Oh yuck! What's that?
+M: Ah, now don't complain!
+W: But what is it, and where is mom?
+M: Now, mom put me in charge of dinner because she's not feeling well tonight.
+W: But what is it . . . and that smell!
+M: It's pizza. I just followed an old family recipe here, and . . .
+W: Let me see that . . . Oh, Dad.
+M: What?
+W: You're missing a page!
+M: Oh, uh, well, I couldn't find the second page of the recipe, but don't worry. I have plenty of experience around the house. Plenty of experience cooking.
+W: That's not what mom says.
+M: Well, wait, wait, here let me try a piece first. Here, let me, let me cool this off here. Ohhh, yeah. Oh, this is great stuff.
+W: Yeah right. Why are you making that face?
+M: Well, well, it's just, just a little rich for me. That's all.
+W: Let me try it Dad. Uh. Dad. You put a little too much salt in it and besides it's burned. And what's that?
+M: Oh, well, well, that's just part of my own adaptation to the recipe. I added some pumpkin.
+W: Oh, not another one of your surprises. Pumpkin doesn't go on pizza!
+M: Well, okay, well, so what? Uh, what do we do now?
+W: Well, how about some cold cereal . . . You can't mess up on that, Dad.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="ba6e552c-67dd-4275-bc35-015615d34248" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="108" Course="" Unit="" />
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="13" Time="13">
+      <AssessmentItem ItemID="11bc967b-4ce1-4cc2-9212-00b0bb3bdd9b" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="122" Course="" Unit="">
+        <soundFile>7E90E63948773C4E86DB2C39327D9656</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">Advance in technology is a double-edged sword.</choice>
+              <choice id="B">Overall, technological progress is a good thing.</choice>
+              <choice id="C">It is never absolute whether it is good or bad.</choice>
+              <choice id="D">Sometimes it brings more problems than benefits.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do people generally believe about the revolution of technology?</Script>
+            <Sound duration="5">B3DAC5B00675D84699DFB8562DDF8500</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">They report what people are most interested in.</choice>
+              <choice id="B">They cover the news according to the directions of their agencies.</choice>
+              <choice id="C">They report the things that touch people's daily lives most.</choice>
+              <choice id="D">They have no particular plan about what to plan.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How do journalists decide what to report according to the passage?</Script>
+            <Sound duration="5">E155EA5426E37147808A666D67DC58BC</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">The movie is a science fiction.</choice>
+              <choice id="B">The movie was put on show in 2001.</choice>
+              <choice id="C">The movie producers made a lot of money from it.</choice>
+              <choice id="D">In fact it did not attract many people.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What can we know about the movie mentioned in the passage?</Script>
+            <Sound duration="5">1896F61077611C43B738D4B6C3445B22</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">It is unpredictable what will happen.</choice>
+              <choice id="B">Most probably news about about computers will be reported.</choice>
+              <choice id="C">Computers will report things at random.</choice>
+              <choice id="D">Computers will report things in a better organized way.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What will be reported if editors are replaced by computers?</Script>
+            <Sound duration="5">19F88B27714E834DB2BDCDD7D5E446EF</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">They did not worry about that prospect.</choice>
+              <choice id="B">They adopted a neutral attitude.</choice>
+              <choice id="C">They adopted a neutral attitude.</choice>
+              <choice id="D">They were prepared to fight against it.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According to the speaker what were editors' attitude to the prospect of being replaced by computers?</Script>
+            <Sound duration="9">8176E438F34D1848A0468E49ADB6A633</Sound>
+          </question>
+        </Questions>
+        <Script>“Google”, the popular Internet search engine, offers a page called “Google News”, a summary of what is going on in a world inhabited entirely by computers.
+   Clearly, the day is approaching when editors can be replaced by computers. This requires some urgent rethinking.
+   Throughout the revolution of technology and globalization that has been going on for two decades, many believe that progress is a good thing. Some people are unfortunately caught in the wheels of change, but society as a whole benefits.
+   We must distinguish, however, between making an exception and being worried about deeply troubling developments. It is one thing to sacrifice textile workers for progress. It is quite another to start throwing reporters into the flames of progress. It's very different.
+   You see, journalists are responsible for reporting and analyzing the important issues of the day. In the prestige ranking of important issues, a key factor is how much an issue actually touches anyone's daily life.
+   What happens when all the human editors have been eliminated? We know the answer from the movie "2001". In the movie a computer took over a space station and killed all the inhabitants. We will wake up one day to find that all the news is about the narrow-minded concerns of computers while important human developments get ignored.
+   No doubt there are writers and policy analysts of all sorts who think today "They are going after editors, but I can never be replaced by a machine." Ladies and gentleman, that's what the editor thought.</Script>
+        <soundFile>AC059F923A7A584883D2A6D898072AF1</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">One and a half years.</choice>
+              <choice id="B">Two years.</choice>
+              <choice id="C">8~24 months.</choice>
+              <choice id="D">1.5~2 years.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How long will it take a student to complete a full-time MBA program?</Script>
+            <Sound duration="6">7D32D6BA178C0F4998F789312A0AE1EC</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">It offers more core courses and optional courses than the full-time MBA.</choice>
+              <choice id="B">It allows students up to 7 years to complete the curriculum.</choice>
+              <choice id="C">It allows the majority of students to arrange their studies according to their timetable.</choice>
+              <choice id="D">It provides classes at night and/or on the weekends.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why does the part-time MBA interest those students in work?</Script>
+            <Sound duration="6">860950F579CD3445BD945585CBAC6E7C</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">The program should offer a limited number of optional courses.</choice>
+              <choice id="B">The program should take up to 8 years to complete.</choice>
+              <choice id="C">The program should use e-mail, computer conferencing, chat rooms, and so on.</choice>
+              <choice id="D">The program should be accredited so that hiring companies will consider it valid.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is an important consideration to offer an on-line MBA program?</Script>
+            <Sound duration="6">3EC729ADD6515C46B60D44100556DCB7</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Senior managers who can offer at least 10 years to complete the program.</choice>
+              <choice id="B">Senior managers who have at least 10 years of business experience.</choice>
+              <choice id="C">Senior managers who can complete the program within 24 months to 10 years.</choice>
+              <choice id="D">Senior managers who graduated from a prestigious school, with at least 10 years of work experience.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Who is an executive MBA generally designed for?</Script>
+            <Sound duration="5">22001FBB0819FC43B8945D0C1B80D3D2</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">Full-time MBA.</choice>
+              <choice id="B">Part-time MBA.</choice>
+              <choice id="C">On-line MBA.</choice>
+              <choice id="D">EMBA.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which type of MBA allows students to take the longest time to complete?</Script>
+            <Sound duration="7">307D2E4EF43EBC4EA8A87CCDB4FA20B6</Sound>
+          </question>
+        </Questions>
+        <Script>Each university and college in the United States has different requirements for gaining admission to their MBA programs. There are also several different types of MBA programs available. Here is a brief outline of the different types of MBAs offered:
+&lt;B&gt;1. Full-Time MBA&lt;/B&gt;
+The full-time MBA offers core courses that span all management disciplines. Students can also select from a variety of optional courses. The program usually takes between 18 and 24 months to complete. Students must attend classes at the business school on most weekdays. 
+&lt;B&gt;2. Part-Time MBA&lt;/B&gt;
+The part-time MBA offers core courses and optional courses similar to the full-time program. Some schools allow students up to 7 years to complete their study, though the majority of part-time students will complete the program in 2 or 3 years. The part-time program usually appeals to students who are currently working, so classes are held at night and/or on the weekends. 
+&lt;B&gt;3. On-Line MBA&lt;/B&gt;
+The on-line program offers a core of general courses with a limited number of optional courses. The programs can take up to 8 years to complete, though students generally finish in 3 or 4 years. Coursework uses e-mail, computer conferencing, chat rooms, on-line bulletin boards, and sound and video clips. It is very important to make sure the program is recognized so hiring companies will consider it valid. 
+&lt;B&gt;4. Executive MBA&lt;/B&gt;
+The executive MBA, or EMBA, is generally designed for senior managers with at least 10 years of business experience. The courses tend to focus on global business issues and strategies. The program is very structured, with courses offered in sequence and students moving as one through the various steps. The program is generally considered full-time and can take up to 24 months to complete. Usually classes are held on the weekends and the work requires group projects and meetings. The EMBA is considered very prestigious; ranking and reputation of the school definitely matter.</Script>
+        <soundFile>495F74F43D7C404EB59C799D63B1330A</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">Small cars are easy to park quickly.</choice>
+              <choice id="B">Small cars are cheaper than big cars.</choice>
+              <choice id="C">Small cars are convenient on long trips.</choice>
+              <choice id="D">Small cars need smaller parking spaces.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According to the passage, what is NOT true about small cars?</Script>
+            <Sound duration="6">03587D6860F7754AB9E4DC6AC4701294</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">Why Small Cars Are Popular.</choice>
+              <choice id="B">The Advantages of Small Cars.</choice>
+              <choice id="C">The Differences Between Big and Small Cars.</choice>
+              <choice id="D">The Advantages and Disadvantages of Small Cars.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What's the title of the passage?</Script>
+            <Sound duration="4">FE1B9A7689300C4E8FE4A0B0C2C333EF</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">They are cheap to buy.</choice>
+              <choice id="B">They cost less to park.</choice>
+              <choice id="C">They consume less energy.</choice>
+              <choice id="D">They are cheaper to repair.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>The speaker said small cars are economical. Which of the following is NOT mentioned as a reason?</Script>
+            <Sound duration="7">32CA27861A325B42ADE10DFF1F6DA86F</Sound>
+          </question>
+        </Questions>
+        <Script>The convenience and economy of small cars account for their popularity. They are easy to park quickly and take smaller parking spaces. Small cars are also a means of conserving energy because they use less gas than big cars. Small cars are inconvenient and uncomfortable on long trips. However, because of their limited passenger and trunk space, they are also more economical to operate and maintain. And they cost less. Because of all these advantages, the next car I buy is going to be an Econo-Midget.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="138bda08-ce2e-4cb6-8ce3-00fc45dd8855" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="175" Course="" Unit="" />
+      <AssessmentItem ItemID="324f14c1-8fda-4c7a-b9f8-01247fa6573c" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="48" Course="" Unit="" />
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="6654b0f7-eb00-443d-8775-007b80586c26" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="257" Course="" Unit="">
+        <Content>        In many English houses people eat (_1_) a day: breakfast, lunch, tea and dinner. Breakfast (_2_) at any time (_3_). It consists of porridge, bacon, eggs, and toast of (_4_) with jam. English people drink tea or coffee at breakfast.
+        Lunch comes at (_5_). It can range from a ham sandwich to a three-course meal. Afternoon tea is between 4 and 5 and dinner is (_6_). The first course is soup. The next course generally consists of meat or fish with vegetable. Then comes some (_7_) dessert, either (_8_) of various kinds: apples, pears, bananas, etc. But (_9_) English people eat like that. Some of them have their dinner (_10_) the day. Their meals are breakfast, dinner, tea and supper and all these meals are very simple.</Content>
+        <SoundFile>CE640A92EFDEFF489EC741384AD77679</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>four meals</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>takes place</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>from 7 to 9</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>bread and butter</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>one o'clock</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>about half past seven</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>sort of</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>pudding or fruit</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>not all</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>in the middle of</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="0f7c67bc-045a-41e6-843d-029957aff6cd" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        If I were a boy again, I would practice perseverance oftener, and never give up a thing because it was hard or inconvenient. If we want light, we must (_1_) darkness. Perseverance can sometimes equal genius in its (_2_). "There are only two creatures," says a proverb, "who can surmount（登上） the pyramids（金字塔） — the eagle and the snail."&lt;br/&gt;        If I were a boy again, I would (_3_) myself into a habit of attention; I would let (_4_) come between me and the subject in (_5_). I would remember that a good skater never tries to skate in two directions at (_6_). The habit of attention becomes part of our life, if we begin early enough.&lt;br/&gt;        If I were a boy again, I would look on the (_7_) side. Life is very much like a (_8_): if you smile upon it, it smiles back upon you; but if you (_9_) and look doubtful on it, you will get a similar look in return.&lt;br/&gt;        Inner sunshine warms not (_10_) the heart of the owner, but of all that come in contact with it. "Who shuts love out, in turn shall be shut from love."</Content>
+        <WordList>
+          <Word id="B">hand</Word>
+          <Word id="C">cheerful</Word>
+          <Word id="D">put</Word>
+          <Word id="E">conquer</Word>
+          <Word id="F">everything</Word>
+          <Word id="G">mirror</Word>
+          <Word id="H">frown</Word>
+          <Word id="I">results</Word>
+          <Word id="J">yet</Word>
+          <Word id="K">school</Word>
+          <Word id="L">meaning</Word>
+          <Word id="M">grey</Word>
+          <Word id="N">nothing</Word>
+          <Word id="O">once</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>I</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>M</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="15" Time="10">
+      <AssessmentItem ItemID="f8c9c7c0-790b-4730-8609-007a0881a2e3" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="">
+        <Content>        The man who, legend has it, escaped from an early grave when his uncle pulled him from drowning in a dirty pond is notorious for his dirty deeds but what cannot be forgotten are his achievements in the 1986 World Cup. The man is Maradona.&lt;br/&gt;        Forget the handball against England, feel the quality of his 50-yard solo goal in the same game and the near repeat performance in the semi-final against Belgium. The Argentina side of 1986 was functional and hard-working but it was Maradona who fired them to the final and then set up two of the goals in their 3-2 win over West Germany in the final.&lt;br/&gt;        In 1990, a barely-fit Maradona fought his way to the final where the Germans took their revenge. Few people shared Diego’s post-match tears. In fact many rejoiced that such an ugly brute of a team had lost.&lt;br/&gt;        Eight years before, in Spain, Maradona, then newly arrived at Barcelona, disgraced himself by being sent off in a Second Phase game with Brazil. Even four years before that the 18-year-old Maradona was a source of great controversy when he was left out of the victorious squad that won on home ground.&lt;br/&gt;        USA 1994 was the end for Maradona as a player. Right after the Nigeria game, he was picked for drugs-screening and tested positive for banned stimulant ephedrine (麻黄硷). He was banned from the rest of the tournament and the team fell apart, going out in the second round to Romania.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>How many World Cups are mentioned in the passage?</prompt>
+            <choices>
+              <choice id="A">Three.</choice>
+              <choice id="B">Four.</choice>
+              <choice id="C">Five.</choice>
+              <choice id="D">Six.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Which country won the 1990 World Cup?</prompt>
+            <choices>
+              <choice id="A">Argentina.</choice>
+              <choice id="B">Germany.</choice>
+              <choice id="C">Romania.</choice>
+              <choice id="D">England.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Maradona won the World Cup ____.</prompt>
+            <choices>
+              <choice id="A">once</choice>
+              <choice id="B">twice</choice>
+              <choice id="C">three times</choice>
+              <choice id="D">four times</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>When in 1994, Maradona was driven out of the World Cup, he was close to ____.</prompt>
+            <choices>
+              <choice id="A">18</choice>
+              <choice id="B">24</choice>
+              <choice id="C">26</choice>
+              <choice id="D">31</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>According to the passage, Maradona is a man ____.</prompt>
+            <choices>
+              <choice id="A">full of ideas</choice>
+              <choice id="B">with cruel behaviors</choice>
+              <choice id="C">having good luck</choice>
+              <choice id="D">of great controversy</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        At one point along an open highway, I came to a crossroads with a traffic light. I was alone on the road by now, but as I approached the light, it turned red, and I braked to a halt. I looked left, right, and behind me. Nothing. Not a car, no suggestion of headlights, but there I sat, waiting for the light to change, the only human being for at least a mile in any direction.&lt;br/&gt;        I started wondering why I refused to run the light. I was not afraid of being arrested, because there was obviously no cop anywhere around and there certainly would have been no danger in going through it.&lt;br/&gt;        Much later that night, after I'd met with a group in Lewisburg and had climbed into bed near midnight, the question of why I'd stopped for that light came back to me. I think I stopped because it's part of a contract we all have with each other. It's not only the law, but it's an agreement we have, and we trust each other to honor it: We don't go through red lights. Like most of us, I'm more apt to be restrained from doing something bad by the social convention that disapproves of it than by any law against it.&lt;br/&gt;        It's amazing that we ever trust each other to do the right thing, isn't it? And we do, too. Trust is our first inclination. We have to make a deliberate decision to mistrust someone or to be suspicious or skeptical.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>Why didn't the author run the light?</prompt>
+            <choices>
+              <choice id="A">Because he was afraid of being caught by the police.</choice>
+              <choice id="B">Because he was in a hurry.</choice>
+              <choice id="C">Because he knew it was wrong.</choice>
+              <choice id="D">Because it was dangerous to do so.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>When the author stopped there was ____.</prompt>
+            <choices>
+              <choice id="A">another car</choice>
+              <choice id="B">only his car</choice>
+              <choice id="C">a police car</choice>
+              <choice id="D">many cars</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>The author thought about his stopping for that light ____.</prompt>
+            <choices>
+              <choice id="A">on his way to Lewisburg</choice>
+              <choice id="B">upon arrival at Lewisburg</choice>
+              <choice id="C">at the meeting</choice>
+              <choice id="D">in the bed late that day</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>In the author's opinion, people don't go through red lights ____.</prompt>
+            <choices>
+              <choice id="A">for it is against the law</choice>
+              <choice id="B">for fear of being knocked down</choice>
+              <choice id="C">in presence of policemen</choice>
+              <choice id="D">because of social conventions</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>"Skeptical" in the last paragraph means ____.</prompt>
+            <choices>
+              <choice id="A">cautious</choice>
+              <choice id="B">alert</choice>
+              <choice id="C">doubtful</choice>
+              <choice id="D">unfriendly</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="71069c45-dd1f-47ad-9898-017e032ca411" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="" />
+    </Section>
+  </Part>
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="9a6a05ad-acfd-4516-a5b4-0092fe6b6851" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        There may be an art explosion ahead.&lt;br/&gt;        People will be working shorter hours, taking longer vacations, and retiring at an earlier (_1_). They will have more time, and (_2_) more money, for activities not directly connected with (_3_) a living. Under these (_4_), many people will take a great interest in art.&lt;br/&gt;        What kind of art might the future bring? The questions cannot be answered with (_5_). Art is always a (_6_) of its own time and it changes as time changes.&lt;br/&gt;        It is possible, however, that the future will bring a new (_7_) for the art of the past. In the age of (_8_) production and synthetic (_9_), people may place a higher (_10_) on handicrafts, things created by hand from natural materials. People may want to see pictures that suggest an "old-fashioned" kind of beauty which has become (_11_) in the world they know.&lt;br/&gt;        It is also possible that in the future much of the art we know today will disappear. Now art forms may be so exciting and full of (_12_) that no one will want to look at a (_13_) picture or a sculpture that stands still. It is certain that tomorrow's artists will use new substances in new ways. The usual materials are likely to be combined with elements that were once thought of (_14_) separate. Light patterns will combine with (_15_). Color and form will combine with motion. These elements will reach out and surround the (_16_). They won't just look at art; they will experience (_17_).&lt;br/&gt;        What new kind of beauty will (_18_) artists create? The people who know (_19_) about art forms and the history of art will only (_20_) that there will be new and surprising things.</Content>
+        <Questions Count="20">
+          <question id="0">
+            <choices>
+              <choice id="A">opportunity</choice>
+              <choice id="B">time</choice>
+              <choice id="C">occasion</choice>
+              <choice id="D">age</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">excessively</choice>
+              <choice id="B">presently</choice>
+              <choice id="C">probably</choice>
+              <choice id="D">exceedingly</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">ensuring</choice>
+              <choice id="B">making</choice>
+              <choice id="C">supporting</choice>
+              <choice id="D">securing</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">circumstances</choice>
+              <choice id="B">conditions</choice>
+              <choice id="C">provisions</choice>
+              <choice id="D">atmospheres</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">assurance</choice>
+              <choice id="B">certainty</choice>
+              <choice id="C">possibility</choice>
+              <choice id="D">precision</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">produce</choice>
+              <choice id="B">result</choice>
+              <choice id="C">product</choice>
+              <choice id="D">fruit</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">viewpoint</choice>
+              <choice id="B">attitude</choice>
+              <choice id="C">opinion</choice>
+              <choice id="D">appreciation</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">mass</choice>
+              <choice id="B">quantity</choice>
+              <choice id="C">standard</choice>
+              <choice id="D">assembly</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">substances</choice>
+              <choice id="B">materials</choice>
+              <choice id="C">resources</choice>
+              <choice id="D">elements</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">requirement</choice>
+              <choice id="B">prize</choice>
+              <choice id="C">price</choice>
+              <choice id="D">value</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">universal</choice>
+              <choice id="B">unique</choice>
+              <choice id="C">scarce</choice>
+              <choice id="D">rare</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">motion</choice>
+              <choice id="B">beauty</choice>
+              <choice id="C">novel</choice>
+              <choice id="D">taste</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">square</choice>
+              <choice id="B">flat</choice>
+              <choice id="C">vertical</choice>
+              <choice id="D">horizontal</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">by</choice>
+              <choice id="B">like</choice>
+              <choice id="C">for</choice>
+              <choice id="D">as</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">sound</choice>
+              <choice id="B">color</choice>
+              <choice id="C">form</choice>
+              <choice id="D">motion</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">artists</choice>
+              <choice id="B">viewers</choice>
+              <choice id="C">researchers</choice>
+              <choice id="D">visitors</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">those</choice>
+              <choice id="B">that</choice>
+              <choice id="C">it</choice>
+              <choice id="D">them</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="17">
+            <choices>
+              <choice id="A">our</choice>
+              <choice id="B">world's</choice>
+              <choice id="C">tomorrow's</choice>
+              <choice id="D">today's</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="18">
+            <choices>
+              <choice id="A">any</choice>
+              <choice id="B">some</choice>
+              <choice id="C">most</choice>
+              <choice id="D">least</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="19">
+            <choices>
+              <choice id="A">predict</choice>
+              <choice id="B">hope</choice>
+              <choice id="C">wish</choice>
+              <choice id="D">expect</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

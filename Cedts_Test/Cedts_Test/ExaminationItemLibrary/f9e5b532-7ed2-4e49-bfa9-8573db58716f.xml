@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="f9e5b532-7ed2-4e49-bfa9-8573db58716f" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="">
+  <soundFile>f9e5b532-7ed2-4e49-bfa9-8573db58716f</soundFile>
+  <Questions Count="1">
+    <question id="0">
+      <choices>
+        <choice id="A">a</choice>
+        <choice id="B">a</choice>
+        <choice id="C">a</choice>
+        <choice id="D">a</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+      <Script>a</Script>
+      <Sound duration="0">
+      </Sound>
+    </question>
+  </Questions>
+  <Script>&lt;p&gt;
+	aa&lt;/p&gt;
+</Script>
+</AssessmentItem>

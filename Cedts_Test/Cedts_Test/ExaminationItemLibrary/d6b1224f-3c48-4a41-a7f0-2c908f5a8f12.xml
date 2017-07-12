@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="d6b1224f-3c48-4a41-a7f0-2c908f5a8f12" PartType="3" ItemType="12" ItemType_CN="信息匹配" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" Course="" Unit="">
+  <Content>&lt;p&gt;
+	GFDGDSFGDSGFSD&lt;/p&gt;
+</Content>
+  <WordList>
+    <Word id="A0">aa</Word>
+    <Word id="A1">bb</Word>
+    <Word id="A2">cc</Word>
+    <Word id="A3">dd</Word>
+    <Word id="A4">ee</Word>
+    <Word id="A5">ff</Word>
+    <Word id="A6">NGFXFX</Word>
+    <Word id="A7">BFVVXC</Word>
+    <Word id="A8">BVXVBFX</Word>
+    <Word id="A9">BVCSBFX</Word>
+  </WordList>
+  <Questions Count="10">
+    <question id="0">
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="1">
+      <Answer>
+        <Value>B</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="2">
+      <Answer>
+        <Value>B</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="3">
+      <Answer>
+        <Value>C</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="4">
+      <Answer>
+        <Value>D</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="5">
+      <Answer>
+        <Value>E</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="6">
+      <Answer>
+        <Value>F</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="7">
+      <Answer>
+        <Value>G</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="8">
+      <Answer>
+        <Value>H</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="9">
+      <Answer>
+        <Value>I</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+  </Questions>
+</AssessmentItem>

@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="1005b7b1-7ff0-485e-bbbe-89b9d059cded" totalScore="100" totalTime="100" name="20131217" resultTime="0" bShowAns="1" Diffcult="0.1" Type="大学四级试题">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="20" Time="20">
+      <AssessmentItem ItemID="87ae2401-2abd-403d-8837-9796c1866378" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="20" ReplyTime="20" Diffcult="0.1" QustionInterval="">
+        <Content>&lt;p&gt;
+	hkjh&lt;/p&gt;
+</Content>
+        <Questions Count="2">
+          <question id="0">
+            <prompt>kl</prompt>
+            <choices>
+              <choice id="A">hgf</choice>
+              <choice id="B">gds</choice>
+              <choice id="C">sdf</choice>
+              <choice id="D">sg</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gfsd</Tip>
+          </question>
+          <question id="1">
+            <Prompt>fg</Prompt>
+            <Answer>
+              <Value>gfd</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gfdsg</Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="7abfea7c-08c9-4427-a2fc-4ca9827031fe" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="5" Course="" Unit="">
+        <soundFile>7abfea7c-08c9-4427-a2fc-4ca9827031fe</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">gt</choice>
+              <choice id="B">gd</choice>
+              <choice id="C">gt</choice>
+              <choice id="D">76</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>fg</Tip>
+            <Script>ygj</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fgfdhgdh&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="2e8c2c14-8e23-4804-9301-d9bd19a42ece" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="5" Course="" Unit="">
+        <soundFile>2e8c2c14-8e23-4804-9301-d9bd19a42ece</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">tg</choice>
+              <choice id="B">gd</choice>
+              <choice id="C">f</choice>
+              <choice id="D">f</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gfgdsgfs</Tip>
+            <Script>hgfh</Script>
+            <Sound duration="5">e8158522-79fe-4a03-8baa-7fb003afae78</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	gfdgsgf&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="7cc6c0ea-94de-400c-ba9f-437ac35ea55b" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="5" Course="" Unit="">
+        <soundFile>7cc6c0ea-94de-400c-ba9f-437ac35ea55b</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">gfdsg</choice>
+              <choice id="B">dsgs</choice>
+              <choice id="C">gsg</choice>
+              <choice id="D">gsgs</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gfsdgsd</Tip>
+            <Script>gdfgrsg</Script>
+            <Sound duration="5">e62436a4-f5d8-4655-981a-f18e06fa7d66</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	gfgsgfdsfgfdgdfgfsd&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="29031835-6f30-4f1f-8688-3cccd07f64e8" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="5" Course="" Unit="">
+        <Content>&lt;p&gt;
+	gfgdgfdgdsgsgfgsd&lt;/p&gt;
+</Content>
+        <SoundFile>29031835-6f30-4f1f-8688-3cccd07f64e8</SoundFile>
+        <Questions Count="1">
+          <question id="0">
+            <Answer>
+              <Value>tryfdhgf</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>hg</Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="0aeacbf2-73f9-4f22-9816-b9bf85922e59" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="">
+        <Content>&lt;p&gt;
+	htrytryre&lt;/p&gt;
+</Content>
+        <WordList>
+          <Word id="B">gdsfgds</Word>
+          <Word id="C">gdsfgfsd</Word>
+          <Word id="D">gsgvc</Word>
+          <Word id="E">vccv</Word>
+          <Word id="F">bxcgj</Word>
+          <Word id="G">gfg</Word>
+          <Word id="H">hfsh</Word>
+          <Word id="I">hs</Word>
+          <Word id="J">hg</Word>
+          <Word id="K">jgfj</Word>
+          <Word id="L">jghfg</Word>
+          <Word id="M">safa</Word>
+          <Word id="N">gfds</Word>
+          <Word id="O">hfgh</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>tfr</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gdsg</Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>hg</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>hfd</Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>gdfsgs</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gsgs</Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>gfdsgs</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gfds</Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>fgdds</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gdsfgs</Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>gdfgsd</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gsgs</Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>gfdsg</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gsdgs</Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>gsdg</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gfds</Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>gsdg</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gsdgs</Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>gdsf</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gsgsg</Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="97b6ca9e-7fc3-42a9-bc2e-adededf317dd" PartType="4" ItemType="7" ItemType_CN="阅读选择题型" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="">
+        <Content>&lt;p&gt;
+	hgdhdhdg&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>ghdh</prompt>
+            <choices>
+              <choice id="A">dfhd</choice>
+              <choice id="B">hdhd</choice>
+              <choice id="C">hhh</choice>
+              <choice id="D">s</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>gsdf</Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="20" Time="20">
+      <AssessmentItem ItemID="de5b0ef1-462e-48c2-ae85-b136ec61ae0a" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="20" ReplyTime="20" Diffcult="0.1" QustionInterval="">
+        <Content>&lt;p&gt;
+	ytyy&lt;/p&gt;
+</Content>
+        <Questions Count="20">
+          <question id="0">
+            <choices>
+              <choice id="A">gfdg</choice>
+              <choice id="B">gds</choice>
+              <choice id="C">gds</choice>
+              <choice id="D">rtg</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gd</Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">gdg</choice>
+              <choice id="B">gd</choice>
+              <choice id="C">hh</choice>
+              <choice id="D">hy</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>ytj</Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">jhg</choice>
+              <choice id="B">jh</choice>
+              <choice id="C">k</choice>
+              <choice id="D">jgh</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>jtrjy</Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">ytr</choice>
+              <choice id="B">yrt</choice>
+              <choice id="C">utyu</choice>
+              <choice id="D">uyu</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>ut</Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">hhdf</choice>
+              <choice id="B">hg</choice>
+              <choice id="C">hfd</choice>
+              <choice id="D">gfh</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>hfd</Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">gdfg</choice>
+              <choice id="B">gdsg</choice>
+              <choice id="C">gds</choice>
+              <choice id="D">hg</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">hgf</choice>
+              <choice id="B">hf</choice>
+              <choice id="C">fh</choice>
+              <choice id="D">fd</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">ytry</choice>
+              <choice id="B">utyu</choice>
+              <choice id="C">hjg</choice>
+              <choice id="D">jgfj</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">mn</choice>
+              <choice id="B">mv</choice>
+              <choice id="C">vmn</choice>
+              <choice id="D">mbv</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">fh</choice>
+              <choice id="B">hc</choice>
+              <choice id="C">gh</choice>
+              <choice id="D">mv</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">lu</choice>
+              <choice id="B">ljkh</choice>
+              <choice id="C">kg</choice>
+              <choice id="D">kg</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">jkk</choice>
+              <choice id="B">ljh</choice>
+              <choice id="C">lhlh</choice>
+              <choice id="D">lh</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">jgfjf</choice>
+              <choice id="B">kfk</choice>
+              <choice id="C">khkh</choice>
+              <choice id="D">khg</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">jgf</choice>
+              <choice id="B">j</choice>
+              <choice id="C">f</choice>
+              <choice id="D">jgf</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">hgf</choice>
+              <choice id="B">hdf</choice>
+              <choice id="C">jh</choice>
+              <choice id="D">jgf</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">hgfh</choice>
+              <choice id="B">hg</choice>
+              <choice id="C">g</choice>
+              <choice id="D">g</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>hgf</Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">uytu</choice>
+              <choice id="B">uui</choice>
+              <choice id="C">iyt</choice>
+              <choice id="D">tr</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="17">
+            <choices>
+              <choice id="A">yty</choice>
+              <choice id="B">iuy</choice>
+              <choice id="C">iyt</choice>
+              <choice id="D">yt</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>t</Tip>
+          </question>
+          <question id="18">
+            <choices>
+              <choice id="A">gfd</choice>
+              <choice id="B">gs</choice>
+              <choice id="C">gs</choice>
+              <choice id="D">gf</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="19">
+            <choices>
+              <choice id="A">trfg</choice>
+              <choice id="B">gfdg</choice>
+              <choice id="C">gsdg</choice>
+              <choice id="D">ggds</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

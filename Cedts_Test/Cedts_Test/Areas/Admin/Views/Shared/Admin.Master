@@ -1,0 +1,136 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+    </title>
+    <link href="../../../../uploadify/uploadify.css" rel="stylesheet" type="text/css" />
+    <link href="../../../../Content/themes/default/easyui.css" rel="stylesheet" type="text/css" />
+    <link href="../../../../Content/themes/icon.css" rel="stylesheet" type="text/css" />
+    <link href="../../../../Content/default.css" rel="stylesheet" type="text/css" />
+    <link href="../../../../Content/admin.css" rel="stylesheet" type="text/css" />
+    <script src="../../../../Scripts/MicrosoftAjax.js" type="text/javascript"></script>
+    <script src="../../../../Scripts/MicrosoftMvcAjax.js" type="text/javascript"></script>
+    <script src="../../../../Scripts/MicrosoftMvcValidation.js" type="text/javascript"></script>
+    <script src="../../../../Scripts/jquery-1.4.1.min.js" type="text/javascript"></script>
+    <script src="../../../../Scripts/jquery.easyui.min.js" type="text/javascript"></script>
+    <script src="../../../../Scripts/jquery.validate.min.js" type="text/javascript"></script>
+    <script src="../../../../uploadify/swfobject.js" type="text/javascript"></script>
+    <script src="../../../../uploadify/jquery.uploadify.v2.1.4.js" type="text/javascript"></script>
+    <script src="../../../../ckeditor/ckeditor.js" type="text/javascript"></script>
+    <script language="javascript" type="text/javascript" src="../../../../My97DatePicker/WdatePicker.js"></script>
+    <script src="../../../../Scripts/highcharts.js" type="text/javascript"></script>
+    <script src="../../../../Scripts/exporting.js" type="text/javascript"></script>
+</head>
+<body>
+    <div id="content">
+        <div id="top" class="header wrp">
+            <img src="../../../../Images/logo.gif" alt="" style="float: left" />
+            <br />
+            <div id="logindisplay" class="userinfo">
+                <% Html.RenderPartial("LogOnUserControl"); %>
+            </div>
+        </div>
+        <div class="wrp">
+
+        <div id="left">
+            <div id="left-column">
+                <h3>
+                    后台管理</h3>
+                <ul class="nav">
+                    <%if (Page.User.IsInRole("超级管理员"))
+                      { %>
+                    <li>
+                        <%:Html.ActionLink("院校管理", "Index", "Partner")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("院校管理员管理", "Index", "Admin")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("日志管理", "Index", "Log")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("试题管理", "Index", "Examination")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("试卷管理", "Index", "Paper")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("知识点管理", "Index", "Knowledge")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("充值卡管理", "Index", "Card")%>
+                    </li>
+                    <li>
+                        <%: Html.ActionLink("公告管理","Index","Notice") %>
+                    </li>
+                    <li>
+                        <%: Html.ActionLink("意见反馈信息", "FeedBack", "Notice")%>
+                    </li>
+                    <%} %>
+                    <%if (Page.User.IsInRole("管理员"))
+                      {%>
+                    <li>
+                        <%:Html.ActionLink("教师管理", "Teacher", "Partner")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("专业管理", "Major", "Partner")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("系别管理", "Grade", "Partner")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("年级管理", "TGrade", "Partner")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("班级管理", "Class", "Partner")%>
+                    </li>
+                    <li class="firstlevel">成绩管理<ul class="secondlevel"><li><%:Html.ActionLink("整体情况", "AdminIndex", "Partner") %></li><li><%:Html.ActionLink("成绩详情", "Single", "Partner")%></li></ul></li>
+                    <%} %>
+                    <%if (Page.User.IsInRole("教师"))
+                      { %>
+                    <li>
+                        <%:Html.ActionLink("学生管理", "ClassList", "User")%></li>
+                    <li>
+                        <%:Html.ActionLink("评阅管理", "Index", "Remark")%>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("自主出卷", "Index", "Paper") %>
+                    </li>
+                    <li>
+                        <%:Html.ActionLink("布置作业", "Index", "AssignHomework") %>
+                    </li>
+                    <li class="firstlevel">成绩管理<ul class="secondlevel"><li><%:Html.ActionLink("整体情况", "Index", "Score") %></li><li><%:Html.ActionLink("成绩详情", "Single", "Score")%></li></ul></li>
+                    <%} %>
+                </ul>
+            </div>
+        </div>
+
+        <div id="right">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        </div>
+    </div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.nav a').removeClass('current').each(function () {
+            var href = new RegExp($(this).attr('href') + '$');
+            window.ttt = href;
+            if (href.test(window.location.href)) {
+                $(this).addClass('current');
+                if ($(this).parent().parent().parent().attr("class") == "firstlevel") {
+                    $('.secondlevel').show();
+                }
+
+            }
+        })
+        $('.firstlevel').click(function () {
+            $('.secondlevel').toggle();
+
+        })
+    })
+</script>
+</body>
+</html>

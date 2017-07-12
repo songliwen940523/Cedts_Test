@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<Paper UserID="751" UpdateUserID="751" PaperID="3eea3b19-923a-46a0-8abb-5916f096697f" totalScore="20" totalTime="20" name="06172" resultTime="0" bShowAns="1" Diffcult="10" Type="按题型组卷">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="286bbfe7-fedd-4dd1-a8cf-0295766ebfc8" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;b&gt;Brainstorming in Three Easy Steps&lt;/b&gt;&lt;br/&gt;        Sometimes, it's the easiest writing assignments that send us for a loop. Coming up with something to write about can often be harder than the actual writing. Luckily, there is an easy solution to that-brainstorming. Brainstorming comes in many different forms. Choosing the right method of brainstorming is a fun and easy task! &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;1. Freewriting&lt;/b&gt; &lt;br/&gt;        Freewriting is the easiest form of brainstorming. The method is very simple: write! Freewriting is most often a timed exercise. The best way to freewrite is to choose your method of writing (either on the computer or with pen and paper) and simply write whatever comes to mind for approximately five minutes. Don't worry about spelling, grammar or clarity-none of those issues matter in freewriting. Keeping your words flowing is the most important part. Even if you have to write, "I can't think of anything to write," you're still doing the exercise correctly. What's great about freewriting is that it allows ideas that might be buried to come to the surface. Sometimes you have several possible topics in your head but nerves or fear keep them buried. Freewriting takes away any stumbling blocks and leaves you with only words. You'll be amazed at how many potential topics you come up with! &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;2. Clustering&lt;/b&gt; &lt;br/&gt;        The clustering method works best when you have a general idea of a topic you're interested in writing about but that seems to be a bit too broad. For example, if you wanted to write about education, you would need to pick a more specified topic. Clustering works by allowing your mind to make connections visually. To brainstorm using the clustering method, simply write your broad topic in the middle of a sheet of paper and circle it. Then, create subtopics by drawing lines from your main topic to your new point, which you have also circled. As you find more subtopics, create new lines and circles. You'll also want to create subtopics for your subtopics. Creating this web of ideas will help you narrow your focus and also find new topics that you weren't aware of. &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;3. Question Method&lt;/b&gt; &lt;br/&gt;        My favorite form of brainstorming comes a little later in the writing process. Once you have chosen a topic to write about, it is important to get feedback. Sometimes a chosen topic is good but could be more precise. The best way to get feedback is to create a question group. To do this, you should form a group of several people. Each person should write his or her topic down on the top of a sheet of paper. Once this is completed, pass around the sheets of paper with topics. Each time you receive a topic sheet, ask a question about that topic that hasn't been asked yet. This will require you to think about new topics you haven't seen, but it will also give the writer new ideas to consider about the topic. I've used this method several times in English courses and always had great success. &lt;br/&gt;        As you can see, brainstorming doesn't need to be a complicated process. Take advantage of the ease of brainstorming and also the fun you can have with it! You'll have better topics to write about and more exciting ideas to focus on!</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>The article mainly discusses about the three forms of brainstorming.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>The best way to freewrite is to simply write whatever comes to mind for about half an hour.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>When you don't have a chosen topic, freewriting is an effective way for you to come up with topics to write.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>In freewriting, you should try to make sure about spelling, grammar and clarity.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>The clustering method can help you create subtopics under a general topic so that you can narrow your focus of writing.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>The question method requires cooperation of other people.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>The writer's favorite forms of brainstorming are freewriting and clustering.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>&lt;tag type="text" /&gt;  is the most important part in freewriting.</Prompt>
+            <Answer>
+              <Value>Keeping your words flowing</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>When you have a general idea of a topic you're interested in writing about but that seems to be a bit too broad, the ____  method works best.</Prompt>
+            <Answer>
+              <Value>clustering</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>In the question method, ____  will not only require you to think about new topics you haven't seen, but also give the writer new ideas to consider about the topic.</Prompt>
+            <Answer>
+              <Value>asking a question about a topic that hasn't been asked</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="9" typecn="信息匹配" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="eea85f55-1aca-4ba1-91e4-cdc6aeebb3f7" PartType="3" ItemType="9" ItemType_CN="信息匹配" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;
+	(_1_)&amp;nbsp;Employers&amp;nbsp;should&amp;nbsp;realise&amp;nbsp;it&amp;nbsp;is&amp;nbsp;important&amp;nbsp;to&amp;nbsp;keep&amp;nbsp;older&amp;nbsp;workers&amp;nbsp;in&amp;nbsp;the&amp;nbsp;workforce.&lt;br /&gt;
+	(_2_)&amp;nbsp;A&amp;nbsp;recent&amp;nbsp;study&amp;nbsp;found&amp;nbsp;that&amp;nbsp;most&amp;nbsp;old&amp;nbsp;people&amp;nbsp;in&amp;nbsp;some&amp;nbsp;European&amp;nbsp;countries&amp;nbsp;had&amp;nbsp;regular&amp;nbsp;weekly&amp;nbsp;contact&amp;nbsp;with&amp;nbsp;their&amp;nbsp;adult&amp;nbsp;children.&lt;br /&gt;
+	(_3_)&amp;nbsp;Few&amp;nbsp;governments&amp;nbsp;in&amp;nbsp;rich&amp;nbsp;countries&amp;nbsp;have&amp;nbsp;launched&amp;nbsp;bold&amp;nbsp;reforms&amp;nbsp;to&amp;nbsp;tackle&amp;nbsp;the&amp;nbsp;problem&amp;nbsp;of&amp;nbsp;population&amp;nbsp;ageing.&lt;br /&gt;
+	(_4_)&amp;nbsp;In&amp;nbsp;a&amp;nbsp;report&amp;nbsp;published&amp;nbsp;some&amp;nbsp;20&amp;nbsp;years&amp;nbsp;ago,&amp;nbsp;the&amp;nbsp;sustainability&amp;nbsp;of&amp;nbsp;old-age&amp;nbsp;pension&amp;nbsp;systems&amp;nbsp;in&amp;nbsp;most&amp;nbsp;countries&amp;nbsp;was&amp;nbsp;called&amp;nbsp;into&amp;nbsp;doubt.&lt;br /&gt;
+	(_5_)&amp;nbsp;Countries&amp;nbsp;that&amp;nbsp;have&amp;nbsp;a&amp;nbsp;shortage&amp;nbsp;of&amp;nbsp;young&amp;nbsp;adults&amp;nbsp;will&amp;nbsp;be&amp;nbsp;less&amp;nbsp;willing&amp;nbsp;to&amp;nbsp;send&amp;nbsp;them&amp;nbsp;to&amp;nbsp;war.&lt;br /&gt;
+	(_6_)One-child&amp;nbsp;families&amp;nbsp;are&amp;nbsp;more&amp;nbsp;common&amp;nbsp;in&amp;nbsp;ageing&amp;nbsp;societies&amp;nbsp;due&amp;nbsp;to&amp;nbsp;the&amp;nbsp;stress&amp;nbsp;of&amp;nbsp;urban&amp;nbsp;life&amp;nbsp;and&amp;nbsp;the&amp;nbsp;difficulties&amp;nbsp;of&amp;nbsp;balancing&amp;nbsp;families&amp;nbsp;and&amp;nbsp;cancer.&lt;br /&gt;
+	(_7_)&amp;nbsp;A&amp;nbsp;series&amp;nbsp;of&amp;nbsp;books,&amp;nbsp;mostly&amp;nbsp;authored&amp;nbsp;by&amp;nbsp;Americans,&amp;nbsp;warned&amp;nbsp;of&amp;nbsp;conflicts&amp;nbsp;between&amp;nbsp;the&amp;nbsp;older&amp;nbsp;and&amp;nbsp;younger&amp;nbsp;generations.&amp;nbsp;&lt;br /&gt;
+	(_8_)Compared&amp;nbsp;with&amp;nbsp;younger&amp;nbsp;ones,&amp;nbsp;older&amp;nbsp;societies&amp;nbsp;tend&amp;nbsp;to&amp;nbsp;be&amp;nbsp;less&amp;nbsp;innovative&amp;nbsp;and&amp;nbsp;take&amp;nbsp;fewer&amp;nbsp;risks.&lt;br /&gt;
+	(_9_)&amp;nbsp;The&amp;nbsp;best&amp;nbsp;solution&amp;nbsp;to&amp;nbsp;the&amp;nbsp;pension&amp;nbsp;crisis&amp;nbsp;is&amp;nbsp;to&amp;nbsp;postpone&amp;nbsp;the&amp;nbsp;retirement&amp;nbsp;age.&lt;br /&gt;
+	(_10_)&amp;nbsp;Immigration&amp;nbsp;as&amp;nbsp;a&amp;nbsp;means&amp;nbsp;to&amp;nbsp;boost&amp;nbsp;the&amp;nbsp;shrinking&amp;nbsp;labour&amp;nbsp;force&amp;nbsp;may&amp;nbsp;meet&amp;nbsp;with&amp;nbsp;resistance&amp;nbsp;in&amp;nbsp;some&amp;nbsp;rich&amp;nbsp;countries.&lt;br /&gt;
+	Into&amp;nbsp;the&amp;nbsp;unknown&lt;br /&gt;
+	A)&amp;nbsp;Until&amp;nbsp;the&amp;nbsp;early&amp;nbsp;1900s&amp;nbsp;nobody&amp;nbsp;thought&amp;nbsp;much&amp;nbsp;about&amp;nbsp;the&amp;nbsp;whole&amp;nbsp;populations&amp;nbsp;getting&amp;nbsp;older.&amp;nbsp;UN&amp;nbsp;had&amp;nbsp;the&amp;nbsp;foresight&amp;nbsp;to&amp;nbsp;convene&amp;nbsp;a&amp;nbsp;&amp;ldquo;world&amp;nbsp;assembly&amp;nbsp;on&amp;nbsp;ageing&amp;rdquo;&amp;nbsp;back&amp;nbsp;in&amp;nbsp;1982,&amp;nbsp;but&amp;nbsp;that&amp;nbsp;came&amp;nbsp;and&amp;nbsp;went.&amp;nbsp;By&amp;nbsp;1994&amp;nbsp;the&amp;nbsp;World&amp;nbsp;Bank&amp;nbsp;had&amp;nbsp;noticed&amp;nbsp;that&amp;nbsp;something&amp;nbsp;big&amp;nbsp;was&amp;nbsp;happening.&amp;nbsp;In&amp;nbsp;a&amp;nbsp;report&amp;nbsp;entitled&amp;nbsp;&amp;ldquo;Averting&amp;nbsp;the&amp;nbsp;Old&amp;nbsp;Age&amp;nbsp;Crisis&amp;rdquo;,&amp;nbsp;it&amp;nbsp;argued&amp;nbsp;that&amp;nbsp;pension&amp;nbsp;arrangements&amp;nbsp;in&amp;nbsp;most&amp;nbsp;countries&amp;nbsp;were&amp;nbsp;unsustainable.&amp;nbsp;&lt;span style="color: rgb(34, 34, 34); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 12pt; mso-spacerun: &amp;quot;yes&amp;quot;;"&gt;&lt;font face="Times New Roman"&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;br /&gt;
+	B)&amp;nbsp;For&amp;nbsp;the&amp;nbsp;next&amp;nbsp;ten&amp;nbsp;years&amp;nbsp;a&amp;nbsp;succession&amp;nbsp;of&amp;nbsp;books,&amp;nbsp;mainly&amp;nbsp;by&amp;nbsp;Americans,&amp;nbsp;surrounded&amp;nbsp;by&amp;nbsp;the&amp;nbsp;alarm.&amp;nbsp;They&amp;nbsp;had&amp;nbsp;titles&amp;nbsp;like&amp;nbsp;Young&amp;nbsp;vs&amp;nbsp;Old,&amp;nbsp;Gray&amp;nbsp;Dawn&amp;nbsp;and&amp;nbsp;The&amp;nbsp;Coming&amp;nbsp;Generational&amp;nbsp;Storm,&amp;nbsp;and&amp;nbsp;their&amp;nbsp;message&amp;nbsp;was&amp;nbsp;blunt:&amp;nbsp;health-care&amp;nbsp;systems&amp;nbsp;were&amp;nbsp;heading&amp;nbsp;for&amp;nbsp;the&amp;nbsp;rocks,&amp;nbsp;pensioners&amp;nbsp;were&amp;nbsp;taking&amp;nbsp;young&amp;nbsp;people&amp;nbsp;to&amp;nbsp;the&amp;nbsp;cleaners,&amp;nbsp;and&amp;nbsp;soon&amp;nbsp;there&amp;nbsp;would&amp;nbsp;be&amp;nbsp;intergenerational&amp;nbsp;warfare.&amp;nbsp;&lt;br /&gt;
+	C)&amp;nbsp;Since&amp;nbsp;then&amp;nbsp;the&amp;nbsp;debate&amp;nbsp;has&amp;nbsp;become&amp;nbsp;less&amp;nbsp;emotional,&amp;nbsp;not&amp;nbsp;least&amp;nbsp;because&amp;nbsp;a&amp;nbsp;lot&amp;nbsp;more&amp;nbsp;is&amp;nbsp;known&amp;nbsp;about&amp;nbsp;the&amp;nbsp;subject.&amp;nbsp;Books,&amp;nbsp;conferences&amp;nbsp;and&amp;nbsp;research&amp;nbsp;papers&amp;nbsp;have&amp;nbsp;multiplied.&amp;nbsp;International&amp;nbsp;organisations&amp;nbsp;such&amp;nbsp;as&amp;nbsp;the&amp;nbsp;OECD&amp;nbsp;and&amp;nbsp;the&amp;nbsp;EU&amp;nbsp;issue&amp;nbsp;regular&amp;nbsp;reports.&amp;nbsp;Population&amp;nbsp;ageing&amp;nbsp;is&amp;nbsp;on&amp;nbsp;every&amp;nbsp;agenda,&amp;nbsp;from&amp;nbsp;G8&amp;nbsp;economic&amp;nbsp;conferences&amp;nbsp;to&amp;nbsp;NATO&amp;nbsp;summits.&amp;nbsp;The&amp;nbsp;World&amp;nbsp;Economic&amp;nbsp;Forum&amp;nbsp;plans&amp;nbsp;to&amp;nbsp;consider&amp;nbsp;the&amp;nbsp;future&amp;nbsp;of&amp;nbsp;pensions&amp;nbsp;and&amp;nbsp;health&amp;nbsp;care&amp;nbsp;at&amp;nbsp;its&amp;nbsp;prestigious&amp;nbsp;Davos&amp;nbsp;conference&amp;nbsp;early&amp;nbsp;next&amp;nbsp;year.&amp;nbsp;The&amp;nbsp;media,&amp;nbsp;including&amp;nbsp;the&amp;nbsp;newspaper,&amp;nbsp;are&amp;nbsp;giving&amp;nbsp;the&amp;nbsp;subject&amp;nbsp;extensive&amp;nbsp;coverage.&lt;br /&gt;
+	D)&amp;nbsp;Whether&amp;nbsp;all&amp;nbsp;that&amp;nbsp;attention&amp;nbsp;has&amp;nbsp;translated&amp;nbsp;into&amp;nbsp;sufficient&amp;nbsp;action&amp;nbsp;is&amp;nbsp;another&amp;nbsp;question.&amp;nbsp;Governments&amp;nbsp;in&amp;nbsp;rich&amp;nbsp;countries&amp;nbsp;now&amp;nbsp;accept&amp;nbsp;that&amp;nbsp;their&amp;nbsp;pension&amp;nbsp;and&amp;nbsp;health-care&amp;nbsp;promises&amp;nbsp;will&amp;nbsp;soon&amp;nbsp;become&amp;nbsp;unaffordable,&amp;nbsp;and&amp;nbsp;many&amp;nbsp;of&amp;nbsp;them&amp;nbsp;have&amp;nbsp;embarked&amp;nbsp;on&amp;nbsp;reforms,&amp;nbsp;but&amp;nbsp;so&amp;nbsp;far&amp;nbsp;only&amp;nbsp;timidly.&amp;nbsp;That&amp;nbsp;is&amp;nbsp;not&amp;nbsp;surprising:&amp;nbsp;politicians&amp;nbsp;with&amp;nbsp;an&amp;nbsp;eye&amp;nbsp;on&amp;nbsp;the&amp;nbsp;next&amp;nbsp;election&amp;nbsp;will&amp;nbsp;hardly&amp;nbsp;rush&amp;nbsp;to&amp;nbsp;introduce&amp;nbsp;unpopular&amp;nbsp;measures&amp;nbsp;that&amp;nbsp;may&amp;nbsp;not&amp;nbsp;bear&amp;nbsp;fruit&amp;nbsp;for&amp;nbsp;years,&amp;nbsp;perhaps&amp;nbsp;decades.&amp;nbsp;&lt;br /&gt;
+	E)&amp;nbsp;The&amp;nbsp;outline&amp;nbsp;of&amp;nbsp;the&amp;nbsp;changes&amp;nbsp;needed&amp;nbsp;is&amp;nbsp;clear.&amp;nbsp;To&amp;nbsp;avoid&amp;nbsp;fiscal&amp;nbsp;(财政的)&amp;nbsp;meltdown,&amp;nbsp;public&amp;nbsp;pensions&amp;nbsp;and&amp;nbsp;health-care&amp;nbsp;provision&amp;nbsp;will&amp;nbsp;have&amp;nbsp;to&amp;nbsp;be&amp;nbsp;reined&amp;nbsp;back&amp;nbsp;severely&amp;nbsp;and&amp;nbsp;taxes&amp;nbsp;may&amp;nbsp;have&amp;nbsp;to&amp;nbsp;go&amp;nbsp;up.&amp;nbsp;By&amp;nbsp;far&amp;nbsp;the&amp;nbsp;most&amp;nbsp;effective&amp;nbsp;method&amp;nbsp;to&amp;nbsp;restrain&amp;nbsp;pension&amp;nbsp;spending&amp;nbsp;is&amp;nbsp;to&amp;nbsp;give&amp;nbsp;people&amp;nbsp;the&amp;nbsp;opportunity&amp;nbsp;to&amp;nbsp;work&amp;nbsp;longer,&amp;nbsp;because&amp;nbsp;it&amp;nbsp;increases&amp;nbsp;tax&amp;nbsp;revenues&amp;nbsp;and&amp;nbsp;reduces&amp;nbsp;spending&amp;nbsp;on&amp;nbsp;pensions&amp;nbsp;at&amp;nbsp;the&amp;nbsp;same&amp;nbsp;time.&amp;nbsp;It&amp;nbsp;may&amp;nbsp;even&amp;nbsp;keep&amp;nbsp;them&amp;nbsp;alive&amp;nbsp;longer.&amp;nbsp;John&amp;nbsp;Rother,&amp;nbsp;the&amp;nbsp;AARP&amp;rsquo;s&amp;nbsp;head&amp;nbsp;of&amp;nbsp;policy&amp;nbsp;and&amp;nbsp;strategy,&amp;nbsp;points&amp;nbsp;to&amp;nbsp;studies&amp;nbsp;showing&amp;nbsp;that&amp;nbsp;other&amp;nbsp;things&amp;nbsp;being&amp;nbsp;equal,&amp;nbsp;people&amp;nbsp;who&amp;nbsp;remain&amp;nbsp;at&amp;nbsp;work&amp;nbsp;have&amp;nbsp;lower&amp;nbsp;death&amp;nbsp;rates&amp;nbsp;than&amp;nbsp;their&amp;nbsp;retired&amp;nbsp;peers.&amp;nbsp;&lt;br /&gt;
+	F)&amp;nbsp;Younger&amp;nbsp;people&amp;nbsp;today&amp;nbsp;mostly&amp;nbsp;accept&amp;nbsp;that&amp;nbsp;they&amp;nbsp;will&amp;nbsp;have&amp;nbsp;to&amp;nbsp;work&amp;nbsp;for&amp;nbsp;longer&amp;nbsp;and&amp;nbsp;that&amp;nbsp;their&amp;nbsp;pensions&amp;nbsp;will&amp;nbsp;be&amp;nbsp;less&amp;nbsp;generous.&amp;nbsp;Employers&amp;nbsp;still&amp;nbsp;need&amp;nbsp;to&amp;nbsp;be&amp;nbsp;persuaded&amp;nbsp;that&amp;nbsp;older&amp;nbsp;workers&amp;nbsp;are&amp;nbsp;worth&amp;nbsp;holding&amp;nbsp;on&amp;nbsp;to.&amp;nbsp;That&amp;nbsp;may&amp;nbsp;be&amp;nbsp;because&amp;nbsp;they&amp;nbsp;have&amp;nbsp;had&amp;nbsp;plenty&amp;nbsp;of&amp;nbsp;younger&amp;nbsp;ones&amp;nbsp;to&amp;nbsp;choose&amp;nbsp;from,&amp;nbsp;partly&amp;nbsp;thanks&amp;nbsp;to&amp;nbsp;the&amp;nbsp;post-war&amp;nbsp;baby-boom&amp;nbsp;and&amp;nbsp;partly&amp;nbsp;because&amp;nbsp;over&amp;nbsp;the&amp;nbsp;past&amp;nbsp;few&amp;nbsp;decades&amp;nbsp;many&amp;nbsp;more&amp;nbsp;women&amp;nbsp;have&amp;nbsp;entered&amp;nbsp;the&amp;nbsp;labour&amp;nbsp;force,&amp;nbsp;increasing&amp;nbsp;employers&amp;rsquo;&amp;nbsp;choice.&amp;nbsp;But&amp;nbsp;the&amp;nbsp;reservoir&amp;nbsp;of&amp;nbsp;women&amp;nbsp;able&amp;nbsp;and&amp;nbsp;willing&amp;nbsp;to&amp;nbsp;take&amp;nbsp;up&amp;nbsp;paid&amp;nbsp;work&amp;nbsp;is&amp;nbsp;running&amp;nbsp;low,&amp;nbsp;and&amp;nbsp;the&amp;nbsp;baby-boomers&amp;nbsp;are&amp;nbsp;going&amp;nbsp;grey.&amp;nbsp;&lt;br /&gt;
+	G)&amp;nbsp;In&amp;nbsp;many&amp;nbsp;countries&amp;nbsp;immigrants&amp;nbsp;have&amp;nbsp;been&amp;nbsp;filling&amp;nbsp;such&amp;nbsp;gaps&amp;nbsp;in&amp;nbsp;the&amp;nbsp;labour&amp;nbsp;force&amp;nbsp;as&amp;nbsp;have&amp;nbsp;already&amp;nbsp;emerged&amp;nbsp;(and&amp;nbsp;remember&amp;nbsp;that&amp;nbsp;the&amp;nbsp;real&amp;nbsp;shortage&amp;nbsp;is&amp;nbsp;still&amp;nbsp;around&amp;nbsp;ten&amp;nbsp;years&amp;nbsp;off).&amp;nbsp;Immigration&amp;nbsp;in&amp;nbsp;the&amp;nbsp;developed&amp;nbsp;world&amp;nbsp;is&amp;nbsp;the&amp;nbsp;highest&amp;nbsp;it&amp;nbsp;has&amp;nbsp;ever&amp;nbsp;been,&amp;nbsp;and&amp;nbsp;it&amp;nbsp;is&amp;nbsp;making&amp;nbsp;a&amp;nbsp;useful&amp;nbsp;difference.&amp;nbsp;In&amp;nbsp;still-fertile&amp;nbsp;America&amp;nbsp;it&amp;nbsp;currently&amp;nbsp;accounts&amp;nbsp;for&amp;nbsp;about&amp;nbsp;40%&amp;nbsp;of&amp;nbsp;total&amp;nbsp;population&amp;nbsp;growth,&amp;nbsp;and&amp;nbsp;in&amp;nbsp;fast-ageing&amp;nbsp;western&amp;nbsp;Europe&amp;nbsp;for&amp;nbsp;about&amp;nbsp;90%.&amp;nbsp;&lt;br /&gt;
+	H)&amp;nbsp;On&amp;nbsp;the&amp;nbsp;face&amp;nbsp;of&amp;nbsp;it,&amp;nbsp;it&amp;nbsp;seems&amp;nbsp;the&amp;nbsp;perfect&amp;nbsp;solution.&amp;nbsp;Many&amp;nbsp;developing&amp;nbsp;countries&amp;nbsp;have&amp;nbsp;lots&amp;nbsp;of&amp;nbsp;young&amp;nbsp;people&amp;nbsp;in&amp;nbsp;the&amp;nbsp;need&amp;nbsp;of&amp;nbsp;jobs,&amp;nbsp;many&amp;nbsp;rich&amp;nbsp;countries&amp;nbsp;need&amp;nbsp;helping&amp;nbsp;hands&amp;nbsp;that&amp;nbsp;will&amp;nbsp;boost&amp;nbsp;tax&amp;nbsp;revenues&amp;nbsp;and&amp;nbsp;keep&amp;nbsp;up&amp;nbsp;economic&amp;nbsp;growth.&amp;nbsp;But&amp;nbsp;over&amp;nbsp;the&amp;nbsp;next&amp;nbsp;few&amp;nbsp;decades&amp;nbsp;labour&amp;nbsp;forces&amp;nbsp;in&amp;nbsp;rich&amp;nbsp;countries&amp;nbsp;are&amp;nbsp;set&amp;nbsp;to&amp;nbsp;shrink&amp;nbsp;so&amp;nbsp;much&amp;nbsp;that&amp;nbsp;inflows&amp;nbsp;of&amp;nbsp;immigrants&amp;nbsp;would&amp;nbsp;have&amp;nbsp;to&amp;nbsp;increase&amp;nbsp;enormously&amp;nbsp;to&amp;nbsp;compensate:&amp;nbsp;to&amp;nbsp;at&amp;nbsp;least&amp;nbsp;twice&amp;nbsp;their&amp;nbsp;current&amp;nbsp;size&amp;nbsp;in&amp;nbsp;western&amp;nbsp;Europe&amp;rsquo;s&amp;nbsp;most&amp;nbsp;youthful&amp;nbsp;countries,&amp;nbsp;and&amp;nbsp;three&amp;nbsp;times&amp;nbsp;in&amp;nbsp;the&amp;nbsp;older&amp;nbsp;ones.&amp;nbsp;Japan&amp;nbsp;would&amp;nbsp;need&amp;nbsp;a&amp;nbsp;large&amp;nbsp;multiple&amp;nbsp;of&amp;nbsp;the&amp;nbsp;few&amp;nbsp;immigrants&amp;nbsp;it&amp;nbsp;has&amp;nbsp;at&amp;nbsp;present.&amp;nbsp;Public&amp;nbsp;opinion&amp;nbsp;polls&amp;nbsp;show&amp;nbsp;that&amp;nbsp;people&amp;nbsp;in&amp;nbsp;most&amp;nbsp;rich&amp;nbsp;countries&amp;nbsp;already&amp;nbsp;think&amp;nbsp;that&amp;nbsp;immigration&amp;nbsp;is&amp;nbsp;too&amp;nbsp;high.&amp;nbsp;Further&amp;nbsp;big&amp;nbsp;increases&amp;nbsp;would&amp;nbsp;be&amp;nbsp;politically&amp;nbsp;unfeasible.&amp;nbsp;&lt;br /&gt;
+	I)&amp;nbsp;To&amp;nbsp;tackle&amp;nbsp;the&amp;nbsp;problem&amp;nbsp;of&amp;nbsp;ageing&amp;nbsp;populations&amp;nbsp;at&amp;nbsp;its&amp;nbsp;root,&amp;nbsp;&amp;ldquo;old&amp;rdquo;&amp;nbsp;countries&amp;nbsp;would&amp;nbsp;have&amp;nbsp;to&amp;nbsp;rejuvenate&amp;nbsp;(使年轻)&amp;nbsp;themselves&amp;nbsp;by&amp;nbsp;having&amp;nbsp;more&amp;nbsp;of&amp;nbsp;their&amp;nbsp;own&amp;nbsp;children.&amp;nbsp;A&amp;nbsp;number&amp;nbsp;of&amp;nbsp;them&amp;nbsp;have&amp;nbsp;tried,&amp;nbsp;some&amp;nbsp;more&amp;nbsp;successfully&amp;nbsp;than&amp;nbsp;others.&amp;nbsp;But&amp;nbsp;it&amp;nbsp;is&amp;nbsp;not&amp;nbsp;a&amp;nbsp;simple&amp;nbsp;matter&amp;nbsp;of&amp;nbsp;offering&amp;nbsp;financial&amp;nbsp;incentives&amp;nbsp;or&amp;nbsp;providing&amp;nbsp;more&amp;nbsp;child&amp;nbsp;care.&amp;nbsp;Modern&amp;nbsp;urban&amp;nbsp;life&amp;nbsp;in&amp;nbsp;rich&amp;nbsp;countries&amp;nbsp;is&amp;nbsp;not&amp;nbsp;well&amp;nbsp;adapted&amp;nbsp;to&amp;nbsp;large&amp;nbsp;families.&amp;nbsp;Women&amp;nbsp;find&amp;nbsp;it&amp;nbsp;hard&amp;nbsp;to&amp;nbsp;combine&amp;nbsp;family&amp;nbsp;and&amp;nbsp;career.&amp;nbsp;They&amp;nbsp;often&amp;nbsp;compromise&amp;nbsp;by&amp;nbsp;having&amp;nbsp;just&amp;nbsp;one&amp;nbsp;child.&amp;nbsp;&lt;br /&gt;
+	J)&amp;nbsp;And&amp;nbsp;if&amp;nbsp;fertility&amp;nbsp;in&amp;nbsp;ageing&amp;nbsp;countries&amp;nbsp;does&amp;nbsp;not&amp;nbsp;pick&amp;nbsp;up?&amp;nbsp;It&amp;nbsp;will&amp;nbsp;not&amp;nbsp;be&amp;nbsp;the&amp;nbsp;end&amp;nbsp;of&amp;nbsp;the&amp;nbsp;world,&amp;nbsp;at&amp;nbsp;least&amp;nbsp;not&amp;nbsp;for&amp;nbsp;quite&amp;nbsp;a&amp;nbsp;while&amp;nbsp;yet,&amp;nbsp;but&amp;nbsp;the&amp;nbsp;world&amp;nbsp;will&amp;nbsp;become&amp;nbsp;a&amp;nbsp;different&amp;nbsp;place.&amp;nbsp;Older&amp;nbsp;societies&amp;nbsp;may&amp;nbsp;be&amp;nbsp;less&amp;nbsp;innovative&amp;nbsp;and&amp;nbsp;more&amp;nbsp;strongly&amp;nbsp;disinclined&amp;nbsp;to&amp;nbsp;take&amp;nbsp;risks&amp;nbsp;than&amp;nbsp;younger&amp;nbsp;ones.&amp;nbsp;By&amp;nbsp;2025&amp;nbsp;at&amp;nbsp;the&amp;nbsp;latest,&amp;nbsp;about&amp;nbsp;half&amp;nbsp;the&amp;nbsp;voters&amp;nbsp;in&amp;nbsp;America&amp;nbsp;and&amp;nbsp;most&amp;nbsp;of&amp;nbsp;those&amp;nbsp;in&amp;nbsp;western&amp;nbsp;European&amp;nbsp;countries&amp;nbsp;will&amp;nbsp;be&amp;nbsp;over&amp;nbsp;50&amp;mdash;and&amp;nbsp;older&amp;nbsp;people&amp;nbsp;turn&amp;nbsp;out&amp;nbsp;to&amp;nbsp;vote&amp;nbsp;in&amp;nbsp;much&amp;nbsp;greater&amp;nbsp;numbers&amp;nbsp;than&amp;nbsp;younger&amp;nbsp;ones.&amp;nbsp;Academic&amp;nbsp;studies&amp;nbsp;have&amp;nbsp;found&amp;nbsp;no&amp;nbsp;evidence&amp;nbsp;so&amp;nbsp;far&amp;nbsp;that&amp;nbsp;older&amp;nbsp;voters&amp;nbsp;have&amp;nbsp;used&amp;nbsp;their&amp;nbsp;power&amp;nbsp;at&amp;nbsp;the&amp;nbsp;ballot&amp;nbsp;box&amp;nbsp;to&amp;nbsp;push&amp;nbsp;for&amp;nbsp;policies&amp;nbsp;that&amp;nbsp;specifically&amp;nbsp;benefit&amp;nbsp;them,&amp;nbsp;though&amp;nbsp;if&amp;nbsp;in&amp;nbsp;future&amp;nbsp;there&amp;nbsp;are&amp;nbsp;many&amp;nbsp;more&amp;nbsp;of&amp;nbsp;them&amp;nbsp;they&amp;nbsp;might&amp;nbsp;start&amp;nbsp;doing&amp;nbsp;so.&amp;nbsp;&lt;br /&gt;
+	K)&amp;nbsp;Nor&amp;nbsp;is&amp;nbsp;there&amp;nbsp;any&amp;nbsp;sign&amp;nbsp;of&amp;nbsp;the&amp;nbsp;intergenerational&amp;nbsp;warfare&amp;nbsp;predicted&amp;nbsp;in&amp;nbsp;the&amp;nbsp;1990s.&amp;nbsp;After&amp;nbsp;all,&amp;nbsp;older&amp;nbsp;people&amp;nbsp;themselves&amp;nbsp;mostly&amp;nbsp;have&amp;nbsp;families.&amp;nbsp;In&amp;nbsp;a&amp;nbsp;recent&amp;nbsp;study&amp;nbsp;of&amp;nbsp;parents&amp;nbsp;and&amp;nbsp;grown-up&amp;nbsp;children&amp;nbsp;in&amp;nbsp;11&amp;nbsp;European&amp;nbsp;countries,&amp;nbsp;Karsten&amp;nbsp;Hank&amp;nbsp;of&amp;nbsp;Mannheim&amp;nbsp;University&amp;nbsp;found&amp;nbsp;that&amp;nbsp;85%&amp;nbsp;of&amp;nbsp;them&amp;nbsp;lived&amp;nbsp;within&amp;nbsp;25km&amp;nbsp;of&amp;nbsp;each&amp;nbsp;other&amp;nbsp;and&amp;nbsp;the&amp;nbsp;majority&amp;nbsp;of&amp;nbsp;them&amp;nbsp;were&amp;nbsp;in&amp;nbsp;touch&amp;nbsp;at&amp;nbsp;least&amp;nbsp;once&amp;nbsp;a&amp;nbsp;week.&amp;nbsp;&lt;br /&gt;
+	L)&amp;nbsp;Even&amp;nbsp;so,&amp;nbsp;the&amp;nbsp;shift&amp;nbsp;in&amp;nbsp;the&amp;nbsp;centre&amp;nbsp;of&amp;nbsp;gravity&amp;nbsp;to&amp;nbsp;older&amp;nbsp;age&amp;nbsp;groups&amp;nbsp;is&amp;nbsp;bound&amp;nbsp;to&amp;nbsp;have&amp;nbsp;a&amp;nbsp;profound&amp;nbsp;effect&amp;nbsp;on&amp;nbsp;societies,&amp;nbsp;not&amp;nbsp;just&amp;nbsp;economically&amp;nbsp;and&amp;nbsp;politically&amp;nbsp;but&amp;nbsp;in&amp;nbsp;all&amp;nbsp;sorts&amp;nbsp;of&amp;nbsp;other&amp;nbsp;ways&amp;nbsp;too.&amp;nbsp;Richard&amp;nbsp;Jackson&amp;nbsp;and&amp;nbsp;Neil&amp;nbsp;Howe&amp;nbsp;of&amp;nbsp;America&amp;rsquo;s&amp;nbsp;CSIS,&amp;nbsp;in&amp;nbsp;a&amp;nbsp;thoughtful&amp;nbsp;book&amp;nbsp;called&amp;nbsp;The&amp;nbsp;Graying&amp;nbsp;of&amp;nbsp;the&amp;nbsp;Great&amp;nbsp;Powers,&amp;nbsp;argue&amp;nbsp;that,&amp;nbsp;among&amp;nbsp;other&amp;nbsp;things,&amp;nbsp;the&amp;nbsp;ageing&amp;nbsp;of&amp;nbsp;the&amp;nbsp;developed&amp;nbsp;countries&amp;nbsp;will&amp;nbsp;have&amp;nbsp;a&amp;nbsp;number&amp;nbsp;of&amp;nbsp;serious&amp;nbsp;security&amp;nbsp;implications.&amp;nbsp;&lt;br /&gt;
+	M)&amp;nbsp;For&amp;nbsp;example,&amp;nbsp;the&amp;nbsp;shortage&amp;nbsp;of&amp;nbsp;young&amp;nbsp;adults&amp;nbsp;is&amp;nbsp;likely&amp;nbsp;to&amp;nbsp;make&amp;nbsp;countries&amp;nbsp;more&amp;nbsp;reluctant&amp;nbsp;to&amp;nbsp;commit&amp;nbsp;the&amp;nbsp;few&amp;nbsp;they&amp;nbsp;have&amp;nbsp;to&amp;nbsp;military&amp;nbsp;service.&amp;nbsp;In&amp;nbsp;the&amp;nbsp;decades&amp;nbsp;to&amp;nbsp;2050,&amp;nbsp;America&amp;nbsp;will&amp;nbsp;find&amp;nbsp;itself&amp;nbsp;playing&amp;nbsp;an&amp;nbsp;ever-increasing&amp;nbsp;role&amp;nbsp;in&amp;nbsp;the&amp;nbsp;developed&amp;nbsp;world&amp;rsquo;s&amp;nbsp;defence&amp;nbsp;effort.&amp;nbsp;Because&amp;nbsp;America&amp;rsquo;s&amp;nbsp;population&amp;nbsp;will&amp;nbsp;still&amp;nbsp;be&amp;nbsp;growing&amp;nbsp;when&amp;nbsp;that&amp;nbsp;of&amp;nbsp;most&amp;nbsp;other&amp;nbsp;developed&amp;nbsp;countries&amp;nbsp;is&amp;nbsp;shrinking,&amp;nbsp;America&amp;nbsp;will&amp;nbsp;be&amp;nbsp;the&amp;nbsp;only&amp;nbsp;developed&amp;nbsp;country&amp;nbsp;that&amp;nbsp;still&amp;nbsp;matters&amp;nbsp;geopolitically&amp;nbsp;(地缘政治上).&amp;nbsp;&lt;br /&gt;
+	N)&amp;nbsp;There&amp;nbsp;is&amp;nbsp;little&amp;nbsp;that&amp;nbsp;can&amp;nbsp;be&amp;nbsp;done&amp;nbsp;to&amp;nbsp;stop&amp;nbsp;population&amp;nbsp;ageing,&amp;nbsp;so&amp;nbsp;the&amp;nbsp;world&amp;nbsp;will&amp;nbsp;have&amp;nbsp;to&amp;nbsp;live&amp;nbsp;with&amp;nbsp;it.&amp;nbsp;But&amp;nbsp;some&amp;nbsp;of&amp;nbsp;the&amp;nbsp;consequences&amp;nbsp;can&amp;nbsp;be&amp;nbsp;alleviated.&amp;nbsp;Many&amp;nbsp;experts&amp;nbsp;now&amp;nbsp;believe&amp;nbsp;that&amp;nbsp;given&amp;nbsp;the&amp;nbsp;right&amp;nbsp;policies,&amp;nbsp;the&amp;nbsp;effects,&amp;nbsp;though&amp;nbsp;grave,&amp;nbsp;need&amp;nbsp;not&amp;nbsp;be&amp;nbsp;catastrophic.&amp;nbsp;Most&amp;nbsp;countries&amp;nbsp;have&amp;nbsp;recognised&amp;nbsp;the&amp;nbsp;need&amp;nbsp;to&amp;nbsp;do&amp;nbsp;something&amp;nbsp;and&amp;nbsp;are&amp;nbsp;beginning&amp;nbsp;to&amp;nbsp;act.&amp;nbsp;&lt;br /&gt;
+	O)&amp;nbsp;But&amp;nbsp;even&amp;nbsp;then&amp;nbsp;there&amp;nbsp;is&amp;nbsp;no&amp;nbsp;guarantee&amp;nbsp;that&amp;nbsp;their&amp;nbsp;efforts&amp;nbsp;will&amp;nbsp;work.&amp;nbsp;What&amp;nbsp;is&amp;nbsp;happening&amp;nbsp;now&amp;nbsp;is&amp;nbsp;historically&amp;nbsp;unprecedented.&amp;nbsp;The&amp;nbsp;director&amp;nbsp;of&amp;nbsp;Economics&amp;nbsp;and&amp;nbsp;Demography&amp;nbsp;of&amp;nbsp;Ageing&amp;nbsp;at&amp;nbsp;the&amp;nbsp;University&amp;nbsp;of&amp;nbsp;California,&amp;nbsp;Berkeley,&amp;nbsp;puts&amp;nbsp;it&amp;nbsp;briefly&amp;nbsp;and&amp;nbsp;clearly:&amp;nbsp;&amp;ldquo;We&amp;nbsp;don&amp;rsquo;t&amp;nbsp;really&amp;nbsp;know&amp;nbsp;what&amp;nbsp;population&amp;nbsp;ageing&amp;nbsp;will&amp;nbsp;be&amp;nbsp;like,&amp;nbsp;because&amp;nbsp;nobody&amp;nbsp;has&amp;nbsp;done&amp;nbsp;it&amp;nbsp;yet.&amp;rdquo;&lt;/p&gt;
+</Content>
+        <WordList>
+          <Word id="A">A</Word>
+          <Word id="B">B</Word>
+          <Word id="C">C</Word>
+          <Word id="D">D</Word>
+          <Word id="E">E</Word>
+          <Word id="F">F</Word>
+          <Word id="G">G</Word>
+          <Word id="H">H</Word>
+          <Word id="I">I</Word>
+          <Word id="J">J</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>I</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

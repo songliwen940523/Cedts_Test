@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="19583588-dcdb-475a-a553-db7fc37e18cb" totalScore="10" totalTime="10" name="20140115" resultTime="0" bShowAns="1" Diffcult="0.1" Type="大学四级试题">
+  <Part Type="ReadingComprehension">
+    <Section type="12" typecn="信息匹配" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="d6b1224f-3c48-4a41-a7f0-2c908f5a8f12" PartType="3" ItemType="12" ItemType_CN="信息匹配" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="">
+        <Content>&lt;p&gt;
+	GFDGDSFGDSGFSD&lt;/p&gt;
+</Content>
+        <WordList>
+          <Word id="A0">aa</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>B</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>B</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>C</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>D</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>E</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>F</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>G</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>H</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>I</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

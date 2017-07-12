@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<Paper UserID="751" UpdateUserID="751" PaperID="510b4357-4f17-4169-baa2-bbc82a7be960" totalScore="10" totalTime="10" name="111333" resultTime="0" bShowAns="1" Diffcult="10" Type="按题型组卷">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="144c4775-8d03-486d-a872-00a7071fcb66" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;b&gt;Rushmoore National Monument&lt;/b&gt;&lt;br/&gt;        The well-known Rushmoore National Monument in the United States is erected （使竖立） on the Rushmoore Peak, 1829 meters above sea level, of the Black Hills in the south — west of South Dakota. It is a group of huge stone statues of four American presidents, George Washington, Thomas Jefferson, Abraham Licoln and Theodore Roosevelt. President Washington is the founding father of the country; the 3rd President Jefferson drafted the U．S．Declaration of Independence; the 16th President Lincoln issued the Emancipation Proclamation （独立宣言） and the 26th President Roosevelt protected the average people's right to compete fairly with trusts. All the four presidents made outstanding achievements for their country. They were pioneers of U.S. history.&lt;br/&gt;        The stone statues of presidents were built at the suggestion of an historian in the State of Dakota, with a view to carrying forward the U.S. pioneering spirit everlastingly. The famed artist Gutzon Borglum, a naturalized Danish-American, made the design and was in charge of the project of historic significance. It was the 30th President Calvin Coolidge who announced in 1927 the start of the stone work. But before the work done, the sculptor passed away when he was 73 years of age. He was then succeeded by his son, and it was not until 1941 that the National Monument was put up.&lt;br/&gt;        As the stone statues were rather enormous, technology of directional blasting was resorted to in the main. Explosives were used to blow up the peak into models first, and then the stonemasons carved them into statues with tools. The broken stones weighed about four hundred fifty thousand tons in total. This project was the fruit of arduous （辛勤的） work done by a contingent of 360 odd masons （石工） in as long as 14 years. A sum of one million dollar was expended.&lt;br/&gt;        The statues are 18 meters high. They are the highest and greatest realistic stone statues in the world, taller than a 6-storied building and larger than the Great Sphinx of Egypt. The size of each head is 20 sq mt, with a 20-meter long face, a 7-meter long nose, a 2.6-meter wide mouth and two 1.5-meter wide eyes. Though not facing the same direction, they are all lifelike and look ahead gravely in harmony with fixed gazes. On clear days,one can have a sight of the four presidents with their firm and steady expression at a distance of dozens of kilometers. &lt;br/&gt;        Since the stone sculpture is unique in style, the Monument is now the U．S．National Art Centre of Popular Education. Groups of people keep streaming everyday to the site for a visit and tourists across the world are also interested in taking a view of this colossal （庞大的） Monument.</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>This passage is about the well-known Rushmoore National Monument in Russia.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Rushmoore National Monument is located in west of South Dakota．</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Rushmoore National Monument is a group of huge stone statues of five American presidents．</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>President Washington is the founding father of the U.S.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>The Declaration of Independence was drafted by the 3rd President of the U.S.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>Lincoln is a thin man with much determination.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>The stone statues of presidents were built at the suggestion of an economist．</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>The statues of Rushmoore National Monument are  ____ meters high．</Prompt>
+            <Answer>
+              <Value>18</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>It was the 30th President ____  who announced in 1927 the start of the stone work．</Prompt>
+            <Answer>
+              <Value>Calvin Coolidge</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>On____ days,one can have a sight of the four presidents with their firm and steady expression at a distance of dozens of kilometers．</Prompt>
+            <Answer>
+              <Value>clear</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

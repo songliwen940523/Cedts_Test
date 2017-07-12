@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="b3c2e05f-cff3-41a8-89bd-cae5788c95b9" totalScore="10" totalTime="10" name="hk" resultTime="0" bShowAns="1" Diffcult="10" Type="选择试卷">
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="a5c8d0af-6792-461e-8d9a-305d03ede310" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;p&gt;
+	&amp;nbsp;As war spreads to many corners of the globe, children sadly have been drawn into the center of conflicts. In Afghanistan, Bosnia, and Colombia, however, groups of children have been taking part in peace education&amp;nbsp;(_1_) . The children, after learning to resolve conflicts, took on the&amp;nbsp;(_2_) of peacemakers. The Children&amp;rsquo;s Movement for Peace in Colombia was even nominated (提名) for the Nobel Peace Prize in 1998. groups of children&amp;nbsp;(_3_) as peacemakers studied human rights and poverty issues in Colombia, eventually forming a group with five other schools in Bogota known as The Schools of Peace.&lt;br /&gt;
+	&lt;br /&gt;
+	　　The classroom&amp;nbsp; (_4_)opportunities for children to replace angry, violent behaviors with&amp;nbsp; (_5_), peaceful ones. It is in the classroom that caring and respect for each person empowers children to take a step&amp;nbsp;&amp;nbsp;(_6_) toward becoming peacemakers. Fortunately, educators have access to many online resources that are&amp;nbsp;(_7_) useful when helping children along the path to peace. The Young Peacemakers Club, started in 1992, provides a Website with resources for teachers and&amp;nbsp; (_8_)on starting a Kindness Campaign. The World Centers of Compassion for Children International call attention to children&amp;rsquo;s rights and how to help the&amp;nbsp;(_9_) of war. Starting a Peacemakers&amp;rsquo; Club is a praiseworthy venture for a class and one that could spread to other classrooms and ideally affect the culture of the&amp;nbsp;(_10_) school.&lt;/p&gt;
+</Content>
+        <WordList>
+          <Word id="B">fsafd</Word>
+          <Word id="C">hdf</Word>
+          <Word id="D">gfds</Word>
+          <Word id="E">gfds</Word>
+          <Word id="F">hfg</Word>
+          <Word id="G">jh</Word>
+          <Word id="H">jhg</Word>
+          <Word id="I">jhg</Word>
+          <Word id="J">jgh</Word>
+          <Word id="K">dfr</Word>
+          <Word id="L">re</Word>
+          <Word id="M">tret</Word>
+          <Word id="N">ter</Word>
+          <Word id="O">sr</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>M</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

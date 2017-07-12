@@ -1,0 +1,1000 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="c469d82d-fcf2-4849-afeb-c88530419a20" totalScore="62" totalTime="47" name="aaabbb" resultTime="0" bShowAns="1" Diffcult="3" Type="按题型组卷">
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="8" Time="8">
+      <AssessmentItem ItemID="7f24e72a-dac8-4f8e-b74b-0822cbaecbf0" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="16" Course="" Unit="">
+        <soundFile>FB89B9F3AA406D42AB55FF86FC8EB3F3</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He is a professional photographer.</choice>
+              <choice id="B">He's just started to learn photography.</choice>
+              <choice id="C">He is looking at some beautiful pictures.</choice>
+              <choice id="D">He is learning art from a professional.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Oh, look at these pictures! They must be the work of a professional!
+M: You really think so? I'll be happy to tell Phil. But as a matter of fact, he is just a beginner as far as photography goes.
+Q: What do we learn about Phil from the conversation?</Script>
+        <soundFile>5423DA71373A244496C6A3504C11795E</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Buy an apartment.</choice>
+              <choice id="B">Lend her some money for a cheap apartment.</choice>
+              <choice id="C">Find a cheaper apartment.</choice>
+              <choice id="D">Move out from the cheap apartment.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: I really need to make some extra money. I've spent my entire budget for the year.
+W: A cheaper apartment may save you a large amount of money. 
+Q: What does the woman advise the man to do?
+</Script>
+        <soundFile>E70685972D77374A8F73086C84C58899</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">England.</choice>
+              <choice id="B">America.</choice>
+              <choice id="C">Australia.</choice>
+              <choice id="D">Canada.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: I think you speak excellent English. Are you from England?
+W: Thank you, sir, but I'm from Canada.
+Q: Where is the woman from?</Script>
+        <soundFile>54C265C645CF4048B783CA525900A74E</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">She thought there were no tickets left for the show.</choice>
+              <choice id="B">She thought the seats on the left side were fully occupied.</choice>
+              <choice id="C">The show was planned a long time ago.</choice>
+              <choice id="D">The audience were deeply impressed by the show.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: I heard there are a few seats left for the show tonight.
+W: Really? I was under the impression that the tickets were sold out a long time ago.
+Q: What do we know from the woman's reply?</Script>
+        <soundFile>8438E084FF9A65419332556E6C3CDB9F</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Demanding.</choice>
+              <choice id="B">Fearful.</choice>
+              <choice id="C">Tiresome.</choice>
+              <choice id="D">Easy.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Sam, you have been a police officer for thirty years. Then, how do you think of it?
+M: Well, most people would say that it is very stressful. But to me, patrol is the most stressful one.
+Q: What is the general picture of being a police officer?</Script>
+        <soundFile>399674FC59DFD040805556FDF2350D9F</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Extremely anxious.</choice>
+              <choice id="B">Very relaxed.</choice>
+              <choice id="C">Angry at the professor.</choice>
+              <choice id="D">Not as nervous as he expected.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Were you nervous when the professor called on you?
+M: I'll say I shook all over. 
+Q: How did the man feel?
+</Script>
+        <soundFile>EF5F94E3C008B84FA39A4F4A82CE4EAF</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He arrived early.</choice>
+              <choice id="B">He arrived late.</choice>
+              <choice id="C">He left at 5.</choice>
+              <choice id="D">He left at 4.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Wouldn't it have been better to have had Mr. Jones leave at 4 instead of 5?
+W: Hardly, if we'd had him do that, he would have arrived too early.
+Q: What did you learn about Mr. Jones?</Script>
+        <soundFile>1F7FBE075692E74CA1F861970FFBD929</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">They had to move her truck.</choice>
+              <choice id="B">There was only one thing wrong with her truck.</choice>
+              <choice id="C">The engine had to be taken out of her truck.</choice>
+              <choice id="D">She had to hire an engineer.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Why did it take them so long to fix your car?
+W: Well, for one thing, they had to remove the engine.
+Q: What does the woman mean?</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="e60358d5-1438-4e4f-8acf-0864ac4f5c4a" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="" />
+      <AssessmentItem ItemID="71b5168d-c7d5-4600-a743-089daeb8781c" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="12" Course="" Unit="" />
+      <AssessmentItem ItemID="a30366ec-f6ec-42ee-83ec-08a6aceea64e" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="16" Course="" Unit="" />
+      <AssessmentItem ItemID="15b40fe2-7353-433c-982f-08b5f7a22874" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="18" Course="" Unit="" />
+      <AssessmentItem ItemID="e9cce397-e64f-42a0-a388-08c6a7634048" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="11" Course="" Unit="" />
+      <AssessmentItem ItemID="4fb9bd20-7deb-49b6-90c0-08d794c9e7d0" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="19" Course="" Unit="" />
+      <AssessmentItem ItemID="3e016cda-c380-40bb-b627-08ddf78cf2f5" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="11" Course="" Unit="" />
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="8" Time="8">
+      <AssessmentItem ItemID="d454c498-176c-43b5-a96a-1128da0e5ca7" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="53" Course="" Unit="">
+        <soundFile>55FAD5A29B288A45A05DE63C59048949</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">To the science museum.</choice>
+              <choice id="B">To the art museum.</choice>
+              <choice id="C">To the bus station.</choice>
+              <choice id="D">To the railway station.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Where does the man want to go?</Script>
+            <Sound duration="4">4355CE91F204584591C8FDB8C12EB6DA</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">A dollar fifteen.</choice>
+              <choice id="B">A dollar forty.</choice>
+              <choice id="C">A dollar fifty.</choice>
+              <choice id="D">A dollar fourteen.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How much is the train ride?</Script>
+            <Sound duration="3">F69E5F07EFBB354582387EDB0689112E</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Platform No. 2.</choice>
+              <choice id="B">Platform No. 3.</choice>
+              <choice id="C">Platform No. 4.</choice>
+              <choice id="D">Platform No. 5.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Where should the man get on the train?</Script>
+            <Sound duration="4">375A7949DFE1B344BB3D3799C2B5D0DF</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">About every five minutes.</choice>
+              <choice id="B">About every six minutes.</choice>
+              <choice id="C">About every eight minutes.</choice>
+              <choice id="D">About every ten minutes.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How often do the trains come?</Script>
+            <Sound duration="4">5099A26B56B78E4880E88BEE1DCDCA3D</Sound>
+          </question>
+        </Questions>
+        <Script>W: Excuse me. Do you need any help? 
+M: Nah, I . . . I'm just looking… Um . . . I want to go to the science museum, but I've been lost for the past few hours, and I am not sure how to use these ticket machines. 
+W: Ah, well, just press this button. And from here, it's a dollar fifty. 
+M: Okay. 
+W: Then, get on the train at platform No. 4. 
+M: Alright, thanks, and how often do the trains come around this time of day? 
+W: Usually, they come about every six minutes. 
+M: Okay. And where do I get off the train? 
+W: Get off at State Street Station, three stops from here. 
+M: Okay. I got it. Thanks for your help. 
+W: Not at all. Good luck.</Script>
+        <soundFile>6CC798F48D1D9F47AA2CAE7821EE5270</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">A handbag.</choice>
+              <choice id="B">A suitcase.</choice>
+              <choice id="C">A travel guide.</choice>
+              <choice id="D">A traveling bag.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the man want to buy?</Script>
+            <Sound duration="3">2E73281DDC3FF441BFACAEDCF2FFC4C4</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">He lost it.</choice>
+              <choice id="B">He sent it to others as a present.</choice>
+              <choice id="C">It was torn when climbing Mount Tai.</choice>
+              <choice id="D">It fell down from Mount Tai.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What's wrong with the man's last bag?</Script>
+            <Sound duration="3">E7445FCF8AF608409FD76DF0472F5B7E</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">It can be used for every purpose.</choice>
+              <choice id="B">It has six separate zipped compartments.</choice>
+              <choice id="C">It can hold a lot of things.</choice>
+              <choice id="D">It is made of artificial material.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According to the woman, why is the bag called \"everything bag\"?</Script>
+            <Sound duration="5">688920213E98344494BEC469B3FE9BC4</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Beautiful.</choice>
+              <choice id="B">Nice.</choice>
+              <choice id="C">Expensive.</choice>
+              <choice id="D">Practical and smart.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How does the man describe the bag?</Script>
+            <Sound duration="4">02DC7F764CE54E4A955940F5418350D2</Sound>
+          </question>
+        </Questions>
+        <Script>W: What can I show you, sir?
+M: I had my travelling bag torn when climbing Mount Tai. I want to buy a new one.
+W: What about this one? People like to call it \"everything bag\".
+M: Why is it called \"everything bag\"?
+W: The bag can be used for every purpose. It has six separate zipped compartments, and can hold a lot of things. It is made of artificial material that looks and feels like real leather.
+M: Really? Will it scuff easily?
+W: No, it won't. It does not soil easily either and most spots are easy to wipe out. What's more, when the bag isn't used, it can be folded up.
+M: Great! It is practical and smart. I'll take it.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="a73a5cb4-7535-490c-a5b1-1253b5b0ce14" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="44" Course="" Unit="" />
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="11" Time="11">
+      <AssessmentItem ItemID="feb0b31a-a195-4311-91b9-0a6dde4f0214" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="80" Course="" Unit="">
+        <soundFile>932A7D6D17F8CB4EB7E6E14D6EABDE3B</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">They will first study the project.</choice>
+              <choice id="B">They will dig out the garbage.</choice>
+              <choice id="C">They will be divided into teams.</choice>
+              <choice id="D">They will pick up litter in the picnic area.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How will the club members work to clean up the area?</Script>
+            <Sound duration="6">C379C37A2C035042863B759F874B8C26</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">In the boxes.</choice>
+              <choice id="B">In some plastic bags.</choice>
+              <choice id="C">In a truck.</choice>
+              <choice id="D">In a dustbin along the riverside.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Where will the club members put litter?</Script>
+            <Sound duration="4">99748E7620D2844AA0A1981B9018F715</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Toss them in some boxes.</choice>
+              <choice id="B">Put them in the plastic bags.</choice>
+              <choice id="C">Donate them to the club.</choice>
+              <choice id="D">Dig them out and send them to recycling center. </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What will the club members do with the aluminum cans?</Script>
+            <Sound duration="5">C3EB3BA8C3121E4A8E6D058852EAE1A4</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Around the lake.</choice>
+              <choice id="B">In the Park.</choice>
+              <choice id="C">Along the jogging path.</choice>
+              <choice id="D">In the shallow waters of the lake. </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Where will the club members put up the "Do Not Litter" signs?</Script>
+            <Sound duration="6">4EE87EDE8B175E4B86C0BCEF4BB143F7</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">Introduction to a program.</choice>
+              <choice id="B">Claim of rights.</choice>
+              <choice id="C">Announcement by a project organizer.</choice>
+              <choice id="D">Opening speech by a teacher. </choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is most probably the passage about?</Script>
+            <Sound duration="6">0901E2E01C2F8349994EC6449B551B27</Sound>
+          </question>
+        </Questions>
+        <Script>Hi, I'm Roris Rily, and I'm the president of the college Environmental Awareness Club. Before we get started, I'd like to thank everyone for coming down to the lake today to help with the cleaning up project. As you probably know, we're going to be cleaning up all of the garbage here at the lake area. We'll begin by dividing into two ten-person teams. One team will pick up litter in the picnic area and jogging trail, and one will dig out garbage found in the shallow waters of the lake itself. We'll be putting the litter in these plastic trash bags. Toss any aluminum cans you find into these boxes, and we'll take them to the recycling center later. A local business has donated these "Do Not Litter" signs to the club. So we'll need a couple of people to place them around the lake when we are through. Ok, everyone who wants to clean up around picnic tables and along the jogging path, raise your hands.</Script>
+        <soundFile>4E9B2B5EBC2A64489EB41D0EF89D675A</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">Workers earn more and buy less.</choice>
+              <choice id="B">More goods are produced.</choice>
+              <choice id="C">The demand is bigger than the supply.</choice>
+              <choice id="D">The demand is smaller than the supply.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>When do the prices go up according to economists?</Script>
+            <Sound duration="8">0C63CA6D23963244B457AE21FFE70D72</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">We try to earn more money.</choice>
+              <choice id="B">We buy less necessities of life.</choice>
+              <choice id="C">We learn to spend the money wisely.</choice>
+              <choice id="D">We ask the government for help.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do the writer advise us to do when the cost of living rises?</Script>
+            <Sound duration="8">5AC86872682E484C947EB948472845FD</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">A budget is a list of monthly expenses.</choice>
+              <choice id="B">A budget records your income each month.</choice>
+              <choice id="C">A budget makes the income meet the cost of living.</choice>
+              <choice id="D">A budget lists all daily necessities.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is a budget?</Script>
+            <Sound duration="7">9322C66915C0FA4FAF9BF11AE4E3DBDE</Sound>
+          </question>
+        </Questions>
+        <Script>Why isn't a dollar worth as much as it used to be? One dollar is always worth the same amount, that is, 100 cents. But the value of a dollar is how much it can buy. The value of money depends on the cost of living. Economists say that the cost of living is the money that a family must pay for the necessities of life such as food, housing or rent, clothes, and medical expenses. For many years now, the cost of living has a low value, you can't buy as many things with it.
+No one fully understands why the cost of living keeps increasing, but economists believe that workers and producers can make prices go up. As workers earn more money, they have more money to spend, so they demand more goods. If there is a great demand for certain goods, the prices also go up. For example, if everyone wants to buy more and more gas, the price of gas goes up.
+Families need to know what happens to their money. They need to make their income meet the cost of living, so many people plan a family budget. A budget is a list of monthly expenses. Budgeting helps you spend your money wisely as the cost of living increases.</Script>
+        <soundFile>30D092199814CC468881D0191EBBED19</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">To improve the secondary education in state schools.</choice>
+              <choice id="B">To prevent private education.</choice>
+              <choice id="C">To encourage children to attend secondary schools.</choice>
+              <choice id="D">To establish more secondary schools.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What's the purpose of setting up the committee?</Script>
+            <Sound duration="4">2332F261E4B26948B07DEBAC2E2238C9</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">Parents whose children will enter state schools.</choice>
+              <choice id="B">The children who are at schools.</choice>
+              <choice id="C">Some local officials.</choice>
+              <choice id="D">The teachers at state secondary schools.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following are the representatives of the committee?</Script>
+            <Sound duration="4">104A65E8D1AE32488F4E90AB957003D6</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">The model school will be run by the committee.</choice>
+              <choice id="B">The model school is due to open in a year.</choice>
+              <choice id="C">The present secondary education in Britain is unsatisfactory.</choice>
+              <choice id="D">State schools should be inevitably better than private schools.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which can be concluded from the passage?</Script>
+            <Sound duration="4">FA42A571ABA06F40AB1961E2C2AB7C7E</Sound>
+          </question>
+        </Questions>
+        <Script>There has been growing dissatisfaction about the quality of secondary education in state schools. Because of this, many parents have felt a need to educate their children privately, or even educate them at home.
+The local education authority of a new town in the northeast of England, Compton, has decided to set up a committee composed of representatives of the following groups: the children who attend state secondary schools at the moment, their parents, and the teachers at these schools. The aim of the committee is to decide on the characteristics of a "model" school. The new secondary school which is due to open in Compton next year will be run in accordance with the guidelines drawn up by the committee.
+Inevitably, there will be disagreement among members of the committee and some kind of compromise will have to be reached.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="84295ef4-58b9-4f7e-9407-0c791ca5b121" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="110" Course="" Unit="" />
+      <AssessmentItem ItemID="f40aa1c8-b5c2-439e-81a9-0db468170f1b" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="53" Course="" Unit="" />
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="da63355b-23ca-4f65-9fba-2401dfe7e997" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="163" Course="" Unit="">
+        <Content>        In Jack's country the speed limit was fifty kilometers an hour. Jack often drove (_1_) than that through towns.
+        One day jack was (_2_) his small, red car through a town when a very young policeman (_3_) him and said, "You were driving at more than fifty kilometers an hour, sir. Please give me you name and (_4_)."
+        Jack looked at the young policeman (_5_) and then said to him. "But I started my (_6_) less than an hour ago!"
+        The policeman was (_7_) to his work and did not know the answer to Jack's (_8_). He (_9_) for a few (_10_) and then let Jack go.</Content>
+        <SoundFile>7B346CDCE2F9F444970E5D78B7F61B64</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>faster</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>driving</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>stopped</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>address</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>carefully</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>journey</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>new</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>excuse</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>thought</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>seconds</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="4fc1246d-77ef-4d0f-ae2d-0fdf98159a69" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        In the shoe family, Chinese-style embroidered（刺绣品） shoes, which have been deemed as a perfect combination of the shoe culture and the art of embroidery, are a 100-percent handicraft creation by Chinese people. (_1_) rooted in Chinese culture, they are (_2_) as "Chinese shoes". &lt;br/&gt;        In (_3_) China, ever since the matrilineal（母系的） society was (_4_) by a patriarchal（男性主宰的） one, the (_5_) division of labor has been (_6_) on men ploughing and women weaving; the tradition of (_7_) shoes has been passed down from one generation to another (_8_) Chinese women.&lt;br/&gt;        Aesthetic（审美的） (_9_), cultural traditions, ethics and morals, as (_10_) as the fashion of different dynasties, have all been well expressed by the needle and thread with which subtle and interesting changes have been incorporated.</Content>
+        <WordList>
+          <Word id="B">reputed</Word>
+          <Word id="C">passed</Word>
+          <Word id="D">Deeply</Word>
+          <Word id="E">imaginations</Word>
+          <Word id="F">highly</Word>
+          <Word id="G">embroidering</Word>
+          <Word id="H">replaced</Word>
+          <Word id="I">based</Word>
+          <Word id="J">conceptions</Word>
+          <Word id="K">social</Word>
+          <Word id="L">made</Word>
+          <Word id="M">well</Word>
+          <Word id="N">beauty</Word>
+          <Word id="O">by</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>I</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>J</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="15" Time="10">
+      <AssessmentItem ItemID="09b89ea2-8840-4d2d-b6be-040415c588a7" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="">
+        <Content>        Long hours at the screen can cause aching eyes, blurred vision and headaches, experts say. In fact, eyestrain surpasses even wrist pain as the top physical complaint among heavy computer users.&lt;br/&gt;        When peering into the computer screen, the eye's focusing muscle is at constant tension. Like any muscle, it feels sore when overloaded. And when someone spends a lot of time looking at something close, the eye muscle can get stuck on the near-focus setting and have difficulty relaxing, leaving the person temporarily nearsighted, a condition called accommodative spasm (痉挛) that can last seconds or hours.&lt;br/&gt;        This is why after looking at a monitor all day, some computer workers complain that their distance vision is blurred when they attempt to drive home.&lt;br/&gt;        The letters on the screen are not as clearly defined as on a printed page. Take a magnifying glass to your monitor and you'll see the letters, each made up of pinpoint sources of light, have no sharp edges. But those liquid crystal display (LCD) monitors, like those found on laptop computers, are easier on the eyes because they display sharper images.&lt;br/&gt;        And studies have shown that when people are working on a computer, their rate of blinking goes down by two-thirds, which can result in dry, stinging eyes. This is especially a problem for contact-lens wearers.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>___ used to be the biggest physical problem that computer users had.</prompt>
+            <choices>
+              <choice id="A">Dry eyes</choice>
+              <choice id="B">Blurred vision</choice>
+              <choice id="C">Headache</choice>
+              <choice id="D">Wrist pain</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Working hours before the screen will _____.</prompt>
+            <choices>
+              <choice id="A">impose too much burden on the eye’s focusing muscle</choice>
+              <choice id="B">bring about near-sightedness</choice>
+              <choice id="C">make it difficult for the user to learn driving</choice>
+              <choice id="D">magnify the letters on the screen</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>LCD monitors are better in terms of eye protecting because ___.</prompt>
+            <choices>
+              <choice id="A">they are more expensive</choice>
+              <choice id="B">they will not blur the user's eyes</choice>
+              <choice id="C">they bring about no eye problems</choice>
+              <choice id="D">they display letters with sharp edges</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>Dry, stinging eyes are caused by ___.</prompt>
+            <choices>
+              <choice id="A">lower rate of blinking of the computer user's eyes</choice>
+              <choice id="B">letters on the screen without any edges</choice>
+              <choice id="C">overburden on the focusing muscle</choice>
+              <choice id="D">a constant tension</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>Which group of people are most likely to get dry, stinging eyes?</prompt>
+            <choices>
+              <choice id="A">Drivers.</choice>
+              <choice id="B">Doctors.</choice>
+              <choice id="C">Glasses wearers.</choice>
+              <choice id="D">Contact-lenses wearers.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        The next time someone receives an award as an outstanding teacher, take a close look at the reasons given for selecting that particular person. Seldom is it because his or her students did higher quality work in math or spoke better English or in fact had any accomplishments that were better than those of other students of teachers who did not get an award. &lt;br/&gt;        If your criterion for judging teachers is how much their students learn, then you can end up with a wholly different list of who are the best teachers. Some of the most unimpressive-looking teachers have consistently turned out students who know their subject far better than teachers who cut a more dashing figure in the classroom and receive more lavish praise from their students or attention from the media. &lt;br/&gt;        My own experience as an undergraduate student at Harvard was completely consistent with what I later learned as a teacher. One of my teachers — Professor Arthur Smithies — was a highly respected scholar but was widely regarded as a terrible teacher. Yet what he taught me has stayed with me for more than 40 years. Nobody observing Professor Smithies in class was likely to be impressed by his performance. He sort of drifted into the room, almost as if he had arrived there by accident. During talks, he often paused to look out the window and seemingly became fascinated by the traffic in Harvard Square. &lt;br/&gt;        But Smithies did teach us. He got us to think — often by questioning us in a way that forced us to follow out the logic of what we were saying to its ultimate conclusion. Often some policy that sounded wonderful, if you looked only at the immediate results, would turn out to be counterproductive if you followed your own logic beyond stage one. Arthur Smithies would never get a teaching award by the standards of the education establishment today.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>Which one of the following is a possible reason why some teachers are awarded as outstanding teachers?</prompt>
+            <choices>
+              <choice id="A">They are excellent in teaching.</choice>
+              <choice id="B">Their students do higher quality work.</choice>
+              <choice id="C">They are impressive-looking.</choice>
+              <choice id="D">None of the above.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Which one of the following is the most decisive in choosing the best teachers?</prompt>
+            <choices>
+              <choice id="A">Appearance.</choice>
+              <choice id="B">How much the students learn.</choice>
+              <choice id="C">How well their classes are received.</choice>
+              <choice id="D">The criterion used for judging teachers.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Which of following is NOT true about the author?</prompt>
+            <choices>
+              <choice id="A">The author is a teacher.</choice>
+              <choice id="B">The author was once an undergraduate student at Harvard.</choice>
+              <choice id="C">The author believes teachers who cut a dashing figure in the classroom are always good teachers.</choice>
+              <choice id="D">The author believes teachers should not be judged only by the praise they receive from the students.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>Professor Arthur Smithies is __________.</prompt>
+            <choices>
+              <choice id="A">widely regarded as a good teacher</choice>
+              <choice id="B">a highly respected scholar</choice>
+              <choice id="C">very devoted in the classroom</choice>
+              <choice id="D">always absent-minded in his teaching</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>Why does the author say Professor Arthur Smithies would never get a teaching reward?</prompt>
+            <choices>
+              <choice id="A">Because today's selection standards only focused on the immediate results.</choice>
+              <choice id="B">Because he was widely regarded as a terrible teacher.</choice>
+              <choice id="C">Because his classroom performance was not satisfactory.</choice>
+              <choice id="D">Because he questioned the students and forced them to think on their own.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="782456c9-b91a-4d1a-9a55-041cbd277ce2" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="" />
+    </Section>
+  </Part>
+</Paper>

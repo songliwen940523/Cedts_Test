@@ -1,0 +1,1653 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CedtsModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="CedtsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CEDTS_AssessmentItem" EntityType="CedtsModel.CEDTS_AssessmentItem" />
+    <EntitySet Name="CEDTS_Assign" EntityType="CedtsModel.CEDTS_Assign" />
+    <EntitySet Name="CEDTS_AssignAssessment" EntityType="CedtsModel.CEDTS_AssignAssessment" />
+    <EntitySet Name="CEDTS_AssignQuestionKnowledge" EntityType="CedtsModel.CEDTS_AssignQuestionKnowledge" />
+    <EntitySet Name="CEDTS_Card" EntityType="CedtsModel.CEDTS_Card" />
+    <EntitySet Name="CEDTS_Class" EntityType="CedtsModel.CEDTS_Class" />
+    <EntitySet Name="CEDTS_Contact" EntityType="CedtsModel.CEDTS_Contact" />
+    <EntitySet Name="CEDTS_CoreFeatures" EntityType="CedtsModel.CEDTS_CoreFeatures" />
+    <EntitySet Name="CEDTS_Expansion" EntityType="CedtsModel.CEDTS_Expansion" />
+    <EntitySet Name="CEDTS_Feedback" EntityType="CedtsModel.CEDTS_Feedback" />
+    <EntitySet Name="CEDTS_Grade" EntityType="CedtsModel.CEDTS_Grade" />
+    <EntitySet Name="CEDTS_Instructions" EntityType="CedtsModel.CEDTS_Instructions" />
+    <EntitySet Name="CEDTS_ItemType" EntityType="CedtsModel.CEDTS_ItemType" />
+    <EntitySet Name="CEDTS_KnowledgePoints" EntityType="CedtsModel.CEDTS_KnowledgePoints" />
+    <EntitySet Name="CEDTS_KpToKp" EntityType="CedtsModel.CEDTS_KpToKp" />
+    <EntitySet Name="CEDTS_Log" EntityType="CedtsModel.CEDTS_Log" />
+    <EntitySet Name="CEDTS_Major" EntityType="CedtsModel.CEDTS_Major" />
+    <EntitySet Name="CEDTS_Paper" EntityType="CedtsModel.CEDTS_Paper" />
+    <EntitySet Name="CEDTS_PaperAssessment" EntityType="CedtsModel.CEDTS_PaperAssessment" />
+    <EntitySet Name="CEDTS_PaperExpansion" EntityType="CedtsModel.CEDTS_PaperExpansion" />
+    <EntitySet Name="CEDTS_Partner" EntityType="CedtsModel.CEDTS_Partner" />
+    <EntitySet Name="CEDTS_PartType" EntityType="CedtsModel.CEDTS_PartType" />
+    <EntitySet Name="CEDTS_Question" EntityType="CedtsModel.CEDTS_Question" />
+    <EntitySet Name="CEDTS_QuestionKnowledge" EntityType="CedtsModel.CEDTS_QuestionKnowledge" />
+    <EntitySet Name="CEDTS_SampleKnowledgeInfomation" EntityType="CedtsModel.CEDTS_SampleKnowledgeInfomation" />
+    <EntitySet Name="CEDTS_Saying" EntityType="CedtsModel.CEDTS_Saying" />
+    <EntitySet Name="CEDTS_SmapleAnswerTypeInfo" EntityType="CedtsModel.CEDTS_SmapleAnswerTypeInfo" />
+    <EntitySet Name="CEDTS_SystemOverview" EntityType="CedtsModel.CEDTS_SystemOverview" />
+    <EntitySet Name="CEDTS_TClass" EntityType="CedtsModel.CEDTS_TClass" />
+    <EntitySet Name="CEDTS_tempAssessmentItemTime" EntityType="CedtsModel.CEDTS_tempAssessmentItemTime" />
+    <EntitySet Name="CEDTS_TemporaryAssessmentItem" EntityType="CedtsModel.CEDTS_TemporaryAssessmentItem" />
+    <EntitySet Name="CEDTS_TemporaryExpansion" EntityType="CedtsModel.CEDTS_TemporaryExpansion" />
+    <EntitySet Name="CEDTS_TemporaryPaperAssessment" EntityType="CedtsModel.CEDTS_TemporaryPaperAssessment" />
+    <EntitySet Name="CEDTS_TemporaryQuestion" EntityType="CedtsModel.CEDTS_TemporaryQuestion" />
+    <EntitySet Name="CEDTS_TemporaryQuestionKnowledge" EntityType="CedtsModel.CEDTS_TemporaryQuestionKnowledge" />
+    <EntitySet Name="CEDTS_tempTestAnswer" EntityType="CedtsModel.CEDTS_tempTestAnswer" />
+    <EntitySet Name="CEDTS_Test" EntityType="CedtsModel.CEDTS_Test" />
+    <EntitySet Name="CEDTS_TestAnswer" EntityType="CedtsModel.CEDTS_TestAnswer" />
+    <EntitySet Name="CEDTS_TestAnswerKnowledgePoint" EntityType="CedtsModel.CEDTS_TestAnswerKnowledgePoint" />
+    <EntitySet Name="CEDTS_TestAnswerTypeInfo" EntityType="CedtsModel.CEDTS_TestAnswerTypeInfo" />
+    <EntitySet Name="CEDTS_TestAssessment" EntityType="CedtsModel.CEDTS_TestAssessment" />
+    <EntitySet Name="CEDTS_Testing" EntityType="CedtsModel.CEDTS_Testing" />
+    <EntitySet Name="CEDTS_User" EntityType="CedtsModel.CEDTS_User" />
+    <EntitySet Name="CEDTS_UserAnswerInfo" EntityType="CedtsModel.CEDTS_UserAnswerInfo" />
+    <EntitySet Name="CEDTS_UserAssessmentCount" EntityType="CedtsModel.CEDTS_UserAssessmentCount" />
+    <EntitySet Name="CEDTS_UserCard" EntityType="CedtsModel.CEDTS_UserCard" />
+    <EntitySet Name="CEDTS_UserKnowledgeInfomation" EntityType="CedtsModel.CEDTS_UserKnowledgeInfomation" />
+    <EntitySet Name="ItemBank" EntityType="CedtsModel.ItemBank" />
+    <EntitySet Name="AQK" EntityType="CedtsModel.AQK" />
+    <EntitySet Name="ExaminationView" EntityType="CedtsModel.ExaminationView" />
+    <EntitySet Name="UserAssessmentCount" EntityType="CedtsModel.UserAssessmentCount" />
+    <AssociationSet Name="FK_CEDTS_AS_REFERENCE_CEDTS_IT" Association="CedtsModel.FK_CEDTS_AS_REFERENCE_CEDTS_IT">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_AS_REFERENCE_CEDTS_US" Association="CedtsModel.FK_CEDTS_AS_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PAA_REFERENCE_CEDTS_AS" Association="CedtsModel.FK_CEDTS_PAA_REFERENCE_CEDTS_AS">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_PaperAssessment" EntitySet="CEDTS_PaperAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_QU_REFERENCE_CEDTS_AS" Association="CedtsModel.FK_CEDTS_QU_REFERENCE_CEDTS_AS">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_Question" EntitySet="CEDTS_Question" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TEA_REFERENCE_CEDTS_AS" Association="CedtsModel.FK_CEDTS_TEA_REFERENCE_CEDTS_AS">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_TestAssessment" EntitySet="CEDTS_TestAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_tempTestAnswer1_CEDTS_AssessmentItem" Association="CedtsModel.FK_CEDTS_tempTestAnswer1_CEDTS_AssessmentItem">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_tempTestAnswer" EntitySet="CEDTS_tempTestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswer_CEDTS_AssessmentItem" Association="CedtsModel.FK_CEDTS_TestAnswer_CEDTS_AssessmentItem">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_UserAssessmentCount_CEDTS_AssessmentItem" Association="CedtsModel.FK_CEDTS_UserAssessmentCount_CEDTS_AssessmentItem">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_UserAssessmentCount" EntitySet="CEDTS_UserAssessmentCount" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CEDTS_Expansion_CEDTS_AssessmentItem" Association="CedtsModel.FK_dbo_CEDTS_Expansion_CEDTS_AssessmentItem">
+      <End Role="CEDTS_AssessmentItem" EntitySet="CEDTS_AssessmentItem" />
+      <End Role="CEDTS_Expansion" EntitySet="CEDTS_Expansion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_Class_CEDTS_Grade" Association="CedtsModel.FK_CEDTS_Class_CEDTS_Grade">
+      <End Role="CEDTS_Grade" EntitySet="CEDTS_Grade" />
+      <End Role="CEDTS_Class" EntitySet="CEDTS_Class" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_User_CEDTS_Class" Association="CedtsModel.FK_CEDTS_User_CEDTS_Class">
+      <End Role="CEDTS_Class" EntitySet="CEDTS_Class" />
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_Grade_CEDTS_Major" Association="CedtsModel.FK_CEDTS_Grade_CEDTS_Major">
+      <End Role="CEDTS_Major" EntitySet="CEDTS_Major" />
+      <End Role="CEDTS_Grade" EntitySet="CEDTS_Grade" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_User_CEDTS_Grade" Association="CedtsModel.FK_CEDTS_User_CEDTS_Grade">
+      <End Role="CEDTS_Grade" EntitySet="CEDTS_Grade" />
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_IT_REFERENCE_CEDTS_PA" Association="CedtsModel.FK_CEDTS_IT_REFERENCE_CEDTS_PA">
+      <End Role="CEDTS_PartType" EntitySet="CEDTS_PartType" />
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PaperAssessment_CEDTS_ItemType" Association="CedtsModel.FK_CEDTS_PaperAssessment_CEDTS_ItemType">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_PaperAssessment" EntitySet="CEDTS_PaperAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_SmapleAnswerTypeInfo_CEDTS_ItemType" Association="CedtsModel.FK_CEDTS_SmapleAnswerTypeInfo_CEDTS_ItemType">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_SmapleAnswerTypeInfo" EntitySet="CEDTS_SmapleAnswerTypeInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswer_CEDTS_ItemType" Association="CedtsModel.FK_CEDTS_TestAnswer_CEDTS_ItemType">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_ItemType" Association="CedtsModel.FK_CEDTS_TestAnswerTypeInfo_CEDTS_ItemType">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_TestAnswerTypeInfo" EntitySet="CEDTS_TestAnswerTypeInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_UserAnswerInfo_CEDTS_ItemType" Association="CedtsModel.FK_CEDTS_UserAnswerInfo_CEDTS_ItemType">
+      <End Role="CEDTS_ItemType" EntitySet="CEDTS_ItemType" />
+      <End Role="CEDTS_UserAnswerInfo" EntitySet="CEDTS_UserAnswerInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_LO_REFERENCE_CEDTS_US" Association="CedtsModel.FK_CEDTS_LO_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_Log" EntitySet="CEDTS_Log" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_Major_CEDTS_Partner" Association="CedtsModel.FK_CEDTS_Major_CEDTS_Partner">
+      <End Role="CEDTS_Partner" EntitySet="CEDTS_Partner" />
+      <End Role="CEDTS_Major" EntitySet="CEDTS_Major" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_User_CEDTS_Major" Association="CedtsModel.FK_CEDTS_User_CEDTS_Major">
+      <End Role="CEDTS_Major" EntitySet="CEDTS_Major" />
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PA_REFERENCE_CEDTS_US" Association="CedtsModel.FK_CEDTS_PA_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PAA_REFERENCE_CEDTS_PA" Association="CedtsModel.FK_CEDTS_PAA_REFERENCE_CEDTS_PA">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_PaperAssessment" EntitySet="CEDTS_PaperAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_Paper_CEDTS_Paper" Association="CedtsModel.FK_CEDTS_Paper_CEDTS_Paper">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_Paper1" EntitySet="CEDTS_Paper" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PaperExpansion_CEDTS_Paper" Association="CedtsModel.FK_CEDTS_PaperExpansion_CEDTS_Paper">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_PaperExpansion" EntitySet="CEDTS_PaperExpansion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TE_REFERENCE_CEDTS_PA" Association="CedtsModel.FK_CEDTS_TE_REFERENCE_CEDTS_PA">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Paper" Association="CedtsModel.FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Paper">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_TestAnswerKnowledgePoint" EntitySet="CEDTS_TestAnswerKnowledgePoint" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_Paper" Association="CedtsModel.FK_CEDTS_TestAnswerTypeInfo_CEDTS_Paper">
+      <End Role="CEDTS_Paper" EntitySet="CEDTS_Paper" />
+      <End Role="CEDTS_TestAnswerTypeInfo" EntitySet="CEDTS_TestAnswerTypeInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_PaperAssessment_CEDTS_PartType" Association="CedtsModel.FK_CEDTS_PaperAssessment_CEDTS_PartType">
+      <End Role="CEDTS_PartType" EntitySet="CEDTS_PartType" />
+      <End Role="CEDTS_PaperAssessment" EntitySet="CEDTS_PaperAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_User_CEDTS_Partner" Association="CedtsModel.FK_CEDTS_User_CEDTS_Partner">
+      <End Role="CEDTS_Partner" EntitySet="CEDTS_Partner" />
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_QUK_REFERENCE_CEDTS_QU" Association="CedtsModel.FK_CEDTS_QUK_REFERENCE_CEDTS_QU">
+      <End Role="CEDTS_Question" EntitySet="CEDTS_Question" />
+      <End Role="CEDTS_QuestionKnowledge" EntitySet="CEDTS_QuestionKnowledge" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_QU" Association="CedtsModel.FK_CEDTS_TEAN_REFERENCE_CEDTS_QU">
+      <End Role="CEDTS_Question" EntitySet="CEDTS_Question" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_tempTestAnswer1_CEDTS_Question" Association="CedtsModel.FK_CEDTS_tempTestAnswer1_CEDTS_Question">
+      <End Role="CEDTS_Question" EntitySet="CEDTS_Question" />
+      <End Role="CEDTS_tempTestAnswer" EntitySet="CEDTS_tempTestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_tempAssessmentItemTime1_CEDTS_Test" Association="CedtsModel.FK_CEDTS_tempAssessmentItemTime1_CEDTS_Test">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_tempAssessmentItemTime" EntitySet="CEDTS_tempAssessmentItemTime" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_tempTestAnswer1_CEDTS_Test" Association="CedtsModel.FK_CEDTS_tempTestAnswer1_CEDTS_Test">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_tempTestAnswer" EntitySet="CEDTS_tempTestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TE_REFERENCE_CEDTS_TE" Association="CedtsModel.FK_CEDTS_TE_REFERENCE_CEDTS_TE">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_TestAssessment" EntitySet="CEDTS_TestAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TE_REFERENCE_CEDTS_US" Association="CedtsModel.FK_CEDTS_TE_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_TE" Association="CedtsModel.FK_CEDTS_TEAN_REFERENCE_CEDTS_TE">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswer_CEDTS_Test" Association="CedtsModel.FK_CEDTS_TestAnswer_CEDTS_Test">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Test" Association="CedtsModel.FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Test">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_TestAnswerKnowledgePoint" EntitySet="CEDTS_TestAnswerKnowledgePoint" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_Test" Association="CedtsModel.FK_CEDTS_TestAnswerTypeInfo_CEDTS_Test">
+      <End Role="CEDTS_Test" EntitySet="CEDTS_Test" />
+      <End Role="CEDTS_TestAnswerTypeInfo" EntitySet="CEDTS_TestAnswerTypeInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_US" Association="CedtsModel.FK_CEDTS_TEAN_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_TestAnswer" EntitySet="CEDTS_TestAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_TEA_REFERENCE_CEDTS_US" Association="CedtsModel.FK_CEDTS_TEA_REFERENCE_CEDTS_US">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_TestAssessment" EntitySet="CEDTS_TestAssessment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_UserAnswerInfo_CEDTS_User" Association="CedtsModel.FK_CEDTS_UserAnswerInfo_CEDTS_User">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_UserAnswerInfo" EntitySet="CEDTS_UserAnswerInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_UserAssessmentCount_CEDTS_User" Association="CedtsModel.FK_CEDTS_UserAssessmentCount_CEDTS_User">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_UserAssessmentCount" EntitySet="CEDTS_UserAssessmentCount" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CEDTS_UserKnowledgeInfomation_CEDTS_User" Association="CedtsModel.FK_CEDTS_UserKnowledgeInfomation_CEDTS_User">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_UserKnowledgeInfomation" EntitySet="CEDTS_UserKnowledgeInfomation" />
+    </AssociationSet>
+    <FunctionImport Name="clear">
+      <Parameter Name="PaperID" Mode="In" Type="Guid" />
+    </FunctionImport>
+    <FunctionImport Name="ClearAll" />
+    <FunctionImport Name="DeleteAssessmentItem">
+      <Parameter Name="AssessmentItemID" Mode="In" Type="Guid" />
+    </FunctionImport>
+    <FunctionImport Name="SP_DeletePaper">
+      <Parameter Name="PaperID" Mode="In" Type="Guid" />
+    </FunctionImport>
+    <FunctionImport Name="Update">
+      <Parameter Name="AssessmentItemID" Mode="In" Type="Guid" />
+      <Parameter Name="UpdateUserID" Mode="In" Type="Int32" />
+      <Parameter Name="UpdateTime" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="UpdateState">
+      <Parameter Name="AssessmentItemID" Mode="In" Type="Guid" />
+    </FunctionImport>
+    <EntitySet Name="CEDTS_LearnerStatus" EntityType="CedtsModel.CEDTS_LearnerStatus" />
+    <AssociationSet Name="FK_CEDTS_LearnerStatus_CEDTS_User" Association="CedtsModel.FK_CEDTS_LearnerStatus_CEDTS_User">
+      <End Role="CEDTS_User" EntitySet="CEDTS_User" />
+      <End Role="CEDTS_LearnerStatus" EntitySet="CEDTS_LearnerStatus" />
+    </AssociationSet>
+    <EntitySet Name="CEDTS_PaperAssignClass" EntityType="CedtsModel.CEDTS_PaperAssignClass" />
+  </EntityContainer>
+  <EntityType Name="CEDTS_AssessmentItem">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+    </Key>
+    <Property Name="AssessmentItemID" Type="Guid" Nullable="false" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="Description" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="UpdateUserID" Type="Int32" />
+    <Property Name="SaveTime" Type="DateTime" />
+    <Property Name="Duration" Type="Double" />
+    <Property Name="Difficult" Type="Double" />
+    <Property Name="Score" Type="Double" />
+    <Property Name="Count" Type="Int32" />
+    <Property Name="Content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="QuestionCount" Type="Int32" />
+    <Property Name="UpdateTime" Type="DateTime" />
+    <Property Name="Original" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Course" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Interval" Type="Int32" />
+    <Property Name="SoundFile" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="CEDTS_ItemType" Relationship="CedtsModel.FK_CEDTS_AS_REFERENCE_CEDTS_IT" FromRole="CEDTS_AssessmentItem" ToRole="CEDTS_ItemType" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_AS_REFERENCE_CEDTS_US" FromRole="CEDTS_AssessmentItem" ToRole="CEDTS_User" />
+    <NavigationProperty Name="CEDTS_PaperAssessment" Relationship="CedtsModel.FK_CEDTS_PAA_REFERENCE_CEDTS_AS" FromRole="CEDTS_AssessmentItem" ToRole="CEDTS_PaperAssessment" />
+    <NavigationProperty Name="CEDTS_Question" Relationship="CedtsModel.FK_CEDTS_QU_REFERENCE_CEDTS_AS" FromRole="CEDTS_AssessmentItem" ToRole="CEDTS_Question" />
+    <NavigationProperty Name="CEDTS_TestAssessment" Relationship="CedtsModel.FK_CEDTS_TEA_REFERENCE_CEDTS_AS" FromRole="CEDTS_AssessmentItem" ToRole="CEDTS_TestAssessment" />
+    <NavigationProperty Name="CEDTS_tempTestAnswer" Relationship="CedtsModel.FK_CEDTS_tempTestAnswer1_CEDTS_AssessmentItem" FromRole="CEDTS_AssessmentItem" ToRole="CEDTS_tempTestAnswer" />
+    <NavigationProperty Name="CEDTS_TestAnswer" Relationship="CedtsModel.FK_CEDTS_TestAnswer_CEDTS_AssessmentItem" FromRole="CEDTS_AssessmentItem" ToRole="CEDTS_TestAnswer" />
+    <NavigationProperty Name="CEDTS_UserAssessmentCount" Relationship="CedtsModel.FK_CEDTS_UserAssessmentCount_CEDTS_AssessmentItem" FromRole="CEDTS_AssessmentItem" ToRole="CEDTS_UserAssessmentCount" />
+    <NavigationProperty Name="CEDTS_Expansion" Relationship="CedtsModel.FK_dbo_CEDTS_Expansion_CEDTS_AssessmentItem" FromRole="CEDTS_AssessmentItem" ToRole="CEDTS_Expansion" />
+  </EntityType>
+  <EntityType Name="CEDTS_Assign">
+    <Key>
+      <PropertyRef Name="AssignID" />
+    </Key>
+    <Property Name="AssignID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AssessmentItemID" Type="Guid" />
+    <Property Name="Time" Type="DateTime" />
+    <Property Name="QuestionID" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_AssignAssessment">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+    </Key>
+    <Property Name="AssessmentItemID" Type="Guid" Nullable="false" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="Description" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="UpdateUserID" Type="Int32" />
+    <Property Name="SaveTime" Type="DateTime" />
+    <Property Name="Duration" Type="Double" />
+    <Property Name="Difficult" Type="Double" />
+    <Property Name="Score" Type="Double" />
+    <Property Name="Count" Type="Int32" />
+    <Property Name="Content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="QuestionCount" Type="Int32" />
+    <Property Name="UpdateTime" Type="DateTime" />
+    <Property Name="Original" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Course" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Interval" Type="Int32" />
+    <Property Name="State" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="CEDTS_AssignQuestionKnowledge">
+    <Key>
+      <PropertyRef Name="QuestionKnowledgeID" />
+    </Key>
+    <Property Name="QuestionKnowledgeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionID" Type="Guid" />
+    <Property Name="KnowledgePointID" Type="Guid" />
+    <Property Name="Weight" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CEDTS_Card">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SerialNumber" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="PassWord" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CardKind" Type="Int32" />
+    <Property Name="CardType" Type="Int32" />
+    <Property Name="CreateTime" Type="DateTime" />
+    <Property Name="ActivationTime" Type="DateTime" />
+    <Property Name="ActivationState" Type="Int32" />
+    <Property Name="EffectiveTime" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="OverdueTime" Type="DateTime" />
+    <Property Name="CreateUser" Type="Int32" />
+    <Property Name="ActivationUser" Type="Int32" />
+    <Property Name="Discount" Type="Double" />
+    <Property Name="PartnerID" Type="Guid" />
+    <Property Name="Money" Type="Double" />
+  </EntityType>
+  <EntityType Name="CEDTS_Class">
+    <Key>
+      <PropertyRef Name="ClassID" />
+    </Key>
+    <Property Name="ClassID" Type="Guid" Nullable="false" />
+    <Property Name="GradeID" Type="Guid" Nullable="false" />
+    <Property Name="PartnerID" Type="Guid" Nullable="false" />
+    <Property Name="ClassName" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" />
+    <Property Name="UserID" Type="Int32" />
+    <NavigationProperty Name="CEDTS_Grade" Relationship="CedtsModel.FK_CEDTS_Class_CEDTS_Grade" FromRole="CEDTS_Class" ToRole="CEDTS_Grade" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_User_CEDTS_Class" FromRole="CEDTS_Class" ToRole="CEDTS_User" />
+  </EntityType>
+  <EntityType Name="CEDTS_Contact">
+    <Key>
+      <PropertyRef Name="ContactID" />
+    </Key>
+    <Property Name="ContactID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Tel" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ZipCode" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Address" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Url" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_CoreFeatures">
+    <Key>
+      <PropertyRef Name="CoreFeatures_ID" />
+    </Key>
+    <Property Name="CoreFeatures_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Order" Type="Int32" />
+    <Property Name="Intro" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_Expansion">
+    <Key>
+      <PropertyRef Name="ExpansionID" />
+    </Key>
+    <Property Name="ExpansionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AssessmentItemID" Type="Guid" />
+    <Property Name="ChoiceA" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceB" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceC" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceD" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceE" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceF" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceG" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceH" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceI" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceJ" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceK" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceL" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceM" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceN" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceO" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="CEDTS_AssessmentItem" Relationship="CedtsModel.FK_dbo_CEDTS_Expansion_CEDTS_AssessmentItem" FromRole="CEDTS_Expansion" ToRole="CEDTS_AssessmentItem" />
+  </EntityType>
+  <EntityType Name="CEDTS_Feedback">
+    <Key>
+      <PropertyRef Name="FeedbackID" />
+    </Key>
+    <Property Name="FeedbackID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Content" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Tel" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Time" Type="DateTime" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_Grade">
+    <Key>
+      <PropertyRef Name="GradeID" />
+    </Key>
+    <Property Name="GradeID" Type="Guid" Nullable="false" />
+    <Property Name="MajorID" Type="Guid" Nullable="false" />
+    <Property Name="PartnerID" Type="Guid" Nullable="false" />
+    <Property Name="GradeName" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="CEDTS_Class" Relationship="CedtsModel.FK_CEDTS_Class_CEDTS_Grade" FromRole="CEDTS_Grade" ToRole="CEDTS_Class" />
+    <NavigationProperty Name="CEDTS_Major" Relationship="CedtsModel.FK_CEDTS_Grade_CEDTS_Major" FromRole="CEDTS_Grade" ToRole="CEDTS_Major" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_User_CEDTS_Grade" FromRole="CEDTS_Grade" ToRole="CEDTS_User" />
+  </EntityType>
+  <EntityType Name="CEDTS_Instructions">
+    <Key>
+      <PropertyRef Name="InstructionsID" />
+    </Key>
+    <Property Name="InstructionsID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_ItemType">
+    <Key>
+      <PropertyRef Name="ItemTypeID" />
+    </Key>
+    <Property Name="ItemTypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TypeName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="TypeName_CN" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Describe" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="PartTypeID" Type="Int32" />
+    <NavigationProperty Name="CEDTS_AssessmentItem" Relationship="CedtsModel.FK_CEDTS_AS_REFERENCE_CEDTS_IT" FromRole="CEDTS_ItemType" ToRole="CEDTS_AssessmentItem" />
+    <NavigationProperty Name="CEDTS_PartType" Relationship="CedtsModel.FK_CEDTS_IT_REFERENCE_CEDTS_PA" FromRole="CEDTS_ItemType" ToRole="CEDTS_PartType" />
+    <NavigationProperty Name="CEDTS_PaperAssessment" Relationship="CedtsModel.FK_CEDTS_PaperAssessment_CEDTS_ItemType" FromRole="CEDTS_ItemType" ToRole="CEDTS_PaperAssessment" />
+    <NavigationProperty Name="CEDTS_SmapleAnswerTypeInfo" Relationship="CedtsModel.FK_CEDTS_SmapleAnswerTypeInfo_CEDTS_ItemType" FromRole="CEDTS_ItemType" ToRole="CEDTS_SmapleAnswerTypeInfo" />
+    <NavigationProperty Name="CEDTS_TestAnswer" Relationship="CedtsModel.FK_CEDTS_TestAnswer_CEDTS_ItemType" FromRole="CEDTS_ItemType" ToRole="CEDTS_TestAnswer" />
+    <NavigationProperty Name="CEDTS_TestAnswerTypeInfo" Relationship="CedtsModel.FK_CEDTS_TestAnswerTypeInfo_CEDTS_ItemType" FromRole="CEDTS_ItemType" ToRole="CEDTS_TestAnswerTypeInfo" />
+    <NavigationProperty Name="CEDTS_UserAnswerInfo" Relationship="CedtsModel.FK_CEDTS_UserAnswerInfo_CEDTS_ItemType" FromRole="CEDTS_ItemType" ToRole="CEDTS_UserAnswerInfo" />
+  </EntityType>
+  <EntityType Name="CEDTS_KnowledgePoints">
+    <Key>
+      <PropertyRef Name="KnowledgePointID" />
+    </Key>
+    <Property Name="KnowledgePointID" Type="Guid" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Describe" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UperKnowledgeID" Type="Guid" />
+    <Property Name="Level" Type="Int32" />
+    <Property Name="ConstantC" Type="Double" />
+  </EntityType>
+  <EntityType Name="CEDTS_KpToKp">
+    <Key>
+      <PropertyRef Name="KpToKpID" />
+    </Key>
+    <Property Name="KpToKpID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NewKpID" Type="Guid" />
+    <Property Name="OldKpID" Type="Guid" />
+  </EntityType>
+  <EntityType Name="CEDTS_Log">
+    <Key>
+      <PropertyRef Name="LogID" />
+    </Key>
+    <Property Name="LogID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="Content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="LogTime" Type="DateTime" />
+    <Property Name="ClientIP" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Action" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_LO_REFERENCE_CEDTS_US" FromRole="CEDTS_Log" ToRole="CEDTS_User" />
+  </EntityType>
+  <EntityType Name="CEDTS_Major">
+    <Key>
+      <PropertyRef Name="MajorID" />
+    </Key>
+    <Property Name="MajorID" Type="Guid" Nullable="false" />
+    <Property Name="MajorName" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="MajorMark" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UpMajorID" Type="Guid" Nullable="false" />
+    <Property Name="MajorLevel" Type="Int32" Nullable="false" />
+    <Property Name="PartnerID" Type="Guid" Nullable="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="CEDTS_Grade" Relationship="CedtsModel.FK_CEDTS_Grade_CEDTS_Major" FromRole="CEDTS_Major" ToRole="CEDTS_Grade" />
+    <NavigationProperty Name="CEDTS_Partner" Relationship="CedtsModel.FK_CEDTS_Major_CEDTS_Partner" FromRole="CEDTS_Major" ToRole="CEDTS_Partner" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_User_CEDTS_Major" FromRole="CEDTS_Major" ToRole="CEDTS_User" />
+  </EntityType>
+  <EntityType Name="CEDTS_Paper">
+    <Key>
+      <PropertyRef Name="PaperID" />
+    </Key>
+    <Property Name="PaperID" Type="Guid" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Type" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="PaperContent" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Duration" Type="Double" />
+    <Property Name="Difficult" Type="Double" />
+    <Property Name="Score" Type="Double" />
+    <Property Name="Description" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CreateTime" Type="DateTime" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="UpdateUserID" Type="Int32" />
+    <Property Name="UpdateTime" Type="DateTime" />
+    <Property Name="State" Type="Int32" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_PA_REFERENCE_CEDTS_US" FromRole="CEDTS_Paper" ToRole="CEDTS_User" />
+    <NavigationProperty Name="CEDTS_PaperAssessment" Relationship="CedtsModel.FK_CEDTS_PAA_REFERENCE_CEDTS_PA" FromRole="CEDTS_Paper" ToRole="CEDTS_PaperAssessment" />
+    <NavigationProperty Name="CEDTS_Paper1" Relationship="CedtsModel.FK_CEDTS_Paper_CEDTS_Paper" FromRole="CEDTS_Paper" ToRole="CEDTS_Paper1" />
+    <NavigationProperty Name="CEDTS_Paper2" Relationship="CedtsModel.FK_CEDTS_Paper_CEDTS_Paper" FromRole="CEDTS_Paper1" ToRole="CEDTS_Paper" />
+    <NavigationProperty Name="CEDTS_PaperExpansion" Relationship="CedtsModel.FK_CEDTS_PaperExpansion_CEDTS_Paper" FromRole="CEDTS_Paper" ToRole="CEDTS_PaperExpansion" />
+    <NavigationProperty Name="CEDTS_Test" Relationship="CedtsModel.FK_CEDTS_TE_REFERENCE_CEDTS_PA" FromRole="CEDTS_Paper" ToRole="CEDTS_Test" />
+    <NavigationProperty Name="CEDTS_TestAnswerKnowledgePoint" Relationship="CedtsModel.FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Paper" FromRole="CEDTS_Paper" ToRole="CEDTS_TestAnswerKnowledgePoint" />
+    <NavigationProperty Name="CEDTS_TestAnswerTypeInfo" Relationship="CedtsModel.FK_CEDTS_TestAnswerTypeInfo_CEDTS_Paper" FromRole="CEDTS_Paper" ToRole="CEDTS_TestAnswerTypeInfo" />
+  </EntityType>
+  <EntityType Name="CEDTS_PaperAssessment">
+    <Key>
+      <PropertyRef Name="PaperAssessmentID" />
+    </Key>
+    <Property Name="PaperAssessmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="Guid" />
+    <Property Name="AssessmentItemID" Type="Guid" />
+    <Property Name="PartTypeID" Type="Int32" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="Weight" Type="Int32" />
+    <NavigationProperty Name="CEDTS_AssessmentItem" Relationship="CedtsModel.FK_CEDTS_PAA_REFERENCE_CEDTS_AS" FromRole="CEDTS_PaperAssessment" ToRole="CEDTS_AssessmentItem" />
+    <NavigationProperty Name="CEDTS_ItemType" Relationship="CedtsModel.FK_CEDTS_PaperAssessment_CEDTS_ItemType" FromRole="CEDTS_PaperAssessment" ToRole="CEDTS_ItemType" />
+    <NavigationProperty Name="CEDTS_Paper" Relationship="CedtsModel.FK_CEDTS_PAA_REFERENCE_CEDTS_PA" FromRole="CEDTS_PaperAssessment" ToRole="CEDTS_Paper" />
+    <NavigationProperty Name="CEDTS_PartType" Relationship="CedtsModel.FK_CEDTS_PaperAssessment_CEDTS_PartType" FromRole="CEDTS_PaperAssessment" ToRole="CEDTS_PartType" />
+  </EntityType>
+  <EntityType Name="CEDTS_PaperExpansion">
+    <Key>
+      <PropertyRef Name="PaperExpansionID" />
+    </Key>
+    <Property Name="PaperExpansionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="Guid" />
+    <Property Name="SkimmingAndScanningNum" Type="Int32" />
+    <Property Name="ShortListenNum" Type="Int32" />
+    <Property Name="LongListenNum" Type="Int32" />
+    <Property Name="ComprehensionListenNum" Type="Int32" />
+    <Property Name="ComplexListenNum" Type="Int32" />
+    <Property Name="BankedClozeNum" Type="Int32" />
+    <Property Name="MultipleChoiceNum" Type="Int32" />
+    <Property Name="ClozeNum" Type="Int32" />
+    <Property Name="State" Type="Int32" />
+    <NavigationProperty Name="CEDTS_Paper" Relationship="CedtsModel.FK_CEDTS_PaperExpansion_CEDTS_Paper" FromRole="CEDTS_PaperExpansion" ToRole="CEDTS_Paper" />
+  </EntityType>
+  <EntityType Name="CEDTS_Partner">
+    <Key>
+      <PropertyRef Name="PartnerID" />
+    </Key>
+    <Property Name="PartnerID" Type="Guid" Nullable="false" />
+    <Property Name="PartnerName" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Province" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="City" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Address" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Principal" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Telphone" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Mobilephone" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Src" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="AdminAccount" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="CEDTS_Major" Relationship="CedtsModel.FK_CEDTS_Major_CEDTS_Partner" FromRole="CEDTS_Partner" ToRole="CEDTS_Major" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_User_CEDTS_Partner" FromRole="CEDTS_Partner" ToRole="CEDTS_User" />
+  </EntityType>
+  <EntityType Name="CEDTS_PartType">
+    <Key>
+      <PropertyRef Name="PartTypeID" />
+    </Key>
+    <Property Name="PartTypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TypeName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="TypeName_CN" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Describe" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="CEDTS_ItemType" Relationship="CedtsModel.FK_CEDTS_IT_REFERENCE_CEDTS_PA" FromRole="CEDTS_PartType" ToRole="CEDTS_ItemType" />
+    <NavigationProperty Name="CEDTS_PaperAssessment" Relationship="CedtsModel.FK_CEDTS_PaperAssessment_CEDTS_PartType" FromRole="CEDTS_PartType" ToRole="CEDTS_PaperAssessment" />
+  </EntityType>
+  <EntityType Name="CEDTS_Question">
+    <Key>
+      <PropertyRef Name="QuestionID" />
+    </Key>
+    <Property Name="QuestionID" Type="Guid" Nullable="false" />
+    <Property Name="AssessmentItemID" Type="Guid" Nullable="false" />
+    <Property Name="Score" Type="Double" />
+    <Property Name="Difficult" Type="Double" />
+    <Property Name="Duration" Type="Double" />
+    <Property Name="QuestionContent" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ChooseA" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ChooseB" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ChooseC" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ChooseD" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Answer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Analyze" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Order" Type="Int32" />
+    <Property Name="Sound" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Interval" Type="Int32" />
+    <NavigationProperty Name="CEDTS_AssessmentItem" Relationship="CedtsModel.FK_CEDTS_QU_REFERENCE_CEDTS_AS" FromRole="CEDTS_Question" ToRole="CEDTS_AssessmentItem" />
+    <NavigationProperty Name="CEDTS_QuestionKnowledge" Relationship="CedtsModel.FK_CEDTS_QUK_REFERENCE_CEDTS_QU" FromRole="CEDTS_Question" ToRole="CEDTS_QuestionKnowledge" />
+    <NavigationProperty Name="CEDTS_TestAnswer" Relationship="CedtsModel.FK_CEDTS_TEAN_REFERENCE_CEDTS_QU" FromRole="CEDTS_Question" ToRole="CEDTS_TestAnswer" />
+    <NavigationProperty Name="CEDTS_tempTestAnswer" Relationship="CedtsModel.FK_CEDTS_tempTestAnswer1_CEDTS_Question" FromRole="CEDTS_Question" ToRole="CEDTS_tempTestAnswer" />
+  </EntityType>
+  <EntityType Name="CEDTS_QuestionKnowledge">
+    <Key>
+      <PropertyRef Name="QuestionKnowledgeID" />
+    </Key>
+    <Property Name="QuestionKnowledgeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionID" Type="Guid" Nullable="false" />
+    <Property Name="KnowledgePointID" Type="Guid" Nullable="false" />
+    <Property Name="Weight" Type="Int32" />
+    <NavigationProperty Name="CEDTS_Question" Relationship="CedtsModel.FK_CEDTS_QUK_REFERENCE_CEDTS_QU" FromRole="CEDTS_QuestionKnowledge" ToRole="CEDTS_Question" />
+  </EntityType>
+  <EntityType Name="CEDTS_SampleKnowledgeInfomation">
+    <Key>
+      <PropertyRef Name="SKII_ID" />
+    </Key>
+    <Property Name="SKII_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KnowledgePointID" Type="Guid" Nullable="false" />
+    <Property Name="CorrectRate" Type="Double" />
+    <Property Name="AverageTime" Type="Double" />
+    <Property Name="KP_MasterRate" Type="Double" />
+    <Property Name="TotalCount" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CEDTS_Saying">
+    <Key>
+      <PropertyRef Name="SayingID" />
+    </Key>
+    <Property Name="SayingID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Note" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Time" Type="DateTime" />
+  </EntityType>
+  <EntityType Name="CEDTS_SmapleAnswerTypeInfo">
+    <Key>
+      <PropertyRef Name="SATI_ID" />
+    </Key>
+    <Property Name="SATI_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="CorrectRate" Type="Double" />
+    <Property Name="TotalCount" Type="Int32" />
+    <NavigationProperty Name="CEDTS_ItemType" Relationship="CedtsModel.FK_CEDTS_SmapleAnswerTypeInfo_CEDTS_ItemType" FromRole="CEDTS_SmapleAnswerTypeInfo" ToRole="CEDTS_ItemType" />
+  </EntityType>
+  <EntityType Name="CEDTS_SystemOverview">
+    <Key>
+      <PropertyRef Name="SystemOverviewID" />
+    </Key>
+    <Property Name="SystemOverviewID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Time" Type="DateTime" />
+    <Property Name="Intro" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_TClass">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="ClassID" Type="Guid" />
+  </EntityType>
+  <EntityType Name="CEDTS_tempAssessmentItemTime">
+    <Key>
+      <PropertyRef Name="TimeID" />
+    </Key>
+    <Property Name="TimeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TestID" Type="Guid" />
+    <Property Name="Time" Type="Int32" />
+    <Property Name="Number" Type="Int32" />
+    <NavigationProperty Name="CEDTS_Test" Relationship="CedtsModel.FK_CEDTS_tempAssessmentItemTime1_CEDTS_Test" FromRole="CEDTS_tempAssessmentItemTime" ToRole="CEDTS_Test" />
+  </EntityType>
+  <EntityType Name="CEDTS_TemporaryAssessmentItem">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+    </Key>
+    <Property Name="AssessmentItemID" Type="Guid" Nullable="false" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="Description" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="UpdateUserID" Type="Int32" />
+    <Property Name="SaveTime" Type="DateTime" />
+    <Property Name="Duration" Type="Double" />
+    <Property Name="Difficult" Type="Double" />
+    <Property Name="Score" Type="Double" />
+    <Property Name="Count" Type="Int32" />
+    <Property Name="Content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="QuestionCount" Type="Int32" />
+    <Property Name="UpdateTime" Type="DateTime" />
+    <Property Name="Original" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Course" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Interval" Type="Int32" />
+    <Property Name="SoundFile" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_TemporaryExpansion">
+    <Key>
+      <PropertyRef Name="ExpansionID" />
+    </Key>
+    <Property Name="ExpansionID" Type="Int32" Nullable="false" />
+    <Property Name="AssessmentItemID" Type="Guid" />
+    <Property Name="ChoiceA" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceB" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceC" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceD" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceE" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceF" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceG" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceH" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceI" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceJ" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceK" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceL" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceM" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceN" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ChoiceO" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_TemporaryPaperAssessment">
+    <Key>
+      <PropertyRef Name="PaperAssessmentID" />
+    </Key>
+    <Property Name="PaperAssessmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="Guid" />
+    <Property Name="AssessmentItemID" Type="Guid" />
+    <Property Name="PartTypeID" Type="Int32" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="Weight" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CEDTS_TemporaryQuestion">
+    <Key>
+      <PropertyRef Name="QuestionID" />
+    </Key>
+    <Property Name="QuestionID" Type="Guid" Nullable="false" />
+    <Property Name="AssessmentItemID" Type="Guid" />
+    <Property Name="Score" Type="Double" />
+    <Property Name="Difficult" Type="Double" />
+    <Property Name="Duration" Type="Double" />
+    <Property Name="QuestionContent" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ChooseA" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ChooseB" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ChooseC" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ChooseD" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Answer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Analyze" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Order" Type="Int32" />
+    <Property Name="Sound" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Interval" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CEDTS_TemporaryQuestionKnowledge">
+    <Key>
+      <PropertyRef Name="QuestionKnowledgeID" />
+    </Key>
+    <Property Name="QuestionKnowledgeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionID" Type="Guid" />
+    <Property Name="KnowledgePointID" Type="Guid" />
+    <Property Name="Weight" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CEDTS_tempTestAnswer">
+    <Key>
+      <PropertyRef Name="tempTestAnswe" />
+    </Key>
+    <Property Name="tempTestAnswe" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TestID" Type="Guid" />
+    <Property Name="AssessmentItemID" Type="Guid" />
+    <Property Name="QuestionID" Type="Guid" />
+    <Property Name="UserAnswer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Number" Type="Int32" />
+    <NavigationProperty Name="CEDTS_AssessmentItem" Relationship="CedtsModel.FK_CEDTS_tempTestAnswer1_CEDTS_AssessmentItem" FromRole="CEDTS_tempTestAnswer" ToRole="CEDTS_AssessmentItem" />
+    <NavigationProperty Name="CEDTS_Question" Relationship="CedtsModel.FK_CEDTS_tempTestAnswer1_CEDTS_Question" FromRole="CEDTS_tempTestAnswer" ToRole="CEDTS_Question" />
+    <NavigationProperty Name="CEDTS_Test" Relationship="CedtsModel.FK_CEDTS_tempTestAnswer1_CEDTS_Test" FromRole="CEDTS_tempTestAnswer" ToRole="CEDTS_Test" />
+  </EntityType>
+  <EntityType Name="CEDTS_Test">
+    <Key>
+      <PropertyRef Name="TestID" />
+    </Key>
+    <Property Name="TestID" Type="Guid" Nullable="false" />
+    <Property Name="IsFinished" Type="Boolean" />
+    <Property Name="FinishDate" Type="DateTime" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="PaperID" Type="Guid" Nullable="false" />
+    <Property Name="StartDate" Type="DateTime" />
+    <Property Name="TotalScore" Type="Double" />
+    <Property Name="TotalTime" Type="Double" />
+    <Property Name="IsChecked" Type="Int32" />
+    <Property Name="Remark" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="CEDTS_Paper" Relationship="CedtsModel.FK_CEDTS_TE_REFERENCE_CEDTS_PA" FromRole="CEDTS_Test" ToRole="CEDTS_Paper" />
+    <NavigationProperty Name="CEDTS_tempAssessmentItemTime" Relationship="CedtsModel.FK_CEDTS_tempAssessmentItemTime1_CEDTS_Test" FromRole="CEDTS_Test" ToRole="CEDTS_tempAssessmentItemTime" />
+    <NavigationProperty Name="CEDTS_tempTestAnswer" Relationship="CedtsModel.FK_CEDTS_tempTestAnswer1_CEDTS_Test" FromRole="CEDTS_Test" ToRole="CEDTS_tempTestAnswer" />
+    <NavigationProperty Name="CEDTS_TestAssessment" Relationship="CedtsModel.FK_CEDTS_TE_REFERENCE_CEDTS_TE" FromRole="CEDTS_Test" ToRole="CEDTS_TestAssessment" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_TE_REFERENCE_CEDTS_US" FromRole="CEDTS_Test" ToRole="CEDTS_User" />
+    <NavigationProperty Name="CEDTS_TestAnswer" Relationship="CedtsModel.FK_CEDTS_TEAN_REFERENCE_CEDTS_TE" FromRole="CEDTS_Test" ToRole="CEDTS_TestAnswer" />
+    <NavigationProperty Name="CEDTS_TestAnswer1" Relationship="CedtsModel.FK_CEDTS_TestAnswer_CEDTS_Test" FromRole="CEDTS_Test" ToRole="CEDTS_TestAnswer" />
+    <NavigationProperty Name="CEDTS_TestAnswerKnowledgePoint" Relationship="CedtsModel.FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Test" FromRole="CEDTS_Test" ToRole="CEDTS_TestAnswerKnowledgePoint" />
+    <NavigationProperty Name="CEDTS_TestAnswerTypeInfo" Relationship="CedtsModel.FK_CEDTS_TestAnswerTypeInfo_CEDTS_Test" FromRole="CEDTS_Test" ToRole="CEDTS_TestAnswerTypeInfo" />
+  </EntityType>
+  <EntityType Name="CEDTS_TestAnswer">
+    <Key>
+      <PropertyRef Name="TestAnswerID" />
+    </Key>
+    <Property Name="TestAnswerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionID" Type="Guid" Nullable="false" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="TestID" Type="Guid" Nullable="false" />
+    <Property Name="Answer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UserAnswer" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="AnswerContent" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="IsRight" Type="Boolean" />
+    <Property Name="AssessmentItemID" Type="Guid" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="ItemAnswerTime" Type="Double" />
+    <Property Name="Number" Type="Int32" />
+    <NavigationProperty Name="CEDTS_AssessmentItem" Relationship="CedtsModel.FK_CEDTS_TestAnswer_CEDTS_AssessmentItem" FromRole="CEDTS_TestAnswer" ToRole="CEDTS_AssessmentItem" />
+    <NavigationProperty Name="CEDTS_ItemType" Relationship="CedtsModel.FK_CEDTS_TestAnswer_CEDTS_ItemType" FromRole="CEDTS_TestAnswer" ToRole="CEDTS_ItemType" />
+    <NavigationProperty Name="CEDTS_Question" Relationship="CedtsModel.FK_CEDTS_TEAN_REFERENCE_CEDTS_QU" FromRole="CEDTS_TestAnswer" ToRole="CEDTS_Question" />
+    <NavigationProperty Name="CEDTS_Test" Relationship="CedtsModel.FK_CEDTS_TEAN_REFERENCE_CEDTS_TE" FromRole="CEDTS_TestAnswer" ToRole="CEDTS_Test" />
+    <NavigationProperty Name="CEDTS_Test1" Relationship="CedtsModel.FK_CEDTS_TestAnswer_CEDTS_Test" FromRole="CEDTS_TestAnswer" ToRole="CEDTS_Test" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_TEAN_REFERENCE_CEDTS_US" FromRole="CEDTS_TestAnswer" ToRole="CEDTS_User" />
+  </EntityType>
+  <EntityType Name="CEDTS_TestAnswerKnowledgePoint">
+    <Key>
+      <PropertyRef Name="TKPID" />
+    </Key>
+    <Property Name="TKPID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="Guid" Nullable="false" />
+    <Property Name="TestID" Type="Guid" Nullable="false" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="KnowledgePointID" Type="Guid" Nullable="false" />
+    <Property Name="CorrectItemNumber" Type="Int32" />
+    <Property Name="TotalItemNumber" Type="Int32" />
+    <Property Name="CorrectRate" Type="Double" />
+    <Property Name="AverageTime" Type="Double" />
+    <Property Name="KP_MasterRate" Type="Double" />
+    <Property Name="Time" Type="DateTime" />
+    <NavigationProperty Name="CEDTS_Paper" Relationship="CedtsModel.FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Paper" FromRole="CEDTS_TestAnswerKnowledgePoint" ToRole="CEDTS_Paper" />
+    <NavigationProperty Name="CEDTS_Test" Relationship="CedtsModel.FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Test" FromRole="CEDTS_TestAnswerKnowledgePoint" ToRole="CEDTS_Test" />
+  </EntityType>
+  <EntityType Name="CEDTS_TestAnswerTypeInfo">
+    <Key>
+      <PropertyRef Name="TATI_ID" />
+    </Key>
+    <Property Name="TATI_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PaperID" Type="Guid" Nullable="false" />
+    <Property Name="TestID" Type="Guid" Nullable="false" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="CorrectItemNumber" Type="Int32" />
+    <Property Name="TotalItemNumber" Type="Int32" />
+    <Property Name="CorrectRate" Type="Double" />
+    <Property Name="Time" Type="DateTime" />
+    <NavigationProperty Name="CEDTS_ItemType" Relationship="CedtsModel.FK_CEDTS_TestAnswerTypeInfo_CEDTS_ItemType" FromRole="CEDTS_TestAnswerTypeInfo" ToRole="CEDTS_ItemType" />
+    <NavigationProperty Name="CEDTS_Paper" Relationship="CedtsModel.FK_CEDTS_TestAnswerTypeInfo_CEDTS_Paper" FromRole="CEDTS_TestAnswerTypeInfo" ToRole="CEDTS_Paper" />
+    <NavigationProperty Name="CEDTS_Test" Relationship="CedtsModel.FK_CEDTS_TestAnswerTypeInfo_CEDTS_Test" FromRole="CEDTS_TestAnswerTypeInfo" ToRole="CEDTS_Test" />
+  </EntityType>
+  <EntityType Name="CEDTS_TestAssessment">
+    <Key>
+      <PropertyRef Name="TestAssessmentID" />
+    </Key>
+    <Property Name="TestAssessmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AssessmentItemID" Type="Guid" />
+    <Property Name="FinishTime" Type="DateTime" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="TestID" Type="Guid" />
+    <NavigationProperty Name="CEDTS_AssessmentItem" Relationship="CedtsModel.FK_CEDTS_TEA_REFERENCE_CEDTS_AS" FromRole="CEDTS_TestAssessment" ToRole="CEDTS_AssessmentItem" />
+    <NavigationProperty Name="CEDTS_Test" Relationship="CedtsModel.FK_CEDTS_TE_REFERENCE_CEDTS_TE" FromRole="CEDTS_TestAssessment" ToRole="CEDTS_Test" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_TEA_REFERENCE_CEDTS_US" FromRole="CEDTS_TestAssessment" ToRole="CEDTS_User" />
+  </EntityType>
+  <EntityType Name="CEDTS_Testing">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="UserAccount" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="PaperID" Type="Guid" Nullable="false" />
+    <Property Name="PaperTitle" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Time" Type="DateTime" Nullable="false" />
+    <Property Name="PaperType" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CEDTS_User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserAccount" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="UserPassword" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Role" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="RegisterTime" Type="DateTime" />
+    <Property Name="Sex" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="UserNickname" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Phone" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Partner" Type="Guid" />
+    <Property Name="StudentNumber" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="MajorID" Type="Guid" />
+    <Property Name="GradeID" Type="Guid" />
+    <Property Name="ClassID" Type="Guid" />
+    <Property Name="State" Type="Boolean" />
+    <Property Name="PartnerID" Type="Guid" />
+    <Property Name="BindCard" Type="Int32" />
+    <NavigationProperty Name="CEDTS_AssessmentItem" Relationship="CedtsModel.FK_CEDTS_AS_REFERENCE_CEDTS_US" FromRole="CEDTS_User" ToRole="CEDTS_AssessmentItem" />
+    <NavigationProperty Name="CEDTS_Class" Relationship="CedtsModel.FK_CEDTS_User_CEDTS_Class" FromRole="CEDTS_User" ToRole="CEDTS_Class" />
+    <NavigationProperty Name="CEDTS_Grade" Relationship="CedtsModel.FK_CEDTS_User_CEDTS_Grade" FromRole="CEDTS_User" ToRole="CEDTS_Grade" />
+    <NavigationProperty Name="CEDTS_Log" Relationship="CedtsModel.FK_CEDTS_LO_REFERENCE_CEDTS_US" FromRole="CEDTS_User" ToRole="CEDTS_Log" />
+    <NavigationProperty Name="CEDTS_Major" Relationship="CedtsModel.FK_CEDTS_User_CEDTS_Major" FromRole="CEDTS_User" ToRole="CEDTS_Major" />
+    <NavigationProperty Name="CEDTS_Paper" Relationship="CedtsModel.FK_CEDTS_PA_REFERENCE_CEDTS_US" FromRole="CEDTS_User" ToRole="CEDTS_Paper" />
+    <NavigationProperty Name="CEDTS_Partner" Relationship="CedtsModel.FK_CEDTS_User_CEDTS_Partner" FromRole="CEDTS_User" ToRole="CEDTS_Partner" />
+    <NavigationProperty Name="CEDTS_Test" Relationship="CedtsModel.FK_CEDTS_TE_REFERENCE_CEDTS_US" FromRole="CEDTS_User" ToRole="CEDTS_Test" />
+    <NavigationProperty Name="CEDTS_TestAnswer" Relationship="CedtsModel.FK_CEDTS_TEAN_REFERENCE_CEDTS_US" FromRole="CEDTS_User" ToRole="CEDTS_TestAnswer" />
+    <NavigationProperty Name="CEDTS_TestAssessment" Relationship="CedtsModel.FK_CEDTS_TEA_REFERENCE_CEDTS_US" FromRole="CEDTS_User" ToRole="CEDTS_TestAssessment" />
+    <NavigationProperty Name="CEDTS_UserAnswerInfo" Relationship="CedtsModel.FK_CEDTS_UserAnswerInfo_CEDTS_User" FromRole="CEDTS_User" ToRole="CEDTS_UserAnswerInfo" />
+    <NavigationProperty Name="CEDTS_UserAssessmentCount" Relationship="CedtsModel.FK_CEDTS_UserAssessmentCount_CEDTS_User" FromRole="CEDTS_User" ToRole="CEDTS_UserAssessmentCount" />
+    <NavigationProperty Name="CEDTS_UserKnowledgeInfomation" Relationship="CedtsModel.FK_CEDTS_UserKnowledgeInfomation_CEDTS_User" FromRole="CEDTS_User" ToRole="CEDTS_UserKnowledgeInfomation" />
+    <NavigationProperty Name="CEDTS_LearnerStatus" Relationship="CedtsModel.FK_CEDTS_LearnerStatus_CEDTS_User" FromRole="CEDTS_User" ToRole="CEDTS_LearnerStatus" />
+  </EntityType>
+  <EntityType Name="CEDTS_UserAnswerInfo">
+    <Key>
+      <PropertyRef Name="UATI_ID" />
+    </Key>
+    <Property Name="UATI_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="CorrectRate" Type="Double" />
+    <Property Name="TotalCount" Type="Int32" />
+    <NavigationProperty Name="CEDTS_ItemType" Relationship="CedtsModel.FK_CEDTS_UserAnswerInfo_CEDTS_ItemType" FromRole="CEDTS_UserAnswerInfo" ToRole="CEDTS_ItemType" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_UserAnswerInfo_CEDTS_User" FromRole="CEDTS_UserAnswerInfo" ToRole="CEDTS_User" />
+  </EntityType>
+  <EntityType Name="CEDTS_UserAssessmentCount">
+    <Key>
+      <PropertyRef Name="UserAssessmentCountID" />
+    </Key>
+    <Property Name="UserAssessmentCountID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="AssessmentItemID" Type="Guid" Nullable="false" />
+    <Property Name="Count" Type="Int32" />
+    <NavigationProperty Name="CEDTS_AssessmentItem" Relationship="CedtsModel.FK_CEDTS_UserAssessmentCount_CEDTS_AssessmentItem" FromRole="CEDTS_UserAssessmentCount" ToRole="CEDTS_AssessmentItem" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_UserAssessmentCount_CEDTS_User" FromRole="CEDTS_UserAssessmentCount" ToRole="CEDTS_User" />
+  </EntityType>
+  <EntityType Name="CEDTS_UserCard">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="CardID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="CEDTS_UserKnowledgeInfomation">
+    <Key>
+      <PropertyRef Name="UKII_ID" />
+    </Key>
+    <Property Name="UKII_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="KnowledgePointID" Type="Guid" Nullable="false" />
+    <Property Name="CorrectRate" Type="Double" />
+    <Property Name="AverageTime" Type="Double" />
+    <Property Name="KP_MasterRate" Type="Double" />
+    <Property Name="TotalCount" Type="Int32" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_UserKnowledgeInfomation_CEDTS_User" FromRole="CEDTS_UserKnowledgeInfomation" ToRole="CEDTS_User" />
+  </EntityType>
+  <EntityType Name="ItemBank">
+    <Key>
+      <PropertyRef Name="ItemID" />
+    </Key>
+    <Property Name="ItemID" Type="Int32" Nullable="false" />
+    <Property Name="ItemGUID" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="BankID" Type="Int32" />
+    <Property Name="Content" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="CreateTime" Type="DateTime" />
+    <Property Name="Status" Type="Int32" />
+    <Property Name="AdminID" Type="Int32" />
+    <Property Name="Attribute" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="UserTimes" Type="Int32" />
+    <Property Name="Hard" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Level" Type="String" MaxLength="10" Unicode="false" FixedLength="false" />
+    <Property Name="Differ" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="IsTrain" Type="Boolean" />
+    <Property Name="Identifier" Type="String" MaxLength="32" Unicode="false" FixedLength="false" />
+    <Property Name="ForBook" Type="String" MaxLength="32" Unicode="false" FixedLength="false" />
+    <Property Name="ForUnit" Type="Int32" />
+    <Property Name="OldID" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="EstimatedTime" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="IsOriginal" Type="Boolean" />
+    <Property Name="ReplaceItemId" Type="Int32" />
+    <Property Name="TopicId" Type="Int32" />
+    <Property Name="OldItemTypeId" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="OldTopicId" Type="String" MaxLength="32" Unicode="false" FixedLength="false" />
+    <Property Name="OldBankId" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="OldForBookId" Type="String" MaxLength="32" Unicode="false" FixedLength="false" />
+    <Property Name="OldReplaceItemId" Type="String" MaxLength="32" Unicode="false" FixedLength="false" />
+    <Property Name="ForBookID" Type="Int32" />
+    <Property Name="DataSource" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="ItemSeries" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="QCount" Type="Int32" />
+    <Property Name="PaperNo" Type="Int32" />
+    <Property Name="ItemNo" Type="Int32" />
+    <Property Name="TestPoint" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="ForUnitTo" Type="Int32" />
+    <Property Name="DataSourseNote" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="bakContent" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="AQK">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+      <PropertyRef Name="Expr1" />
+      <PropertyRef Name="QuestionID" />
+      <PropertyRef Name="Expr2" />
+      <PropertyRef Name="KnowledgePointID" />
+    </Key>
+    <Property Name="AssessmentItemID" Type="Guid" Nullable="false" />
+    <Property Name="ItemTypeID" Type="Int32" />
+    <Property Name="Expr1" Type="Guid" Nullable="false" />
+    <Property Name="QuestionID" Type="Guid" Nullable="false" />
+    <Property Name="Expr2" Type="Guid" Nullable="false" />
+    <Property Name="KnowledgePointID" Type="Guid" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ExaminationView">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+    </Key>
+    <Property Name="AssessmentItemID" Type="Guid" Nullable="false" />
+    <Property Name="TypeName_CN" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="SaveTime" Type="DateTime" />
+    <Property Name="UpdateUserID" Type="Int32" />
+    <Property Name="Duration" Type="Int32" />
+    <Property Name="Difficult" Type="Double" />
+    <Property Name="Score" Type="Int32" />
+    <Property Name="Count" Type="Int32" />
+    <Property Name="UpdateTime" Type="DateTime" />
+    <Property Name="Description" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UserNickname" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="UserAssessmentCount">
+    <Key>
+      <PropertyRef Name="AssessmentItemID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="Count" Type="Int32" />
+    <Property Name="AssessmentItemID" Type="Guid" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_CEDTS_AS_REFERENCE_CEDTS_IT">
+    <End Role="CEDTS_ItemType" Type="CedtsModel.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_AssessmentItem" Type="CedtsModel.CEDTS_AssessmentItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_AS_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_AssessmentItem" Type="CedtsModel.CEDTS_AssessmentItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PAA_REFERENCE_CEDTS_AS">
+    <End Role="CEDTS_AssessmentItem" Type="CedtsModel.CEDTS_AssessmentItem" Multiplicity="0..1" />
+    <End Role="CEDTS_PaperAssessment" Type="CedtsModel.CEDTS_PaperAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_PaperAssessment">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_QU_REFERENCE_CEDTS_AS">
+    <End Role="CEDTS_AssessmentItem" Type="CedtsModel.CEDTS_AssessmentItem" Multiplicity="1" />
+    <End Role="CEDTS_Question" Type="CedtsModel.CEDTS_Question" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_Question">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TEA_REFERENCE_CEDTS_AS">
+    <End Role="CEDTS_AssessmentItem" Type="CedtsModel.CEDTS_AssessmentItem" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAssessment" Type="CedtsModel.CEDTS_TestAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAssessment">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_tempTestAnswer1_CEDTS_AssessmentItem">
+    <End Role="CEDTS_AssessmentItem" Type="CedtsModel.CEDTS_AssessmentItem" Multiplicity="0..1" />
+    <End Role="CEDTS_tempTestAnswer" Type="CedtsModel.CEDTS_tempTestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_tempTestAnswer">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswer_CEDTS_AssessmentItem">
+    <End Role="CEDTS_AssessmentItem" Type="CedtsModel.CEDTS_AssessmentItem" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAnswer" Type="CedtsModel.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_UserAssessmentCount_CEDTS_AssessmentItem">
+    <End Role="CEDTS_AssessmentItem" Type="CedtsModel.CEDTS_AssessmentItem" Multiplicity="1" />
+    <End Role="CEDTS_UserAssessmentCount" Type="CedtsModel.CEDTS_UserAssessmentCount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_UserAssessmentCount">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CEDTS_Expansion_CEDTS_AssessmentItem">
+    <End Role="CEDTS_AssessmentItem" Type="CedtsModel.CEDTS_AssessmentItem" Multiplicity="0..1" />
+    <End Role="CEDTS_Expansion" Type="CedtsModel.CEDTS_Expansion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_AssessmentItem">
+        <PropertyRef Name="AssessmentItemID" />
+      </Principal>
+      <Dependent Role="CEDTS_Expansion">
+        <PropertyRef Name="AssessmentItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_Class_CEDTS_Grade">
+    <End Role="CEDTS_Grade" Type="CedtsModel.CEDTS_Grade" Multiplicity="1" />
+    <End Role="CEDTS_Class" Type="CedtsModel.CEDTS_Class" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Grade">
+        <PropertyRef Name="GradeID" />
+      </Principal>
+      <Dependent Role="CEDTS_Class">
+        <PropertyRef Name="GradeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_User_CEDTS_Class">
+    <End Role="CEDTS_Class" Type="CedtsModel.CEDTS_Class" Multiplicity="0..1" />
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Class">
+        <PropertyRef Name="ClassID" />
+      </Principal>
+      <Dependent Role="CEDTS_User">
+        <PropertyRef Name="ClassID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_Grade_CEDTS_Major">
+    <End Role="CEDTS_Major" Type="CedtsModel.CEDTS_Major" Multiplicity="1" />
+    <End Role="CEDTS_Grade" Type="CedtsModel.CEDTS_Grade" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Major">
+        <PropertyRef Name="MajorID" />
+      </Principal>
+      <Dependent Role="CEDTS_Grade">
+        <PropertyRef Name="MajorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_User_CEDTS_Grade">
+    <End Role="CEDTS_Grade" Type="CedtsModel.CEDTS_Grade" Multiplicity="0..1" />
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Grade">
+        <PropertyRef Name="GradeID" />
+      </Principal>
+      <Dependent Role="CEDTS_User">
+        <PropertyRef Name="GradeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_IT_REFERENCE_CEDTS_PA">
+    <End Role="CEDTS_PartType" Type="CedtsModel.CEDTS_PartType" Multiplicity="0..1" />
+    <End Role="CEDTS_ItemType" Type="CedtsModel.CEDTS_ItemType" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_PartType">
+        <PropertyRef Name="PartTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_ItemType">
+        <PropertyRef Name="PartTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PaperAssessment_CEDTS_ItemType">
+    <End Role="CEDTS_ItemType" Type="CedtsModel.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_PaperAssessment" Type="CedtsModel.CEDTS_PaperAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_PaperAssessment">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_SmapleAnswerTypeInfo_CEDTS_ItemType">
+    <End Role="CEDTS_ItemType" Type="CedtsModel.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_SmapleAnswerTypeInfo" Type="CedtsModel.CEDTS_SmapleAnswerTypeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_SmapleAnswerTypeInfo">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswer_CEDTS_ItemType">
+    <End Role="CEDTS_ItemType" Type="CedtsModel.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAnswer" Type="CedtsModel.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_ItemType">
+    <End Role="CEDTS_ItemType" Type="CedtsModel.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAnswerTypeInfo" Type="CedtsModel.CEDTS_TestAnswerTypeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswerTypeInfo">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_UserAnswerInfo_CEDTS_ItemType">
+    <End Role="CEDTS_ItemType" Type="CedtsModel.CEDTS_ItemType" Multiplicity="0..1" />
+    <End Role="CEDTS_UserAnswerInfo" Type="CedtsModel.CEDTS_UserAnswerInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_ItemType">
+        <PropertyRef Name="ItemTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_UserAnswerInfo">
+        <PropertyRef Name="ItemTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_LO_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_Log" Type="CedtsModel.CEDTS_Log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_Log">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_Major_CEDTS_Partner">
+    <End Role="CEDTS_Partner" Type="CedtsModel.CEDTS_Partner" Multiplicity="1" />
+    <End Role="CEDTS_Major" Type="CedtsModel.CEDTS_Major" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Partner">
+        <PropertyRef Name="PartnerID" />
+      </Principal>
+      <Dependent Role="CEDTS_Major">
+        <PropertyRef Name="PartnerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_User_CEDTS_Major">
+    <End Role="CEDTS_Major" Type="CedtsModel.CEDTS_Major" Multiplicity="0..1" />
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Major">
+        <PropertyRef Name="MajorID" />
+      </Principal>
+      <Dependent Role="CEDTS_User">
+        <PropertyRef Name="MajorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PA_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_Paper" Type="CedtsModel.CEDTS_Paper" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_Paper">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PAA_REFERENCE_CEDTS_PA">
+    <End Role="CEDTS_Paper" Type="CedtsModel.CEDTS_Paper" Multiplicity="0..1" />
+    <End Role="CEDTS_PaperAssessment" Type="CedtsModel.CEDTS_PaperAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_PaperAssessment">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_Paper_CEDTS_Paper">
+    <End Role="CEDTS_Paper" Type="CedtsModel.CEDTS_Paper" Multiplicity="1" />
+    <End Role="CEDTS_Paper1" Type="CedtsModel.CEDTS_Paper" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_Paper1">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PaperExpansion_CEDTS_Paper">
+    <End Role="CEDTS_Paper" Type="CedtsModel.CEDTS_Paper" Multiplicity="0..1" />
+    <End Role="CEDTS_PaperExpansion" Type="CedtsModel.CEDTS_PaperExpansion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_PaperExpansion">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TE_REFERENCE_CEDTS_PA">
+    <End Role="CEDTS_Paper" Type="CedtsModel.CEDTS_Paper" Multiplicity="1" />
+    <End Role="CEDTS_Test" Type="CedtsModel.CEDTS_Test" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_Test">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Paper">
+    <End Role="CEDTS_Paper" Type="CedtsModel.CEDTS_Paper" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswerKnowledgePoint" Type="CedtsModel.CEDTS_TestAnswerKnowledgePoint" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswerKnowledgePoint">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_Paper">
+    <End Role="CEDTS_Paper" Type="CedtsModel.CEDTS_Paper" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswerTypeInfo" Type="CedtsModel.CEDTS_TestAnswerTypeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Paper">
+        <PropertyRef Name="PaperID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswerTypeInfo">
+        <PropertyRef Name="PaperID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_PaperAssessment_CEDTS_PartType">
+    <End Role="CEDTS_PartType" Type="CedtsModel.CEDTS_PartType" Multiplicity="0..1" />
+    <End Role="CEDTS_PaperAssessment" Type="CedtsModel.CEDTS_PaperAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_PartType">
+        <PropertyRef Name="PartTypeID" />
+      </Principal>
+      <Dependent Role="CEDTS_PaperAssessment">
+        <PropertyRef Name="PartTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_User_CEDTS_Partner">
+    <End Role="CEDTS_Partner" Type="CedtsModel.CEDTS_Partner" Multiplicity="0..1" />
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Partner">
+        <PropertyRef Name="PartnerID" />
+      </Principal>
+      <Dependent Role="CEDTS_User">
+        <PropertyRef Name="PartnerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_QUK_REFERENCE_CEDTS_QU">
+    <End Role="CEDTS_Question" Type="CedtsModel.CEDTS_Question" Multiplicity="1" />
+    <End Role="CEDTS_QuestionKnowledge" Type="CedtsModel.CEDTS_QuestionKnowledge" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Question">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="CEDTS_QuestionKnowledge">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_QU">
+    <End Role="CEDTS_Question" Type="CedtsModel.CEDTS_Question" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswer" Type="CedtsModel.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Question">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_tempTestAnswer1_CEDTS_Question">
+    <End Role="CEDTS_Question" Type="CedtsModel.CEDTS_Question" Multiplicity="0..1" />
+    <End Role="CEDTS_tempTestAnswer" Type="CedtsModel.CEDTS_tempTestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Question">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="CEDTS_tempTestAnswer">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_tempAssessmentItemTime1_CEDTS_Test">
+    <End Role="CEDTS_Test" Type="CedtsModel.CEDTS_Test" Multiplicity="0..1" />
+    <End Role="CEDTS_tempAssessmentItemTime" Type="CedtsModel.CEDTS_tempAssessmentItemTime" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_tempAssessmentItemTime">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_tempTestAnswer1_CEDTS_Test">
+    <End Role="CEDTS_Test" Type="CedtsModel.CEDTS_Test" Multiplicity="0..1" />
+    <End Role="CEDTS_tempTestAnswer" Type="CedtsModel.CEDTS_tempTestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_tempTestAnswer">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TE_REFERENCE_CEDTS_TE">
+    <End Role="CEDTS_Test" Type="CedtsModel.CEDTS_Test" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAssessment" Type="CedtsModel.CEDTS_TestAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAssessment">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TE_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_Test" Type="CedtsModel.CEDTS_Test" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_Test">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_TE">
+    <End Role="CEDTS_Test" Type="CedtsModel.CEDTS_Test" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswer" Type="CedtsModel.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswer_CEDTS_Test">
+    <End Role="CEDTS_Test" Type="CedtsModel.CEDTS_Test" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswer" Type="CedtsModel.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswerKnowledgePoint_CEDTS_Test">
+    <End Role="CEDTS_Test" Type="CedtsModel.CEDTS_Test" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswerKnowledgePoint" Type="CedtsModel.CEDTS_TestAnswerKnowledgePoint" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswerKnowledgePoint">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TestAnswerTypeInfo_CEDTS_Test">
+    <End Role="CEDTS_Test" Type="CedtsModel.CEDTS_Test" Multiplicity="1" />
+    <End Role="CEDTS_TestAnswerTypeInfo" Type="CedtsModel.CEDTS_TestAnswerTypeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_Test">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswerTypeInfo">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TEAN_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAnswer" Type="CedtsModel.CEDTS_TestAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAnswer">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_TEA_REFERENCE_CEDTS_US">
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_TestAssessment" Type="CedtsModel.CEDTS_TestAssessment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_TestAssessment">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_UserAnswerInfo_CEDTS_User">
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_UserAnswerInfo" Type="CedtsModel.CEDTS_UserAnswerInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_UserAnswerInfo">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_UserAssessmentCount_CEDTS_User">
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_UserAssessmentCount" Type="CedtsModel.CEDTS_UserAssessmentCount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_UserAssessmentCount">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CEDTS_UserKnowledgeInfomation_CEDTS_User">
+    <End Role="CEDTS_User" Type="CedtsModel.CEDTS_User" Multiplicity="0..1" />
+    <End Role="CEDTS_UserKnowledgeInfomation" Type="CedtsModel.CEDTS_UserKnowledgeInfomation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_UserKnowledgeInfomation">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="CEDTS_LearnerStatus">
+    <Key>
+      <PropertyRef Name="statusId" />
+    </Key>
+    <Property Type="Int32" Name="statusId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="userId" Nullable="false" />
+    <Property Type="String" Name="status" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CEDTS_User" Relationship="CedtsModel.FK_CEDTS_LearnerStatus_CEDTS_User" FromRole="CEDTS_LearnerStatus" ToRole="CEDTS_User" />
+  </EntityType>
+  <Association Name="FK_CEDTS_LearnerStatus_CEDTS_User">
+    <End Type="CedtsModel.CEDTS_User" Role="CEDTS_User" Multiplicity="1" />
+    <End Type="CedtsModel.CEDTS_LearnerStatus" Role="CEDTS_LearnerStatus" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CEDTS_User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CEDTS_LearnerStatus">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="CEDTS_PaperAssignClass">
+    <Key>
+      <PropertyRef Name="PaperClassID" />
+    </Key>
+    <Property Type="Int32" Name="PaperClassID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Guid" Name="PaperID" />
+    <Property Type="Guid" Name="ClassID" />
+    <Property Type="Int32" Name="UserID" />
+    <Property Type="DateTime" Name="CreateTime" />
+  </EntityType>
+</Schema>

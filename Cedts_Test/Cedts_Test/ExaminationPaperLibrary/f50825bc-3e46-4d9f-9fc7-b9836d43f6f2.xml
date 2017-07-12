@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="f50825bc-3e46-4d9f-9fc7-b9836d43f6f2" totalScore="22" totalTime="12" name="aaaaaaaaaaa" resultTime="0" bShowAns="1" Diffcult="5" Type="按题型组卷">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="c2fd6daa-f64c-4be9-8e0f-018a29a56632" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;b&gt;From Trash to Treasure&lt;/b&gt; &lt;br/&gt;        Early on a Saturday morning, much of the world remains in bed, enjoying an extra hour or two of sleep. But a few Americans are up and preparing for the hunt. Armed with the newspaper yard-sale listings, they plan to be the first to arrive at the sales. What are these yard-sale shoppers hunting for? Secondhand treasures, of course!&lt;br/&gt;        Yard-sale shoppers aren't the only people who like used goods. From Australia to U.S.A., Westerners love to buy other people's stuff. Even the wealthy willingly search through used goods looking for a unique treasure.&lt;br/&gt;        Some people buy used goods simply to save money. Others hunt through them hoping to find a valuable antique. Still others look for items to add to their collections. &lt;br/&gt;        Some items remind people of childhood. A flour tin from the 1940s may bring back memories of Mom's homemade cookies. A copy of a favorite children's book can remind someone of bedtime stories with Dad. &lt;br/&gt;        True antique must be at least 100 years old. But any item that is no longer made can be a collectible and some hold great value.&lt;br/&gt;        &lt;br/&gt;&lt;b&gt;How Old is Old?&lt;/b&gt;&lt;br/&gt;        For those in Asia, where 5,000-year-old vases sit in museums, Western antiques don't seem too old. But for Americans, items even a few decades old have value. An ice-cream maker from the 1920s could be worth US$50. A sign from World War I could sell for US$4,000 or more. &lt;br/&gt;        Some who collect want to make money and become antique dealers. They carefully look over items for any flaws （瑕疵） that would lower the item's value. They take classes and read books to learn which items will increase in value or are desirable to collectors. &lt;br/&gt;        Others simply buy whatever catches their fancy. If people enjoy rock 'n' roll music, they might collect old records. A tea drinker may collect antique teacups. Those not looking to make money suggest, "Don't buy it unless it's useful."&lt;br/&gt;        The trick is finding new ways to use old items. For example, an old-fashioned clothes iron may be used as a bookend. An old children's toy wagon could display books or teddy bears in a guest room. An antique quilt could be hung on the wall for display. &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;Where to Find Collectibles&lt;/b&gt; &lt;br/&gt;        Secondhand goods can be found in all sorts of places. Saturday morning yard sales are just the beginning. Flea markets are another hot spot for collectibles. You won't find bugs, but you may find yard tools, arts and crafts, and furniture.&lt;br/&gt;        Shopping at a flea market for the first time can be overwhelming. Tables piled high with junk fill large rooms or outdoor markets. And you have to look through it all yourself to find anything worth taking home. For antique lovers, however, finding just the right treasure makes all that looking worthwhile. &lt;br/&gt;        More valuable pieces are typically found in antique auctions. You can find them in cities or online. In today's world of technology, someone in California can buy a mirror from a shop in Maine without leaving home. &lt;br/&gt;        You don't have to spend money to enjoy secondhand shopping. An afternoon wandering antique shops and flea markets can be a mini history lesson. Old movie posters may catch your eye, or an old piano. Each piece brings the past to life. You never knew what treasures you're going to find in someone else's trash.</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>Only those poor people go to yard sales to hunt for used goods.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Yard sales have a long history in Western countries.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Flaws in an antique do not affect its value if it is old enough.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>Compared to western antiques, those in Asia are much older.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>It is always a pleasant experience to shop at flea markets.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>Shopping at a flea market, one should have a keen eye for the item worth collecting.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>Used goods or antiques can also be purchased online.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>Yard sales usually take place on ____ .</Prompt>
+            <Answer>
+              <Value>Saturday mornings</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>True antique must be at least ____ .</Prompt>
+            <Answer>
+              <Value>100 years old</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>Secondhand goods can be found in such places as yard sales, flea markets and ____ .</Prompt>
+            <Answer>
+              <Value>antique auctions</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="2" Time="2">
+      <AssessmentItem ItemID="644e31c1-5001-449a-a1f8-0045a6a00c99" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="">
+        <soundFile>7CAF51BBFB8D53419C773DB872F5FBB2</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He has to go to another meeting first.</choice>
+              <choice id="B">He won't want to speak at the meeting.</choice>
+              <choice id="C">He might get lost in the crowd.</choice>
+              <choice id="D">He doesn't like to go places.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Jeff has a lot of good ideas. Do you think he will be willing to come to this meeting?
+W: Oh, I think he'd be glad to come, but it'll be difficult to get him to speak before a large crowd.
+Q: What does the woman imply about Jeff?</Script>
+        <soundFile>04F7EA47ADA4D14ABEAE08DDBBE8EC82</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">His native language is French.</choice>
+              <choice id="B">His native language is English.</choice>
+              <choice id="C">His native language is German.</choice>
+              <choice id="D">His native language is Spanish.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Although Doug is an American, he's lived in Europe most of his life. 
+M: How many languages can he speak?
+W: He speaks French, Spanish, German as well as English.
+Q: What can be inferred about Doug?
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="82a704d1-c440-421c-ae24-0080f45f3804" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="18" Course="" Unit="" />
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="96667592-cce1-43cf-bba3-017cf6b68ccc" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        Thomas Jefferson, who died in 1826, looms ever larger as a figure of special significance. Americans, of course, are (_1_) with Jefferson as an early statesman, author of the "Declaration of Independence", and a high-ranking presidential Founding Father. But there is (_2_) Jefferson less well known. This is the Jefferson who, as the outstanding American philosopher of democracy, has an increasing (_3_) to the world's newly emerging peoples.&lt;br/&gt;        There is no other man in (_4_) who formulated the ideas of (_5_) with such fullness, persuasiveness, and logic. Those (_6_) in democracy as a political system — even those who do not accept his postulates or are (_7_) of his solutions — must reckon with（重视） his thought. What, then, is his thought, and how much of it is still (_8_) under modern conditions? Of all the ideas and beliefs that (_9_) up the political philosophy known as Jefferson democracy, perhaps three are (_10_) — the ideas of equality, freedom and the people's control over government.</Content>
+        <WordList>
+          <Word id="B">history</Word>
+          <Word id="C">forever</Word>
+          <Word id="D">relevant</Word>
+          <Word id="E">critical</Word>
+          <Word id="F">familiar</Word>
+          <Word id="G">make</Word>
+          <Word id="H">democracy</Word>
+          <Word id="I">influence</Word>
+          <Word id="J">another</Word>
+          <Word id="K">related</Word>
+          <Word id="L">theory</Word>
+          <Word id="M">paramount</Word>
+          <Word id="N">appeal</Word>
+          <Word id="O">other</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>J</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>M</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

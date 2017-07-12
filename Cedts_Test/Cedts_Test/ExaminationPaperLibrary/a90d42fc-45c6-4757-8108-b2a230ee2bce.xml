@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="a90d42fc-45c6-4757-8108-b2a230ee2bce" totalScore="8.5" totalTime="0" name="tth" resultTime="0" bShowAns="1" Diffcult="8" Type="按知识点组卷">
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="8.5" Time="0">
+      <AssessmentItem ItemID="36fd3f4e-3aab-41b3-8bf3-73231729aebb" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="8.5" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        China's obesity (肥胖) problem work group recently issued the first ever obesity index for Chinese adults, based on data analyses in the 1990s, according to an article published on "Popular Medicine" written by Professor Zhou Beifan with the China Academy of Medical Science.&lt;br/&gt;        Obesity is (_1_) judged and diagnosed according to the Body Mass Index (BMI) --- body weight (kilogram)/square of body height (meter) --- (_2_) by the World Health Organization, but the result was (_3_) out on the (_4_) of western people and therefore not (_5_) to Asians.&lt;br/&gt;        Under the same calculating method China (_6_) the result for its own folks, according to (_&lt;span style='color:Red'&gt;which&lt;/span&gt;_) one is overweighed when his or her body mass index surpasses or equals to 24, and (_8_) when the index surpasses (超过) or equals to 28. Besides, a male gets abdominal obese when his waistline reaches or surpasses 85 cm and a female 80 cm.&lt;br/&gt;        Waistline (腰围) is an important measurement for abdominal obesity, because it (_9_) one's abdominal (腰部的) adiposity (发胖倾向), which has (_&lt;span style='color:Red'&gt;a lot&lt;/span&gt;_) to do with a (_11_) of metabolic (新陈代谢的) disorders.&lt;br/&gt;        The body mass index increases along with the risks of getting stroke and coronary heart diseases. With the index increase 2, the (_12_) for coronary heart diseases (冠心病) and stroke increase 15.4 and 6.1 percent (_13_), the work group (_14_) out.&lt;br/&gt;        (_&lt;span style='color:Red'&gt;Once&lt;/span&gt;_) the index reaches or surpasses 24, one's more (_16_) to have risks for high blood pressure, diabetes (糖尿病) and hyperlipidemia (高血脂) at the same time, the possibility exceeds 90 percent when the index (_17_) or surpasses 28. It should also be noted that the risks (_18_) when one's index is (_19_) normal range but the waistline reaches 80 or 85 cm. If the index is (_20_) normal range and waistline also passes 80 or 85 cm, the risks for diabetes and coronary heart diseases would be extremely high.</Content>
+        <Questions Count="17">
+          <question id="0">
+            <choices>
+              <choice id="A">locally</choice>
+              <choice id="B">globally</choice>
+              <choice id="C">domestically</choice>
+              <choice id="D">regionally</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">reflected</choice>
+              <choice id="B">represented</choice>
+              <choice id="C">recommended</choice>
+              <choice id="D">renewed</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">worked</choice>
+              <choice id="B">made</choice>
+              <choice id="C">brought</choice>
+              <choice id="D">pointed</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">foundation</choice>
+              <choice id="B">base</choice>
+              <choice id="C">basics</choice>
+              <choice id="D">basis</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">attributable</choice>
+              <choice id="B">accessible</choice>
+              <choice id="C">applicable</choice>
+              <choice id="D">available</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">revealed</choice>
+              <choice id="B">issued</choice>
+              <choice id="C">released</choice>
+              <choice id="D">declared</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">fat</choice>
+              <choice id="B">plump</choice>
+              <choice id="C">obese</choice>
+              <choice id="D">stout</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">reveals</choice>
+              <choice id="B">reproduces</choice>
+              <choice id="C">relates</choice>
+              <choice id="D">reflects</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">series</choice>
+              <choice id="B">sequences</choice>
+              <choice id="C">succession</choice>
+              <choice id="D">trail</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">hazards</choice>
+              <choice id="B">chances</choice>
+              <choice id="C">risks</choice>
+              <choice id="D">likelihood</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">respectfully</choice>
+              <choice id="B">respectively</choice>
+              <choice id="C">respectably</choice>
+              <choice id="D">ultimately</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">figured</choice>
+              <choice id="B">made</choice>
+              <choice id="C">found</choice>
+              <choice id="D">pointed</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">possible</choice>
+              <choice id="B">probable</choice>
+              <choice id="C">likely</choice>
+              <choice id="D">unlikely</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">touches</choice>
+              <choice id="B">hits</choice>
+              <choice id="C">strikes</choice>
+              <choice id="D">knocks</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">arises</choice>
+              <choice id="B">raises</choice>
+              <choice id="C">arouses</choice>
+              <choice id="D">rises</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">within</choice>
+              <choice id="B">around</choice>
+              <choice id="C">in</choice>
+              <choice id="D">about</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">above</choice>
+              <choice id="B">past</choice>
+              <choice id="C">beyond</choice>
+              <choice id="D">over</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

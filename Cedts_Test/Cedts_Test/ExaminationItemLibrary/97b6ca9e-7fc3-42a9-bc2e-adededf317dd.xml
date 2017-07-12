@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="97b6ca9e-7fc3-42a9-bc2e-adededf317dd" PartType="4" ItemType="7" ItemType_CN="阅读选择题型" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" Course="" Unit="">
+  <Content>&lt;p&gt;
+	hgdhdhdg&lt;/p&gt;
+</Content>
+  <Questions Count="1">
+    <question id="0">
+      <prompt>ghdh</prompt>
+      <choices>
+        <choice id="A">dfhd</choice>
+        <choice id="B">hdhd</choice>
+        <choice id="C">hhh</choice>
+        <choice id="D">s</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>gsdf</Tip>
+    </question>
+  </Questions>
+</AssessmentItem>

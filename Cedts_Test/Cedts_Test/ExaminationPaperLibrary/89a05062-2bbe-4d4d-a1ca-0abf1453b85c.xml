@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="89a05062-2bbe-4d4d-a1ca-0abf1453b85c" totalScore="10" totalTime="10" name="kkk" resultTime="0" bShowAns="1" Diffcult="0.1" Type="大学四级试题">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="1a11841f-1a80-4f1e-9a33-e9fa9ec823c7" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="">
+        <Content>
+        </Content>
+        <Questions Count="1">
+          <question id="0">
+            <Prompt>ddd</Prompt>
+            <Answer>
+              <Value>sss</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>fff</Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

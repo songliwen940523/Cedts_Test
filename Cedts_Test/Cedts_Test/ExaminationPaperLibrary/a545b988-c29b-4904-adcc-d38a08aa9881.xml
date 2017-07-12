@@ -1,0 +1,887 @@
+<?xml version="1.0"?>
+<Paper UserID="751" UpdateUserID="751" PaperID="a545b988-c29b-4904-adcc-d38a08aa9881" totalScore="87.5" totalTime="32" name="cccccccc" resultTime="0" bShowAns="1" Diffcult="8" Type="得分最大化组卷">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="9" Time="9">
+      <AssessmentItem ItemID="ee7bc5a1-9865-4dfe-9f38-840613730f38" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="9" ReplyTime="9" Diffcult="0" QustionInterval="">
+        <Content>&lt;b&gt;Insurance&lt;/b&gt;&lt;br/&gt;        Insurance is a guarantee against financial loss. Insurance policies can be bought for all sorts of things. The most common kinds of insurance include life, health and property. &lt;br/&gt;        For example, an insurance company will pay to repair or replace the property if it is damaged or stolen. How much a company will pay in the event of a claim depends on how much insurance the policyholder has bought. The amount may also depend on the conditions that led to the damage. &lt;br/&gt;        The Insurance Information Institute says Americans paid forty-nine thousand million dollars for homeowners insurance in 2003. The payments that policyholders make to an insurance company are called premiums （保险金）. Premiums for car insurance totaled sixty-five thousand million. &lt;br/&gt;        Insurance is an ancient idea. Early forms of insurance were used over three thousand years ago in Babylonia, the country that is now Iraq. Also, the Phoenician （腓尼基人的）, Greek and Roman cultures had forms of insurance in case of loss or death. By the 1400s, the European shipping trade had developed its own system of insurance. &lt;br/&gt;        There are two main kinds of insurance companies. Insurance carriers provide insurance to individuals, groups and businesses. Re-insurance companies help reduce the financial risk to carriers. These are insurance companies for insurance companies. &lt;br/&gt;        Carriers usually sell their policies through insurance agencies or brokers. Brokers bring together buyers and sellers. Large businesses often use brokers when choosing products to insure their workers, property and interests against risk. &lt;br/&gt;        Independent sales agents sell insurance from many companies. Others sales agents sell insurance from only one company. &lt;br/&gt;        Over two million Americans work in the insurance industry. A government report shows that more than 90 percent of insurance-related businesses employ fewer than 20 workers. Yet, as of three years ago, just a few large companies employed almost 40 percent of all the workers in the industry. &lt;br/&gt;        Employment experts say job growth in the insurance industry is slower than in other industries. They say technology has increased productivity, which means fewer workers are needed to do the work. &lt;br/&gt;        Property was the first thing that people insured. Insurance can limit the cost to replace property that is damaged or destroyed. &lt;br/&gt;        Now what if someone is injured on someone else's property, but the property is O.K.? The owner may have to pay the medical costs. In that case, there is liability insurance （责任险） to help pay for such claims. &lt;br/&gt;        A person's life can be insured too. One traditional form of life insurance is term life. It pays only if the policyholder dies before a set age. A term life policy can be renewed, but at a higher price. &lt;br/&gt;        Whole life insurance costs more. It also pays if a person dies. But whole life policies gain value as savings over time. The policyholder can borrow against this value in the form of a loan. &lt;br/&gt;        When people buy life insurance, the insurer （承保人） invests the payments in bonds （债券）, stocks and other financial products. &lt;br/&gt;        The Insurance Information Institute in New York says traditional life insurance is still an important part of the industry. But it says the main business now is in annuities （养老金）. &lt;br/&gt;        Annuities are contract agreements that guarantee payments in the future, generally when a person retires. These payments may be fixed. Or the amount may change with the value of investments. &lt;br/&gt;        Besides life insurance, there is health insurance which pays for medical costs if a person is sick or injured. The Insurance Information Institute says private insurers pay for about 40 percent of all health care costs in the United States. &lt;br/&gt;        Medicare （医疗保险制度） is federal health insurance for people age 65 and older. Medicaid is federal and state health insurance for the poor. &lt;br/&gt;        Workers in the United States who are injured on the job can receive workers compensation. States require employers to pay into this form of insurance. And workers who lose their jobs may collect unemployment insurance, for up to 26 weeks. &lt;br/&gt;        Modern insurance started in England in the late 1600s. Businesses shared the risks of international shipping. &lt;br/&gt;        The insurance industry uses actuaries （保险精算师）. These workers try to estimate the probability that some event will happen that will lead to a claim. Almost anything can be insured, so long as some insurer is willing to take the risk to insure it. &lt;br/&gt;        Credit Cards Are Easy to Get, But Hard to Pay Off &lt;br/&gt;        Buy now, pay later. Credit cards give people that choice. Those billions of small pieces of plastic in use all over the world make it easy to buy things. But people who use credit cards irresponsibly can soon find themselves heavily in debt.&lt;br/&gt;        Cardholders may not think about it, but they borrow money from a bank or other lender each time they charge something. They avoid interest charges if they pay their bill in full each month. But if they only make the minimum payment, the lowest required, it may take years to pay off a debt. Interest is continually charged on the unpaid balance. &lt;br/&gt;        A credit card may have a number of costs. First, there is the interest charge on purchases, known as the annual percentage rate, or A.P.R. Cardholders may have to pay cash advance fees if they withdraw money from a credit card. There are also fees if they go over their credit limit, or if a payment is late. Lenders may also raise interest rates as punishment.&lt;br/&gt;        In the United States, credit card fees have become a political issue. Congress has threatened to take action against what critics call abusive （滥用的） behavior by lenders.&lt;br/&gt;        Yet getting a credit card has become a lot easier for most people. Maybe too easy: People receive offers in the mail of pre-approved cards that they never asked for. Many cards offer low rates at first, especially if people agree to move their balance from another card. &lt;br/&gt;        About half of all Americans have at least two credit cards. And the credit rating agency Experian says fourteen percent of the population has more than ten. Jeanne Hogarth at the Federal Reserve, the central bank, says the average family has four credit cards. But families that carry a balance, meaning they do not pay off their statements each month, have an average of five. &lt;br/&gt;        In 1988, Americans had three hundred thirty billion dollars in credit card debt, and it was eight hundred forty billion in 2006. In the latest government study, the average credit card debt for all households was more than three thousand dollars. But for those that carried a balance, the average was five thousand three hundred.</Content>
+        <Questions Count="9">
+          <question id="0">
+            <prompt>The idea of insurance started in England in the late 1600s.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Job growth in the insurance industry slows down due to increased productivity.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Term life insurance pays after its policyholder dies.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>The medical costs of the poor are covered by Medicare in the US.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>The congress strongly objects to the various fees charged by the banks or other lenders for the service they provide for cardholders.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>To withdraw money from a credit card, a cardholder has to pay cash advance fees.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Prompt>The first thing that people insured was ____ .</Prompt>
+            <Answer>
+              <Value>property</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>In the United States, workers out of job can collect unemployment insurance for ____ .</Prompt>
+            <Answer>
+              <Value>up to 26 weeks</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>According to a latest study, each household in America had an average credit card debt of ____ .</Prompt>
+            <Answer>
+              <Value>more than three thousand dollars</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="2" Time="2">
+      <AssessmentItem ItemID="d3c6d8e7-c8f8-44e3-b5ba-27604d9c6aa0" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="20" Course="" Unit="">
+        <soundFile>d3c6d8e7-c8f8-44e3-b5ba-27604d9c6aa0</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">It was really very cold.</choice>
+              <choice id="B">There was snow all winter.</choice>
+              <choice id="C">It snowed in December.</choice>
+              <choice id="D">The temperature was below freezing.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Was it very cold here last winter?
+W: Not really. The temperature never dropped below freezing. There was a little snow in December around Christmas, but that was all.
+Q: What did the woman say about the weather?</Script>
+        <soundFile>f4440bfd-5e3b-4b9c-8872-4716153da4d6</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">It has exceptionally good service.</choice>
+              <choice id="B">It has excellent food.</choice>
+              <choice id="C">The service there is disappointing.</choice>
+              <choice id="D">Everything there is wonderful.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: This is a great restaurant. You can get anything you want here.
+W: Anything except good service!
+Q: What is the woman's opinion of the restaurant?</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="f4440bfd-5e3b-4b9c-8872-4716153da4d6" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="11" Course="" Unit="" />
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="28" Time="4">
+      <AssessmentItem ItemID="c7a50b27-c3d5-46f8-a8e8-612d30baba9f" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="28" ReplyTime="4" Diffcult="0" QustionInterval="1" Course="" Unit="">
+        <soundFile>c7a50b27-c3d5-46f8-a8e8-612d30baba9f</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">The hotel clerk had put his reservation under another name.</choice>
+              <choice id="B">The hotel clerk insisted that he didn’t make any reservation.</choice>
+              <choice id="C">The hotel clerk tried to take advantage of his inexperience.</choice>
+              <choice id="D">The hotel clerk couldn’t find his reservation for that night.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is the man’s problem? </Script>
+            <Sound duration="1">c87d425d-3885-4dcd-88b0-affe76ca4818</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">A grand wedding was being held in the hotel.</choice>
+              <choice id="B">There was a conference going on in the city.</choice>
+              <choice id="C">The hotel was undergoing major repairs.</choice>
+              <choice id="D">It was a busy season for holiday-makers.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why did the hotel clerk say they didn’t have any rooms for that night? </Script>
+            <Sound duration="1">092f8b46-cb60-4dd4-b9ee-af23b4091356</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">It was free of charge on weekends.</choice>
+              <choice id="B">It had a 15% discount on weekdays.</choice>
+              <choice id="C">It was offered to frequent guests only.</choice>
+              <choice id="D">It was 10% cheaper than in other hotels.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What did the clerk say about the breakfast in the hotel?</Script>
+            <Sound duration="1">81f60c71-4389-474f-850f-052e85511a80</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Demand compensation from the hotel.</choice>
+              <choice id="B">Ask for an additional discount.</choice>
+              <choice id="C">Complain to the hotel manager.</choice>
+              <choice id="D">Find a cheaper room in another hotel.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What did the man imply he would do at the end of the conversation?</Script>
+            <Sound duration="1">8f6d049a-5398-4c1e-99e9-02534145a35f</Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	-Hello, I have a reservation for tonight.&lt;br /&gt;
+	-Your name, please?&lt;br /&gt;
+	-Nelson, Charles Nelson.&lt;br /&gt;
+	-Ok, Mr. Nelson, that&amp;rsquo;s a room for 5 and &amp;hellip;&lt;br /&gt;
+	-Excuse me? You mean a room for 5 pounds? I didn&amp;rsquo;t know the special was so good.&lt;br /&gt;
+	-No, no, no, according to our records, a room for 5 guests was booked under your name.&lt;br /&gt;
+	-No, no, hold on. You must have two guests under the name.&lt;br /&gt;
+	-OK, let me check this again. Oh, here we are.&lt;br /&gt;
+	-Yes?&lt;br /&gt;
+	-Charles Nelson, a room for one for the nineteen&amp;hellip;&lt;br /&gt;
+	-Wait, wait, it was for tonight, not tomorrow night.&lt;br /&gt;
+	-Ehm, hmm, I don&amp;rsquo;t think we have any rooms for tonight. There is a conference going on in town and, er, let&amp;rsquo;s see, yeah, no rooms.&lt;br /&gt;
+	-Oh, come on, you must have something, anything!&lt;br /&gt;
+	-Well, let, let me check my computer here. Ah!&lt;br /&gt;
+	-What?&lt;br /&gt;
+	-There has been a cancelation for this evening. A honeymoon suite is now available.&lt;br /&gt;
+	-Great, I&amp;rsquo;ll take it.&lt;br /&gt;
+	-But I&amp;rsquo;ll have to charge you a hundred and fifty pounds for the night.&lt;br /&gt;
+	-What? I should get a discount for the inconvenience!&lt;br /&gt;
+	-Well, the best I can give you is a 10% discount, plus a ticket for a free continental breakfast.&lt;br /&gt;
+	-Hey, isn&amp;rsquo;t the breakfast free anyway?&lt;br /&gt;
+	-Well, only on weekends.&lt;br /&gt;
+	-I want to talk to the manager.&lt;br /&gt;
+	-Wait, wait, wait, Mr. Nelson, I think I can give you an additional 15% discount!&lt;br /&gt;
+	Questions 19 to 22 are based on the conversation you have just heard.&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="4" Time="4">
+      <AssessmentItem ItemID="325a58af-d802-4414-be1b-5b7f2690db37" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="100" Course="" Unit="">
+        <soundFile>325a58af-d802-4414-be1b-5b7f2690db37</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">Because they have a driving license.</choice>
+              <choice id="B">Because they have received special training.</choice>
+              <choice id="C">Because the traffic conditions in London are good.</choice>
+              <choice id="D">Because the traffic system of the city is not very complex.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why are London taxi drivers very efficient?</Script>
+            <Sound duration="4">DBBE69D820F3AF4CBA5EEE1A38EC7B2A</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">Two to four months.</choice>
+              <choice id="B">About three weeks.</choice>
+              <choice id="C">At least half a year.</choice>
+              <choice id="D">Two years or more.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How long does the training period last?</Script>
+            <Sound duration="4">88CDAE35C455C9449C5EAF1373AA736E</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Government officers are hard to please.</choice>
+              <choice id="B">The learner has to go through several tough tests.</choice>
+              <choice id="C">The learner usually fails several times before he passes it.</choice>
+              <choice id="D">The driving test usually lasts two months.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why does the speaker think the driving test is a terrible experience?</Script>
+            <Sound duration="6">DBB0EE58CA993A48A6D2B89D3D8B5DC3</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">They don't want their present bosses to know what they're doing.</choice>
+              <choice id="B">They want to earn money from both jobs.</choice>
+              <choice id="C">They cannot earn money as taxi drivers yet.</choice>
+              <choice id="D">They look forward to further promotion.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why do learner drivers have to keep their present jobs?</Script>
+            <Sound duration="5">EE78A27063204345A00025418CB080F3</Sound>
+          </question>
+        </Questions>
+        <Script>London taxi drivers know the capital like the back of their hands. No matter how small or indistinct the street is, the driver will be able to get you there without any trouble. The reason London taxi drivers are so efficient is that they all have gone through a very tough training period to get a special taxi driving license. During this period, which can take two to four years, the would-be taxi driver has to learn the most direct route to every single road and to every important building in London. To achieve this, most learners go around the city on small motorbikes, practicing how to move to and from different points of the city. Learner taxi drivers are tested several times during the training period by government officers. The exams are terrible experiences. The officers ask you "How do you get from Buckingham Palace to the Tower of London?" and you have to take them there in a direct line. When you get to the tower, they won't say "Well done." They will quickly move on to the next question. After five or six questions, they will just say "See you in two months' time." and then you know the exam is over. Learner drivers are not allowed to work and earn money as drivers. Therefore, many of them keep their previous jobs until they have obtained the license. The training can cost quite a lot, because learners have to pay for their own expenses on the tests and the medical exam.</Script>
+      </AssessmentItem>
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="af5b1ce0-57be-4ffb-ac4f-c6cbe9606007" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="183" Course="" Unit="">
+        <Content>        If you are in a hurry and you want to (_1_) there is no better place than a (_2_) restaurant. You (_3_) the restaurant, pick up a tray, knife, fork, and spoon and queue (_4_) where the food is on display. You pick out (_5_) and put it on your tray, which you have to (_6_) a special rack till you reach the cashier. The cashier will (_7_). After paying, you take your tray to any table you like. You can (_8_) or with another customer. You can have a good meal (_9_). And --- as there is no waiter you don't (_10_).</Content>
+        <SoundFile>af5b1ce0-57be-4ffb-ac4f-c6cbe9606007</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>have a quick meal</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>self-service</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>go into</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>at a counter</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>what you want</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>push along</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>give you your bill</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>sit alone</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>in ten minutes</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>have to give a tip</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="30" Time="0">
+      <AssessmentItem ItemID="4198696c-6538-4e9d-94f0-884cd0fd53d3" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        The first step to stop drug abuse is to know why people start to use drugs. The (_1_) people abuse drugs are as different as people are from one to another. But there seems to be one (_2_) thread: people seem to take drugs to (_3_) the way they feel. They want to feel better or feel happy or to feel (_4_). Sometimes, they want to forget or to remember something. People often feel better about themselves when they are under the (_5_) of drugs. But the effects don't last long. Drugs don't solve problems. They just (_6_) them. No matter how far drugs may take you, it's always a (_7_) trip. After a while, people who miss drugs may feel (_8_) about themselves, and they may use more drugs. If someone you know is using or abusing drugs, you can help. The most important part you can (_9_) is to be there. You can let your friends know that you care. You can listen and try to solve the problem behind your friend's need to use drugs. Two people together can often solve a problem that seems too big for one person alone. Studies of (_10_) abusers in the United States show that they felt unloved and unwanted. They didn't have close friends to talk to. When you or your friends take the time to care for each other, you're all helping to stop drugs abuse.</Content>
+        <WordList>
+          <Word id="B">exciting</Word>
+          <Word id="C">round</Word>
+          <Word id="D">heavy</Word>
+          <Word id="E">nothing</Word>
+          <Word id="F">worse</Word>
+          <Word id="G">change</Word>
+          <Word id="H">influence</Word>
+          <Word id="I">different</Word>
+          <Word id="J">play</Word>
+          <Word id="K">common</Word>
+          <Word id="L">take</Word>
+          <Word id="M">reasons</Word>
+          <Word id="N">functions</Word>
+          <Word id="O">better</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>J</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        Harvard University will spend $50 million to encourage scientific research that crosses traditional department boundaries and focuses on areas such as stem cells and engineering modeled on living organisms.&lt;br/&gt;        The Harvard University corporation, the board that (_1_) school, said the money will be used to create new (_2_), hire faculty, fund research, and pay for new equipment and laboratory space.&lt;br/&gt;        "The fact that Harvard, which has probably been more (_3_) than any university for the insularity (（思想, 观点等的）偏狭) of its programs, is undertaking this, which is a terribly important signal to the entire research(_4_)," Robert M. Berdahl, president of the Association of American Universities, told "The Boston Globe" in a story published Friday.&lt;br/&gt;        Provost Steven E. Hyman called the initiative "a down payment on a longer-term (_5_) in science and engineering."&lt;br/&gt;        The Harvard corporation (_6_) general support for a new department focused on stem cell biology. Research would range from basic science (_7_) medical applications.&lt;br/&gt;        If (_8_), it would be the first university-wide department, bringing together researchers from the medical school and the faculty of arts and sciences.&lt;br/&gt;        Some Harvard (_9_) said they fear new departments would not (_10_) the same academic standards as are in place today. Others worry that in seeking to stay on the leading edge, the university will devote too many resources to scientifically fashionable areas.</Content>
+        <WordList>
+          <Word id="B">community</Word>
+          <Word id="C">scientists</Word>
+          <Word id="D">academic</Word>
+          <Word id="E">departments</Word>
+          <Word id="F">approved</Word>
+          <Word id="G">famous</Word>
+          <Word id="H">running</Word>
+          <Word id="I">beneficial</Word>
+          <Word id="J">to</Word>
+          <Word id="K">expressed</Word>
+          <Word id="L">maintain</Word>
+          <Word id="M">investment</Word>
+          <Word id="N">participation</Word>
+          <Word id="O">funding</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>J</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>L</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        The old lady was eighty today. She had (_1_) on her best dress. Perhaps — perhaps Myra might come. (_2_) all, eighty was a special birthday, another decade lived or (_3_) just as you chose to look at it. &lt;br/&gt;        Even if Myra did not come, she would (_4_) a present. The old lady was (_5_) of that. Two spots of colour brightened her (_6_). She was excited — like a child. She would (_7_) her day. &lt;br/&gt;        Yesterday Mrs. Morrison had given the flat an (_8_) clean, and today she had brought a card and a bunch of marigolds（万寿菊） (_9_) she came to do the breakfast. Mrs. Grant (_10_) had made a cake, and in the afternoon she was going down there to tea.</Content>
+        <WordList>
+          <Word id="B">extra</Word>
+          <Word id="C">send</Word>
+          <Word id="D">give</Word>
+          <Word id="E">put</Word>
+          <Word id="F">downstairs</Word>
+          <Word id="G">cheeks</Word>
+          <Word id="H">face</Word>
+          <Word id="I">After</Word>
+          <Word id="J">sure</Word>
+          <Word id="K">waste</Word>
+          <Word id="L">For</Word>
+          <Word id="M">enjoy</Word>
+          <Word id="N">endured</Word>
+          <Word id="O">when</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>I</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>M</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>J</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="a5c7a3a6-2080-4f66-b0a9-ad21db675dae" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="" />
+      <AssessmentItem ItemID="0188ec55-8d05-4951-a756-b22da0ac73c0" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="" />
+    </Section>
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="4.5" Time="3">
+      <AssessmentItem ItemID="cc7c4132-b75c-4057-b682-31d72b233e49" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="4.5" ReplyTime="3" Diffcult="0" QustionInterval="">
+        <Content>        Your life is your art, your own creation constantly in the making. Oprah explains how true intention shapes every experience:&lt;br/&gt;        I had recognized for a long time that I was responsible for my life, that every choice produced a consequence. But often the consequences seemed out of line with my expectations. That's because I was thinking one thing but intending another. I wasn't aware of the consequences of my deepest intentions. My intention of always trying to please other people, for example, produced an unwanted consequence: I often felt taken advantage of and used.&lt;br/&gt;        So I decided to become aware of my every intention in order to create a different outcome. That meant doing only those things that came for the truth of who I am — and only doing for others what pleased me to do.&lt;br/&gt;        What I know for sure is that whatever your situation is right now, you have played a major role in setting it up. It is you who have created your circumstances. With every experience, you alone are painting your own canvas, thought by thought, choice by choice. And beneath each of those thoughts and choices lies your deepest intention. If you are feeling stuck in your life and want to move forward, start by examining your past motivations.</Content>
+        <Questions Count="3">
+          <question id="0">
+            <prompt>"Making" in the first paragraph can be best replaced by ____.</prompt>
+            <choices>
+              <choice id="A">way to success</choice>
+              <choice id="B">drawing</choice>
+              <choice id="C">course of life</choice>
+              <choice id="D">rising</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>According to the passage, Oprah used to ____.</prompt>
+            <choices>
+              <choice id="A">avoid the responsibility in her life</choice>
+              <choice id="B">fail to make things come out her way</choice>
+              <choice id="C">please other people</choice>
+              <choice id="D">come up with any good idea</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>In the opinion of Oprah, one should ____.</prompt>
+            <choices>
+              <choice id="A">try to please other people</choice>
+              <choice id="B">be aware of his deepest intentions</choice>
+              <choice id="C">learn to draw skillfully</choice>
+              <choice id="D">do whatever he is pleased to do</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

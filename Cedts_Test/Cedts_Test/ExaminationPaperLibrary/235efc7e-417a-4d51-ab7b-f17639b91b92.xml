@@ -1,0 +1,1547 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="235efc7e-417a-4d51-ab7b-f17639b91b92" totalScore="85" totalTime="60" name="hgf" resultTime="0" bShowAns="1" Diffcult="4" Type="按题型组卷">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="1baf3902-c9b5-4868-a8ab-052e4c315e73" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;b&gt;Family&lt;/b&gt;&lt;br/&gt;        "Please pass the turkey and dressing." What does this simple request make you think about? If you are an American, you think about Thanksgiving. A turkey dinner symbolizes Thanksgiving for Americans. What does Thanksgiving remind Americans of? Their families. Thanksgiving is a family time. On this holiday, families gather to gobble up the gobbler and stuff themselves with stuffing. Family members enjoy watching parades and football games on TV and just being together. What does "family" mean to Americans? &lt;br/&gt;        The traditional American family is a "nuclear family." A nuclear family refers to a husband and wife and their children. The average American family today has two or three children (and maybe a few pets). In some cultures, people live close to their extended family. Several generations may even live together. In America, only in a few cases does more than one household live under one roof. &lt;br/&gt;        American values receive a warm welcome in the home. Many homes are run like a democracy. Each family member can have a say. A sense of equality often exists in American homes. Instead of fearing Mom and Dad, children may think of them as good friends. Husbands and wives often share household chores. In many cases, a child can enjoy privacy in his or her own bedroom. From an early age, children gain responsibility in handling money. They may receive a weekly allowance or even work part-time jobs. Often parents give children freedom to make their own decisions. Preschoolers choose what clothes to wear or which toys to buy. Young adults generally make their own choices about what career to pursue and whom to marry. &lt;br/&gt;        Families in America, like those in every culture, face many problems. Social pressures are breaking apart more and more American homes. Over half of U.S. marriages now end in divorce. More than one in four American children are growing up in single-parent homes. As a result, many people believe the American family is in trouble. &lt;br/&gt;        Even so, there is still reason for hope. Many organizations are working hard to strengthen families. Americans almost unanimously believe that the family is one of the most important parts of life. The vast majority also feel that the traditional two-parent family is best for children. They realize that problems in family life in recent years have brought about serious consequences. As a result, more and more people are making their family a priority. &lt;br/&gt;        Many women are quitting their jobs to stay home with their children. Families are going on vacations and outings together. Husbands and wives are making a concentrated effort to keep their marriages solid. &lt;br/&gt;        The United Nations has declared 1994 the "International Year of the Family". Not just in America, but all over the world, people recognize the importance of strong families. How do you strengthen the family bond? Do special things for each other. Talk to each other. Play together. Spend time together. Oh, and one more thing: be thankful for each other. If you have a family, every day should be Thanksgiving.</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>Americans have a turkey dinner on Thanksgiving day.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>On Thanksgiving day, American family members enjoy watching parades and football games on TV and just being together.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>The traditional American family is a family including a husband and wife and their children.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>In Korea, people live close to their extended family.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>A sense of equality often exists in American homes. Each family member can have a say.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>Over half of U.S. marriages now end in divorce.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>Americans almost unanimously believe that the family is NOT one of the most important parts of life.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>Thanksgiving is a family time. It reminds Americans of their____ .</Prompt>
+            <Answer>
+              <Value>families</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>The average American family today has two or three____ .</Prompt>
+            <Answer>
+              <Value>children</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>The United Nations has declared 1994 the "International Year of the____ " all over the world.</Prompt>
+            <Answer>
+              <Value>Family</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="8" Time="8">
+      <AssessmentItem ItemID="c805e4c8-9971-4625-bf78-01cd218aba94" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="22" Course="" Unit="">
+        <soundFile>0B22923A96A0F249A296A0F6EA4BFC6D</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">She does not believe what the announcer says.</choice>
+              <choice id="B">She thinks that the announcer is very good at his work.</choice>
+              <choice id="C">She thinks they should do as the announcer tells them to.</choice>
+              <choice id="D">She does not have an opinion of the announcer.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Maybe we should take the Front Street this morning. The radio announcer said that
+traffic was very heavy on the freeway.
+W: Well, if he says the Front Street we should go the other way.
+Q: What is the woman's opinion of the radio announcer?</Script>
+        <soundFile>DAFDCF2B6504704D979C2C68F105C8C1</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">A hair dresser's.</choice>
+              <choice id="B">A photo shop.</choice>
+              <choice id="C">A grocery store.</choice>
+              <choice id="D">A coffee shop.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: In Japan I often saw sign that read "DPE".
+W: I think it means "Developing, Printing and Enlarging".
+Q: According to the woman, in front of what kind of place would you see a "DPE" sign?</Script>
+        <soundFile>2A89C43CF785644EB0120CC1EADA6A84</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Britain.</choice>
+              <choice id="B">Japan.</choice>
+              <choice id="C">China.</choice>
+              <choice id="D">America.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Where are you from?
+M: I am from Japan, but I grew up in China.
+Q: Where does the man come from?</Script>
+        <soundFile>AE8A12A45DC69442A254A184F5D862F6</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">In a bus.</choice>
+              <choice id="B">On a plane.</choice>
+              <choice id="C">She is walking.</choice>
+              <choice id="D">In a taxi.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Hurry up please, or I'll be late!
+M: Sorry ma'am, but the traffic is thick this time of day.
+Q: What is the woman riding in?</Script>
+        <soundFile>05908D82EE251444AFC94B669F083B21</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">She thought the lecture was a little too long.</choice>
+              <choice id="B">She wanted to have more time for discussing the lecture.</choice>
+              <choice id="C">She didn't like to discuss the lecture.</choice>
+              <choice id="D">She likes discussion.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: What do you think of Professor Smith's lecture?
+W: Well, it is interesting enough, but it would be better if we could have more time for discussion.
+Q: What is the woman's opinion?</Script>
+        <soundFile>B2A4EAEED1166E4593E11537A65E2BF0</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">At a dance.</choice>
+              <choice id="B">In the post office.</choice>
+              <choice id="C">At home.</choice>
+              <choice id="D">In a classroom.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Excuse me. Do you know when the band's going to start playing?
+M: I'm not sure --- maybe about nine-thirty.
+Q: Where does the conversation probably take place?</Script>
+        <soundFile>6453918A9777B84F97265E90848C0D91</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">A play.</choice>
+              <choice id="B">A lecture.</choice>
+              <choice id="C">A movie.</choice>
+              <choice id="D">A performance.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: I felt awful when some of the audience left in the middle of my lecture.  
+W: Don't read too much into it. Not all people are interested in the topic like you are. 
+Q: What are they talking about? 
+</Script>
+        <soundFile>B8F2206824AF6F47A52332AFA46CAF32</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Students shouldn't ride bikes to school on Mondays.</choice>
+              <choice id="B">Girls shouldn't ride bikes to school.</choice>
+              <choice id="C">Bikes broke down too easily.</choice>
+              <choice id="D">She wasn't telling the truth.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W:	Excuse me for being late for class. My bike broke down. 
+M:	It seems bikes break down more often on Monday mornings, don't they? Yours is the fifth one this morning. Now go to your seat.
+Q:	What did the man probably think?
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="a8629555-b23f-4079-bc3f-01fda7e16528" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="17" Course="" Unit="" />
+      <AssessmentItem ItemID="66b2807c-eee5-4899-b342-0246df4b3be1" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="9" Course="" Unit="" />
+      <AssessmentItem ItemID="1d843bc9-ba3c-4815-ade9-027a98f25dd0" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="10" Course="" Unit="" />
+      <AssessmentItem ItemID="e2ab0c22-fe88-4b1e-bea7-02bfc281f786" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="" />
+      <AssessmentItem ItemID="dfcd965b-0852-4293-823b-0347c72ec548" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="13" Course="" Unit="" />
+      <AssessmentItem ItemID="218d16e2-1b2b-4f5e-a503-0348a8387250" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="12" Course="" Unit="" />
+      <AssessmentItem ItemID="e127a995-82a8-4a22-a907-03b7a1931a9a" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="23" Course="" Unit="" />
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="7" Time="7">
+      <AssessmentItem ItemID="073c3cbb-e653-4dc6-b0a9-030795bdf13f" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="81" Course="" Unit="">
+        <soundFile>E673D3B64975C84B98197644BBE86068</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">She's a teacher.</choice>
+              <choice id="B">She's a student.</choice>
+              <choice id="C">She works at a hotel.</choice>
+              <choice id="D">She works at a travel agency.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the woman do?</Script>
+            <Sound duration="3">6ACE43A91AFE3E4891917E1793806718</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">It's cheap.</choice>
+              <choice id="B">It's a good way to forget about one's busy life.</choice>
+              <choice id="C">It's a good way to make new friends.</choice>
+              <choice id="D">All of the above.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following is TRUE about camping?</Script>
+            <Sound duration="4">4EA0C3A04CDBF14DBB96188403D7AB53</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">One can camp wherever they like.</choice>
+              <choice id="B">One can camp in a designated area.</choice>
+              <choice id="C">One can camp at many national parks and state parks.</choice>
+              <choice id="D">One can camp at privately owned camping grounds around the country.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Where can one camp?</Script>
+            <Sound duration="4">2BD6BABB44EE7E4BAFE51E36D57FE247</Sound>
+          </question>
+        </Questions>
+        <Script>M: Hi, haven't seen you for ages!
+W: Oh, hi! I've been studying a lot for my final exams.
+M: Well, the semester is almost over now.
+W: Yeah. My sister is coming for a visit this summer, and we'd like to see some of the country. But traveling is so expensive.
+M: Have you thought about camping?
+W: Camping? I've never done that before.
+M: Oh, I think you'll really like it. You can rent the equipment you need. It's much cheaper than buying it or staying at a hotel. And being close to nature is a good way to forget about our busy school life for a while.
+W: What a good idea! We can drive until we find a nice place and just camp wherever we like.
+M: Well, not exactly. It's usually illegal unless you camp in a designated area. But there are many national parks, state parks and even privately owned camping grounds around the country.
+W: But that takes all the fun out of it.
+M: Not really. It's a good way to make new friends. Besides, there are almost always showers at the camping grounds.
+W: Sounds great! I'll talk to you about this later and get all the details.</Script>
+        <soundFile>7C8A1FD4C098724DB4AB7C17A147FB1B</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">This week.</choice>
+              <choice id="B">Tomorrow.</choice>
+              <choice id="C">In a week.</choice>
+              <choice id="D">The day after tomorrow.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>When is the man's brother's birthday?</Script>
+            <Sound duration="4">B38CEBF7E7ABF74EA16CEC55AAF08302</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">By air.</choice>
+              <choice id="B">By express mail.</choice>
+              <choice id="C">By regular mail.</choice>
+              <choice id="D">By registered mail.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How did the man send the gift to his brother?</Script>
+            <Sound duration="5">80AEC92C0D2DA34EA1D18C79D75CBAC5</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Japanese cake.</choice>
+              <choice id="B">Chocolate cake.</choice>
+              <choice id="C">Fruit cake.</choice>
+              <choice id="D">Cheese cake.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What kind of cake does his brother like?</Script>
+            <Sound duration="4">8F7A0E0AAC15F841A171A31DF6B8D570</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">27.</choice>
+              <choice id="B">26.</choice>
+              <choice id="C">25.</choice>
+              <choice id="D">24.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How old is his brother now?</Script>
+            <Sound duration="4">AC80F431F76AC24E8662EEF502864CC4</Sound>
+          </question>
+        </Questions>
+        <Script>W: So, what did you do today?
+M: Well, I got up quite early this morning, actually, to go shopping.
+W: Oh, yeah! Oh, shopping.
+M: I really like shopping.
+W: That's true but you're on a budget. You're trying to save money.
+M: I know, but it is my brother's birthday in a week or so.
+W: Oh, no kidding.
+M: Yeah.
+W: So, what did you get your brother for his birthday?
+M: Well, it was quite difficult to find something that I thought he would like, but I got him some cakes in the end, some Japanese cakes.
+W: Japanese cakes?
+M: Yeah, they're in a special presentation box.
+W: So, how are you going to get the cakes to your brother? Just through the post office?
+M: Yes, I sent them in the post this morning.
+W: Oh, did you send them by express or just regular mail?
+M: Regular mail because it was cheaper.
+W: But, don't you want it to hurry and get there for his birthday?
+M: I've got one week. I think it will get there in time.
+W: So, what do you think you're brother will think of the cakes?
+M: I don't think he'll like them actually.
+W: No?
+M: Well, he likes chocolate cake, and they look like they've got kind of chocolate inside but it's bean paste. I think he'll be disappointed.
+W: So what did your brother get you for your last birthday?
+M: That's a good question. He always gives me money, and he often gives me chocolate as well. He's very generous.
+W: Actually, I'm the same way. Guys like to give money. Money is so easy. No shopping involved.
+M: It's practical, though, it's good.
+W: Incidentally, is this a younger brother or older brother?
+M: He's older. He's twenty-six.
+W: Oh, he's twenty six.
+M: He's going to be twenty-six soon.
+W: Ok, well, if you happen to e-mail him, tell him happy birthday.
+M: Oh, I certainly will do. Thanks.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="9830698b-d0b4-49c8-9b7b-03f040c9285f" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="130" Course="" Unit="" />
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="15" Time="15">
+      <AssessmentItem ItemID="9e280922-7197-4dd0-852c-02081b92b6f2" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="145" Course="" Unit="">
+        <soundFile>7CB3BF92398B8C4696B21BE1B8390E19</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">Dog.</choice>
+              <choice id="B">Cat.</choice>
+              <choice id="C">Fox.</choice>
+              <choice id="D">Rabbit.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which animal carries the highest risk of rabies?</Script>
+            <Sound duration="5">667A0B0759DBAF4A9D6A8BD458CFA17E</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">The bite by wild animals like bats and foxes.</choice>
+              <choice id="B">The bite by domestic animals like cats or dogs.</choice>
+              <choice id="C">The bite which is not deep into the flesh.</choice>
+              <choice id="D">The bite which barely breaks the skin and there's no danger of rabies (狂犬病).</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What kind of bite can cause you a minor wound?</Script>
+            <Sound duration="5">15FD31DCB0959846A2CD9CED7DB30A2B</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Press the wound with a clean, dry cloth to stop the bleeding and then go to see the doctor.</choice>
+              <choice id="B">Use an antibiotic cream to prevent infection and cover the bite with a clean bandage.</choice>
+              <choice id="C">Wash the wound thoroughly with soap and water and then go to see the doctor.</choice>
+              <choice id="D">Wash the wound with soap and water at once and cover the bite with a clean bandage before going to see the doctor.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What should people do with a deep wound?</Script>
+            <Sound duration="5">CF8CE9B4BCA02443AD592146F947C3D6</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Swelling.</choice>
+              <choice id="B">Redness.</choice>
+              <choice id="C">Pain.</choice>
+              <choice id="D">Oozing.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which is NOT a notable sign of inflection?</Script>
+            <Sound duration="4">8870115DE0F98D4DB265A8F1908AFB0A</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">Every 10 years.</choice>
+              <choice id="B">Immediately after the injury.</choice>
+              <choice id="C">Every 5 years.</choice>
+              <choice id="D">Within 48 hours of injury.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>When should you have a booster of tetanus shot if doctor recommends so?</Script>
+            <Sound duration="7">6AFD892F792B7F4CAB5AE0C51E4FE33E</Sound>
+          </question>
+        </Questions>
+        <Script>Domestic pets cause most animal bites. Dogs are more likely to bite than cats. Cat bites, however, are more likely to cause infection. Bites from nonimmunized domestic animals and wild animals carry the risk of rabies. Rabies is more common in raccoons, skunks, bats and foxes than in cats and dogs. Rabbits, squirrels and other rodents rarely carry rabies. If an animal bites you or your child, follow these guidelines:
+&lt;b&gt;For minor wounds.&lt;/b&gt; If the bite barely breaks the skin and there is no danger of rabies, treat it as a minor wound. Wash the wound thoroughly with soap and water. Apply an antibiotic cream to prevent infection and cover the bite with a clean bandage. 
+&lt;b&gt;For deep wounds.&lt;/b&gt; If the animal bite creates a deep puncture of the skin or the skin is badly torn and bleeding, apply pressure with a clean, dry cloth to stop the bleeding and see your doctor. 
+&lt;b&gt;For infection.&lt;/b&gt; If you notice signs of infection such as swelling, redness, increased pain or oozing, see your doctor immediately. 
+&lt;b&gt;For suspected rabies.&lt;/b&gt; If you suspect the bite was caused by an animal that might carry rabies - any bite from a wild or domestic animal of unknown immunization status - see your doctor immediately. Doctors recommend getting a tetanus shot every 10 years. If your last one was more than five years ago and your wound is deep or dirty, your doctor may recommend a booster. You should have the booster within 48 hours of the injury.</Script>
+        <soundFile>0AAC0B2C6AC7474BBBAA69F5F82E6EBC</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">They produce heat in its body cells.</choice>
+              <choice id="B">They burn fuel to produce heat.</choice>
+              <choice id="C">They give off heat through their skin.</choice>
+              <choice id="D">They give off heat through their fat.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why is every animal a living radiator according to the passage?</Script>
+            <Sound duration="6">70208B620E70F84993DB7ECD384DC7B9</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">By regulating the amount of heat produced.</choice>
+              <choice id="B">By regulating the amount of heat given off.</choice>
+              <choice id="C">By keeping a very firm and sound fur for resisting cold.</choice>
+              <choice id="D">By constantly replacing lost surface heat. </choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How do warm-blooded animals maintain a steady temperature?</Script>
+            <Sound duration="5">BA21B29513C7C8499AE33952CF3ED63F</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">They have more skin for every ounce of body weight.</choice>
+              <choice id="B">They burn fuel faster.</choice>
+              <choice id="C">They burn fuel slower.</choice>
+              <choice id="D">They maintain a higher body temperature.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why do some small animals live faster than big ones?</Script>
+            <Sound duration="6">57E206C7CA3620438512385F5860D04A</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">The amount of food it eats.</choice>
+              <choice id="B">Its body temperature.</choice>
+              <choice id="C">The rate at which it uses oxygen.</choice>
+              <choice id="D">The energy in the food it takes every day.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is measured to determine the speed at which animal lives?</Script>
+            <Sound duration="6">3B0A3092A1D67A42A1A3D7B3E86A1F86</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">Its body weight.</choice>
+              <choice id="B">The food it eats.</choice>
+              <choice id="C">Its general size and shape.</choice>
+              <choice id="D">Its blood.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What determines the amount of oxygen an animal uses?</Script>
+            <Sound duration="5">83D1D968AA227746952A36FEF28026F9</Sound>
+          </question>
+        </Questions>
+        <Script>Every animal is a living radiator --- heat formed in its cells is given off through its skin. Warm-blooded animals maintain a temperature by constantly replacing lost surface heat; smaller animals, which have more skin for every ounce of body weight, must produce heat faster than bigger ones. Because smaller animals burn fuel faster, scientists say they live faster. 
+
+The speed at which an animal lives is determined by measuring the rate at which it uses oxygen. A chicken, for example, uses one-half cubic centimeter of oxygen every hour for each gram it weighs. The tiny shrew uses four cubic centimeters of oxygen every hour for each gram it weighs. Because it uses oxygen eight times as fast, it is said that the mouselike shrew is living eight times as fast as the chicken. The smallest of the warm-blooded creatures, the humming-bird, lives a hundred times as fast as an elephant. 
+
+There is limit to how small a warm-blooded animal can be. A mammal or bird that weighed only two and a half grams would starve to death. It would burn up its food too rapidly and would not be able to eat fast enough to supply more fuel.</Script>
+        <soundFile>0F0C4303470BCE47A9F18C1C34853F5A</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">Family members.</choice>
+              <choice id="B">Specialists.</choice>
+              <choice id="C">Young people themselves.</choice>
+              <choice id="D">The society.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Who had been responsible for the education of the young before the job of teaching came into being?</Script>
+            <Sound duration="10">C49D845B4EC0124E94F39C7326EC4BF6</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">The development of society.</choice>
+              <choice id="B">The explosion of information.</choice>
+              <choice id="C">The need for engineers.</choice>
+              <choice id="D">The improvement of living standards.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which one of the following made it possible for the job of teaching to come into being?</Script>
+            <Sound duration="8">32921B42E6A7A447832F25AE9459B175</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">To show the importance of teaching as a job.</choice>
+              <choice id="B">To attract more qualified people to become teachers.</choice>
+              <choice id="C">To make teachers "responsible" in their teaching.</choice>
+              <choice id="D">To improve the quality of public teaching.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why are teachers' salaries raised today?</Script>
+            <Sound duration="5">EF42CDAF0BCF584583AAA0E045045F6A</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Quality people.</choice>
+              <choice id="B">People with abilities.</choice>
+              <choice id="C">Responsible people.</choice>
+              <choice id="D">Senior people.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According to the passage, what kind of people are not expected to be teachers?</Script>
+            <Sound duration="8">D942E566C06EE8418458E95AFBA2C2BE</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">Greater progress has to be made in teaching.</choice>
+              <choice id="B">Enough salaries are necessary in making "quality people" people become teachers.</choice>
+              <choice id="C">It is important to be successful in teaching the young.</choice>
+              <choice id="D">Teaching is a product of the society's division of labor.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which one of the following statements tells the main idea of the passage?</Script>
+            <Sound duration="8">484DF001B695D0458F5A0A857960DF26</Sound>
+          </question>
+        </Questions>
+        <Script>Is teaching important? Well, of course it is. There was a time when the necessary knowledge could be taught to the young by family members. But as societies became more complex and division of labor more common, it was impossible for family members to teach the information and skills young people needed to become useful members of the society. As the need for specialists appeared, the job of teaching came into being in our country, and teaching as a job has been of increasing importance over the past one hundred years. Today, we have strict rules for teachers. We hope all children can go to school. Many things tell us that teaching is indeed an "important" job. In recent years, there has been an increasing need for teachers to be "responsible". This means that the public expects teachers to succeed in teaching important information to the young. Teachers' salaries today, while not much, certainly are much higher than they were in the past. These increases have come about because people have realized that without enough salaries, people who have abilities will not become teachers. Today almost no one says that "anybody will do" for a teacher. The public expects "quality people" to teach the young, and progress is being made to give salaries that will make people who have abilities become teachers.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="2af0362f-d167-4f9e-9695-02801e70d9b6" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="100" Course="" Unit="" />
+      <AssessmentItem ItemID="be405ef3-7c29-4690-9099-02b5f3fb3691" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="137" Course="" Unit="" />
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="bbcf7cb0-0303-4816-8c88-0c44abd2f4ff" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="154" Course="" Unit="">
+        <Content>        Yesterday the manager of the shop heard that a new supermarket is going to be built in the High street and he is (_1_) of losing so many customers that he may even be (_2_) to close (_3_) his shop.
+        It is true that the supermarket will (_4_) many housewives because they will be able to buy (_5_), vegetables and bread (_6_) at one shop.
+        Besides saving time, they will save money, for not only can the supermarket (_7_) to sell their goods at (_8_) prices than the small shop owner, but they may even sell certain (_9_) at a (_10_) in order to attract customers.</Content>
+        <SoundFile>E82F59311B3443488C47F70049FFB166</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>afraid</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>forced</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>down</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>attract</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>meat</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>all</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>afford</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>lower</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>items</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>loss</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="e005f486-8c86-4c97-b41d-08e2b562888c" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        The working conditions were poor. (_1_) for a half hour at lunchtime, there were no breaks in the day to (_2_) the boring work. The walls of the workrooms were a dull gray color. I was (_3_) that the workers hadn't gone on (_4_). Furthermore, the workflow was irregular. There was one (_5_) absent-minded young man in the assembly line who sewed on buttons. After a while I recognized him as "Big Jim", who (_6_) to sit behind me in math class in high school. He was very slow and all the shirts were (_7_) up at his position. The workers beyond him in line on his (_8_) had to wait with nothing to do; therefore, a great (_9_) of time and efficiency were lost as Big Jim daydreamed (_10_) he worked. All week I wondered why he wasn't fired.</Content>
+        <WordList>
+          <Word id="B">deal</Word>
+          <Word id="C">while</Word>
+          <Word id="D">Except</Word>
+          <Word id="E">when</Word>
+          <Word id="F">shift</Word>
+          <Word id="G">relieve</Word>
+          <Word id="H">thought</Word>
+          <Word id="I">amazed</Word>
+          <Word id="J">collected</Word>
+          <Word id="K">held</Word>
+          <Word id="L">used</Word>
+          <Word id="M">wasted</Word>
+          <Word id="N">especially</Word>
+          <Word id="O">strike</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>I</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>M</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>L</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="15" Time="10">
+      <AssessmentItem ItemID="78c056fb-044d-46d7-94b2-01873fb7b38a" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="">
+        <Content>        Hi. My name is Dina. I'm a black Canadian. When I was two-and-a-half years old I was adopted (收养) by a white couple who already had two biological sons. I am grateful for my parents and two brothers but growing up was sometimes difficult.&lt;br/&gt;        Nearly everyone living in our neighborhood was white. Children sometimes teased (逗笑) me and &lt;u&gt;called me names&lt;/u&gt; because I was black...because I was different... and because I didn't know who my biological parents were.&lt;br/&gt;        Adults could also be cruel. Sometimes they would refuse to acknowledge my parents as my real parents. It was difficult to understand such an attitude but as I grew older I began to realize that they simply didn't understand that my parents had CHOSEN to raise me. I also realized that being an adopted child didn't make my own family less real or less valuable.&lt;br/&gt;        Now that I am older, I can see that I was lucky to be adopted. In North America, most couples who adopt children want newborn babies. When a child is older than two or three, it becomes more difficult for him or her to be adopted.&lt;br/&gt;        Children who cannot find parents to adopt them are placed in foster (收养) homes. Foster children do not become legal members of the family and may live with several different families while they are growing up.&lt;br/&gt;        Fortunately this didn't happen to me. As an adopted child, I grew up as part of a family and with the same security as a child born to the family. My parents are my parents and my brothers are my brothers. I can't imagine calling anyone else "mother" and "father" or "brother". "Adoption" is a word for outsiders.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>Dina's parents and brothers treat her ________.</prompt>
+            <choices>
+              <choice id="A">very well</choice>
+              <choice id="B">cruelly</choice>
+              <choice id="C">badly</choice>
+              <choice id="D">coldly</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>"Call me names" in Para. 2 means ________.</prompt>
+            <choices>
+              <choice id="A">say something bad to me</choice>
+              <choice id="B">call me Dina</choice>
+              <choice id="C">give me a nickname</choice>
+              <choice id="D">beat me</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Most adopted children are adopted when they are ________.</prompt>
+            <choices>
+              <choice id="A">two</choice>
+              <choice id="B">two and a half</choice>
+              <choice id="C">three</choice>
+              <choice id="D">not older than two</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>It is implied in the passage that ________.</prompt>
+            <choices>
+              <choice id="A">Dina was adopted when she was older than two</choice>
+              <choice id="B">Dina was a black girl</choice>
+              <choice id="C">Dina's parents have two sons</choice>
+              <choice id="D">Dina becomes a legal member of the family</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>Dina is lucky mostly because ________.</prompt>
+            <choices>
+              <choice id="A">she is adopted by a white family</choice>
+              <choice id="B">most people living in the neighborhood are white</choice>
+              <choice id="C">she has the love from her parents and brothers</choice>
+              <choice id="D">she can live like a normal child</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        If you can’t see the point of the structure of the back wheel on a bicycle, try riding a unicycle or watch an ant colony. Ants have realized that, to carry a heavy load, two supports are better than one — even if they seem quite mismatched.&lt;br/&gt;        When army ants want to carry a piece of food too big for a single ant to transport, an unusually large worker ant takes the front, and an unusually small one, the back. Two such ants can carry a load heavier than the sum of their individual abilities.&lt;br/&gt;        An ant pair is like a bicycle wheel. The small rear shifts the center of gravity between the two ends, making the whole system much more stable.&lt;br/&gt;        This is another example of how social insects rely on the colony to pass on genes that drive them to evolve sophisticated cooperation. Teamwork makes the most of the colony’s workforce.&lt;br/&gt;        How big and little ants team up is a mystery. Army ant lines move at a constant rate; an ant struggling with a piece of meat bigger than it can manage might attract helpers by causing traffic congestion. And the alliances aren’t permanent. They break up and do something else rather than go around together looking for another piece of food equally well suited to their capabilities as a couple.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>It is implied in the first paragraph that ____.</prompt>
+            <choices>
+              <choice id="A">the principle of bicycle can be reflected on ants</choice>
+              <choice id="B">riding a bicycle is like watching an ant colony</choice>
+              <choice id="C">the back wheel on a bicycle is very important</choice>
+              <choice id="D">ants can carry heavy loads</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>An ant pair ____.</prompt>
+            <choices>
+              <choice id="A">must be made up of two ants of similar size</choice>
+              <choice id="B">can roll on the ground like a wheel</choice>
+              <choice id="C">usually consists of a big ant and a small one</choice>
+              <choice id="D">are arranged by the queen ant</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>The ant pair can move on steadily because ____.</prompt>
+            <choices>
+              <choice id="A">the ground is smooth</choice>
+              <choice id="B">the load is not heavy</choice>
+              <choice id="C">the rear ant shifts the gravity of the load</choice>
+              <choice id="D">the front ant has a bigger strength</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>Which of the following statements is true?</prompt>
+            <choices>
+              <choice id="A">An ant pair is usually fixed.</choice>
+              <choice id="B">Scientist still cannot explain why ants look mismatched in an ant pair.</choice>
+              <choice id="C">Only human beings know cooperation.</choice>
+              <choice id="D">Ants usually go out to search for food in pairs.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>An ant may not ____.</prompt>
+            <choices>
+              <choice id="A">team up with another ant</choice>
+              <choice id="B">try to attract helpers when necessary</choice>
+              <choice id="C">pass on genes that make them evolve cooperation</choice>
+              <choice id="D">be attached to the same partner all the time</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="7df63ff1-316c-4371-8bd5-01cf15d60a67" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="" />
+    </Section>
+  </Part>
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="476bde0a-6339-46bc-ac21-11564274dca3" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        A phone virus program can (_1_) your phone do things you have no control over, computer security experts (_2_).&lt;br/&gt;        It might (_3_) the White House or the police, or forward your personal address book to a marketing company. Or it could simply eat into the phone's operating software, turning it (_4_) and erasing your personal information. Similar viruses have already made mobile phone owners (_5_) in Japan and Europe. Ari Hypponen, chief technical officer of a computer security company in Finland, said a virus "can get your (_6_) and send them elsewhere. And it can record your (_7_)." Mobiles are now able to surf the Net, send emails and (_8_) software. So they are an easy (_9_) for the same hackers who have sent viruses to computers over the past decade. "It's technically (_10_) now, "said Stephen Trilling, director of research at anti - virus (_11_) maker Symantec Corp based in the U.S. "If the phone is connected to the (_12_), it can be used to transmit threats and (_13_) targets, just as any computer can." In Japan, if you opened a certain email message (_14_) your mobile, it would cause the phone to repeatedly (_15_) the national emergency number.&lt;br/&gt;        So phone operators had to (_16_) emergency calls until the (_17_) was removed.&lt;br/&gt;        In Europe, mobiles' short message service, (_18_) SMS, has been used to send codes that could damage phones.&lt;br/&gt;        Mobile users can (_19_) viruses, of course, by sticking to their traditional phones (_20_) Web links, some experts said.</Content>
+        <Questions Count="20">
+          <question id="0">
+            <choices>
+              <choice id="A">get</choice>
+              <choice id="B">force</choice>
+              <choice id="C">make</choice>
+              <choice id="D">damage</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">speak</choice>
+              <choice id="B">talk</choice>
+              <choice id="C">tell</choice>
+              <choice id="D">say</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">lead</choice>
+              <choice id="B">cause</choice>
+              <choice id="C">control</choice>
+              <choice id="D">call</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">off</choice>
+              <choice id="B">out</choice>
+              <choice id="C">down</choice>
+              <choice id="D">on</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">interested</choice>
+              <choice id="B">angry</choice>
+              <choice id="C">excited</choice>
+              <choice id="D">terrified</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">messages</choice>
+              <choice id="B">passages</choice>
+              <choice id="C">news</choice>
+              <choice id="D">information</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">voice</choice>
+              <choice id="B">passwords</choice>
+              <choice id="C">music</choice>
+              <choice id="D">address</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">make</choice>
+              <choice id="B">destroy</choice>
+              <choice id="C">download</choice>
+              <choice id="D">develop</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">job</choice>
+              <choice id="B">task</choice>
+              <choice id="C">mission</choice>
+              <choice id="D">target</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">possible</choice>
+              <choice id="B">impossible</choice>
+              <choice id="C">useful</choice>
+              <choice id="D">valuable</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">hardware</choice>
+              <choice id="B">software</choice>
+              <choice id="C">computer</choice>
+              <choice id="D">equipment</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">computer</choice>
+              <choice id="B">television</choice>
+              <choice id="C">Internet</choice>
+              <choice id="D">radio</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">strike</choice>
+              <choice id="B">visit</choice>
+              <choice id="C">inquire</choice>
+              <choice id="D">attack</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">in</choice>
+              <choice id="B">by</choice>
+              <choice id="C">on</choice>
+              <choice id="D">with</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">send</choice>
+              <choice id="B">dial</choice>
+              <choice id="C">count</choice>
+              <choice id="D">press</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">cancel</choice>
+              <choice id="B">ban</choice>
+              <choice id="C">stop</choice>
+              <choice id="D">prevent</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">bug (计算机故障)</choice>
+              <choice id="B">mistake</choice>
+              <choice id="C">fault</choice>
+              <choice id="D">sprite (精灵)</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="17">
+            <choices>
+              <choice id="A">and</choice>
+              <choice id="B">nor</choice>
+              <choice id="C">or</choice>
+              <choice id="D">but</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="18">
+            <choices>
+              <choice id="A">stop</choice>
+              <choice id="B">avoid</choice>
+              <choice id="C">kill</choice>
+              <choice id="D">find</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="19">
+            <choices>
+              <choice id="A">beyond</choice>
+              <choice id="B">with</choice>
+              <choice id="C">over</choice>
+              <choice id="D">without</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

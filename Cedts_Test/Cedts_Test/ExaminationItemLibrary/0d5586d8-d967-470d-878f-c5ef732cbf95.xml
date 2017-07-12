@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="0d5586d8-d967-470d-878f-c5ef732cbf95" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" Course="" Unit="">
+  <Content>
+  </Content>
+  <Questions Count="1">
+    <question id="0">
+      <prompt>1</prompt>
+      <choices>
+        <choice id="A">111</choice>
+        <choice id="B">111</choice>
+        <choice id="C">111</choice>
+        <choice id="D">111</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>
+        </Response>
+      </Answer>
+      <Tip>f</Tip>
+    </question>
+  </Questions>
+</AssessmentItem>

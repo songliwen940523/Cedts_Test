@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="de5b0ef1-462e-48c2-ae85-b136ec61ae0a" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="20" ReplyTime="20" Diffcult="0.1" QustionInterval="" Course="" Unit="">
+  <Content>&lt;p&gt;
+	ytyy&lt;/p&gt;
+</Content>
+  <Questions Count="20">
+    <question id="0">
+      <choices>
+        <choice id="A">gfdg</choice>
+        <choice id="B">gds</choice>
+        <choice id="C">gds</choice>
+        <choice id="D">rtg</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>gd</Tip>
+    </question>
+    <question id="1">
+      <choices>
+        <choice id="A">gdg</choice>
+        <choice id="B">gd</choice>
+        <choice id="C">hh</choice>
+        <choice id="D">hy</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>ytj</Tip>
+    </question>
+    <question id="2">
+      <choices>
+        <choice id="A">jhg</choice>
+        <choice id="B">jh</choice>
+        <choice id="C">k</choice>
+        <choice id="D">jgh</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>jtrjy</Tip>
+    </question>
+    <question id="3">
+      <choices>
+        <choice id="A">ytr</choice>
+        <choice id="B">yrt</choice>
+        <choice id="C">utyu</choice>
+        <choice id="D">uyu</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>ut</Tip>
+    </question>
+    <question id="4">
+      <choices>
+        <choice id="A">hhdf</choice>
+        <choice id="B">hg</choice>
+        <choice id="C">hfd</choice>
+        <choice id="D">gfh</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>hfd</Tip>
+    </question>
+    <question id="5">
+      <choices>
+        <choice id="A">gdfg</choice>
+        <choice id="B">gdsg</choice>
+        <choice id="C">gds</choice>
+        <choice id="D">hg</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="6">
+      <choices>
+        <choice id="A">hgf</choice>
+        <choice id="B">hf</choice>
+        <choice id="C">fh</choice>
+        <choice id="D">fd</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="7">
+      <choices>
+        <choice id="A">ytry</choice>
+        <choice id="B">utyu</choice>
+        <choice id="C">hjg</choice>
+        <choice id="D">jgfj</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="8">
+      <choices>
+        <choice id="A">mn</choice>
+        <choice id="B">mv</choice>
+        <choice id="C">vmn</choice>
+        <choice id="D">mbv</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="9">
+      <choices>
+        <choice id="A">fh</choice>
+        <choice id="B">hc</choice>
+        <choice id="C">gh</choice>
+        <choice id="D">mv</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="10">
+      <choices>
+        <choice id="A">lu</choice>
+        <choice id="B">ljkh</choice>
+        <choice id="C">kg</choice>
+        <choice id="D">kg</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="11">
+      <choices>
+        <choice id="A">jkk</choice>
+        <choice id="B">ljh</choice>
+        <choice id="C">lhlh</choice>
+        <choice id="D">lh</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="12">
+      <choices>
+        <choice id="A">jgfjf</choice>
+        <choice id="B">kfk</choice>
+        <choice id="C">khkh</choice>
+        <choice id="D">khg</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="13">
+      <choices>
+        <choice id="A">jgf</choice>
+        <choice id="B">j</choice>
+        <choice id="C">f</choice>
+        <choice id="D">jgf</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="14">
+      <choices>
+        <choice id="A">hgf</choice>
+        <choice id="B">hdf</choice>
+        <choice id="C">jh</choice>
+        <choice id="D">jgf</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="15">
+      <choices>
+        <choice id="A">hgfh</choice>
+        <choice id="B">hg</choice>
+        <choice id="C">g</choice>
+        <choice id="D">g</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>hgf</Tip>
+    </question>
+    <question id="16">
+      <choices>
+        <choice id="A">uytu</choice>
+        <choice id="B">uui</choice>
+        <choice id="C">iyt</choice>
+        <choice id="D">tr</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="17">
+      <choices>
+        <choice id="A">yty</choice>
+        <choice id="B">iuy</choice>
+        <choice id="C">iyt</choice>
+        <choice id="D">yt</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>t</Tip>
+    </question>
+    <question id="18">
+      <choices>
+        <choice id="A">gfd</choice>
+        <choice id="B">gs</choice>
+        <choice id="C">gs</choice>
+        <choice id="D">gf</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="19">
+      <choices>
+        <choice id="A">trfg</choice>
+        <choice id="B">gfdg</choice>
+        <choice id="C">gsdg</choice>
+        <choice id="D">ggds</choice>
+      </choices>
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+  </Questions>
+</AssessmentItem>

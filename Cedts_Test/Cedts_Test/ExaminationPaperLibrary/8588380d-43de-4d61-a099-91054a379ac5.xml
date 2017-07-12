@@ -1,0 +1,1007 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="8588380d-43de-4d61-a099-91054a379ac5" totalScore="62" totalTime="47" name="aaabbb" resultTime="0" bShowAns="1" Diffcult="3" Type="按题型组卷">
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="8" Time="8">
+      <AssessmentItem ItemID="c8f5cf94-38f7-4f93-8145-065f75d9c38f" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="">
+        <soundFile>568E5694D1C2854EB900044EA7087AD8</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Follow the directions.</choice>
+              <choice id="B">Practise working together.</choice>
+              <choice id="C">Carry the parts together.</choice>
+              <choice id="D">Overcome any difficulties.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Have you ever put one of these together before?
+W: No, never. But I think if we carry out these instructions exactly, we won't have any trouble.
+Q: What is important for them to do?</Script>
+        <soundFile>561F621336AEB74588B98FF0C2790B62</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Jogging is good for her health.</choice>
+              <choice id="B">She wants to save money.</choice>
+              <choice id="C">She loves doing anything that is new.</choice>
+              <choice id="D">Jogging keeps her energetic.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Hi, Mary, I hear that you jog all the way to the office these days. 
+W: Yes, I've found great pleasure in jogging. It keeps my spirits high.
+Q: Why does the woman jog all the way to the office? 
+</Script>
+        <soundFile>2C63861D2D071E4093EB9EE3A76F7A81</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">4:40.</choice>
+              <choice id="B">4.</choice>
+              <choice id="C">5:40.</choice>
+              <choice id="D">10.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: My watch says it's ten after four.
+W: Yes. In another half hour we'll be home. Mummy's expecting us, I suppose.
+Q: When will they be home?</Script>
+        <soundFile>978406BEB9A7164AABB0723BCB3BAADC</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">They should ask for an increase in the budget.</choice>
+              <choice id="B">She will try to figure out what's the problem.</choice>
+              <choice id="C">They will make a copy of the budget.</choice>
+              <choice id="D">The calculation appears correct to the man.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: I don't understand how this budget was calculated.
+W: Let me have a look, OK?
+Q: What does the woman mean?
+</Script>
+        <soundFile>1ED6284B240ACF4B9F5CDD9615F51D42</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The arrangement of the Wednesday meeting.</choice>
+              <choice id="B">Where they are going to meet Mr. Johnson.</choice>
+              <choice id="C">The necessity of writing to Mr. Johnson.</choice>
+              <choice id="D">Who is going to contact Mr. Johnson.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: You have arranged to meet Mr. Johnson on Wednesday. So I don't have to write to him, do I?
+M: There's no need to write to him.
+Q: What are the speakers talking about?</Script>
+        <soundFile>211D990CA3A47840A46C4DBFD22C5BD2</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">At the doctor's office.</choice>
+              <choice id="B">At the hospital.</choice>
+              <choice id="C">At the drugstore.</choice>
+              <choice id="D">At the department store.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: I'd like to leave this prescription to be filled please.
+M: Certainly, Mrs. Brown. By the way, Mr. Brown telephoned a few minutes
+ago. He wanted me to remind you to buy some toothpaste, soap and some
+cough medicine.
+Q: Where did this conversation most probably take place?</Script>
+        <soundFile>81C7EE8D87F92C4FB6E1CC13D595C4D0</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">In a supermarket.</choice>
+              <choice id="B">in a department store.</choice>
+              <choice id="C">In a drugstore.</choice>
+              <choice id="D">in a garage.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Where can I get aspirins? I have a terrible headache.
+M: Yes, but you'll have to wait for a while.
+Q: Where does this conversation most probably take place?</Script>
+        <soundFile>516E8AD5D8998F44888E363BE014FBAE</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">The man succeeded because of his great intelligence.</choice>
+              <choice id="B">The man feels very grateful to the woman for the success.</choice>
+              <choice id="C">The woman thinks she has done nothing to help the man.</choice>
+              <choice id="D">The woman thinks she deserves the award.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: I owe the success of the experiment to you. Your help was enormous.
+W: You made it because you worked so hard. You deserve every bit of the award.
+Q: What can we learn from the conversation?</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="70adb6b9-184c-46ab-a615-06650faf5d5d" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="" />
+      <AssessmentItem ItemID="899d727f-da27-4ac2-b312-06ce1cf8b32d" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="11" Course="" Unit="" />
+      <AssessmentItem ItemID="4924ee6d-849c-446c-b501-06e719a66788" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="9" Course="" Unit="" />
+      <AssessmentItem ItemID="9af18d49-86ed-43ab-9f28-07071c7b7feb" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="13" Course="" Unit="" />
+      <AssessmentItem ItemID="bead2b56-f28d-410b-b318-07661bbd152b" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="22" Course="" Unit="" />
+      <AssessmentItem ItemID="50264160-3286-48d4-9a38-078f74e56c2b" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="" />
+      <AssessmentItem ItemID="db4a1515-c411-4394-a69c-07e70fe12253" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="19" Course="" Unit="" />
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="7" Time="7">
+      <AssessmentItem ItemID="de306f36-847c-4400-be2d-0df4a0a8f024" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="24" Course="" Unit="">
+        <soundFile>8F835019BB29B54FB2D569E48BDB2FDF</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">Korean food.</choice>
+              <choice id="B">Thailand food.</choice>
+              <choice id="C">Korean clothes.</choice>
+              <choice id="D">Chinese food.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What are they talking about?</Script>
+            <Sound duration="4">657AAC27C36FAD45B48301CF386029BD</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">At 7:00.</choice>
+              <choice id="B">After 7:00.</choice>
+              <choice id="C">After 6:00.</choice>
+              <choice id="D">At 6:00.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What time is the woman available?</Script>
+            <Sound duration="4">A1BD8AF6FDEFC24E9E8E79FB6EF30582</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">At 6:00.</choice>
+              <choice id="B">At 7:00.</choice>
+              <choice id="C">At 8:00.</choice>
+              <choice id="D">At 6:30.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>When will they meet?</Script>
+            <Sound duration="3">F980ECC19E9E184F8E972077F4DBFDFF</Sound>
+          </question>
+        </Questions>
+        <Script>M: Have you tried Korean food?
+W: Yes, I have. I love Korean food.
+M: Really? Would you like to go out for dinner tonight? I know a good Korean restaurant.
+W: I'd love to. What time shall we make it?
+M: What is the best time for you?
+W: Any time after 6:00.
+M: Then I'll come to your office at 7:00.
+W: Fine. I'll see you then.</Script>
+        <soundFile>B121926B18CD944FA25A4062DD8D632A</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">It's in southern Japan.</choice>
+              <choice id="B">There are a lot of rivers.</choice>
+              <choice id="C">There is the best waterfall in the world.</choice>
+              <choice id="D">There are a lot of mountains.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following is true about the woman's hometown?</Script>
+            <Sound duration="5">312E0AF5C734A2449DD9AE7A4F740504</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">It is really wide.</choice>
+              <choice id="B">It is really tall.</choice>
+              <choice id="C">It is really cold.</choice>
+              <choice id="D">Both A and B.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why is the waterfall so famous?</Script>
+            <Sound duration="4">654CE7589381BE4B9F1B6B40EA1FCEA8</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">A week ago.</choice>
+              <choice id="B">Two weeks ago.</choice>
+              <choice id="C">Last year.</choice>
+              <choice id="D">Two years ago.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>When is the last time the woman went home?</Script>
+            <Sound duration="5">49D56C79B8AE1442A1B4E9915DBA0B39</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Yes, they were born in the same town as their home.</choice>
+              <choice id="B">No, her mother was born in another town.</choice>
+              <choice id="C">Yes, they were born in the same town which is not their present home.</choice>
+              <choice id="D">No, they were born in different towns.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Were the woman's parents born in the same town?</Script>
+            <Sound duration="5">0250700E8144104F8863316E65FE2850</Sound>
+          </question>
+        </Questions>
+        <Script>M: Where are you from?
+W: OK. I'm from Akita, which is Northern Japan. And there are a lot of mountains and you can see changing color in the fall and in my home Yashima town, there are only six thousand people there and there is a waterfall called \"Hotonedake\", which is the best of the one hundred falls in Japan. 
+M: Wow! That's cool. 
+W: Yeah, cool!
+M: So you've seen it. 
+W: Yes!
+M: So how high is this amazing waterfall? 
+W: Uh, I don't really know. It's really big. 
+M: Really? So is it famous because it's really tall or because it's really wide?
+W: Could be both. 
+M: Oh, really, that's a big waterfall. OK. When is the last time you went home?
+W: Last week. 
+M: Uh-huh. Really! Both of your parents still live there?
+W: Yes.
+M: OK. And were your parents born there?
+W: Yes, but different towns. My father is from Yashima, the same hometown, the same home as my home, but my mom is from Nigaho, a next town from Yashima. 
+M: Oh, ok. Do you have a lot of childhood memories? 
+W: Yes, uh, actually but my dad was really busy, so my mom took me to many places when I was a child.
+M: Oh, that's sweet.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="8f5f1aab-d3aa-46d0-bd15-0eaa5adcb9cb" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="95" Course="" Unit="" />
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="12" Time="12">
+      <AssessmentItem ItemID="7529fb57-a397-4020-a5ab-09330e3b2c68" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="61" Course="" Unit="">
+        <soundFile>506E8AFE233E6A42A2BF2F412F466AD0</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">Milk.</choice>
+              <choice id="B">Tea and coffee.</choice>
+              <choice id="C">Soup.</choice>
+              <choice id="D">Tea or coffee.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do English people drink at breakfast?</Script>
+            <Sound duration="4">CF1BA18CD017AB47BE6F9826EE8726F8</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">Three.</choice>
+              <choice id="B">Two.</choice>
+              <choice id="C">Four.</choice>
+              <choice id="D">Only one.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How many courses do English people probably have at dinner?</Script>
+            <Sound duration="4">3403D457E60361468E402C177A11E896</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Soup.</choice>
+              <choice id="B">Meat or fish with vegetables.</choice>
+              <choice id="C">Butter with marmalade.</choice>
+              <choice id="D">Meat and fish with vegetables.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is the second course composed of?</Script>
+            <Sound duration="3">8ACEC33FD04EAB4C8837D28D890794AD</Sound>
+          </question>
+        </Questions>
+        <Script>In many English houses people eat four meals a day: breakfast, lunch, tea and dinner. Breakfast takes place at any time from 7 to 9. It consists of porridge, bacon, eggs, toast of bread and butter with marmalade. English people drink tea or coffee at breakfast.
+Lunch comes at one o'clock. It can range from a ham sandwich to a three-course meal. Afternoon tea is between 4 and 5 and dinner is about half past seven. The first course is soup. The next course generally consists of meat or fish with vegetables. Then comes some sort of dessert, either pudding or fruit of various kinds: apples, pears, bananas, etc. But not all English people eat like that. Some of them have their dinner in the middle of the day. Their meals are breakfast, dinner, tea and supper and all these meals are very simple.</Script>
+        <soundFile>9F06CC4830137D40919B5DF10C0F3759</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">An unmarried young lady.</choice>
+              <choice id="B">A mother of a child.</choice>
+              <choice id="C">A teacher.</choice>
+              <choice id="D">An old woman.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Who gives this small talk?</Script>
+            <Sound duration="4">5544AAF518BF5A4FAD56194D7610F3F7</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">She seldom uses the bicycle.</choice>
+              <choice id="B">She uses the bicycle in summer as well as in winter.</choice>
+              <choice id="C">She uses the bicycle all the year round.</choice>
+              <choice id="D">She uses the bicycle mostly on fine days.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How does the cyclist use the bicycle?</Script>
+            <Sound duration="4">329B9A834202214ABE664F39E82FD867</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Bad weather.</choice>
+              <choice id="B">Accidents.</choice>
+              <choice id="C">Missing of the wheels.</choice>
+              <choice id="D">The above three.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is the trouble with riding a bicycle?</Script>
+            <Sound duration="4">F29846EE0BE88C4AA7F8BD1197F085E5</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">The husband likes bicycle-riding very much.</choice>
+              <choice id="B">The husband likes fresh air and a lot of exercise.</choice>
+              <choice id="C">The husband doesn't like his wife to ride a bicycle.</choice>
+              <choice id="D">The husband doesn't like to wait a long time for a bus.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following is true?</Script>
+            <Sound duration="4">4A0B0EA5BBC0004681CBE91740C2531F</Sound>
+          </question>
+        </Questions>
+        <Script>Two years ago my husband bought me a bicycle. If you live in a town, it is often faster than a car and you don't have to worry about parking. You can leave it anywhere. As it has a seat at the back and a basket at the front, I can take my daughter to school, to the library, shopping, anywhere in fact.
+I use it most in summer when the weather is warm and dry. It can be very unpleasant in winter when it is cold and the rain is pouring down. It can also be very dangerous. You must of course be careful on a bicycle. Accidents are not the only problem, though. One day I went shopping and came back to find my front wheel was missing. It was a long walk to the bicycle shop! Now I have three strong locks.
+My husband uses my bicycle sometimes for short journeys. He is not a good cyclist but says it is better than waiting for a bus. He still prefers his car for longer journeys, but I think that all this sitting down is making him fat and lazy. On my bicycle I get a lot of exercise and fresh air, and cycling makes me feel a lot younger.</Script>
+        <soundFile>397A7F096F0572469DDF979A5A7EE08E</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">What time Americans eat dinner.</choice>
+              <choice id="B">Where Americans eat.</choice>
+              <choice id="C">Why Americans eat in a hurry.</choice>
+              <choice id="D">Which meal Americans eat more slowly.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is NOT mentioned in the paragraph?</Script>
+            <Sound duration="3">7539837D7C51F043946D4472CEA703B5</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">When the food is too hot.</choice>
+              <choice id="B">When they enjoy the food.</choice>
+              <choice id="C">When there is no one waiting.</choice>
+              <choice id="D">When they eat with their families.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>On which occasion do Americans eat slowly?</Script>
+            <Sound duration="3">1635811AB877374EA329F1F90068A82F</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">They want to eat dinner slowly.</choice>
+              <choice id="B">They don't like eating in restaurants.</choice>
+              <choice id="C">They are very busy.</choice>
+              <choice id="D">They don't like to eat.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why do Americans eat daytime meals in a hurry?</Script>
+            <Sound duration="4">5C90AF5D51412249B6CF9C8169822DCC</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">During busy times.</choice>
+              <choice id="B">At lunch.</choice>
+              <choice id="C">At dinner.</choice>
+              <choice id="D">At either breakfast or lunch.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>When would be the least busy time to eat in a restaurant?</Script>
+            <Sound duration="4">CC9DC967A678E94DB7E3AA5626E2031F</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">Americans like eating with friends.</choice>
+              <choice id="B">Americans have little time for rest at noon.</choice>
+              <choice id="C">Americans don't eat much on weekends.</choice>
+              <choice id="D">Americans like simple food.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does this passage suggest?</Script>
+            <Sound duration="2">8DC07AEBC00EEF4ABAB7550055B36140</Sound>
+          </question>
+        </Questions>
+        <Script>Americans eat breakfast and lunch quickly unless it is a social, business or family occasion. The evening meal is usually longer and a time for families to gather together. Rushing through daytime meals is part of the fast pace in America. Another reason for rushing through daytime meals is that many people eat in restaurants that are usually crowded with people waiting for a place so that they too can be served and return to work at the proper time. So each one hurries to make room for the next person. As with busy people everywhere, there is a real difference with meals that are eaten in a hurry and those that can be enjoyed slowly with friends.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="c9365df7-e174-4111-a6b5-09c68bc8e6f2" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="103" Course="" Unit="" />
+      <AssessmentItem ItemID="8a12b377-0fc1-43b6-b955-09d5fd32c374" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="44" Course="" Unit="" />
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="b94b8905-c45a-4362-abd9-21630175f610" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="190" Course="" Unit="">
+        <Content>        Most of the principal state universities have between 10,000 and 30,000 students, and (_1_) in the past few years. Private universities and colleges (_2_), and although they are (_3_) they have a smaller total number of students than those in public institutions. (_4_) vary very much (_5_), from the world-famous to the obscure.
+        There are also many junior colleges (_6_) at the end of their high school career, (_7_) the first two years of university work. (_8_) nearly 600 junior colleges, most of them provided and (_9_). The total number of students in the junior colleges was over 600,000 and (_10_) of these were in public colleges.</Content>
+        <SoundFile>FBB87E9AC233CE4597A16E2089BAC1B5</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>some have increased rapidly</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>are generally smaller</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>more numerous than public institutions</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>The private colleges</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>in standards and reputation</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>to which students may be admitted</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>providing only</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>By 1964 there were</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>controlled by the public authorities</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>nearly nine-tenths</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="59298578-c08f-46ba-b582-0db955da3ad8" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        Praise is like sunlight to the human spirit; we cannot flower and (_1_) without it. And yet, while most of us are only too ready to apply to others the cold wind of (_2_), we are somehow reluctant to give our fellows the warm (_3_) of praise.&lt;br/&gt;        Why — when one word can bring such pleasure? A friend of mine who travels (_4_) always tries to learn a little of the language of any place she (_5_). She's not much of a linguist, but she does know how to say one word — "beautiful" — in several (_6_). She can use it to a mother holding her baby, or to a lonely salesman fishing out pictures of his family. The ability has (_7_) her friends all over the world.&lt;br/&gt;        It's strange how we are (_8_) about praising. Perhaps it's because few of us know how to accept (_9_) gracefully. Instead, we are embarrassed and shrug off the words we are really so glad to hear. Because of this (_10_) reaction, direct compliments are surprisingly difficult to give. That is why some of the most valued pats are those which come to us indirectly, in a letter or passed on by a friend.</Content>
+        <WordList>
+          <Word id="B">away</Word>
+          <Word id="C">sunshine</Word>
+          <Word id="D">ways</Word>
+          <Word id="E">earned</Word>
+          <Word id="F">grow</Word>
+          <Word id="G">compliments</Word>
+          <Word id="H">languages</Word>
+          <Word id="I">criticism</Word>
+          <Word id="J">sunlight</Word>
+          <Word id="K">widely</Word>
+          <Word id="L">made</Word>
+          <Word id="M">defensive</Word>
+          <Word id="N">visits</Word>
+          <Word id="O">chary</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>I</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>M</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="15" Time="10">
+      <AssessmentItem ItemID="e718c35c-d8ce-4cca-b212-02d11ca64378" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="">
+        <Content>        What is your favorite color? Do you like yellow, orange, red? If you do, you must be an optimist, a leader, an active person who enjoys life, people and excitement. Do you prefer grays and blues? Then you are probably quiet, shy, and you would rather follow than lead. You tend to be a pessimist. At least, this is what psychologists tell us, and they should know, because they have been seriously studying the meaning of color preference, as well as the effect that colors have on human beings. They tell us among other facts, that we do not choose our favorite color as we grow up — we are born with our preference. If you happen to love brown, you did so, as soon as you opened your eyes, or at least as soon as you could see clearly.&lt;br/&gt;        Colors do influence our moods — there is no doubt about it. A yellow room makes most people feel more cheerful and more relaxed than a dark green one; and a red dress brings warmth and cheer to the saddest winter day. On the other hand, black is depressing. A black bridge over the Thames River, near London, used to be the scene of more suicides than any other bridge in the area — until it was repainted green. The number of suicide attempts immediately fell sharply; perhaps it would have fallen even more if the bridge had been done in pink or baby blue.&lt;br/&gt;        Light and bright colors make people not only happier but more active. It is an established fact that factory workers work better, harder, and have fewer accidents when their machines are painted orange rather than black or grey.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>The author regards the psychologists' findings as ____.</prompt>
+            <choices>
+              <choice id="A">groundless</choice>
+              <choice id="B">unnecessary</choice>
+              <choice id="C">reasonable</choice>
+              <choice id="D">great</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>According to the phychologists, people's color preference ___.</prompt>
+            <choices>
+              <choice id="A">is inherent in them</choice>
+              <choice id="B">is gradually developed in their growing up</choice>
+              <choice id="C">is imposed on them by their parents</choice>
+              <choice id="D">can be changed sometimes</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>It can be concluded from the passage that it's better to paint the dining room ____.</prompt>
+            <choices>
+              <choice id="A">grey</choice>
+              <choice id="B">blue</choice>
+              <choice id="C">white</choice>
+              <choice id="D">yellow</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>The example of the bridge is used to illustrate that ____.</prompt>
+            <choices>
+              <choice id="A">people tend to kill themselves by jumping from the bridges</choice>
+              <choice id="B">color of the bridges can affect people to a great degree</choice>
+              <choice id="C">the bridge should have been repainted earlier</choice>
+              <choice id="D">color can kill people sometimes</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>In the factories, machines are painted ____ to make the workers more active.</prompt>
+            <choices>
+              <choice id="A">grey</choice>
+              <choice id="B">black</choice>
+              <choice id="C">orange</choice>
+              <choice id="D">red</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        The concept of personal choice in relation to health behaviors is an important one. An estimated 90 percent of all illnesses may be preventable if individuals would make sound personal health choices based upon current medical knowledge. We all enjoy our freedom of choice and do not like to see it restricted when it is within the legal and moral boundaries of society. The structure of American society allows us to make almost all our own personal decisions that may concern our health. If we desire, we can smoke, drink excessively, refuse to wear seat belts, eat whatever foods we want, and &lt;i&gt;live a completely sedentary life-style&lt;/i&gt; without any exercise. The freedom to make such personal decisions is a fundamental aspect of our society, although the wisdom of these decisions can be questioned. Personal choices relative to health often cause a difficulty. As one example, a teenager may know the facts relative to smoking cigarettes and health but may be pressured by friends into believing it is the socially accepted thing to do.&lt;br/&gt;        A multitude of factors, both inherited and environmental, influence the development of health-related behaviors, and it is beyond the scope of this text to discuss all these factors as they may affect any given individual. However, the decision to adopt a particular health-related behavior is usually one of personal choice. There are healthy choices and there are unhealthy choices. In discussing the morals of personal choice, Fries and Crapo drew a comparison. They suggest that to knowingly give oneself over to a behavior that has a statistical probability of shortening life is similar to attempting suicide. Thus, for those individuals who are interested in preserving both the quality and quantity of life, personal health choices should reflect those behaviors that are associated with a statistical probability of increased vitality and longevity.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>The concept of personal choice concerning health is important because __________.</prompt>
+            <choices>
+              <choice id="A">personal health choices help cure most illnesses</choice>
+              <choice id="B">it helps raise the level of our medical knowledge</choice>
+              <choice id="C">it is essential to personal freedom in American society</choice>
+              <choice id="D">wrong decisions could lead to poor health</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>To "live a completely sedentary life-style"( Para.1 L7) means __________.</prompt>
+            <choices>
+              <choice id="A">to "live an inactive life"</choice>
+              <choice id="B">to "live a decent life"</choice>
+              <choice id="C">to "live a life with complete freedom"</choice>
+              <choice id="D">to "live a life of vice"</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Sound personal health choice is often difficult to make because __________.</prompt>
+            <choices>
+              <choice id="A">current medical knowledge is still insufficient</choice>
+              <choice id="B">there are many factors influencing our decisions</choice>
+              <choice id="C">few people are willing to trade the quality of life for the quantity of life</choice>
+              <choice id="D">people are usually influenced by the behavior of their friends</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>To knowingly allow oneself to pursue unhealthy habits is compared by Fries and Crapo to __________.</prompt>
+            <choices>
+              <choice id="A">improving the quality of one's life</choice>
+              <choice id="B">limiting one's personal health choice</choice>
+              <choice id="C">deliberately ending one's life</choice>
+              <choice id="D">breaking the rules of social behavior</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>According to Fries and Crapo sound health choices should be based on __________.</prompt>
+            <choices>
+              <choice id="A">statistical evidence</choice>
+              <choice id="B">society's laws</choice>
+              <choice id="C">personal decisions</choice>
+              <choice id="D">friends' opinions</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="39004074-e003-40e6-9aeb-030546d5b143" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="" />
+    </Section>
+  </Part>
+</Paper>

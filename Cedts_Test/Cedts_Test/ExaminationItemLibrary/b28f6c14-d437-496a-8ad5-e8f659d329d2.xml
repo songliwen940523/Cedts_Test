@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="b28f6c14-d437-496a-8ad5-e8f659d329d2" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" Course="" Unit="">
+  <Content>
+  </Content>
+  <Questions Count="1">
+    <question id="0">
+      <Prompt>3</Prompt>
+      <Answer>
+        <Value>sss</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>fff</Tip>
+    </question>
+  </Questions>
+</AssessmentItem>

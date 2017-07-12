@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="2d1c66d6-43ea-439c-ad2e-484a825e1007" totalScore="12" totalTime="4" name="tt" resultTime="0" bShowAns="1" Diffcult="4" Type="按知识点组卷">
+  <Part Type="ReadingComprehension">
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="6" Time="4">
+      <AssessmentItem ItemID="fa817a0d-26e6-4709-ad43-36e3d3b1b914" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="6" ReplyTime="4" Diffcult="0" QustionInterval="">
+        <Content>        The African elephant, the largest land animal now alive, is in danger of extinction (灭绝). The reasons are very similar to those in other cases of near-extinction: the beast is the source of a highly valued commodity -- in this case, ivory -- and the animal's habitat (居住地) is being more and more fenced in by human settlements. East African elephants are most immediately threatened because they are victims of an illegal trade in ivory. At the same time, a growing human population has forced all African elephants back into once remote parks, where elephant density has in many cases exceeded the natural food supply.</Content>
+        <Questions Count="4">
+          <question id="0">
+            <prompt>The author suggests that the causes of animal extinction are _________.</prompt>
+            <choices>
+              <choice id="A">peculiar to each group of animals</choice>
+              <choice id="B">similar in most cases</choice>
+              <choice id="C">dependent on the climate in which the animal lives</choice>
+              <choice id="D">dependent on the size of the animal</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Which of the following has most seriously affected the African elephant?</prompt>
+            <choices>
+              <choice id="A">Its large size.</choice>
+              <choice id="B">The lowered reproduction rate.</choice>
+              <choice id="C">The expansion of human settlements.</choice>
+              <choice id="D">The changing climate.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>The East African elephant may become extinct sooner than other African elephants because of _________.</prompt>
+            <choices>
+              <choice id="A">an unlawful ivory trade</choice>
+              <choice id="B">the high cost of fences</choice>
+              <choice id="C">the remoteness of its habitat</choice>
+              <choice id="D">its huge size</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>The major problem facing elephants forced to live in limited areas is the _________.</prompt>
+            <choices>
+              <choice id="A">danger of rapid reproduction</choice>
+              <choice id="B">illegal ivory trade</choice>
+              <choice id="C">scarcity of food</choice>
+              <choice id="D">competition with other animals for space</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="6" Time="0">
+      <AssessmentItem ItemID="0907492b-aeb6-4df4-ba56-b1e29df550ed" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="3" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        Scientists know that there are two basic approaches to prolonging life. One approach is the (_&lt;span style='color:Red'&gt;elimination&lt;/span&gt;_) of the diseases that generally (_&lt;span style='color:Red'&gt;affect&lt;/span&gt;_) older people -- diseases such as cancer, heart attack and strokes. (_&lt;span style='color:Red'&gt;The other&lt;/span&gt;_) is the delay of the process of growing old and the (_4_) of the body. In recent years scientific researches have (_&lt;span style='color:Red'&gt;spent&lt;/span&gt;_) much time in the study of the process of aging.&lt;br/&gt;        They believe that (_6_) several years, they will develop the knowledge and the (_7_) to delay the aging process for ten to fifteen years. The (_&lt;span style='color:Red'&gt;result&lt;/span&gt;_) will be that more people will live longer, and more people will have healthful lives. At (_&lt;span style='color:Red'&gt;present&lt;/span&gt;_) scientists believe that (_10_) the right food, exercise, medical (_11_), and mental attitude, many people can live to (_&lt;span style='color:Red'&gt;be&lt;/span&gt;_) one hundred years old. Doctors who (_&lt;span style='color:Red'&gt;specialize&lt;/span&gt;_) in studies of problems of growing old are investigating (_&lt;span style='color:Red'&gt;why&lt;/span&gt;_) body cells (细胞) slow down and (_&lt;span style='color:Red'&gt;finally&lt;/span&gt;_) die. They feel that delaying this slowing down process could help put (_&lt;span style='color:Red'&gt;off&lt;/span&gt;_) death. In a number of American universities, scientists are (_&lt;span style='color:Red'&gt;studying&lt;/span&gt;_) the activity of cells, the effects of food and internal body temperature (_18_) aging. If their studies are (_&lt;span style='color:Red'&gt;successful&lt;/span&gt;_), the result should help to improve the quality of life for people in the next few years as (_&lt;span style='color:Red'&gt;well&lt;/span&gt;_) as increase the life duration of the next generation.</Content>
+        <Questions Count="6">
+          <question id="0">
+            <choices>
+              <choice id="A">weakening</choice>
+              <choice id="B">increasing</choice>
+              <choice id="C">decreasing</choice>
+              <choice id="D">reducing</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">within</choice>
+              <choice id="B">by</choice>
+              <choice id="C">beyond</choice>
+              <choice id="D">for</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">capacity</choice>
+              <choice id="B">means</choice>
+              <choice id="C">ability</choice>
+              <choice id="D">skill</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">with</choice>
+              <choice id="B">within</choice>
+              <choice id="C">for</choice>
+              <choice id="D">from</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">persuasion</choice>
+              <choice id="B">precision</choice>
+              <choice id="C">advice</choice>
+              <choice id="D">arrangement</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">on</choice>
+              <choice id="B">at</choice>
+              <choice id="C">with</choice>
+              <choice id="D">in</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        Who won the World Cup 1994 football game? What happened at the United Nations? How did the critics like the new play? (_&lt;span style='color:Red'&gt;Just when&lt;/span&gt;_) an event takes place, newspapers are on the streets (_&lt;span style='color:Red'&gt;to give&lt;/span&gt;_) the details. Wherever anything happens in the world, reporters are on the spot to (_&lt;span style='color:Red'&gt;gather&lt;/span&gt;_) the news. Newspapers have one basic (_4_), to get the news as quickly as possible from its source, from those who make it to those who want to (_&lt;span style='color:Red'&gt;know&lt;/span&gt;_) it. Radio, telegraph, television, and (_&lt;span style='color:Red'&gt;other&lt;/span&gt;_) inventions brought competition for newspapers. So did the development of magazines and other means of communication. (_&lt;span style='color:Red'&gt;However&lt;/span&gt;_), this competition merely spurred the newspapers on. They quickly made use of the newer and faster means of communication to improve the (_8_) and thus the efficiency of their own operations. Today more newspapers are (_&lt;span style='color:Red'&gt;printed&lt;/span&gt;_) and read than ever before. Competition also led newspapers to branch out into many other fields. Besides, keeping readers (_10_) of the latest news, today's newspapers (_&lt;span style='color:Red'&gt;educate&lt;/span&gt;_) and influence readers about politics and other important and serious matters. Newspapers influence readers' economic choices (_&lt;span style='color:Red'&gt;through&lt;/span&gt;_) advertising. Most newspapers depend on advertising for their very (_&lt;span style='color:Red'&gt;existance&lt;/span&gt;_). Newspapers are sold at a price that (_&lt;span style='color:Red'&gt;fails to cover&lt;/span&gt;_) even a small fraction of the cost of production. The main (_15_) of income for most newspapers is commercial advertising. The (_16_) in selling advertising depends on a newspaper's value to advertisers. This (_&lt;span style='color:Red'&gt;is measured&lt;/span&gt;_) in terms of circulation. How many people read the newspaper? Circulation depends (_&lt;span style='color:Red'&gt;much&lt;/span&gt;_) on the work of the circulation department and on the services or entertainment (_&lt;span style='color:Red'&gt;offered&lt;/span&gt;_) in a newspaper's pages. But for the most part, circulation depends on a newspaper's value to readers as a source of information (_20_) the community, city, country, state, nation, and world — and even outer space.</Content>
+        <Questions Count="6">
+          <question id="0">
+            <choices>
+              <choice id="A">reason</choice>
+              <choice id="B">cause</choice>
+              <choice id="C">problem</choice>
+              <choice id="D">purpose</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">value</choice>
+              <choice id="B">ratio</choice>
+              <choice id="C">rate</choice>
+              <choice id="D">speed</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">inform</choice>
+              <choice id="B">be informed</choice>
+              <choice id="C">to be informed</choice>
+              <choice id="D">informed</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">source</choice>
+              <choice id="B">origin</choice>
+              <choice id="C">course</choice>
+              <choice id="D">finance</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">way</choice>
+              <choice id="B">means</choice>
+              <choice id="C">chance</choice>
+              <choice id="D">success</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">by</choice>
+              <choice id="B">with</choice>
+              <choice id="C">at</choice>
+              <choice id="D">about</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="dc6c45b8-c4f6-4125-a925-cc48d5d507f5" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="3" ReplyTime="0" Diffcult="0" QustionInterval="" />
+    </Section>
+  </Part>
+</Paper>

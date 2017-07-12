@@ -1,0 +1,1321 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="2087be7b-abb6-4d70-a2b1-db4889a56b00" totalScore="71" totalTime="46" name="aabbcc" resultTime="0" bShowAns="1" Diffcult="3" Type="按题型组卷">
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="8" Time="8">
+      <AssessmentItem ItemID="60030886-e5fa-428d-bf83-048f7d0b9a86" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="12" Course="" Unit="">
+        <soundFile>4B129970EEDD7948A877FE46E49BD92A</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He will buy the blouse for twenty dollars.</choice>
+              <choice id="B">He will see Betty this weekend.</choice>
+              <choice id="C">He will borrow some money from the woman and buy the blouse.</choice>
+              <choice id="D">He will let Betty pay back the money as soon as possible.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: I'd like to buy this blouse for Betty's birthday, but I'm twenty dollars short.
+W: I'll lend you the money if you can pay me back by this weekend.
+Q: What will the man most probably do?</Script>
+        <soundFile>1437F84EE1C8094E8904B0B065F40BA2</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">She has already lost her husband.</choice>
+              <choice id="B">She has lived with her son.</choice>
+              <choice id="C">She likes shopping with her son.</choice>
+              <choice id="D">She goes to see her own mother twice a month.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Hey, how do you spend your weekends usually?
+M: I go to see my mother, a 72-year-old widow, every other week, and go shopping with my wife for the rest of the time.
+Q: What do we know about the man's mother?</Script>
+        <soundFile>53676024CBCCFD419DC2A0F1E08EA253</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He might not be able to attend the ceremony.</choice>
+              <choice id="B">He is not going to graduate this semester.</choice>
+              <choice id="C">He hasn't been able to find a job.</choice>
+              <choice id="D">He has to pass his final test.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Jerry said he would come to my graduation ceremony. 
+M: But he has to work that week, doesn't he? 
+Q: What does the man imply about Jerry?
+</Script>
+        <soundFile>F0056B523ACBB54D84E5DDADB1293129</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Tom's parents will leave for Angeles on Monday.</choice>
+              <choice id="B">Tom has left for Los Angeles.</choice>
+              <choice id="C">Tom has decided not to go to Los Angeles.</choice>
+              <choice id="D">Tom's parents went to Los Angeles.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Have Tom's parents left for Los Angeles yet?
+W: I think so. I called their house last night, but there was no answer.
+They probably left on Monday.
+Q: What did the man learn from the woman?</Script>
+        <soundFile>457ABC7E9E838244AF9B9CD0A69439B2</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">A newspaper advertisement.</choice>
+              <choice id="B">A good second-hand car.</choice>
+              <choice id="C">To buy the man a car.</choice>
+              <choice id="D">A newspaper.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: How can I find a good second-hand car?
+M: Why don't you try looking in the newspaper?
+Q: What does the woman want to buy?</Script>
+        <soundFile>F62DB0BB51963B489007B6C9CDDA9477</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Tea, not coffee.</choice>
+              <choice id="B">Either milk or sugar in her coffee.</choice>
+              <choice id="C">Nothing to drink right now.</choice>
+              <choice id="D">Black coffee without sugar.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Would you like milk or sugar in your coffee?
+W: Neither, thank you.
+Q: What does the woman want?</Script>
+        <soundFile>D669019A26A0254B93A88E9265F40B53</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Give Marsha a check for the bookshelf she sold him.</choice>
+              <choice id="B">Ask Marsha where she wants to put the bookshelf.</choice>
+              <choice id="C">Check for the book on Marsha's shelf.</choice>
+              <choice id="D">Ask Marsha if she has an extra bookshelf.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Do you know anyone who has a spare bookshelf?
+M: Have you checked with Marsha?
+Q: What does the man suggest the woman do?</Script>
+        <soundFile>DF037387B1FAD04D92C7F14490B0A0BD</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">She is going to the lecture.</choice>
+              <choice id="B">She is going to the school auditorium.</choice>
+              <choice id="C">She is going to the museum.</choice>
+              <choice id="D">She is going to stay home.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Do you want to listen to the lecture in the school auditorium this Wednesday? 
+W: I'd like to, but I'm going to the museum that day. Thanks for asking, though.
+Q: What does the woman mean?
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="a2c4ce85-574a-414a-a9b5-04a2300e4e8e" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="15" Course="" Unit="" />
+      <AssessmentItem ItemID="27a10eba-0738-41ca-81dc-04ba4cbb8f79" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="11" Course="" Unit="" />
+      <AssessmentItem ItemID="3ac9838f-cca3-4c36-9efd-051b01e498ba" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="16" Course="" Unit="" />
+      <AssessmentItem ItemID="8d181d86-f6e3-40fb-b347-0542ce63101d" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="10" Course="" Unit="" />
+      <AssessmentItem ItemID="f593f55a-a941-40e2-9ba3-05c6c589a3d9" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="9" Course="" Unit="" />
+      <AssessmentItem ItemID="7a5687ef-0dcf-4d16-8746-0639fd9c38ef" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="" />
+      <AssessmentItem ItemID="e3abfd1e-dedb-4f34-aff6-0653735d6b5a" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="" />
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="7" Time="7">
+      <AssessmentItem ItemID="e479b5ca-2825-43d8-94d3-07148317caf4" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="106" Course="" Unit="">
+        <soundFile>A6A44D6FD57F964E85A73736B2F4FFD4</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">Horror.</choice>
+              <choice id="B">Romance.</choice>
+              <choice id="C">Science fiction.</choice>
+              <choice id="D">Cartoon.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What kind of movie is the girl going to see on her date?</Script>
+            <Sound duration="4">4B9FB1F45F3EAF44B8A8446DA2AE1D1B</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">Central Palace.</choice>
+              <choice id="B">Campus Plaza.</choice>
+              <choice id="C">Common Plex.</choice>
+              <choice id="D">Oriental Garden.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>At what theater is the movie playing?</Script>
+            <Sound duration="5">ED427D693AC2C64384DC07C6EF1354E4</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">She is getting a ride with Dirk's brother.</choice>
+              <choice id="B">Her date is coming to pick her up.</choice>
+              <choice id="C">She is going by bus and will meet her date there.</choice>
+              <choice id="D">Her father is going to drive her to the theatre.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How is the girl getting to the movie?</Script>
+            <Sound duration="4">D827EDA65E070348A9E5B67D7E730D7E</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">7:00 p.m.</choice>
+              <choice id="B">7:30 p.m.</choice>
+              <choice id="C">8:00 p.m.</choice>
+              <choice id="D">8:30 p.m.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What time does the movie begin?</Script>
+            <Sound duration="4">BE5EA0EF4797894FA3057D9CDEECE3B8</Sound>
+          </question>
+        </Questions>
+        <Script>W: He's here. Bye Dad.
+M: Wait, wait, wait . . . Where are you going?
+W: Dad. I've already told mom. I'm going out tonight.
+M: Who with? You mean you're going on a date?
+W: Yeah. Mom met Dirk yesterday. [Dirk!?] He's so cool. We're going on a double-date with Cindy and Evan.
+M: Dirk?
+W: I have to go.
+M: Wait, wait. I want to meet this guy.
+W: He's waiting for me.
+M: Well, so what are you going to do tonight? Going to the library?
+W: Dad! We're going out to eat, and then we're going to catch a movie.
+M: What movie and what is it rated?
+W: It's a science fiction thriller called . . . well, I don't know what it is called, but it's rated Parental Guidance.
+M: And where's the movie showing?
+W: Down at the Oriental Garden Movie Theater.
+M: Hey, I was thinking about seeing a movie down there tonight, too.
+W: Ah, Dad.
+M: Hey, Let me meet that guy. Hey, that guy has a moustache!
+W: Dad. That's not Dirk. That's his older brother. He's taking us there! Can I go now?
+M: Well . . .
+W: Mom said I could, and mom knows his parents.
+M: Well . . .
+W: Dad.
+M: Okay, but be home by 8:00.
+W: Eight!? The movie doesn't start until 7:30. Come on, Dad.
+M: Okay. Be back by 11:00.
+W: Love you, Dad.
+M: Love you, too.
+W: Bye.
+M: Bye.</Script>
+        <soundFile>613C2DF0D43C8C44B762205EB54F3125</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">60.</choice>
+              <choice id="B">70.</choice>
+              <choice id="C">80.</choice>
+              <choice id="D">90.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How old is the man?</Script>
+            <Sound duration="4">5883B1683B1B454C8AC7CB406405F56C</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">His mind turns 80.</choice>
+              <choice id="B">He cannot move as quickly and actively as he was young.</choice>
+              <choice id="C">His aging life is frustrating and disappointing.</choice>
+              <choice id="D">He couldn't see more things.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why does the man think his life is a bit inconvenient?</Script>
+            <Sound duration="5">98F31F2605EA954F802F5B0DDD51605C</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">An aging man can be more interesting.</choice>
+              <choice id="B">An aging man can be wealthier.</choice>
+              <choice id="C">An aging man can be more knowledgeable.</choice>
+              <choice id="D">An aging man can be luckier.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According to the man, what does aging benefit him?</Script>
+            <Sound duration="5">A041A5E862EC43468EF2097B92D539A8</Sound>
+          </question>
+        </Questions>
+        <Script>W: Now, do you mind my asking how old you are?
+M: I was 80 years old on December 25th, 2006.
+W: Wow! 80! What does it feel like to be 80?
+M: It's a little inconvenient because my mind didn't turn 80 but my body did and I find sometimes my mind follows my body too!
+W: For example?
+M: It's hard to be as quick as I used to be and I can't do what I used to do when I was younger.
+W: Oh, that's disappointing and probably a little frustrating.
+M: Very frustrating! Especially when you have been active all of your life and all of a sudden, things begin to slow down.
+W: Well, are there any advantages? Can you give us some hope?
+M: Yes! Yes! There is hope. You have reached an age where you understand where you have been.
+W: Could you explain it in more details?
+M: I'm very fortunate that I lived in this age. I was born in 1926. I saw the airplane invented. I saw so many things, e.g. World War II, etc.
+W: World war II?
+M: Yes, World War II. I was married during World War II. So it's a good time. At 80 when you look back on all those things, you begin to understand the changes.You just become more knowledgeable when you become old.
+W: Well, that doesn't sound so bad.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="c3c17eb3-e458-4878-8dda-07fcae78ceb4" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="99" Course="" Unit="" />
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="11" Time="11">
+      <AssessmentItem ItemID="5a76f2c6-5b89-4f50-b8d9-04b76dc44513" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="78" Course="" Unit="">
+        <soundFile>3BB51DEE77AFD14CB6487085A19E6DCF</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">Ketchup.</choice>
+              <choice id="B">Chips.</choice>
+              <choice id="C">Ketchup and potatoes.</choice>
+              <choice id="D">Bread.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is French fries?</Script>
+            <Sound duration="4">B1A2F421AE8FBD4296AA4D26CD9D7FD0</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">Hamburger is young people's favorite food.</choice>
+              <choice id="B">People often have hamburgers with ketchup.</choice>
+              <choice id="C">Old people don't like hamburgers.</choice>
+              <choice id="D">Hamburger is children's idea of a good meal.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following can't be inferred from the passage?</Script>
+            <Sound duration="5">E71464D1B963294E9418E48F59132E6D</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Hamburgers are often delivered to homes.</choice>
+              <choice id="B">Hamburger is popular in America.</choice>
+              <choice id="C">It is easy for people to get hamburgers.</choice>
+              <choice id="D">Many people have their hamburgers outside restaurants.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following is NOT true?</Script>
+            <Sound duration="4">8E9AA4B70901D344AEE4BE796A52F78B</Sound>
+          </question>
+        </Questions>
+        <Script>The younger members of most American families don't like foreign food. They like hamburgers. Their idea of a good meal is a hamburger served with ketchup and French fried potatoes, which are called French fries. French fries are not considered foreign: most American children and teenagers love to eat them any time of the day or night.
+Millions of hamburgers and French fries are eaten every year. Thousands of roadside restaurants prepare and sell them. These are not really restaurants in the usual sense; they often have little space for tables and chairs. Many people buy their hamburgers and take them home to eat, or eat them in their cars.
+Sometimes it is not necessary to go inside in order to buy the hamburgers. They are ordered through a window in the restaurant and then are handed out through the window to the waiting customer. Sometimes the customer does not even have to get out of his car.
+When an American family travels abroad, this is almost always the custom that the younger members of the family miss most.</Script>
+        <soundFile>CD42164C363D2A4C905A14720D17ED74</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">When someone has helped him.</choice>
+              <choice id="B">When someone has done harm to him.</choice>
+              <choice id="C">When someone in a shop has served him.</choice>
+              <choice id="D">When someone has given him a gift.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>When doesn't an American say "Thank you"?</Script>
+            <Sound duration="3">ACF1FCD3574A8A4F9DC60DD112F0D391</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">He feels interested.</choice>
+              <choice id="B">He feels annoyed.</choice>
+              <choice id="C">He feels himself thanked.</choice>
+              <choice id="D">He feels comfortable.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How does an American feel when he is thanked again and again?</Script>
+            <Sound duration="5">E2909E97C6F47E4CA402E9DF0D07E38A</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Empty thanks make Americans comfortable.</choice>
+              <choice id="B">Empty thanks make Americans less anxious to help you.</choice>
+              <choice id="C">It's not necessary to tell an American that your English is not good enough.</choice>
+              <choice id="D">No one should apologize to an American for not being able to speak very good English.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following is NOT true?</Script>
+            <Sound duration="3">DB5CE8227537A149959036EA795D9B95</Sound>
+          </question>
+        </Questions>
+        <Script>"Thank you" means that you appreciate what someone has done for you, very often, very small and most ordinary things. So we in the West thank people all day long. For instance, you will thank the saleswoman after she has attended to you. You will say "Thank you" to the waitress when she brings you a cup of coffee. And a teacher will say "Thank you" to a student who has just answered the question. At home, the husband will thank the wife when she brings him a glass of water. 
+However, too many expressions of gratitude give Westerners the sense of empty thanks, and make them uncomfortable. For example, if an American has spent half an hour helping you write some letters, you will, of course, want to say, "Thank you, I really appreciate your time." That's enough. If you go on and on with statements of thanks, and even add "I'm sorry to have wasted so much of your time", he will feel himself not thanked but annoyed and will not be anxious to help you again. And if he gets really annoyed, he might say, "Well, if you really think that you are wasting my time, you had better stay out of my way." There is also no need for you to apologize for your not being able to speak good English wherever you go and whomever you meet.</Script>
+        <soundFile>F4A98B2C1338DA48AD5033E0C9FE7DAA</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">Home.</choice>
+              <choice id="B">Medical care.</choice>
+              <choice id="C">Work.</choice>
+              <choice id="D">Leisure.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following topics is not covered in the passage?</Script>
+            <Sound duration="6">4B760C7FC5297B4F920B0794944A1C98</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">A meal can be cooked at the touch of the switch.</choice>
+              <choice id="B">You can get the prices of local shops from television.</choice>
+              <choice id="C">People making telephone calls can see each other.</choice>
+              <choice id="D">Machines can be used to control climate.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following is not possible in the year 2020?</Script>
+            <Sound duration="5">A85C4E984A8D9048B56449FE97468D8E</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">28 days.</choice>
+              <choice id="B">30 days.</choice>
+              <choice id="C">42 days.</choice>
+              <choice id="D">60 days.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How long will the normal holiday be in a year?</Script>
+            <Sound duration="5">1FEAF5BC5FECE24F9D1DD38234FC9065</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">More people will eat out.</choice>
+              <choice id="B">People can work at home.</choice>
+              <choice id="C">Our leisure will be difficult.</choice>
+              <choice id="D">People will eat more food. </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following is true according to the passage?</Script>
+            <Sound duration="5">6F016CC48E37AB43801C10AC3F6ADDEF</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">More people will travel to other countries.</choice>
+              <choice id="B">People will spend less time on education.</choice>
+              <choice id="C">International travel will not be too difficult.</choice>
+              <choice id="D">More people will like to take holidays in winter.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following is not true according to the passage?</Script>
+            <Sound duration="7">D430D727B35256468E48E8DD4AECBA13</Sound>
+          </question>
+        </Questions>
+        <Script>What will happen in the year 2020? Well, in the home, cookers will be set so that you can cook a complete meal at the touch of a switch.
+	Television will provide information on prices at the nearby shops as well as news and entertainment. Videophones will bring pictures as well as sound to telephone conversations.
+	Machines will control temperature, lighting, entertainment, security alarms and gardening. Lighting will provide decoration as well as wallpaper. At work, robots will take over most jobs in the manufacturing industries. Working hours will fall to under 30 hours a week. Holidays will get longer. Six weeks will be the normal annual holiday. Men and women will retire at the same age. Our leisure will be different too. The home will become the center of entertainment through television and electronic games. More people will eat out in restaurants than they do today; also they will have a much wider variety of food available. Foreign travel will increase; winter holidays will become more popular than summer ones. Also non-stop flights among different countries will be cheap and easily available. Hobbies and education will become increasingly important.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="4041c2a8-c482-42dd-8788-0670c0952764" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="89" Course="" Unit="" />
+      <AssessmentItem ItemID="5a06ad80-557d-4679-868f-0748f0f809f1" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="106" Course="" Unit="" />
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="15ffb3f0-2d47-4d73-a023-183511dc1775" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="277" Course="" Unit="">
+        <Content>        The first true piece of sports equipment (_1_) was the ball.
+        In ancient Egypt, as everywhere, pitching stones was a (_2_). But a badly thrown rock (_3_). Looking for something less dangerous to throw, the Egyptians made (_4_).
+        At first, balls (_5_) held together by vines. Later they were made of pieces of animal skin sewed together and (_6_).
+        Even though the Egyptians were warlike, they (_7_). Before long they had developed a number of ball games, (_8_). Perhaps they played ball (_9_). Ball playing was thought of mainly as a way to teach young men the speed and skill (_10_).</Content>
+        <SoundFile>857409D7FF6CF048839B7FC5C52865F7</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>that man invented</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>favorite children's game</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>could hurt a child</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>what were probably the first balls</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>were made of grass or leaves</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>stuffed with feathers or hay</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>found time for peaceful games</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>each with its own set of rules</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>more for instruction than for fun</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>they would need for war</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="8ccd77ad-666c-4844-a062-0d3abb15056d" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        If you partied hard on 31st night to welcome the New Year, then there's nothing worse than waking up with a hangover（宿醉）. Then why didn't you think before (_1_) those drinks? Believe it or not, there are (_2_) with which you can prevent hangovers. (_3_) of all don't drink! Well that really isn't an (_4_) this season, is it? To begin with, eat a large meal before you (_5_) start drinking. Have a glass of water between drinks once you start to drink. You can drink orange juice as it is a good (_6_) for hangovers. The sugar in the fruit gives you a boost（提高） of energy. Avoid fizzy（起泡沫的） drinks as they actually (_7_) up the alcohol absorption process so you get intoxicated（喝醉的） faster. Avoid coffee as the caffeine in it dehydrates（[使]脱水） you just like alcohol. Eat (_8_) as they are a natural enticer that helps cure nausea（恶心）. (_9_) that, it is also high on magnesium（[化]镁） that can relax the pounding blood vessels causing headache. A hot bath is also very (_10_). The steam will sweat out the toxins that cause all the problems.</Content>
+        <WordList>
+          <Word id="B">first</Word>
+          <Word id="C">comfort</Word>
+          <Word id="D">downing</Word>
+          <Word id="E">besides</Word>
+          <Word id="F">speed</Word>
+          <Word id="G">cure</Word>
+          <Word id="H">option</Word>
+          <Word id="I">drunk</Word>
+          <Word id="J">decrease</Word>
+          <Word id="K">actually</Word>
+          <Word id="L">effective</Word>
+          <Word id="M">suit</Word>
+          <Word id="N">basically</Word>
+          <Word id="O">bananas</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>L</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="15" Time="10">
+      <AssessmentItem ItemID="44468819-207b-45d0-bef8-02c60571e7f9" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="">
+        <Content>        An election year is one in which all four numbers are evenly divisible by four (1944,1948, etc.). Since 1840, American presidents elected in years ending in zero have been destined to die in office.&lt;br/&gt;        William H. Harrison, the man who served the shortest term, died of pneumonia several weeks after his inauguration.&lt;br/&gt;        Abraham Lincoln was one of four presidents who were assassinated. He was elected in 1860, and his untimely death came just five years later.&lt;br/&gt;        James A. Garfield, a former Union army general from Ohio, was shot during his first year in office (1881) by a man to whom he wouldn’t give a job.&lt;br/&gt;        While in his second term of office (1901), William McKinley, another Ohioan, attended the Pan-American Exposition at Buffalo, New York. During the reception, he was assassinated while shaking hands with some of the guests.&lt;br/&gt;        Three years after his election in 1920, Warren G. Harding died in office. Although it was never proved, many believe he was poisoned.&lt;br/&gt;        Franklin D. Roosevelt had been elected four times  (1932,1936,1940, and 1944), the only man to serve so long a term. He had contracted polio in 1921 and died of the illness in 1945.&lt;br/&gt;        John F. Kennedy, the last of the line, was assassinated in 1963, only three years after his election.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>Which of the following was NOT an election year?</prompt>
+            <choices>
+              <choice id="A">1960.</choice>
+              <choice id="B">1930.</choice>
+              <choice id="C">1888.</choice>
+              <choice id="D">1824.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Which president served the shortest term in office?</prompt>
+            <choices>
+              <choice id="A">Abraham Lincoln.</choice>
+              <choice id="B">Warren G. Harding.</choice>
+              <choice id="C">William McKinley.</choice>
+              <choice id="D">William H. Harrison.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Which of the following is true?</prompt>
+            <choices>
+              <choice id="A">All presidents elected in years ending in zero have died in office.</choice>
+              <choice id="B">Only presidents from Ohio have died in office.</choice>
+              <choice id="C">Franklin D. Roosevelt completed four terms as president.</choice>
+              <choice id="D">Four American presidents have been assassinated.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>How many presidents elected in years ending in zero since 1840 have died in office?</prompt>
+            <choices>
+              <choice id="A">7.</choice>
+              <choice id="B">5.</choice>
+              <choice id="C">4.</choice>
+              <choice id="D">3.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>Which of the following presidents was NOT assassinated?</prompt>
+            <choices>
+              <choice id="A">John F. Kennedy.</choice>
+              <choice id="B">Franklin D. Roosevelt.</choice>
+              <choice id="C">Abraham Lincoln.</choice>
+              <choice id="D">James A. Garfield.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        Cars of 2050 will travel the nation's highways in never-before-dreamed-of safety, comfort, and convenience. These cars will float along never touching the ground, and therefore will have no need for wheels.&lt;br/&gt;        Annoying highway vibrations, caused by the rotations of the disc-and-tire wheels, will be things of the past. The coming highway passenger cars will literally fly above the road, supported on columns of air compressed by turbine-driven (涡轮驱动的) fans.&lt;br/&gt;        The car without wheels has been called a "flying car", and, in a sense, that's just what it is; however, it will not back out of the family garage, start down the street, and then suddenly go quickly upward heading for some distant point. On the contrary, to avoid problems in aerial navigation, the wheelless vehicle probably will travel no more than three inches above road surface. It will travel over fairly rough road and even over smooth water!&lt;br/&gt;        The inevitable problems of maritime (水上的) regulations, severe weather conditions, and running out of fuel in remote areas all will require new concepts of operation, servicing, and vehicle regulation.</Content>
+        <Questions Count="5">
+          <question id="0">
+            <prompt>The author believes that cars of the future ____.</prompt>
+            <choices>
+              <choice id="A">will be replaced by airplanes</choice>
+              <choice id="B">will have wheels unlike those of today</choice>
+              <choice id="C">will use columns of air instead of wheels</choice>
+              <choice id="D">will use wheels without tires</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Cars of the future will run _____.</prompt>
+            <choices>
+              <choice id="A">without annoying noise</choice>
+              <choice id="B">without fuel</choice>
+              <choice id="C">much more smoothly</choice>
+              <choice id="D">on a number of fans</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>The car without wheels has been called a "flying car" because _______.</prompt>
+            <choices>
+              <choice id="A">it travels a few inches above the ground</choice>
+              <choice id="B">it can fly as a plane does</choice>
+              <choice id="C">it moves at a very high speed</choice>
+              <choice id="D">it can travel over smooth water</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>Where is a wheelless car LEAST fit to travel?</prompt>
+            <choices>
+              <choice id="A">Over soft land.</choice>
+              <choice id="B">Over rough country roads.</choice>
+              <choice id="C">Over highways.</choice>
+              <choice id="D">Over waterfalls.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>Wheelless cars will ______.</prompt>
+            <choices>
+              <choice id="A">eliminate all traffic problems</choice>
+              <choice id="B">create new traffic problems</choice>
+              <choice id="C">eliminate parking problems</choice>
+              <choice id="D">Both A and C.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="23c6af8e-47cf-47fd-baa5-02ce9170ca8e" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="7.5" ReplyTime="5" Diffcult="0" QustionInterval="" />
+    </Section>
+  </Part>
+  <Part Type="Cloze ">
+    <Section type="8" typecn="完型填空" questioninterval="0" Score="10" Time="0">
+      <AssessmentItem ItemID="bd1eee88-b960-47d6-9515-1398c4e0352b" PartType="4" ItemType="8" ItemType_CN="完型填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        Planning is a very important activity in our lives. It can give pleasure, even excitement, (_1_) cause quite severe headaches. The more significant the task (_2_) is, the more careful the planning requires. Getting to school or to work on time is a task requiring (_3_) or no planning, and it is almost a (_4_). A month's touring holiday (_5_), or better (_6_), getting married, is a different matter altogether. If the (_7_) involves a church wedding, with fifty guests, a reception, a honeymoon in Venice, and (_8_) to a new home, this requires even more planning to make (_9_) that it is successful. Planning is our way of trying to ensure success and (_10_) avoiding costly failures we cannot afford. It is (_11_) essential to mankind as a (_12_), to individual nations, to families and single people; the (_13_) may vary, but the (_14_) of importance does not. In essence, a nation planning its resources and (_15_) does not differ from the (_16_) weekly shopping or monthly household budget (预算). (_17_) are designed to ensure an adequate supply of essentials, (_18_) a rate of spending within the limits of (_19_), and if properly carried out, will (_20_) shortages, wastage and over-expenditure.</Content>
+        <Questions Count="20">
+          <question id="0">
+            <choices>
+              <choice id="A">so</choice>
+              <choice id="B">and</choice>
+              <choice id="C">or</choice>
+              <choice id="D">but</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">ahead</choice>
+              <choice id="B">aside</choice>
+              <choice id="C">ago</choice>
+              <choice id="D">above</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">least</choice>
+              <choice id="B">little</choice>
+              <choice id="C">much</choice>
+              <choice id="D">plenty</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">task</choice>
+              <choice id="B">routine</choice>
+              <choice id="C">duty</choice>
+              <choice id="D">deed</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">abroad</choice>
+              <choice id="B">aboard</choice>
+              <choice id="C">again</choice>
+              <choice id="D">above</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <choices>
+              <choice id="A">still</choice>
+              <choice id="B">more</choice>
+              <choice id="C">than</choice>
+              <choice id="D">yet</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <choices>
+              <choice id="A">matter</choice>
+              <choice id="B">latter</choice>
+              <choice id="C">holiday</choice>
+              <choice id="D">trip</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <choices>
+              <choice id="A">visiting</choice>
+              <choice id="B">attending</choice>
+              <choice id="C">taking</choice>
+              <choice id="D">returning</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <choices>
+              <choice id="A">known</choice>
+              <choice id="B">believe</choice>
+              <choice id="C">sure</choice>
+              <choice id="D">clear</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <choices>
+              <choice id="A">in</choice>
+              <choice id="B">for</choice>
+              <choice id="C">of</choice>
+              <choice id="D">by</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="10">
+            <choices>
+              <choice id="A">mainly</choice>
+              <choice id="B">equally</choice>
+              <choice id="C">virtually</choice>
+              <choice id="D">utterly</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="11">
+            <choices>
+              <choice id="A">whole</choice>
+              <choice id="B">group</choice>
+              <choice id="C">fact</choice>
+              <choice id="D">unity</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="12">
+            <choices>
+              <choice id="A">scope</choice>
+              <choice id="B">scale</choice>
+              <choice id="C">range</choice>
+              <choice id="D">extent</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="13">
+            <choices>
+              <choice id="A">degree</choice>
+              <choice id="B">height</choice>
+              <choice id="C">depth</choice>
+              <choice id="D">grade</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="14">
+            <choices>
+              <choice id="A">procedures</choice>
+              <choice id="B">requirements</choice>
+              <choice id="C">processes</choice>
+              <choice id="D">needs</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="15">
+            <choices>
+              <choice id="A">similar</choice>
+              <choice id="B">popular</choice>
+              <choice id="C">familiar</choice>
+              <choice id="D">regular</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="16">
+            <choices>
+              <choice id="A">Some</choice>
+              <choice id="B">Many</choice>
+              <choice id="C">All</choice>
+              <choice id="D">Both</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="17">
+            <choices>
+              <choice id="A">with</choice>
+              <choice id="B">by</choice>
+              <choice id="C">at</choice>
+              <choice id="D">in</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="18">
+            <choices>
+              <choice id="A">property</choice>
+              <choice id="B">production</choice>
+              <choice id="C">wage</choice>
+              <choice id="D">income</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="19">
+            <choices>
+              <choice id="A">keep</choice>
+              <choice id="B">avoid</choice>
+              <choice id="C">cause</choice>
+              <choice id="D">solve</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

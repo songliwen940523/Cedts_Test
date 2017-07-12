@@ -1,0 +1,583 @@
+<?xml version="1.0"?>
+<Paper UserID="151" UpdateUserID="151" PaperID="bad5735d-def4-408c-9161-c90388bc4ccd" totalScore="28" totalTime="28" name="4535" resultTime="0" bShowAns="1" Diffcult="2" Type="按题型组卷">
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="5" Time="5">
+      <AssessmentItem ItemID="710284e8-0f8d-4708-89a2-002c20711065" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="">
+        <soundFile>710284e8-0f8d-4708-89a2-002c20711065</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">In a repair shop.</choice>
+              <choice id="B">In a restaurant.</choice>
+              <choice id="C">In a store.</choice>
+              <choice id="D">At a ticket window.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: I'm sorry. But we haven't got any in stock. Could you come for it next week?
+M: Yes. I can wait.
+Q: Where does this conversation most probably take place?</Script>
+        <soundFile>644e31c1-5001-449a-a1f8-0045a6a00c99</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He has to go to another meeting first.</choice>
+              <choice id="B">He won't want to speak at the meeting.</choice>
+              <choice id="C">He might get lost in the crowd.</choice>
+              <choice id="D">He doesn't like to go places.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Jeff has a lot of good ideas. Do you think he will be willing to come to this meeting?
+W: Oh, I think he'd be glad to come, but it'll be difficult to get him to speak before a large crowd.
+Q: What does the woman imply about Jeff?</Script>
+        <soundFile>82a704d1-c440-421c-ae24-0080f45f3804</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">His native language is French.</choice>
+              <choice id="B">His native language is English.</choice>
+              <choice id="C">His native language is German.</choice>
+              <choice id="D">His native language is Spanish.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Although Doug is an American, he's lived in Europe most of his life. 
+M: How many languages can he speak?
+W: He speaks French, Spanish, German as well as English.
+Q: What can be inferred about Doug?
+</Script>
+        <soundFile>e0a120ed-362e-4be2-aa2d-0086ef135812</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Miserable.</choice>
+              <choice id="B">Cold.</choice>
+              <choice id="C">Fine.</choice>
+              <choice id="D">Worse.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W:	Hello, Bill, How are you getting along with your math exam? Have you got through it?
+M:	Oh yes, fortunately. I couldn't have survived any exams! It makes you feel so concerned, doesn't it?
+Q:	How is the man feeling now?
+</Script>
+        <soundFile>49ef262c-caad-41dc-9a31-008c8f5615c5</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Ask him to give advice.</choice>
+              <choice id="B">Go to visit her tutor.</choice>
+              <choice id="C">Ask other experts to give advice.</choice>
+              <choice id="D">Stay home and complete her paper.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: I am going to visit my tutor. I have a paper to complete. And I need his advice.
+M: Why don't you ask me? I am an expert in this field too.
+Q: What does the man suggest the woman do?
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="644e31c1-5001-449a-a1f8-0045a6a00c99" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="" />
+      <AssessmentItem ItemID="82a704d1-c440-421c-ae24-0080f45f3804" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="18" Course="" Unit="" />
+      <AssessmentItem ItemID="e0a120ed-362e-4be2-aa2d-0086ef135812" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="22" Course="" Unit="" />
+      <AssessmentItem ItemID="49ef262c-caad-41dc-9a31-008c8f5615c5" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="13" Course="" Unit="" />
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="23" Time="23">
+      <AssessmentItem ItemID="11bc967b-4ce1-4cc2-9212-00b0bb3bdd9b" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="122" Course="" Unit="">
+        <soundFile>11bc967b-4ce1-4cc2-9212-00b0bb3bdd9b</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">Advance in technology is a double-edged sword.</choice>
+              <choice id="B">Overall, technological progress is a good thing.</choice>
+              <choice id="C">It is never absolute whether it is good or bad.</choice>
+              <choice id="D">Sometimes it brings more problems than benefits.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do people generally believe about the revolution of technology?</Script>
+            <Sound duration="5">B3DAC5B00675D84699DFB8562DDF8500</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">They report what people are most interested in.</choice>
+              <choice id="B">They cover the news according to the directions of their agencies.</choice>
+              <choice id="C">They report the things that touch people's daily lives most.</choice>
+              <choice id="D">They have no particular plan about what to plan.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How do journalists decide what to report according to the passage?</Script>
+            <Sound duration="5">E155EA5426E37147808A666D67DC58BC</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">The movie is a science fiction.</choice>
+              <choice id="B">The movie was put on show in 2001.</choice>
+              <choice id="C">The movie producers made a lot of money from it.</choice>
+              <choice id="D">In fact it did not attract many people.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What can we know about the movie mentioned in the passage?</Script>
+            <Sound duration="5">1896F61077611C43B738D4B6C3445B22</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">It is unpredictable what will happen.</choice>
+              <choice id="B">Most probably news about about computers will be reported.</choice>
+              <choice id="C">Computers will report things at random.</choice>
+              <choice id="D">Computers will report things in a better organized way.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What will be reported if editors are replaced by computers?</Script>
+            <Sound duration="5">19F88B27714E834DB2BDCDD7D5E446EF</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">They did not worry about that prospect.</choice>
+              <choice id="B">They adopted a neutral attitude.</choice>
+              <choice id="C">They adopted a neutral attitude.</choice>
+              <choice id="D">They were prepared to fight against it.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According to the speaker what were editors' attitude to the prospect of being replaced by computers?</Script>
+            <Sound duration="9">8176E438F34D1848A0468E49ADB6A633</Sound>
+          </question>
+        </Questions>
+        <Script>“Google”, the popular Internet search engine, offers a page called “Google News”, a summary of what is going on in a world inhabited entirely by computers.
+   Clearly, the day is approaching when editors can be replaced by computers. This requires some urgent rethinking.
+   Throughout the revolution of technology and globalization that has been going on for two decades, many believe that progress is a good thing. Some people are unfortunately caught in the wheels of change, but society as a whole benefits.
+   We must distinguish, however, between making an exception and being worried about deeply troubling developments. It is one thing to sacrifice textile workers for progress. It is quite another to start throwing reporters into the flames of progress. It's very different.
+   You see, journalists are responsible for reporting and analyzing the important issues of the day. In the prestige ranking of important issues, a key factor is how much an issue actually touches anyone's daily life.
+   What happens when all the human editors have been eliminated? We know the answer from the movie "2001". In the movie a computer took over a space station and killed all the inhabitants. We will wake up one day to find that all the news is about the narrow-minded concerns of computers while important human developments get ignored.
+   No doubt there are writers and policy analysts of all sorts who think today "They are going after editors, but I can never be replaced by a machine." Ladies and gentleman, that's what the editor thought.</Script>
+        <soundFile>138bda08-ce2e-4cb6-8ce3-00fc45dd8855</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">One and a half years.</choice>
+              <choice id="B">Two years.</choice>
+              <choice id="C">8~24 months.</choice>
+              <choice id="D">1.5~2 years.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How long will it take a student to complete a full-time MBA program?</Script>
+            <Sound duration="6">7D32D6BA178C0F4998F789312A0AE1EC</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">It offers more core courses and optional courses than the full-time MBA.</choice>
+              <choice id="B">It allows students up to 7 years to complete the curriculum.</choice>
+              <choice id="C">It allows the majority of students to arrange their studies according to their timetable.</choice>
+              <choice id="D">It provides classes at night and/or on the weekends.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why does the part-time MBA interest those students in work?</Script>
+            <Sound duration="6">860950F579CD3445BD945585CBAC6E7C</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">The program should offer a limited number of optional courses.</choice>
+              <choice id="B">The program should take up to 8 years to complete.</choice>
+              <choice id="C">The program should use e-mail, computer conferencing, chat rooms, and so on.</choice>
+              <choice id="D">The program should be accredited so that hiring companies will consider it valid.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is an important consideration to offer an on-line MBA program?</Script>
+            <Sound duration="6">3EC729ADD6515C46B60D44100556DCB7</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Senior managers who can offer at least 10 years to complete the program.</choice>
+              <choice id="B">Senior managers who have at least 10 years of business experience.</choice>
+              <choice id="C">Senior managers who can complete the program within 24 months to 10 years.</choice>
+              <choice id="D">Senior managers who graduated from a prestigious school, with at least 10 years of work experience.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Who is an executive MBA generally designed for?</Script>
+            <Sound duration="5">22001FBB0819FC43B8945D0C1B80D3D2</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">Full-time MBA.</choice>
+              <choice id="B">Part-time MBA.</choice>
+              <choice id="C">On-line MBA.</choice>
+              <choice id="D">EMBA.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which type of MBA allows students to take the longest time to complete?</Script>
+            <Sound duration="7">307D2E4EF43EBC4EA8A87CCDB4FA20B6</Sound>
+          </question>
+        </Questions>
+        <Script>Each university and college in the United States has different requirements for gaining admission to their MBA programs. There are also several different types of MBA programs available. Here is a brief outline of the different types of MBAs offered:
+&lt;B&gt;1. Full-Time MBA&lt;/B&gt;
+The full-time MBA offers core courses that span all management disciplines. Students can also select from a variety of optional courses. The program usually takes between 18 and 24 months to complete. Students must attend classes at the business school on most weekdays. 
+&lt;B&gt;2. Part-Time MBA&lt;/B&gt;
+The part-time MBA offers core courses and optional courses similar to the full-time program. Some schools allow students up to 7 years to complete their study, though the majority of part-time students will complete the program in 2 or 3 years. The part-time program usually appeals to students who are currently working, so classes are held at night and/or on the weekends. 
+&lt;B&gt;3. On-Line MBA&lt;/B&gt;
+The on-line program offers a core of general courses with a limited number of optional courses. The programs can take up to 8 years to complete, though students generally finish in 3 or 4 years. Coursework uses e-mail, computer conferencing, chat rooms, on-line bulletin boards, and sound and video clips. It is very important to make sure the program is recognized so hiring companies will consider it valid. 
+&lt;B&gt;4. Executive MBA&lt;/B&gt;
+The executive MBA, or EMBA, is generally designed for senior managers with at least 10 years of business experience. The courses tend to focus on global business issues and strategies. The program is very structured, with courses offered in sequence and students moving as one through the various steps. The program is generally considered full-time and can take up to 24 months to complete. Usually classes are held on the weekends and the work requires group projects and meetings. The EMBA is considered very prestigious; ranking and reputation of the school definitely matter.</Script>
+        <soundFile>324f14c1-8fda-4c7a-b9f8-01247fa6573c</soundFile>
+        <Questions Count="3">
+          <question id="0">
+            <choices>
+              <choice id="A">Small cars are easy to park quickly.</choice>
+              <choice id="B">Small cars are cheaper than big cars.</choice>
+              <choice id="C">Small cars are convenient on long trips.</choice>
+              <choice id="D">Small cars need smaller parking spaces.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>According to the passage, what is NOT true about small cars?</Script>
+            <Sound duration="6">03587D6860F7754AB9E4DC6AC4701294</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">Why Small Cars Are Popular.</choice>
+              <choice id="B">The Advantages of Small Cars.</choice>
+              <choice id="C">The Differences Between Big and Small Cars.</choice>
+              <choice id="D">The Advantages and Disadvantages of Small Cars.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What's the title of the passage?</Script>
+            <Sound duration="4">FE1B9A7689300C4E8FE4A0B0C2C333EF</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">They are cheap to buy.</choice>
+              <choice id="B">They cost less to park.</choice>
+              <choice id="C">They consume less energy.</choice>
+              <choice id="D">They are cheaper to repair.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>The speaker said small cars are economical. Which of the following is NOT mentioned as a reason?</Script>
+            <Sound duration="7">32CA27861A325B42ADE10DFF1F6DA86F</Sound>
+          </question>
+        </Questions>
+        <Script>The convenience and economy of small cars account for their popularity. They are easy to park quickly and take smaller parking spaces. Small cars are also a means of conserving energy because they use less gas than big cars. Small cars are inconvenient and uncomfortable on long trips. However, because of their limited passenger and trunk space, they are also more economical to operate and maintain. And they cost less. Because of all these advantages, the next car I buy is going to be an Econo-Midget.</Script>
+        <soundFile>9e280922-7197-4dd0-852c-02081b92b6f2</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">Dog.</choice>
+              <choice id="B">Cat.</choice>
+              <choice id="C">Fox.</choice>
+              <choice id="D">Rabbit.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which animal carries the highest risk of rabies?</Script>
+            <Sound duration="5">667A0B0759DBAF4A9D6A8BD458CFA17E</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">The bite by wild animals like bats and foxes.</choice>
+              <choice id="B">The bite by domestic animals like cats or dogs.</choice>
+              <choice id="C">The bite which is not deep into the flesh.</choice>
+              <choice id="D">The bite which barely breaks the skin and there's no danger of rabies (狂犬病).</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What kind of bite can cause you a minor wound?</Script>
+            <Sound duration="5">15FD31DCB0959846A2CD9CED7DB30A2B</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Press the wound with a clean, dry cloth to stop the bleeding and then go to see the doctor.</choice>
+              <choice id="B">Use an antibiotic cream to prevent infection and cover the bite with a clean bandage.</choice>
+              <choice id="C">Wash the wound thoroughly with soap and water and then go to see the doctor.</choice>
+              <choice id="D">Wash the wound with soap and water at once and cover the bite with a clean bandage before going to see the doctor.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What should people do with a deep wound?</Script>
+            <Sound duration="5">CF8CE9B4BCA02443AD592146F947C3D6</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Swelling.</choice>
+              <choice id="B">Redness.</choice>
+              <choice id="C">Pain.</choice>
+              <choice id="D">Oozing.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which is NOT a notable sign of inflection?</Script>
+            <Sound duration="4">8870115DE0F98D4DB265A8F1908AFB0A</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">Every 10 years.</choice>
+              <choice id="B">Immediately after the injury.</choice>
+              <choice id="C">Every 5 years.</choice>
+              <choice id="D">Within 48 hours of injury.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>When should you have a booster of tetanus shot if doctor recommends so?</Script>
+            <Sound duration="7">6AFD892F792B7F4CAB5AE0C51E4FE33E</Sound>
+          </question>
+        </Questions>
+        <Script>Domestic pets cause most animal bites. Dogs are more likely to bite than cats. Cat bites, however, are more likely to cause infection. Bites from nonimmunized domestic animals and wild animals carry the risk of rabies. Rabies is more common in raccoons, skunks, bats and foxes than in cats and dogs. Rabbits, squirrels and other rodents rarely carry rabies. If an animal bites you or your child, follow these guidelines:
+&lt;b&gt;For minor wounds.&lt;/b&gt; If the bite barely breaks the skin and there is no danger of rabies, treat it as a minor wound. Wash the wound thoroughly with soap and water. Apply an antibiotic cream to prevent infection and cover the bite with a clean bandage. 
+&lt;b&gt;For deep wounds.&lt;/b&gt; If the animal bite creates a deep puncture of the skin or the skin is badly torn and bleeding, apply pressure with a clean, dry cloth to stop the bleeding and see your doctor. 
+&lt;b&gt;For infection.&lt;/b&gt; If you notice signs of infection such as swelling, redness, increased pain or oozing, see your doctor immediately. 
+&lt;b&gt;For suspected rabies.&lt;/b&gt; If you suspect the bite was caused by an animal that might carry rabies - any bite from a wild or domestic animal of unknown immunization status - see your doctor immediately. Doctors recommend getting a tetanus shot every 10 years. If your last one was more than five years ago and your wound is deep or dirty, your doctor may recommend a booster. You should have the booster within 48 hours of the injury.</Script>
+        <soundFile>2af0362f-d167-4f9e-9695-02801e70d9b6</soundFile>
+        <Questions Count="5">
+          <question id="0">
+            <choices>
+              <choice id="A">They produce heat in its body cells.</choice>
+              <choice id="B">They burn fuel to produce heat.</choice>
+              <choice id="C">They give off heat through their skin.</choice>
+              <choice id="D">They give off heat through their fat.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why is every animal a living radiator according to the passage?</Script>
+            <Sound duration="6">70208B620E70F84993DB7ECD384DC7B9</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">By regulating the amount of heat produced.</choice>
+              <choice id="B">By regulating the amount of heat given off.</choice>
+              <choice id="C">By keeping a very firm and sound fur for resisting cold.</choice>
+              <choice id="D">By constantly replacing lost surface heat. </choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How do warm-blooded animals maintain a steady temperature?</Script>
+            <Sound duration="5">BA21B29513C7C8499AE33952CF3ED63F</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">They have more skin for every ounce of body weight.</choice>
+              <choice id="B">They burn fuel faster.</choice>
+              <choice id="C">They burn fuel slower.</choice>
+              <choice id="D">They maintain a higher body temperature.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why do some small animals live faster than big ones?</Script>
+            <Sound duration="6">57E206C7CA3620438512385F5860D04A</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">The amount of food it eats.</choice>
+              <choice id="B">Its body temperature.</choice>
+              <choice id="C">The rate at which it uses oxygen.</choice>
+              <choice id="D">The energy in the food it takes every day.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is measured to determine the speed at which animal lives?</Script>
+            <Sound duration="6">3B0A3092A1D67A42A1A3D7B3E86A1F86</Sound>
+          </question>
+          <question id="4">
+            <choices>
+              <choice id="A">Its body weight.</choice>
+              <choice id="B">The food it eats.</choice>
+              <choice id="C">Its general size and shape.</choice>
+              <choice id="D">Its blood.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What determines the amount of oxygen an animal uses?</Script>
+            <Sound duration="5">83D1D968AA227746952A36FEF28026F9</Sound>
+          </question>
+        </Questions>
+        <Script>Every animal is a living radiator --- heat formed in its cells is given off through its skin. Warm-blooded animals maintain a temperature by constantly replacing lost surface heat; smaller animals, which have more skin for every ounce of body weight, must produce heat faster than bigger ones. Because smaller animals burn fuel faster, scientists say they live faster. 
+
+The speed at which an animal lives is determined by measuring the rate at which it uses oxygen. A chicken, for example, uses one-half cubic centimeter of oxygen every hour for each gram it weighs. The tiny shrew uses four cubic centimeters of oxygen every hour for each gram it weighs. Because it uses oxygen eight times as fast, it is said that the mouselike shrew is living eight times as fast as the chicken. The smallest of the warm-blooded creatures, the humming-bird, lives a hundred times as fast as an elephant. 
+
+There is limit to how small a warm-blooded animal can be. A mammal or bird that weighed only two and a half grams would starve to death. It would burn up its food too rapidly and would not be able to eat fast enough to supply more fuel.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="138bda08-ce2e-4cb6-8ce3-00fc45dd8855" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="175" Course="" Unit="" />
+      <AssessmentItem ItemID="324f14c1-8fda-4c7a-b9f8-01247fa6573c" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="3" ReplyTime="3" Diffcult="0" QustionInterval="48" Course="" Unit="" />
+      <AssessmentItem ItemID="9e280922-7197-4dd0-852c-02081b92b6f2" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="145" Course="" Unit="" />
+      <AssessmentItem ItemID="2af0362f-d167-4f9e-9695-02801e70d9b6" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="5" ReplyTime="5" Diffcult="0" QustionInterval="100" Course="" Unit="" />
+    </Section>
+  </Part>
+</Paper>

@@ -1,0 +1,1281 @@
+<?xml version="1.0"?>
+<Paper UserID="151" UpdateUserID="151" PaperID="0038bb2d-5f60-46d5-be87-fab50ca4dff4" totalScore="142" totalTime="81" name="5435324" resultTime="0" bShowAns="1" Diffcult="11" Type="按题型组卷">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="50" Time="50">
+      <AssessmentItem ItemID="144c4775-8d03-486d-a872-00a7071fcb66" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="">
+        <Content>&lt;b&gt;Rushmoore National Monument&lt;/b&gt;&lt;br/&gt;        The well-known Rushmoore National Monument in the United States is erected （使竖立） on the Rushmoore Peak, 1829 meters above sea level, of the Black Hills in the south — west of South Dakota. It is a group of huge stone statues of four American presidents, George Washington, Thomas Jefferson, Abraham Licoln and Theodore Roosevelt. President Washington is the founding father of the country; the 3rd President Jefferson drafted the U．S．Declaration of Independence; the 16th President Lincoln issued the Emancipation Proclamation （独立宣言） and the 26th President Roosevelt protected the average people's right to compete fairly with trusts. All the four presidents made outstanding achievements for their country. They were pioneers of U.S. history.&lt;br/&gt;        The stone statues of presidents were built at the suggestion of an historian in the State of Dakota, with a view to carrying forward the U.S. pioneering spirit everlastingly. The famed artist Gutzon Borglum, a naturalized Danish-American, made the design and was in charge of the project of historic significance. It was the 30th President Calvin Coolidge who announced in 1927 the start of the stone work. But before the work done, the sculptor passed away when he was 73 years of age. He was then succeeded by his son, and it was not until 1941 that the National Monument was put up.&lt;br/&gt;        As the stone statues were rather enormous, technology of directional blasting was resorted to in the main. Explosives were used to blow up the peak into models first, and then the stonemasons carved them into statues with tools. The broken stones weighed about four hundred fifty thousand tons in total. This project was the fruit of arduous （辛勤的） work done by a contingent of 360 odd masons （石工） in as long as 14 years. A sum of one million dollar was expended.&lt;br/&gt;        The statues are 18 meters high. They are the highest and greatest realistic stone statues in the world, taller than a 6-storied building and larger than the Great Sphinx of Egypt. The size of each head is 20 sq mt, with a 20-meter long face, a 7-meter long nose, a 2.6-meter wide mouth and two 1.5-meter wide eyes. Though not facing the same direction, they are all lifelike and look ahead gravely in harmony with fixed gazes. On clear days,one can have a sight of the four presidents with their firm and steady expression at a distance of dozens of kilometers. &lt;br/&gt;        Since the stone sculpture is unique in style, the Monument is now the U．S．National Art Centre of Popular Education. Groups of people keep streaming everyday to the site for a visit and tourists across the world are also interested in taking a view of this colossal （庞大的） Monument.</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>This passage is about the well-known Rushmoore National Monument in Russia.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Rushmoore National Monument is located in west of South Dakota．</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Rushmoore National Monument is a group of huge stone statues of five American presidents．</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>President Washington is the founding father of the U.S.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>The Declaration of Independence was drafted by the 3rd President of the U.S.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>Lincoln is a thin man with much determination.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>The stone statues of presidents were built at the suggestion of an economist．</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>The statues of Rushmoore National Monument are  ____ meters high．</Prompt>
+            <Answer>
+              <Value>18</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>It was the 30th President ____  who announced in 1927 the start of the stone work．</Prompt>
+            <Answer>
+              <Value>Calvin Coolidge</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>On____ days,one can have a sight of the four presidents with their firm and steady expression at a distance of dozens of kilometers．</Prompt>
+            <Answer>
+              <Value>clear</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>&lt;b&gt;From Trash to Treasure&lt;/b&gt; &lt;br/&gt;        Early on a Saturday morning, much of the world remains in bed, enjoying an extra hour or two of sleep. But a few Americans are up and preparing for the hunt. Armed with the newspaper yard-sale listings, they plan to be the first to arrive at the sales. What are these yard-sale shoppers hunting for? Secondhand treasures, of course!&lt;br/&gt;        Yard-sale shoppers aren't the only people who like used goods. From Australia to U.S.A., Westerners love to buy other people's stuff. Even the wealthy willingly search through used goods looking for a unique treasure.&lt;br/&gt;        Some people buy used goods simply to save money. Others hunt through them hoping to find a valuable antique. Still others look for items to add to their collections. &lt;br/&gt;        Some items remind people of childhood. A flour tin from the 1940s may bring back memories of Mom's homemade cookies. A copy of a favorite children's book can remind someone of bedtime stories with Dad. &lt;br/&gt;        True antique must be at least 100 years old. But any item that is no longer made can be a collectible and some hold great value.&lt;br/&gt;        &lt;br/&gt;&lt;b&gt;How Old is Old?&lt;/b&gt;&lt;br/&gt;        For those in Asia, where 5,000-year-old vases sit in museums, Western antiques don't seem too old. But for Americans, items even a few decades old have value. An ice-cream maker from the 1920s could be worth US$50. A sign from World War I could sell for US$4,000 or more. &lt;br/&gt;        Some who collect want to make money and become antique dealers. They carefully look over items for any flaws （瑕疵） that would lower the item's value. They take classes and read books to learn which items will increase in value or are desirable to collectors. &lt;br/&gt;        Others simply buy whatever catches their fancy. If people enjoy rock 'n' roll music, they might collect old records. A tea drinker may collect antique teacups. Those not looking to make money suggest, "Don't buy it unless it's useful."&lt;br/&gt;        The trick is finding new ways to use old items. For example, an old-fashioned clothes iron may be used as a bookend. An old children's toy wagon could display books or teddy bears in a guest room. An antique quilt could be hung on the wall for display. &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;Where to Find Collectibles&lt;/b&gt; &lt;br/&gt;        Secondhand goods can be found in all sorts of places. Saturday morning yard sales are just the beginning. Flea markets are another hot spot for collectibles. You won't find bugs, but you may find yard tools, arts and crafts, and furniture.&lt;br/&gt;        Shopping at a flea market for the first time can be overwhelming. Tables piled high with junk fill large rooms or outdoor markets. And you have to look through it all yourself to find anything worth taking home. For antique lovers, however, finding just the right treasure makes all that looking worthwhile. &lt;br/&gt;        More valuable pieces are typically found in antique auctions. You can find them in cities or online. In today's world of technology, someone in California can buy a mirror from a shop in Maine without leaving home. &lt;br/&gt;        You don't have to spend money to enjoy secondhand shopping. An afternoon wandering antique shops and flea markets can be a mini history lesson. Old movie posters may catch your eye, or an old piano. Each piece brings the past to life. You never knew what treasures you're going to find in someone else's trash.</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>Only those poor people go to yard sales to hunt for used goods.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Yard sales have a long history in Western countries.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Flaws in an antique do not affect its value if it is old enough.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>Compared to western antiques, those in Asia are much older.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>It is always a pleasant experience to shop at flea markets.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>Shopping at a flea market, one should have a keen eye for the item worth collecting.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>Used goods or antiques can also be purchased online.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>Yard sales usually take place on ____ .</Prompt>
+            <Answer>
+              <Value>Saturday mornings</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>True antique must be at least ____ .</Prompt>
+            <Answer>
+              <Value>100 years old</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>Secondhand goods can be found in such places as yard sales, flea markets and ____ .</Prompt>
+            <Answer>
+              <Value>antique auctions</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>&lt;b&gt;Brainstorming in Three Easy Steps&lt;/b&gt;&lt;br/&gt;        Sometimes, it's the easiest writing assignments that send us for a loop. Coming up with something to write about can often be harder than the actual writing. Luckily, there is an easy solution to that-brainstorming. Brainstorming comes in many different forms. Choosing the right method of brainstorming is a fun and easy task! &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;1. Freewriting&lt;/b&gt; &lt;br/&gt;        Freewriting is the easiest form of brainstorming. The method is very simple: write! Freewriting is most often a timed exercise. The best way to freewrite is to choose your method of writing (either on the computer or with pen and paper) and simply write whatever comes to mind for approximately five minutes. Don't worry about spelling, grammar or clarity-none of those issues matter in freewriting. Keeping your words flowing is the most important part. Even if you have to write, "I can't think of anything to write," you're still doing the exercise correctly. What's great about freewriting is that it allows ideas that might be buried to come to the surface. Sometimes you have several possible topics in your head but nerves or fear keep them buried. Freewriting takes away any stumbling blocks and leaves you with only words. You'll be amazed at how many potential topics you come up with! &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;2. Clustering&lt;/b&gt; &lt;br/&gt;        The clustering method works best when you have a general idea of a topic you're interested in writing about but that seems to be a bit too broad. For example, if you wanted to write about education, you would need to pick a more specified topic. Clustering works by allowing your mind to make connections visually. To brainstorm using the clustering method, simply write your broad topic in the middle of a sheet of paper and circle it. Then, create subtopics by drawing lines from your main topic to your new point, which you have also circled. As you find more subtopics, create new lines and circles. You'll also want to create subtopics for your subtopics. Creating this web of ideas will help you narrow your focus and also find new topics that you weren't aware of. &lt;br/&gt;        &lt;br/&gt;&lt;b&gt;3. Question Method&lt;/b&gt; &lt;br/&gt;        My favorite form of brainstorming comes a little later in the writing process. Once you have chosen a topic to write about, it is important to get feedback. Sometimes a chosen topic is good but could be more precise. The best way to get feedback is to create a question group. To do this, you should form a group of several people. Each person should write his or her topic down on the top of a sheet of paper. Once this is completed, pass around the sheets of paper with topics. Each time you receive a topic sheet, ask a question about that topic that hasn't been asked yet. This will require you to think about new topics you haven't seen, but it will also give the writer new ideas to consider about the topic. I've used this method several times in English courses and always had great success. &lt;br/&gt;        As you can see, brainstorming doesn't need to be a complicated process. Take advantage of the ease of brainstorming and also the fun you can have with it! You'll have better topics to write about and more exciting ideas to focus on!</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>The article mainly discusses about the three forms of brainstorming.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>The best way to freewrite is to simply write whatever comes to mind for about half an hour.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>When you don't have a chosen topic, freewriting is an effective way for you to come up with topics to write.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>In freewriting, you should try to make sure about spelling, grammar and clarity.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>The clustering method can help you create subtopics under a general topic so that you can narrow your focus of writing.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>The question method requires cooperation of other people.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>The writer's favorite forms of brainstorming are freewriting and clustering.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>&lt;tag type="text" /&gt;  is the most important part in freewriting.</Prompt>
+            <Answer>
+              <Value>Keeping your words flowing</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>When you have a general idea of a topic you're interested in writing about but that seems to be a bit too broad, the ____  method works best.</Prompt>
+            <Answer>
+              <Value>clustering</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>In the question method, ____  will not only require you to think about new topics you haven't seen, but also give the writer new ideas to consider about the topic.</Prompt>
+            <Answer>
+              <Value>asking a question about a topic that hasn't been asked</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>&lt;b&gt;Family&lt;/b&gt;&lt;br/&gt;        "Please pass the turkey and dressing." What does this simple request make you think about? If you are an American, you think about Thanksgiving. A turkey dinner symbolizes Thanksgiving for Americans. What does Thanksgiving remind Americans of? Their families. Thanksgiving is a family time. On this holiday, families gather to gobble up the gobbler and stuff themselves with stuffing. Family members enjoy watching parades and football games on TV and just being together. What does "family" mean to Americans? &lt;br/&gt;        The traditional American family is a "nuclear family." A nuclear family refers to a husband and wife and their children. The average American family today has two or three children (and maybe a few pets). In some cultures, people live close to their extended family. Several generations may even live together. In America, only in a few cases does more than one household live under one roof. &lt;br/&gt;        American values receive a warm welcome in the home. Many homes are run like a democracy. Each family member can have a say. A sense of equality often exists in American homes. Instead of fearing Mom and Dad, children may think of them as good friends. Husbands and wives often share household chores. In many cases, a child can enjoy privacy in his or her own bedroom. From an early age, children gain responsibility in handling money. They may receive a weekly allowance or even work part-time jobs. Often parents give children freedom to make their own decisions. Preschoolers choose what clothes to wear or which toys to buy. Young adults generally make their own choices about what career to pursue and whom to marry. &lt;br/&gt;        Families in America, like those in every culture, face many problems. Social pressures are breaking apart more and more American homes. Over half of U.S. marriages now end in divorce. More than one in four American children are growing up in single-parent homes. As a result, many people believe the American family is in trouble. &lt;br/&gt;        Even so, there is still reason for hope. Many organizations are working hard to strengthen families. Americans almost unanimously believe that the family is one of the most important parts of life. The vast majority also feel that the traditional two-parent family is best for children. They realize that problems in family life in recent years have brought about serious consequences. As a result, more and more people are making their family a priority. &lt;br/&gt;        Many women are quitting their jobs to stay home with their children. Families are going on vacations and outings together. Husbands and wives are making a concentrated effort to keep their marriages solid. &lt;br/&gt;        The United Nations has declared 1994 the "International Year of the Family". Not just in America, but all over the world, people recognize the importance of strong families. How do you strengthen the family bond? Do special things for each other. Talk to each other. Play together. Spend time together. Oh, and one more thing: be thankful for each other. If you have a family, every day should be Thanksgiving.</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>Americans have a turkey dinner on Thanksgiving day.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>On Thanksgiving day, American family members enjoy watching parades and football games on TV and just being together.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>The traditional American family is a family including a husband and wife and their children.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>In Korea, people live close to their extended family.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>A sense of equality often exists in American homes. Each family member can have a say.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>Over half of U.S. marriages now end in divorce.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>Americans almost unanimously believe that the family is NOT one of the most important parts of life.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>Thanksgiving is a family time. It reminds Americans of their____ .</Prompt>
+            <Answer>
+              <Value>families</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>The average American family today has two or three____ .</Prompt>
+            <Answer>
+              <Value>children</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>The United Nations has declared 1994 the "International Year of the____ " all over the world.</Prompt>
+            <Answer>
+              <Value>Family</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>&lt;b&gt;Packaging: the Insane Waste of Making Things to Be Thrown away&lt;/b&gt; &lt;br/&gt;        To get a chocolate out of a box requires a considerable amount of unpacking: the box has to be taken out of the paper bag in which it arrived; the cellophane （玻璃纸） wrapper has to be taken off, the lid opened and the paper removed; the chocolate itself then has to be unwrapped from its own piece of paper. But this insane amount of wrapping is not confined to luxuries. It is now becoming increasingly difficult to buy anything that is not done up in cellophane, polythene （聚乙烯）, or paper.&lt;br/&gt;        The package itself is of no interest to the shopper, who usually throws it away immediately. Useless wrapping accounts for much of the refuse put out by the average London household each week. So why is it done? Some of it, like the cellophane on meat, is necessary, but most of the rest is simply competitive selling. This is absurd. Packaging is using up scarce energy and resource and messing up the environment.&lt;br/&gt;        Little research is being carried out on the costs of alternative types of packaging. Just how possible is it, for instance, for local authorities to salvage （救助） paper, pulp （使化为纸浆） it, and recycle it as egg-boxes? Would it be cheaper to plant another forest? Paper is the material most used for packaging-20 million paper bags are apparently used in Great Britain each day-but very little is salvaged. &lt;br/&gt;        A machine has been developed that pulps paper then processes it into packaging, e.g. egg-boxes and cartons. This could be easily adapted for local authority use. It would mean that people would have to separate their refuse into paper and non-paper, with different dustbin for each. Paper is, in fact, probably the material that can be most easily recycled; and now, with massive increases in paper prices, the time has come at which collection by local authorities could be profitable. &lt;br/&gt;        Recycling of this kind is already happening with milk bottles, which are returned to the dairies, washed out, and refilled. But both glass and paper are being threatened by the growing use of plastic. More and more dairies are experimenting with plastic bottles, and it has been estimated that if all the milk bottles necessary were made of plastic, then British dairies would be producing the equivalent of enough plastic tubing to encircle the earth every five or six days! &lt;br/&gt;        The trouble with plastic is that it does not rot. Some environmentalists argue that the only solution to the problem of ever growing mounds of plastic containers is to do away with plastic altogether in the shops, a suggestion unacceptable to many manufacturers who say there is no alternative to their handy plastic packs. &lt;br/&gt;        It is evident that more research is needed into the recovery and re-use of various materials and into the cost of collecting and recycling containers as opposed to producing new ones. Unnecessary packaging, intended to be used just once, and making things look better so more people will buy them is clearly becoming increasingly absurd. But it is not so much a question of doing away with packaging as using it sensibly. What is needed now is a more sophisticated approach to using scarce resources for what is, after all, a relatively unimportant function.</Content>
+        <Questions Count="10">
+          <question id="0">
+            <prompt>Excessive wrapping has become a problem for both luxuries and ordinary goods.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Wrapping is not necessary at all.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Manufacturers believe that products in nice packages look better and sell better.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>Plastic is the material most used for packaging.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <prompt>The cost of recycling the packaging materials is underestimated.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <prompt>Some environmentalists are against the use of plastics.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <prompt>To solve the environmental problem, we should do away with packaging all together.</prompt>
+            <choices>
+              <choice id="A">Y</choice>
+              <choice id="B">N</choice>
+              <choice id="C">NG</choice>
+              <choice id="D">
+              </choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Prompt>The material that can be most easily recycled is ____ .</Prompt>
+            <Answer>
+              <Value>paper</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Prompt>In Britain, glass milk bottles being replaced by ____ .</Prompt>
+            <Answer>
+              <Value>plastic bottles</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Prompt>The problem with plastic is that ____ .</Prompt>
+            <Answer>
+              <Value>it does not rot</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="c2fd6daa-f64c-4be9-8e0f-018a29a56632" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="" />
+      <AssessmentItem ItemID="286bbfe7-fedd-4dd1-a8cf-0295766ebfc8" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="" />
+      <AssessmentItem ItemID="1baf3902-c9b5-4868-a8ab-052e4c315e73" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="" />
+      <AssessmentItem ItemID="186d6637-e8e2-4161-9259-067a874cf0f5" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="" />
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="3" Time="3">
+      <AssessmentItem ItemID="710284e8-0f8d-4708-89a2-002c20711065" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="">
+        <soundFile>710284e8-0f8d-4708-89a2-002c20711065</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">In a repair shop.</choice>
+              <choice id="B">In a restaurant.</choice>
+              <choice id="C">In a store.</choice>
+              <choice id="D">At a ticket window.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: I'm sorry. But we haven't got any in stock. Could you come for it next week?
+M: Yes. I can wait.
+Q: Where does this conversation most probably take place?</Script>
+        <soundFile>644e31c1-5001-449a-a1f8-0045a6a00c99</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">He has to go to another meeting first.</choice>
+              <choice id="B">He won't want to speak at the meeting.</choice>
+              <choice id="C">He might get lost in the crowd.</choice>
+              <choice id="D">He doesn't like to go places.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M: Jeff has a lot of good ideas. Do you think he will be willing to come to this meeting?
+W: Oh, I think he'd be glad to come, but it'll be difficult to get him to speak before a large crowd.
+Q: What does the woman imply about Jeff?</Script>
+        <soundFile>82a704d1-c440-421c-ae24-0080f45f3804</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">His native language is French.</choice>
+              <choice id="B">His native language is English.</choice>
+              <choice id="C">His native language is German.</choice>
+              <choice id="D">His native language is Spanish.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>W: Although Doug is an American, he's lived in Europe most of his life. 
+M: How many languages can he speak?
+W: He speaks French, Spanish, German as well as English.
+Q: What can be inferred about Doug?
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="644e31c1-5001-449a-a1f8-0045a6a00c99" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="14" Course="" Unit="" />
+      <AssessmentItem ItemID="82a704d1-c440-421c-ae24-0080f45f3804" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="18" Course="" Unit="" />
+    </Section>
+    <Section type="3" typecn="长对话听力" questioninterval="0" Score="8" Time="8">
+      <AssessmentItem ItemID="eb7d1f29-4838-41ab-9717-004f7a4ee510" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="65" Course="" Unit="">
+        <soundFile>eb7d1f29-4838-41ab-9717-004f7a4ee510</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">He has put off doing her science requirement for three years.</choice>
+              <choice id="B">He has got to take a science course.</choice>
+              <choice id="C">He has no idea which science course to take.</choice>
+              <choice id="D">He doesn't want to take a science course.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What's the man's problem?</Script>
+            <Sound duration="3">C7D547DFDB773C41B3E7617118BA7187</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">2.</choice>
+              <choice id="B">3.</choice>
+              <choice id="C">4.</choice>
+              <choice id="D">5.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How many science courses does the woman take?</Script>
+            <Sound duration="4">6A3CBF74A2396B4A974590A03C7DABD9</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Biology.</choice>
+              <choice id="B">Maths.</choice>
+              <choice id="C">Medicine.</choice>
+              <choice id="D">Chemistry.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the woman major in?</Script>
+            <Sound duration="3">229462108A18FC4F9DE39C2386FE4588</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Maths.</choice>
+              <choice id="B">Physics.</choice>
+              <choice id="C">Astronomy.</choice>
+              <choice id="D">Geology.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Which of the following science courses will the man take?</Script>
+            <Sound duration="4">C18290EF7C18E1479899BE9ACCD7E7F7</Sound>
+          </question>
+        </Questions>
+        <Script>M: Could I have your advice?
+W: What about, David?
+M: Well, I've put off doing my science requirement for three years.
+W: And if you want to graduate this year, you've got to take a science course.
+M: Right. I suppose since you are doing pre-medical, you know about the different courses.
+W: Well, I have to take biology, chemistry, maths and physics. What you need is a good introductory course for non-science majors.
+M: Yeah, I'm really weak in math. I did poorly in it in high school.
+W: Then you'd better avoid chemistry and physics. How about astronomy? Everybody says Dr. Hanson is great. I'd take that course myself if I had the time.
+M: That's what I thought I'd take. But it meets at the same time with my modern music course.
+W: Geology is pretty interesting, then.
+M: That's a good idea. It even fits in with my hobby of mountain climbing. Thanks a lot!</Script>
+        <soundFile>ba6e552c-67dd-4275-bc35-015615d34248</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">She is busy at work.</choice>
+              <choice id="B">She had to run some errands.</choice>
+              <choice id="C">She is resting in bed.</choice>
+              <choice id="D">She is not at home.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What does the conversation imply about the mother?</Script>
+            <Sound duration="5">39D5793B19540047AB39B27ACF79EFB2</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">He is not following the recipe.</choice>
+              <choice id="B">He is missing the right pan to cook the pizza.</choice>
+              <choice id="C">He is using the directions for a different food.</choice>
+              <choice id="D">He puts too much salt in the food.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What is the first problem the girl notices about her father's cooking?</Script>
+            <Sound duration="6">876FF0068FFB6540B35254F5579E9615</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">He tells her honestly what he thinks about it.</choice>
+              <choice id="B">She can tell by his non-verbal expressions.</choice>
+              <choice id="C">He throws it away after making it.</choice>
+              <choice id="D">He didn't say anything.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How does the girl know her father doesn't like the pizza he prepared?</Script>
+            <Sound duration="6">65711BA9EB68A84BABB44216F835AE7D</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">They decide to go out to eat.</choice>
+              <choice id="B">They eat something different at home.</choice>
+              <choice id="C">They eat at friend's house.</choice>
+              <choice id="D">They decide to call for some takeaway food.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What do they end up doing for lunch?</Script>
+            <Sound duration="5">03B1C4B79ECDA9449AC753EC531F3503</Sound>
+          </question>
+        </Questions>
+        <Script>M: Time to eat!
+W: Coming. Oh, I'm starving.
+M: Good, good.
+W: Oh yuck! What's that?
+M: Ah, now don't complain!
+W: But what is it, and where is mom?
+M: Now, mom put me in charge of dinner because she's not feeling well tonight.
+W: But what is it . . . and that smell!
+M: It's pizza. I just followed an old family recipe here, and . . .
+W: Let me see that . . . Oh, Dad.
+M: What?
+W: You're missing a page!
+M: Oh, uh, well, I couldn't find the second page of the recipe, but don't worry. I have plenty of experience around the house. Plenty of experience cooking.
+W: That's not what mom says.
+M: Well, wait, wait, here let me try a piece first. Here, let me, let me cool this off here. Ohhh, yeah. Oh, this is great stuff.
+W: Yeah right. Why are you making that face?
+M: Well, well, it's just, just a little rich for me. That's all.
+W: Let me try it Dad. Uh. Dad. You put a little too much salt in it and besides it's burned. And what's that?
+M: Oh, well, well, that's just part of my own adaptation to the recipe. I added some pumpkin.
+W: Oh, not another one of your surprises. Pumpkin doesn't go on pizza!
+M: Well, okay, well, so what? Uh, what do we do now?
+W: Well, how about some cold cereal . . . You can't mess up on that, Dad.</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="ba6e552c-67dd-4275-bc35-015615d34248" PartType="2" ItemType="3" ItemType_CN="长对话听力" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="108" Course="" Unit="" />
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="81" Time="20">
+      <AssessmentItem ItemID="11c9e76e-97c7-4fb5-9945-004832a57dae" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="71" ReplyTime="10" Diffcult="0" QustionInterval="1" Course="" Unit="">
+        <Content>&lt;p&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; Learning to play a musical instrument can change your brain, with a US review finding music training can lead to improved speech and foreign language skills.&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; Although it has been suggested in the past that listening to Mozart or other (_1_)&amp;nbsp; music could make you smarter, there has been little evidence to show that music (_2_)&amp;nbsp; brain power.&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; But a data-driven review by Northwestern University has pulled together research that links musical training to learning that (_3_) into skills including language, speech, memory, attention and even vocal emotion.&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; Researcher Nina Kraus said the data (_4_) suggested that the neural connections made during musical training also primed the brain for other aspects of human communication.&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;ldquo;The effect of music training suggests that, similar to physical exercise and its (_5_) on body fitness, music is a resource that tones the brain for auditory fitness and thus requires society to re-examine the role of music in shaping (_6_) development,&amp;rdquo; the researchers said in their study.&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; Kraus said learning musical sounds could (_7_) the brain&amp;rsquo;s ability to adapt and change and also enable the nervous system to provide supporting (_8_) that are important to learning.&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The study, published in Nature Reviews Neuroscience, looked at the explosion of research in recent years (_9_) the effects of music training on the nervous system which could have strong implications for education.&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; The study found that playing an instrument prepares the brain to choose what&amp;nbsp; is&amp;nbsp; relevant in a complex process that may involve reading or remembering a score, timing issues and (_10_) other musicians.&lt;/p&gt;
+</Content>
+        <SoundFile>11c9e76e-97c7-4fb5-9945-004832a57dae</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>classical</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>boots</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>spills over</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>strongly</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>impact</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>individual</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>enhance</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>patterns</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>focusing on</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>coordination with</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Content>        In many English houses people eat (_1_) a day: breakfast, lunch, tea and dinner. Breakfast (_2_) at any time (_3_). It consists of porridge, bacon, eggs, and toast of (_4_) with jam. English people drink tea or coffee at breakfast.
+        Lunch comes at (_5_). It can range from a ham sandwich to a three-course meal. Afternoon tea is between 4 and 5 and dinner is (_6_). The first course is soup. The next course generally consists of meat or fish with vegetable. Then comes some (_7_) dessert, either (_8_) of various kinds: apples, pears, bananas, etc. But (_9_) English people eat like that. Some of them have their dinner (_10_) the day. Their meals are breakfast, dinner, tea and supper and all these meals are very simple.</Content>
+        <SoundFile>6654b0f7-eb00-443d-8775-007b80586c26</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>four meals</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>takes place</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>from 7 to 9</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>bread and butter</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>one o'clock</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>about half past seven</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>sort of</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>pudding or fruit</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>not all</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>in the middle of</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="6654b0f7-eb00-443d-8775-007b80586c26" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="257" Course="" Unit="" />
+    </Section>
+  </Part>
+</Paper>

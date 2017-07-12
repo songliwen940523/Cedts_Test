@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<AssessmentItem ItemID="7998b33d-fa00-4692-bf21-8a171899b334" PartType="3" ItemType="12" ItemType_CN="信息匹配" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" Course="" Unit="">
+  <Content>&lt;p&gt;
+	As war spreads to many corners of the globe, children sadly have been drawn into the center of conflicts. In Afghanistan, Bosnia, and Colombia, however, groups of children have been taking part in peace education&amp;amp;amp;nbsp;(_1_) . The children, after learning to resolve conflicts, took on the&amp;amp;amp;nbsp;(_2_) of peacemakers. The Children&amp;amp;amp;rsquo;s Movement for Peace in Colombia was even nominated (提名) for the Nobel Peace Prize in 1998. groups of children&amp;amp;amp;nbsp;(_3_) as peacemakers studied human rights and poverty issues in Colombia, eventually forming a group with five other schools in Bogota known as The Schools of Peace.&amp;amp;lt;br /&amp;amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;amp;lt;br /&amp;amp;gt;&lt;br /&gt;
+	&amp;nbsp;　　The classroom&amp;amp;amp;nbsp; (_4_)opportunities for children to replace angry, violent behaviors with&amp;amp;amp;nbsp; (_5_), peaceful ones. It is in the classroom that caring and respect for each person empowers children to take a step&amp;amp;amp;nbsp;&amp;amp;amp;nbsp;(_6_) toward becoming peacemakers. Fortunately, educators have access to many online resources that are&amp;amp;amp;nbsp;(_7_) useful when helping children along the path to peace. The Young Peacemakers Club, started in 1992, provides a Website with resources for teachers and&amp;amp;amp;nbsp; (_8_)on starting a Kindness Campaign. The World Centers of Compassion for Children International call attention to children&amp;amp;amp;rsquo;s rights and how to help the&amp;amp;amp;nbsp;(_9_) of war. Starting a Peacemakers&amp;amp;amp;rsquo; Club is a praiseworthy venture for a class and one that could spread to other classrooms and ideally affect the culture of the&amp;amp;amp;nbsp;(_10_) school.&lt;/p&gt;
+</Content>
+  <WordList>
+    <Word id="A0">A</Word>
+    <Word id="A1">B</Word>
+    <Word id="A2">C</Word>
+    <Word id="A3">D</Word>
+    <Word id="A4">E</Word>
+    <Word id="A5">F</Word>
+    <Word id="A6">G</Word>
+    <Word id="A7">H</Word>
+    <Word id="A8">I</Word>
+    <Word id="A9">J</Word>
+    <Word id="A10">K</Word>
+    <Word id="A11">L</Word>
+    <Word id="A12">M</Word>
+    <Word id="A13">N</Word>
+    <Word id="A14">O</Word>
+  </WordList>
+  <Questions Count="10">
+    <question id="0">
+      <Answer>
+        <Value>A</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="1">
+      <Answer>
+        <Value>B</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="2">
+      <Answer>
+        <Value>C</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="3">
+      <Answer>
+        <Value>D</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="4">
+      <Answer>
+        <Value>E</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="5">
+      <Answer>
+        <Value>F</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="6">
+      <Answer>
+        <Value>G</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="7">
+      <Answer>
+        <Value>K</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="8">
+      <Answer>
+        <Value>L</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+    <question id="9">
+      <Answer>
+        <Value>M</Value>
+        <Response>_</Response>
+      </Answer>
+      <Tip>
+      </Tip>
+    </question>
+  </Questions>
+</AssessmentItem>

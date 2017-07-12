@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="125779b7-8a3e-4306-9c40-ed7a6cbbc958" totalScore="20" totalTime="20" name="ddd" resultTime="0" bShowAns="1" Diffcult="0.1" Type="大学四级试题">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="0d5586d8-d967-470d-878f-c5ef732cbf95" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="">
+        <Content>
+        </Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>1</prompt>
+            <choices>
+              <choice id="A">111</choice>
+              <choice id="B">111</choice>
+              <choice id="C">111</choice>
+              <choice id="D">111</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>f</Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="32c46c36-9d76-4a5a-80b9-ad3543518e42" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="">
+        <soundFile>32c46c36-9d76-4a5a-80b9-ad3543518e42</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">222</choice>
+              <choice id="B">222</choice>
+              <choice id="C">222</choice>
+              <choice id="D">222</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>f</Tip>
+            <Script>2</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>
+        </Script>
+      </AssessmentItem>
+    </Section>
+  </Part>
+</Paper>

@@ -1,0 +1,824 @@
+<?xml version="1.0"?>
+<Paper UserID="751" UpdateUserID="751" PaperID="8cfc90cd-98c6-4b95-adb7-e42dd11b17e3" totalScore="67.5" totalTime="30" name="6666" resultTime="0" bShowAns="1" Diffcult="6" Type="得分最大化组卷">
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="1" Time="1">
+      <AssessmentItem ItemID="41b43e73-e583-4464-b3ef-f0e1ba4fd11d" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="1" ReplyTime="1" Diffcult="0" QustionInterval="10" Course="" Unit="">
+        <soundFile>41b43e73-e583-4464-b3ef-f0e1ba4fd11d</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">Golfing.</choice>
+              <choice id="B">Swimming.</choice>
+              <choice id="C">Skating.</choice>
+              <choice id="D">Jogging.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>
+            </Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>M:   I like jogging but not skating.
+W:   Swimming and jogging are my favorites.
+Q:   Which sport does the man like?
+</Script>
+      </AssessmentItem>
+    </Section>
+    <Section type="4" typecn="短文听力理解" questioninterval="0" Score="4" Time="4">
+      <AssessmentItem ItemID="d010321f-ed3b-4231-bf34-03a2f949bc1f" PartType="2" ItemType="4" ItemType_CN="短文听力理解" Score="4" ReplyTime="4" Diffcult="0" QustionInterval="66" Course="" Unit="">
+        <soundFile>d010321f-ed3b-4231-bf34-03a2f949bc1f</soundFile>
+        <Questions Count="4">
+          <question id="0">
+            <choices>
+              <choice id="A">On a Tuesday.</choice>
+              <choice id="B">On a Saturday.</choice>
+              <choice id="C">On a Thursday.</choice>
+              <choice id="D">On a Friday.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>When will the exam take place?</Script>
+            <Sound duration="4">33CDAD15BED8F04EB636628F465E1B1F</Sound>
+          </question>
+          <question id="1">
+            <choices>
+              <choice id="A">A final copy of research project.</choice>
+              <choice id="B">The textbook and class notes.</choice>
+              <choice id="C">Copies of mid-term.</choice>
+              <choice id="D">A few pens.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>What should the students bring with them to the exam?</Script>
+            <Sound duration="5">C79748FFC686454FAAAAACC58C3A5A43</Sound>
+          </question>
+          <question id="2">
+            <choices>
+              <choice id="A">Students will be tested on all the materials discussed in class.</choice>
+              <choice id="B">It will be easy to understand.</choice>
+              <choice id="C">It will cover topics from a wide variety of academic fields.</choice>
+              <choice id="D">Students must complete all parts of the exam.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>Why does the teacher call the exam comprehensive?</Script>
+            <Sound duration="5">2C112F7CD50D9D4EB3E03C6366D1A31D</Sound>
+          </question>
+          <question id="3">
+            <choices>
+              <choice id="A">Thirty per cent.</choice>
+              <choice id="B">Sixty per cent.</choice>
+              <choice id="C">Twenty per cent.</choice>
+              <choice id="D">Fifty per cent.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Script>How much will the final exam account for the students' course grade?</Script>
+            <Sound duration="7">EF760BAD1527CD47A2EB9F52B9DD7665</Sound>
+          </question>
+        </Questions>
+        <Script>Now I'd like to talk to you about the final exam. The exam will be held next Thursday, the last day of exam week. Remember to bring along two or three pens in case you run out of ink. Unlike the mid-term this test will not include multiple choice questions. It will consist entirely of essays. You'll have to answer three of the five essay questions. The exam will be comprehensive, which means you will be responsible for all of the subject material we've covered in class. I would suggest you review your mid-term's as well as the textbook and your class notes. The final will count for 50% of your grade in the course; the research project will count for 20% percent; and the mid-term 30%. I'll be in my office almost all day on Tuesday of next week. If you run into any problems, please feel free to stop in. Good luck with your studying and I'll see you on Thursday.</Script>
+      </AssessmentItem>
+    </Section>
+    <Section type="5" typecn="复合型听力" questioninterval="0" Score="10" Time="10">
+      <AssessmentItem ItemID="750c08ae-c0a0-4c40-8fc5-9e1932c9ee5d" PartType="2" ItemType="5" ItemType_CN="复合型听力" Score="10" ReplyTime="10" Diffcult="0" QustionInterval="216" Course="" Unit="">
+        <Content>        A nobleman and a merchant once met in a tavern. For their lunch (_1_). When it was brought, the nobleman took a spoonful. (_2_) that he burned his mouth and (_3_). The merchant asked him why he was weeping. The nobleman was (_4_) he had burned his mouth and answered, "Sir, I once had a brother (_5_), for which he was hanged. I was thinking of his death, (_6_)." The merchant, believing this story, began to eat his soup. He (_7_), so that he had tears in his eyes. Noticing it, the nobleman asked the merchant, "Sir, (_8_)?" The merchant, who now saw that the nobleman (_9_), answered, "My lord, I am weeping because you were not (_10_)."</Content>
+        <SoundFile>750c08ae-c0a0-4c40-8fc5-9e1932c9ee5d</SoundFile>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>they both ordered soup</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>But the soup was so hot</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>tears came to his eyes</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>ashamed to admit that</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>who committed a great crime</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>which made me weep</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>too burned his mouth</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>why do you weep</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>had deceived him</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>hanged together with your brother</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+      </AssessmentItem>
+    </Section>
+  </Part>
+  <Part Type="ReadingComprehension">
+    <Section type="6" typecn="阅读选词填空" questioninterval="0" Score="30" Time="0">
+      <AssessmentItem ItemID="54fb087b-5192-4807-94a9-82a79f81e9ab" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="">
+        <Content>        Most Americans don't like to get advice from members of their family. When they (_1_) advice, they don't usually ask people they know. (_2_) many Americans write letters to newspapers and magazines which give advice on many different (_3_), including family problems, sex, the use of language, health, cooking, child care, clothes, or how to buy a house or a car. Most newspapers (_4_) print letters from readers with problems. (_5_) with the letters there are the answers written by people who are supposed to know how to solve (_6_) problems. Some of these writers are doctors; others are lawyers or educators. But two of the most famous writers of advice are women without (_7_) training for these kinds of work. One of them answers letters addressed to "Dear Abby". The other is addressed as "Dear Ann Landers". Experience is their (_8_) for giving advice. There is one writer who hasn't lived long enough to have (_9_) experience. She is a girl named Angel Cavaliere, who (_10_) writing advice for newspaper readers at the age of ten. Her advice to young readers now appears regularly in the "Philadelphia Bulletin" in a column called "DEAR ANGEL".</Content>
+        <WordList>
+          <Word id="B">Along</Word>
+          <Word id="C">get</Word>
+          <Word id="D">need</Word>
+          <Word id="E">much</Word>
+          <Word id="F">regularly</Word>
+          <Word id="G">problems</Word>
+          <Word id="H">special</Word>
+          <Word id="I">such</Word>
+          <Word id="J">enjoyed</Word>
+          <Word id="K">many</Word>
+          <Word id="L">started</Word>
+          <Word id="M">preparation</Word>
+          <Word id="N">no</Word>
+          <Word id="O">Instead</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>I</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>L</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        On this day in 1978, Toni Morrison wins the National Book Critics Circle Award for "Song of Solomon". The award brought the writer national (_1_) for the first time, although she had already published two moderately (_2_) books, "The Bluest Eye" (1969) and "Sula" (1973). Morrison went on to win the Pulitzer in 1988 and the Nobel Prize in Literature in 1993.&lt;br/&gt;        Morrison was born Chloe Anthony Wofford in the steel town of Lorain, Ohio, to a welder（焊接工） father and (_3_) mother. She graduated from Howard University in 1953, then took a master's in literature at Cornell. She (_4_) architect Howard Morrison and had two sons. After she and her husband divorced, Morrison taught English and worked as one of the very few black editors at Random House. She (_5_) her first novel in 1969. After the publication of her (_6_) novel in 1978, she published "Tar Baby" (1981) and "Jazz" (1992). Her 1987 novel, "Beloved", the story of a 19th-century slave who escapes bondage but is forced to kill her own baby, won the Pulitzer.&lt;br/&gt;        When Morrison won the Nobel Prize in 1993, she (_7_) the first African-American to win the award, as well as the first American (_8_) to win in more than 50 years. The same year, a fire destroyed her Nyack, New York, home. (_9_), she'd left the manuscript of her next novel, "Paradise", in her office at Princeton University, where she was teaching (_10_) writing. The book, published in 1998, explored the dynamics（变迁发展史） of an all-black town in the late 1960s.</Content>
+        <WordList>
+          <Word id="B">became</Word>
+          <Word id="C">African</Word>
+          <Word id="D">woman</Word>
+          <Word id="E">successful</Word>
+          <Word id="F">breakthrough</Word>
+          <Word id="G">huge</Word>
+          <Word id="H">Fortunately</Word>
+          <Word id="I">famous</Word>
+          <Word id="J">employed</Word>
+          <Word id="K">attention</Word>
+          <Word id="L">married</Word>
+          <Word id="M">creative</Word>
+          <Word id="N">publish</Word>
+          <Word id="O">homemaker</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>L</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>N</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        If you partied hard on 31st night to welcome the New Year, then there's nothing worse than waking up with a hangover（宿醉）. Then why didn't you think before (_1_) those drinks? Believe it or not, there are (_2_) with which you can prevent hangovers. (_3_) of all don't drink! Well that really isn't an (_4_) this season, is it? To begin with, eat a large meal before you (_5_) start drinking. Have a glass of water between drinks once you start to drink. You can drink orange juice as it is a good (_6_) for hangovers. The sugar in the fruit gives you a boost（提高） of energy. Avoid fizzy（起泡沫的） drinks as they actually (_7_) up the alcohol absorption process so you get intoxicated（喝醉的） faster. Avoid coffee as the caffeine in it dehydrates（[使]脱水） you just like alcohol. Eat (_8_) as they are a natural enticer that helps cure nausea（恶心）. (_9_) that, it is also high on magnesium（[化]镁） that can relax the pounding blood vessels causing headache. A hot bath is also very (_10_). The steam will sweat out the toxins that cause all the problems.</Content>
+        <WordList>
+          <Word id="B">first</Word>
+          <Word id="C">comfort</Word>
+          <Word id="D">downing</Word>
+          <Word id="E">besides</Word>
+          <Word id="F">speed</Word>
+          <Word id="G">cure</Word>
+          <Word id="H">option</Word>
+          <Word id="I">drunk</Word>
+          <Word id="J">decrease</Word>
+          <Word id="K">actually</Word>
+          <Word id="L">effective</Word>
+          <Word id="M">suit</Word>
+          <Word id="N">basically</Word>
+          <Word id="O">bananas</Word>
+        </WordList>
+        <Questions Count="10">
+          <question id="0">
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <Answer>
+              <Value>H</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="4">
+            <Answer>
+              <Value>K</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="5">
+            <Answer>
+              <Value>G</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="6">
+            <Answer>
+              <Value>F</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="7">
+            <Answer>
+              <Value>O</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="8">
+            <Answer>
+              <Value>E</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="9">
+            <Answer>
+              <Value>L</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="eb7e3c1a-b627-465a-8019-4d9955c432d7" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="" />
+      <AssessmentItem ItemID="8ccd77ad-666c-4844-a062-0d3abb15056d" PartType="3" ItemType="6" ItemType_CN="阅读选词填空" Score="10" ReplyTime="0" Diffcult="0" QustionInterval="" />
+    </Section>
+    <Section type="7" typecn="阅读选择题型" questioninterval="0" Score="22.5" Time="15">
+      <AssessmentItem ItemID="ef7eebfe-803a-4e29-be6c-ea7ce3ba2597" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="6" ReplyTime="4" Diffcult="0" QustionInterval="">
+        <Content>        The early settlers who came from the eastern United States were used to having lots of trees around. They found it hard to adapt to a treeless place like Nebraska and they needed trees for building and for fuel. So they started many tree-planting programs that went on for years and years. Finally, in 1872 a newspaperman named J. Sterling Morton had an idea. Why not have a special day set aside for planting trees? So Arbor Day was born, and on April 10, 1872, the first Arbor Day was celebrated. The state government announced that it would give prizes to individuals and groups who planted the most trees. In that first day, more than one million trees were planted in Nebraska.</Content>
+        <Questions Count="4">
+          <question id="0">
+            <prompt>It can be inferred from the passage that in the eastern United States there were many ________.</prompt>
+            <choices>
+              <choice id="A">trees</choice>
+              <choice id="B">settlers</choice>
+              <choice id="C">types of fuel</choice>
+              <choice id="D">situations requiring adaptation</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>According to the passage, trees were initially needed by the Nebraskan settlers for ________.</prompt>
+            <choices>
+              <choice id="A">shade</choice>
+              <choice id="B">the prevention of soil erosion</choice>
+              <choice id="C">the creation of parks</choice>
+              <choice id="D">construction</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Why does the author mention J. Sterling Morton?</prompt>
+            <choices>
+              <choice id="A">To give an example of an early settler.</choice>
+              <choice id="B">To give credit for the origin of an idea.</choice>
+              <choice id="C">To support the author's own point of view.</choice>
+              <choice id="D">To stress the importance of journalists.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>According to the passage, which of the following happened on April 10, 1872?</prompt>
+            <choices>
+              <choice id="A">The state government distributed trees.</choice>
+              <choice id="B">J. Sterling Morton had an idea.</choice>
+              <choice id="C">A great many trees were planted.</choice>
+              <choice id="D">A million prizes were awarded.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        The African elephant, the largest land animal now alive, is in danger of extinction (灭绝). The reasons are very similar to those in other cases of near-extinction: the beast is the source of a highly valued commodity -- in this case, ivory -- and the animal's habitat (居住地) is being more and more fenced in by human settlements. East African elephants are most immediately threatened because they are victims of an illegal trade in ivory. At the same time, a growing human population has forced all African elephants back into once remote parks, where elephant density has in many cases exceeded the natural food supply.</Content>
+        <Questions Count="4">
+          <question id="0">
+            <prompt>The author suggests that the causes of animal extinction are _________.</prompt>
+            <choices>
+              <choice id="A">peculiar to each group of animals</choice>
+              <choice id="B">similar in most cases</choice>
+              <choice id="C">dependent on the climate in which the animal lives</choice>
+              <choice id="D">dependent on the size of the animal</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>The author implies that an animal is more likely to become extinct if it _________.</prompt>
+            <choices>
+              <choice id="A">is far from human settlements</choice>
+              <choice id="B">is native to East Africa</choice>
+              <choice id="C">is a large land animal</choice>
+              <choice id="D">produces something of value to human beings</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>Which of the following has most seriously affected the African elephant?</prompt>
+            <choices>
+              <choice id="A">Its large size.</choice>
+              <choice id="B">The lowered reproduction rate.</choice>
+              <choice id="C">The expansion of human settlements.</choice>
+              <choice id="D">The changing climate.</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>The East African elephant may become extinct sooner than other African elephants because of _________.</prompt>
+            <choices>
+              <choice id="A">an unlawful ivory trade</choice>
+              <choice id="B">the high cost of fences</choice>
+              <choice id="C">the remoteness of its habitat</choice>
+              <choice id="D">its huge size</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        The obvious disagreements between England and America began in 1763, more than a century and a half after the first permanent settlement had been founded at Jamestown, Virginia. The colonies had grown vastly in economic strength and cultural attainment and virtually all had long years of self-government behind them. Their combined population now exceeded 1,500,000 --- a sixfold (六倍的) increase since 1700.&lt;br/&gt;        To tighten its control over America, the British imposed heavy duties on American people. When the "Stamp Act" was issued, which provided that revenue stamps be affixed (粘贴) to all newspapers, broadsides, pamphlets, licenses, leases, or other legal documents, organized resistance started to appear.&lt;br/&gt;        On March 5, 1770, 18 months after the British sent troop to Boston, hatred between citizens and soldiery became stronger than ever before. What began as a harmless snowballing of the redcoats degenerated (恶化) into a mob attack. Someone gave the order to fire, three Bostonians lay dead in the snow.&lt;br/&gt;        At the suggestion of the Virginia Congress, colonial representatives were called on to meet in Philadelphia on September 5, 1774, "to consult upon the present unhappy state of the Colonies." Delegates (代表) to this meeting, known as the first Continental Congress, were chosen by provincial congresses or popular conventions. Every colony except Georgia sent at least one delegate, and the total number of 55 was large enough for diversity of opinion but small enough for genuine debate and effective action.</Content>
+        <Questions Count="4">
+          <question id="0">
+            <prompt>The first permanent settlement in North America was founded most probably
+in ________.</prompt>
+            <choices>
+              <choice id="A">1510</choice>
+              <choice id="B">1610</choice>
+              <choice id="C">1613</choice>
+              <choice id="D">1615</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>Before the Independence War, ________.</prompt>
+            <choices>
+              <choice id="A">all the colonies were under control of the British</choice>
+              <choice id="B">some colonies had gained self-independence</choice>
+              <choice id="C">all the colonies had their own governments</choice>
+              <choice id="D">some colonies hadn't their own governments</choice>
+            </choices>
+            <Answer>
+              <Value>C</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>What was the population of the colonies in 1700?</prompt>
+            <choices>
+              <choice id="A">About 220,000.</choice>
+              <choice id="B">About 250,000.</choice>
+              <choice id="C">About 350,000.</choice>
+              <choice id="D">About 375,000.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="3">
+            <prompt>What will the next paragraph most probably talk about?</prompt>
+            <choices>
+              <choice id="A">The Declaration of Independence.</choice>
+              <choice id="B">Gorge Washington.</choice>
+              <choice id="C">The American Civil War.</choice>
+              <choice id="D">Thomas Jefferson.</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+        <Content>        Clair Miller and his crew picked up a new B-24 at California's March Field on Christmas Eve, 1943, and prepared to fly to England. But they decided to have "one more hamburger" before heading out for the distant land of fish and chips.&lt;br/&gt;        As the airmen sat in a local restaurant, a beautiful young waitress approached. "I understand you're going to England," she said to Miller. Then she told him that her fiancé (未婚夫), an aviation gunner (射击手) like Miller, was stationed there.&lt;br/&gt;        The woman said she was waiting for him to provide an address so she could send him a picture of herself. "You might run into him," she told Miller hopefully. "Would you take it?"&lt;br/&gt;        Miller knew it was unlikely he'd ever see her fiancé. But he didn't want to disappoint the woman. He took the picture and placed it in his wallet. Later he realized he hadn't even asked the man's name. Then it was on to Europe and the war.&lt;br/&gt;        On August 9, 1944, Miller's plane was shot down, and he was forced to parachute (跳伞) to an island off the coast of Holland. Captured by the Nazis (纳粹), he spent the next nine months as a prisoner of war.&lt;br/&gt;        It was on Christmas Eve that someone told him a 19-year-old American prisoner down the hall was badly depressed. Miller decided to pay the man a visit.&lt;br/&gt;        The two began to exchange details about their families. "Was he married?" the kid asked. "Yeah, since 1938," responded Miller.&lt;br/&gt;        "Have you got her picture?" the soldier asked. So Miller reached for his wallet, and pulled out a photograph of his wife.&lt;br/&gt;        "She's beautiful!" the young man responded. Then he noticed that a second picture had fallen out, and an expression of wonder crossed his face. "Where did you get that?" Miller told the story of the waitress at the California hamburger stand.&lt;br/&gt;        "That's my fiancée," the puzzled man said. Miller kept his promise to the beautiful girl back home and turned the picture over to its rightful (合法的) owner.</Content>
+        <Questions Count="3">
+          <question id="0">
+            <prompt>Why did Clair Miller and his crew go to a local restaurant before going to England?</prompt>
+            <choices>
+              <choice id="A">They wanted to see the beautiful waitresses there.</choice>
+              <choice id="B">They went to say good-bye to a friend's fiancé.</choice>
+              <choice id="C">They wanted to have one hamburger.</choice>
+              <choice id="D">They would not have food from home for a while.</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="1">
+            <prompt>How did Miller meet the young man?</prompt>
+            <choices>
+              <choice id="A">They met when they were both captured by the Nazis and put in the same place.</choice>
+              <choice id="B">Miller worked for the Red Cross and went to visit the young man.</choice>
+              <choice id="C">Miller worked as a doctor for the depressed men in the prison.</choice>
+              <choice id="D">Miller found the young man with the address provided by the waitress. </choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+          <question id="2">
+            <prompt>When did Miller meet the young man?</prompt>
+            <choices>
+              <choice id="A">Eight months after he arrived in England.</choice>
+              <choice id="B">One year after he left his homeland.</choice>
+              <choice id="C">Four months after he began fighting with the Nazis.</choice>
+              <choice id="D">Eight months after he landed on Holland.</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>
+              </Response>
+            </Answer>
+            <Tip>
+            </Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="fa817a0d-26e6-4709-ad43-36e3d3b1b914" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="6" ReplyTime="4" Diffcult="0" QustionInterval="" />
+      <AssessmentItem ItemID="f9afaa13-e552-4f42-bd95-479654273177" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="6" ReplyTime="4" Diffcult="0" QustionInterval="" />
+      <AssessmentItem ItemID="3b7875c4-7cee-482d-8af3-969fdfc365a0" PartType="3" ItemType="7" ItemType_CN="阅读选择题型" Score="4.5" ReplyTime="3" Diffcult="0" QustionInterval="" />
+    </Section>
+  </Part>
+</Paper>

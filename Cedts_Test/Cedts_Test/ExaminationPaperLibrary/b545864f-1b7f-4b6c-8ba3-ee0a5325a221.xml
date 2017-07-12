@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<Paper UserID="739" UpdateUserID="739" PaperID="b545864f-1b7f-4b6c-8ba3-ee0a5325a221" totalScore="110" totalTime="110" name="b" resultTime="0" bShowAns="1" Diffcult="0.1" Type="大学四级试题">
+  <Part Type="SpeedRead">
+    <Section type="1" typecn="快速阅读" questioninterval="0" Score="50" Time="50">
+      <AssessmentItem ItemID="6b285077-49db-4520-83fb-d94a4d0ab378" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="">
+        <Content>&lt;p&gt;
+	gdgfds&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>rg</prompt>
+            <choices>
+              <choice id="A">gdsfgsd</choice>
+              <choice id="B">gdsfdsgs</choice>
+              <choice id="C">rtgerter</choice>
+              <choice id="D">tret</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gdfg</Tip>
+          </question>
+        </Questions>
+        <Content>&lt;p&gt;
+	fggggg&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>tr</prompt>
+            <choices>
+              <choice id="A">rrrr</choice>
+              <choice id="B">rrrrr</choice>
+              <choice id="C">rrrr</choice>
+              <choice id="D">rrrr</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>fsdfsa</Tip>
+          </question>
+        </Questions>
+        <Content>&lt;p&gt;
+	fdgfdg&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>h</prompt>
+            <choices>
+              <choice id="A">y</choice>
+              <choice id="B">y</choice>
+              <choice id="C">y</choice>
+              <choice id="D">y</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>fgdg</Tip>
+          </question>
+        </Questions>
+        <Content>&lt;p&gt;
+	ggfdsg&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>hgfhf</prompt>
+            <choices>
+              <choice id="A">hgfh</choice>
+              <choice id="B">hhh</choice>
+              <choice id="C">hhh</choice>
+              <choice id="D">hhh</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>hf</Tip>
+          </question>
+        </Questions>
+        <Content>&lt;p&gt;
+	hgrfhgfh&lt;/p&gt;
+</Content>
+        <Questions Count="1">
+          <question id="0">
+            <prompt>hthgf</prompt>
+            <choices>
+              <choice id="A">hf</choice>
+              <choice id="B">hfgh</choice>
+              <choice id="C">hfh</choice>
+              <choice id="D">hf</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gsdg</Tip>
+          </question>
+        </Questions>
+      </AssessmentItem>
+      <AssessmentItem ItemID="26976168-06da-4fe6-a209-4a1e965168ef" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" />
+      <AssessmentItem ItemID="d4040348-30f7-4380-b273-a2d59808476d" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" />
+      <AssessmentItem ItemID="75c542e3-eed8-410e-94cb-8a8475d6cbfc" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" />
+      <AssessmentItem ItemID="f3966690-703d-451a-b029-72ac8511178b" PartType="1" ItemType="1" ItemType_CN="快速阅读" Score="10" ReplyTime="10" Diffcult="0.1" QustionInterval="" />
+    </Section>
+  </Part>
+  <Part Type="Listen">
+    <Section type="2" typecn="短对话听力" questioninterval="0" Score="60" Time="60">
+      <AssessmentItem ItemID="8678c7fa-f176-4df4-a5a3-225b4a9c8d6a" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="">
+        <soundFile>8678c7fa-f176-4df4-a5a3-225b4a9c8d6a</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">gf</choice>
+              <choice id="B">gd</choice>
+              <choice id="C">gd</choice>
+              <choice id="D">gds</choice>
+            </choices>
+            <Answer>
+              <Value>D</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gdfs</Tip>
+            <Script>gf</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fsdfdg&lt;/p&gt;
+</Script>
+        <soundFile>48fe8237-d429-47a7-b50a-75c3b69651da</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">ddd</choice>
+              <choice id="B">ddd</choice>
+              <choice id="C">ddd</choice>
+              <choice id="D">dd</choice>
+            </choices>
+            <Answer>
+              <Value>B</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gfd</Tip>
+            <Script>gfg</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fds&lt;/p&gt;
+</Script>
+        <soundFile>4b4c27c0-3153-4355-9297-870c4c6501fa</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">yyy</choice>
+              <choice id="B">yyy</choice>
+              <choice id="C">yyy</choice>
+              <choice id="D">yyy</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gdh</Tip>
+            <Script>gfdgdf</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	fsagfs&lt;/p&gt;
+</Script>
+        <soundFile>7b4cec39-186a-4893-9b25-ebc2ebfa87bf</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">tt</choice>
+              <choice id="B">tt</choice>
+              <choice id="C">tt</choice>
+              <choice id="D">tt</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gfdgd</Tip>
+            <Script>ghdshg</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	gfdgdf&lt;/p&gt;
+</Script>
+        <soundFile>3bbb1d50-bc78-43b1-9071-2f1e48671f03</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">rr</choice>
+              <choice id="B">rr</choice>
+              <choice id="C">rr</choice>
+              <choice id="D">rr</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gdfg</Tip>
+            <Script>gfdsgds</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	gedgg&lt;/p&gt;
+</Script>
+        <soundFile>63fac1b3-f989-4eed-beec-5016c4d93a98</soundFile>
+        <Questions Count="1">
+          <question id="0">
+            <choices>
+              <choice id="A">iii</choice>
+              <choice id="B">iii</choice>
+              <choice id="C">iii</choice>
+              <choice id="D">ii</choice>
+            </choices>
+            <Answer>
+              <Value>A</Value>
+              <Response>_</Response>
+            </Answer>
+            <Tip>gfdg</Tip>
+            <Script>yyyy</Script>
+            <Sound duration="0">
+            </Sound>
+          </question>
+        </Questions>
+        <Script>&lt;p&gt;
+	gfdgdsf&lt;/p&gt;
+</Script>
+      </AssessmentItem>
+      <AssessmentItem ItemID="48fe8237-d429-47a7-b50a-75c3b69651da" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="" />
+      <AssessmentItem ItemID="4b4c27c0-3153-4355-9297-870c4c6501fa" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="" />
+      <AssessmentItem ItemID="7b4cec39-186a-4893-9b25-ebc2ebfa87bf" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="" />
+      <AssessmentItem ItemID="3bbb1d50-bc78-43b1-9071-2f1e48671f03" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="" />
+      <AssessmentItem ItemID="63fac1b3-f989-4eed-beec-5016c4d93a98" PartType="2" ItemType="2" ItemType_CN="短对话听力" Score="0" ReplyTime="0" Diffcult="0" QustionInterval="5" Course="" Unit="" />
+    </Section>
+  </Part>
+</Paper>
